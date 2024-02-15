@@ -1,0 +1,1272 @@
+[
+  {
+    "ID": "bf61b4b3-0c0d-4a35-b171-01938de2194c",
+    "Name": "Handwerksfabrik",
+    "HabitableCount": 0,
+    "SlotItemTypeIDs": [
+      "4892cf6f-7431-4186-a593-42bd6fff2d03",
+      "6b93382a-1c20-47e9-a123-6cb90ee96901"
+    ],
+    "Skills": [],
+    "ImageLandscapeFront": "Shop.png",
+    "ImageLandscapeMiddle": null,
+    "ImageLandscapeBack": null,
+    "ImageLandscapeSky": null,
+    "RoomTypeID": 1
+  },
+  {
+    "ID": "66b0c124-f699-46b0-ba86-0792de9eb92f",
+    "Name": "Komfortgebäude",
+    "HabitableCount": 0,
+    "SlotItemTypeIDs": [
+      "14768df9-46b4-4297-9b6f-53924194593e"
+    ],
+    "Skills": [],
+    "ImageLandscapeFront": "House.png",
+    "ImageLandscapeMiddle": null,
+    "ImageLandscapeBack": null,
+    "ImageLandscapeSky": null,
+    "RoomTypeID": 0
+  },
+  {
+    "ID": "8e783e9d-e19c-4a88-b37d-07a04c07de85",
+    "Name": "(alte)Wohnung",
+    "HabitableCount": 1,
+    "SlotItemTypeIDs": [
+      "14768df9-46b4-4297-9b6f-53924194593e",
+      "7bf068ff-c9a1-40c7-ba3e-19e61125bb72"
+    ],
+    "Skills": [
+      {
+        "SkillID": "647cf659-1f6e-4c65-8965-f5c83fbc1c12",
+        "Value": 15,
+        "Core": true,
+        "Bonus": false,
+        "ValueCapRatio": null
+      }
+    ],
+    "ImageLandscapeFront": "House.png",
+    "ImageLandscapeMiddle": "Domain.png",
+    "ImageLandscapeBack": "Domain.png",
+    "ImageLandscapeSky": "Domain.png",
+    "RoomTypeID": 0
+  },
+  {
+    "ID": "9b8b70bd-4ffd-4d7b-aae0-0c54013eb84b",
+    "Name": "Schlafsaal",
+    "HabitableCount": 3,
+    "SlotItemTypeIDs": [],
+    "Skills": [
+      {
+        "SkillID": "647cf659-1f6e-4c65-8965-f5c83fbc1c12",
+        "Value": 5,
+        "Core": true,
+        "Bonus": false,
+        "ValueCapRatio": null
+      }
+    ],
+    "ImageLandscapeFront": "Tavern.jpg",
+    "ImageLandscapeMiddle": null,
+    "ImageLandscapeBack": null,
+    "ImageLandscapeSky": null,
+    "RoomTypeID": 0
+  },
+  {
+    "ID": "efad4dad-5e8e-4e78-950a-12ad3d3b3fb0",
+    "Name": "Wohnung",
+    "HabitableCount": 1,
+    "SlotItemTypeIDs": [
+      "42fadd08-c287-43fc-abb2-7ca801c82fe3"
+    ],
+    "Skills": [
+      {
+        "SkillID": "4d71d722-420e-4402-a11b-73ffa4a8e714",
+        "Value": 0,
+        "Core": true,
+        "Bonus": false,
+        "ValueCapRatio": null
+      }
+    ],
+    "ImageLandscapeFront": null,
+    "ImageLandscapeMiddle": null,
+    "ImageLandscapeBack": null,
+    "ImageLandscapeSky": null,
+    "RoomTypeID": 0
+  },
+  {
+    "ID": "828ac2bd-0c16-4edf-b1a4-1857e82ddfbe",
+    "Name": "Juwelier",
+    "HabitableCount": 0,
+    "SlotItemTypeIDs": [
+      "f8fe4b25-d5cf-4932-b115-827cb43786c2"
+    ],
+    "Skills": [
+      {
+        "SkillID": "fc16278d-1053-4bb6-ac09-bd74b927eda7",
+        "Value": 5,
+        "Core": true,
+        "Bonus": false,
+        "ValueCapRatio": null
+      }
+    ],
+    "ImageLandscapeFront": "Workshop.png",
+    "ImageLandscapeMiddle": null,
+    "ImageLandscapeBack": null,
+    "ImageLandscapeSky": null,
+    "RoomTypeID": 1
+  },
+  {
+    "ID": "7cf32a58-1db0-4a58-9446-1aa3b44cef16",
+    "Name": "Spezial Schmiede",
+    "HabitableCount": 0,
+    "SlotItemTypeIDs": [
+      "1de31c0d-b71a-494d-a1b8-ae1e95cae593",
+      "f8fe4b25-d5cf-4932-b115-827cb43786c2",
+      "4892cf6f-7431-4186-a593-42bd6fff2d03"
+    ],
+    "Skills": [
+      {
+        "SkillID": "64b24669-703e-4ca8-b9e8-9da9f06fdab1",
+        "Value": 25,
+        "Core": true,
+        "Bonus": false,
+        "ValueCapRatio": null
+      }
+    ],
+    "ImageLandscapeFront": "Workshop.png",
+    "ImageLandscapeMiddle": null,
+    "ImageLandscapeBack": null,
+    "ImageLandscapeSky": null,
+    "RoomTypeID": 1
+  },
+  {
+    "ID": "c7104092-82ca-43ed-8c84-1ab69f277d98",
+    "Name": "Äußeres Protolambic",
+    "HabitableCount": 0,
+    "SlotItemTypeIDs": [
+      "f8fe4b25-d5cf-4932-b115-827cb43786c2"
+    ],
+    "Skills": [
+      {
+        "SkillID": "dd57b347-6553-477f-9795-0530728cce61",
+        "Value": 0,
+        "Core": true,
+        "Bonus": false,
+        "ValueCapRatio": null
+      }
+    ],
+    "ImageLandscapeFront": null,
+    "ImageLandscapeMiddle": null,
+    "ImageLandscapeBack": null,
+    "ImageLandscapeSky": null,
+    "RoomTypeID": 1
+  },
+  {
+    "ID": "f8d5d5b4-3daa-4113-b95e-1fe839c3c44c",
+    "Name": "hübsches Zimmer",
+    "HabitableCount": 1,
+    "SlotItemTypeIDs": [],
+    "Skills": [
+      {
+        "SkillID": "4d71d722-420e-4402-a11b-73ffa4a8e714",
+        "Value": 10,
+        "Core": false,
+        "Bonus": false,
+        "ValueCapRatio": null
+      },
+      {
+        "SkillID": "647cf659-1f6e-4c65-8965-f5c83fbc1c12",
+        "Value": 10,
+        "Core": false,
+        "Bonus": false,
+        "ValueCapRatio": null
+      }
+    ],
+    "ImageLandscapeFront": "House.png",
+    "ImageLandscapeMiddle": null,
+    "ImageLandscapeBack": null,
+    "ImageLandscapeSky": null,
+    "RoomTypeID": 0
+  },
+  {
+    "ID": "bdf235da-f279-4e66-b6a7-209e2f4e91d3",
+    "Name": "Spezialisierte Werkbank",
+    "HabitableCount": 0,
+    "SlotItemTypeIDs": [
+      "1de31c0d-b71a-494d-a1b8-ae1e95cae593",
+      "f8fe4b25-d5cf-4932-b115-827cb43786c2",
+      "4892cf6f-7431-4186-a593-42bd6fff2d03"
+    ],
+    "Skills": [
+      {
+        "SkillID": "96db0f91-0e80-4465-95dc-11f5d7e3c9e1",
+        "Value": 25,
+        "Core": true,
+        "Bonus": false,
+        "ValueCapRatio": null
+      }
+    ],
+    "ImageLandscapeFront": "Workshop.png",
+    "ImageLandscapeMiddle": null,
+    "ImageLandscapeBack": null,
+    "ImageLandscapeSky": null,
+    "RoomTypeID": 1
+  },
+  {
+    "ID": "b0345cab-4315-42d6-83f0-2c306ecca4b7",
+    "Name": "Zimmer",
+    "HabitableCount": 1,
+    "SlotItemTypeIDs": [
+      "42fadd08-c287-43fc-abb2-7ca801c82fe3"
+    ],
+    "Skills": [
+      {
+        "SkillID": "647cf659-1f6e-4c65-8965-f5c83fbc1c12",
+        "Value": 10,
+        "Core": true,
+        "Bonus": false,
+        "ValueCapRatio": null
+      }
+    ],
+    "ImageLandscapeFront": "House.png",
+    "ImageLandscapeMiddle": null,
+    "ImageLandscapeBack": null,
+    "ImageLandscapeSky": null,
+    "RoomTypeID": 0
+  },
+  {
+    "ID": "0d1e5319-8ae4-491f-b74d-2da8dfd96b73",
+    "Name": "Suite",
+    "HabitableCount": 1,
+    "SlotItemTypeIDs": [
+      "e1b88ca8-d1e2-48d6-b698-0c2b37e0ab4f",
+      "7bf068ff-c9a1-40c7-ba3e-19e61125bb72"
+    ],
+    "Skills": [
+      {
+        "SkillID": "4d71d722-420e-4402-a11b-73ffa4a8e714",
+        "Value": 15,
+        "Core": false,
+        "Bonus": false,
+        "ValueCapRatio": null
+      },
+      {
+        "SkillID": "647cf659-1f6e-4c65-8965-f5c83fbc1c12",
+        "Value": 15,
+        "Core": false,
+        "Bonus": false,
+        "ValueCapRatio": null
+      }
+    ],
+    "ImageLandscapeFront": "House.png",
+    "ImageLandscapeMiddle": "Domain.png",
+    "ImageLandscapeBack": "Domain.png",
+    "ImageLandscapeSky": "Domain.png",
+    "RoomTypeID": 0
+  },
+  {
+    "ID": "cf9e5d27-146b-47ab-bb85-2db75f220325",
+    "Name": "Garage",
+    "HabitableCount": 2,
+    "SlotItemTypeIDs": [
+      "1de31c0d-b71a-494d-a1b8-ae1e95cae593",
+      "2cfc948f-628b-4fa0-9086-8787eb22fdba"
+    ],
+    "Skills": [
+      {
+        "SkillID": "202cbb79-7eaf-44b2-aecc-9105ed029716",
+        "Value": 20,
+        "Core": true,
+        "Bonus": false,
+        "ValueCapRatio": null
+      }
+    ],
+    "ImageLandscapeFront": null,
+    "ImageLandscapeMiddle": null,
+    "ImageLandscapeBack": null,
+    "ImageLandscapeSky": null,
+    "RoomTypeID": 0
+  },
+  {
+    "ID": "964b7c3c-47bc-4c4e-b6bc-37dab1832bae",
+    "Name": "Myriaden",
+    "HabitableCount": 0,
+    "SlotItemTypeIDs": [
+      "eb4f44bf-92d1-48f1-b7d7-08acb5358628",
+      "488ac2ca-d999-4d4b-a887-a91fe2e05f90"
+    ],
+    "Skills": [],
+    "ImageLandscapeFront": "Domain.png",
+    "ImageLandscapeMiddle": "Domain.png",
+    "ImageLandscapeBack": "Domain.png",
+    "ImageLandscapeSky": "Domain.png",
+    "RoomTypeID": 0
+  },
+  {
+    "ID": "eba713ea-ab73-4859-8383-3e111420bf59",
+    "Name": "Rustikales Zimmer",
+    "HabitableCount": 1,
+    "SlotItemTypeIDs": [
+      "42fadd08-c287-43fc-abb2-7ca801c82fe3"
+    ],
+    "Skills": [
+      {
+        "SkillID": "647cf659-1f6e-4c65-8965-f5c83fbc1c12",
+        "Value": 0,
+        "Core": true,
+        "Bonus": false,
+        "ValueCapRatio": null
+      }
+    ],
+    "ImageLandscapeFront": "House.png",
+    "ImageLandscapeMiddle": null,
+    "ImageLandscapeBack": null,
+    "ImageLandscapeSky": null,
+    "RoomTypeID": 0
+  },
+  {
+    "ID": "578895c9-cbbe-4efb-bb11-4a60d0fe50cb",
+    "Name": "Käfig",
+    "HabitableCount": 1,
+    "SlotItemTypeIDs": [
+      "14e50bab-82d9-4136-ac24-7ba8fedaac0c"
+    ],
+    "Skills": [
+      {
+        "SkillID": "87e354e4-b946-4053-a3d6-854945fb52db",
+        "Value": 0,
+        "Core": true,
+        "Bonus": false,
+        "ValueCapRatio": null
+      }
+    ],
+    "ImageLandscapeFront": null,
+    "ImageLandscapeMiddle": null,
+    "ImageLandscapeBack": null,
+    "ImageLandscapeSky": null,
+    "RoomTypeID": 0
+  },
+  {
+    "ID": "796d67d2-0e23-4b22-a430-4ad83ef4309e",
+    "Name": "Schneiderzelt",
+    "HabitableCount": 0,
+    "SlotItemTypeIDs": [
+      "f8fe4b25-d5cf-4932-b115-827cb43786c2"
+    ],
+    "Skills": [
+      {
+        "SkillID": "07d99ce9-5a08-4b52-af8e-822d65bedb8e",
+        "Value": 0,
+        "Core": true,
+        "Bonus": false,
+        "ValueCapRatio": null
+      }
+    ],
+    "ImageLandscapeFront": "Workshop.png",
+    "ImageLandscapeMiddle": null,
+    "ImageLandscapeBack": null,
+    "ImageLandscapeSky": null,
+    "RoomTypeID": 1
+  },
+  {
+    "ID": "3d9456fa-91cd-4e6d-b773-50b472f85017",
+    "Name": "Händler",
+    "HabitableCount": 0,
+    "SlotItemTypeIDs": [
+      "4892cf6f-7431-4186-a593-42bd6fff2d03"
+    ],
+    "Skills": [],
+    "ImageLandscapeFront": "Shop.png",
+    "ImageLandscapeMiddle": "Domain.png",
+    "ImageLandscapeBack": "Domain.png",
+    "ImageLandscapeSky": "Domain.png",
+    "RoomTypeID": 0
+  },
+  {
+    "ID": "d82373bb-9f08-424c-b055-5182e4a942e4",
+    "Name": "Geräumiger Stall",
+    "HabitableCount": 1,
+    "SlotItemTypeIDs": [
+      "63e79f4f-926f-4b7f-8703-fdc57bf62da8"
+    ],
+    "Skills": [
+      {
+        "SkillID": "87e354e4-b946-4053-a3d6-854945fb52db",
+        "Value": 15,
+        "Core": false,
+        "Bonus": false,
+        "ValueCapRatio": null
+      },
+      {
+        "SkillID": "7ede63df-3c6b-45a6-8f80-e025b98114f2",
+        "Value": 15,
+        "Core": false,
+        "Bonus": false,
+        "ValueCapRatio": null
+      }
+    ],
+    "ImageLandscapeFront": "Plains.png",
+    "ImageLandscapeMiddle": "Domain.png",
+    "ImageLandscapeBack": "Domain.png",
+    "ImageLandscapeSky": "Domain.png",
+    "RoomTypeID": 0
+  },
+  {
+    "ID": "c2655c7c-9b96-47ef-bc04-540d93f45f7e",
+    "Name": "Spezialisierte Schneiderei",
+    "HabitableCount": 0,
+    "SlotItemTypeIDs": [
+      "1de31c0d-b71a-494d-a1b8-ae1e95cae593",
+      "f8fe4b25-d5cf-4932-b115-827cb43786c2",
+      "4892cf6f-7431-4186-a593-42bd6fff2d03"
+    ],
+    "Skills": [
+      {
+        "SkillID": "07d99ce9-5a08-4b52-af8e-822d65bedb8e",
+        "Value": 25,
+        "Core": true,
+        "Bonus": false,
+        "ValueCapRatio": null
+      }
+    ],
+    "ImageLandscapeFront": "Workshop.png",
+    "ImageLandscapeMiddle": null,
+    "ImageLandscapeBack": null,
+    "ImageLandscapeSky": null,
+    "RoomTypeID": 1
+  },
+  {
+    "ID": "74f9f355-c29d-4141-b440-5fd85ff3235b",
+    "Name": "Spezialisierte Gerberei",
+    "HabitableCount": 0,
+    "SlotItemTypeIDs": [
+      "1de31c0d-b71a-494d-a1b8-ae1e95cae593",
+      "f8fe4b25-d5cf-4932-b115-827cb43786c2",
+      "4892cf6f-7431-4186-a593-42bd6fff2d03"
+    ],
+    "Skills": [
+      {
+        "SkillID": "7afa89e6-067e-4ccb-bcf4-d961b6a7c0fd",
+        "Value": 25,
+        "Core": true,
+        "Bonus": false,
+        "ValueCapRatio": null
+      }
+    ],
+    "ImageLandscapeFront": "Workshop.png",
+    "ImageLandscapeMiddle": null,
+    "ImageLandscapeBack": null,
+    "ImageLandscapeSky": null,
+    "RoomTypeID": 1
+  },
+  {
+    "ID": "435b2995-a110-4306-b428-675ae00d698e",
+    "Name": "Steinmetz Fachwerkstatt",
+    "HabitableCount": 0,
+    "SlotItemTypeIDs": [
+      "1de31c0d-b71a-494d-a1b8-ae1e95cae593",
+      "f8fe4b25-d5cf-4932-b115-827cb43786c2",
+      "4892cf6f-7431-4186-a593-42bd6fff2d03"
+    ],
+    "Skills": [
+      {
+        "SkillID": "a3054f6b-4b44-4e93-838c-014d2128c07c",
+        "Value": 25,
+        "Core": true,
+        "Bonus": false,
+        "ValueCapRatio": null
+      }
+    ],
+    "ImageLandscapeFront": "Workshop.png",
+    "ImageLandscapeMiddle": null,
+    "ImageLandscapeBack": null,
+    "ImageLandscapeSky": null,
+    "RoomTypeID": 1
+  },
+  {
+    "ID": "51dd4b69-69a7-41b7-99d7-68d600f4a0e9",
+    "Name": "Glasbläserei",
+    "HabitableCount": 0,
+    "SlotItemTypeIDs": [
+      "f8fe4b25-d5cf-4932-b115-827cb43786c2"
+    ],
+    "Skills": [
+      {
+        "SkillID": "0f807e2b-d35e-4ac5-940b-d66c4fb7bccd",
+        "Value": 5,
+        "Core": true,
+        "Bonus": false,
+        "ValueCapRatio": null
+      }
+    ],
+    "ImageLandscapeFront": "Workshop.png",
+    "ImageLandscapeMiddle": null,
+    "ImageLandscapeBack": null,
+    "ImageLandscapeSky": null,
+    "RoomTypeID": 1
+  },
+  {
+    "ID": "d5cb82b8-f11d-40cb-b300-6d43e03814d7",
+    "Name": "Spezial Labor",
+    "HabitableCount": 0,
+    "SlotItemTypeIDs": [
+      "1de31c0d-b71a-494d-a1b8-ae1e95cae593",
+      "f8fe4b25-d5cf-4932-b115-827cb43786c2",
+      "4892cf6f-7431-4186-a593-42bd6fff2d03"
+    ],
+    "Skills": [
+      {
+        "SkillID": "dd57b347-6553-477f-9795-0530728cce61",
+        "Value": 25,
+        "Core": true,
+        "Bonus": false,
+        "ValueCapRatio": null
+      }
+    ],
+    "ImageLandscapeFront": "Workshop.png",
+    "ImageLandscapeMiddle": null,
+    "ImageLandscapeBack": null,
+    "ImageLandscapeSky": null,
+    "RoomTypeID": 1
+  },
+  {
+    "ID": "4d4f7153-3a15-4df2-8cc6-7000b44ec445",
+    "Name": "Nebelholz",
+    "HabitableCount": 1,
+    "SlotItemTypeIDs": [],
+    "Skills": [
+      {
+        "SkillID": "b819f4de-52fa-4c8d-87e6-90db6a7a946e",
+        "Value": 0,
+        "Core": true,
+        "Bonus": false,
+        "ValueCapRatio": null
+      }
+    ],
+    "ImageLandscapeFront": null,
+    "ImageLandscapeMiddle": null,
+    "ImageLandscapeBack": null,
+    "ImageLandscapeSky": null,
+    "RoomTypeID": 1
+  },
+  {
+    "ID": "3546e1df-c697-4d52-a7db-712712656710",
+    "Name": "Handelsplatz",
+    "HabitableCount": 0,
+    "SlotItemTypeIDs": [
+      "4892cf6f-7431-4186-a593-42bd6fff2d03",
+      "6b93382a-1c20-47e9-a123-6cb90ee96901",
+      "345010d9-fe63-49e7-8d20-575ee4ad50d9"
+    ],
+    "Skills": [],
+    "ImageLandscapeFront": "Workshop.png",
+    "ImageLandscapeMiddle": null,
+    "ImageLandscapeBack": null,
+    "ImageLandscapeSky": null,
+    "RoomTypeID": 1
+  },
+  {
+    "ID": "795cfea1-fe8c-40eb-9b13-722f4b8a9737",
+    "Name": "Überdachter Parkplatz",
+    "HabitableCount": 2,
+    "SlotItemTypeIDs": [
+      "2cfc948f-628b-4fa0-9086-8787eb22fdba"
+    ],
+    "Skills": [
+      {
+        "SkillID": "202cbb79-7eaf-44b2-aecc-9105ed029716",
+        "Value": 0,
+        "Core": true,
+        "Bonus": false,
+        "ValueCapRatio": null
+      }
+    ],
+    "ImageLandscapeFront": "Village.png",
+    "ImageLandscapeMiddle": "Domain.png",
+    "ImageLandscapeBack": "Domain.png",
+    "ImageLandscapeSky": "Domain.png",
+    "RoomTypeID": 0
+  },
+  {
+    "ID": "745f9386-eae9-4ea4-9756-782b8ffb8bcb",
+    "Name": "Kleine Umkleide",
+    "HabitableCount": 0,
+    "SlotItemTypeIDs": [
+      "1de31c0d-b71a-494d-a1b8-ae1e95cae593",
+      "f8fe4b25-d5cf-4932-b115-827cb43786c2"
+    ],
+    "Skills": [
+      {
+        "SkillID": "07d99ce9-5a08-4b52-af8e-822d65bedb8e",
+        "Value": 5,
+        "Core": true,
+        "Bonus": false,
+        "ValueCapRatio": null
+      }
+    ],
+    "ImageLandscapeFront": "Workshop.png",
+    "ImageLandscapeMiddle": null,
+    "ImageLandscapeBack": null,
+    "ImageLandscapeSky": null,
+    "RoomTypeID": 1
+  },
+  {
+    "ID": "d1b5d71e-1b5c-4e2d-bf29-7cfa5c2d8ce2",
+    "Name": "Kleines Laboratorium",
+    "HabitableCount": 0,
+    "SlotItemTypeIDs": [
+      "1de31c0d-b71a-494d-a1b8-ae1e95cae593",
+      "f8fe4b25-d5cf-4932-b115-827cb43786c2"
+    ],
+    "Skills": [
+      {
+        "SkillID": "dd57b347-6553-477f-9795-0530728cce61",
+        "Value": 5,
+        "Core": true,
+        "Bonus": false,
+        "ValueCapRatio": null
+      }
+    ],
+    "ImageLandscapeFront": null,
+    "ImageLandscapeMiddle": null,
+    "ImageLandscapeBack": null,
+    "ImageLandscapeSky": null,
+    "RoomTypeID": 1
+  },
+  {
+    "ID": "fcb11186-45a9-4023-a3f7-8166ea35b07c",
+    "Name": "Gerberzelt",
+    "HabitableCount": 0,
+    "SlotItemTypeIDs": [
+      "f8fe4b25-d5cf-4932-b115-827cb43786c2"
+    ],
+    "Skills": [
+      {
+        "SkillID": "7afa89e6-067e-4ccb-bcf4-d961b6a7c0fd",
+        "Value": 0,
+        "Core": true,
+        "Bonus": false,
+        "ValueCapRatio": null
+      }
+    ],
+    "ImageLandscapeFront": "Workshop.png",
+    "ImageLandscapeMiddle": null,
+    "ImageLandscapeBack": null,
+    "ImageLandscapeSky": null,
+    "RoomTypeID": 1
+  },
+  {
+    "ID": "33d32e52-dc0a-41b1-86f2-82ce5882a06d",
+    "Name": "Kleine Gerberei",
+    "HabitableCount": 0,
+    "SlotItemTypeIDs": [
+      "1de31c0d-b71a-494d-a1b8-ae1e95cae593",
+      "f8fe4b25-d5cf-4932-b115-827cb43786c2"
+    ],
+    "Skills": [
+      {
+        "SkillID": "7afa89e6-067e-4ccb-bcf4-d961b6a7c0fd",
+        "Value": 5,
+        "Core": true,
+        "Bonus": false,
+        "ValueCapRatio": null
+      }
+    ],
+    "ImageLandscapeFront": "Workshop.png",
+    "ImageLandscapeMiddle": null,
+    "ImageLandscapeBack": null,
+    "ImageLandscapeSky": null,
+    "RoomTypeID": 1
+  },
+  {
+    "ID": "8c4656b4-27ba-45f0-b450-880cb71b5e18",
+    "Name": "Nebelmine",
+    "HabitableCount": 2,
+    "SlotItemTypeIDs": [],
+    "Skills": [
+      {
+        "SkillID": "b156c1d4-4729-4617-9f96-3ee736932002",
+        "Value": 0,
+        "Core": true,
+        "Bonus": false,
+        "ValueCapRatio": null
+      }
+    ],
+    "ImageLandscapeFront": null,
+    "ImageLandscapeMiddle": null,
+    "ImageLandscapeBack": null,
+    "ImageLandscapeSky": null,
+    "RoomTypeID": 1
+  },
+  {
+    "ID": "315d3612-ac4c-444b-a378-8c9e1258f30b",
+    "Name": "Lagerfeuer",
+    "HabitableCount": 0,
+    "SlotItemTypeIDs": [
+      "f8fe4b25-d5cf-4932-b115-827cb43786c2"
+    ],
+    "Skills": [
+      {
+        "SkillID": "a7a7bbed-c0d8-4294-9ab6-4a114905be49",
+        "Value": 0,
+        "Core": true,
+        "Bonus": false,
+        "ValueCapRatio": null
+      }
+    ],
+    "ImageLandscapeFront": "Village.png",
+    "ImageLandscapeMiddle": null,
+    "ImageLandscapeBack": null,
+    "ImageLandscapeSky": null,
+    "RoomTypeID": 1
+  },
+  {
+    "ID": "62e167a2-ceee-4667-a021-91ce4d4246ba",
+    "Name": "Schmiedezelt",
+    "HabitableCount": 0,
+    "SlotItemTypeIDs": [
+      "f8fe4b25-d5cf-4932-b115-827cb43786c2"
+    ],
+    "Skills": [
+      {
+        "SkillID": "64b24669-703e-4ca8-b9e8-9da9f06fdab1",
+        "Value": 0,
+        "Core": true,
+        "Bonus": false,
+        "ValueCapRatio": null
+      }
+    ],
+    "ImageLandscapeFront": "Workshop.png",
+    "ImageLandscapeMiddle": null,
+    "ImageLandscapeBack": null,
+    "ImageLandscapeSky": null,
+    "RoomTypeID": 1
+  },
+  {
+    "ID": "27d0193e-73bf-4d19-8196-948750f92ab2",
+    "Name": "Kleine Tischlerei",
+    "HabitableCount": 0,
+    "SlotItemTypeIDs": [
+      "1de31c0d-b71a-494d-a1b8-ae1e95cae593",
+      "f8fe4b25-d5cf-4932-b115-827cb43786c2"
+    ],
+    "Skills": [
+      {
+        "SkillID": "96db0f91-0e80-4465-95dc-11f5d7e3c9e1",
+        "Value": 5,
+        "Core": true,
+        "Bonus": false,
+        "ValueCapRatio": null
+      }
+    ],
+    "ImageLandscapeFront": "Workshop.png",
+    "ImageLandscapeMiddle": null,
+    "ImageLandscapeBack": null,
+    "ImageLandscapeSky": null,
+    "RoomTypeID": 1
+  },
+  {
+    "ID": "d488a310-a8cc-42d3-b462-950cbcbc2413",
+    "Name": "Koppel",
+    "HabitableCount": 2,
+    "SlotItemTypeIDs": [
+      "14e50bab-82d9-4136-ac24-7ba8fedaac0c"
+    ],
+    "Skills": [
+      {
+        "SkillID": "7ede63df-3c6b-45a6-8f80-e025b98114f2",
+        "Value": 0,
+        "Core": true,
+        "Bonus": false,
+        "ValueCapRatio": null
+      }
+    ],
+    "ImageLandscapeFront": "Plains.png",
+    "ImageLandscapeMiddle": "Domain.png",
+    "ImageLandscapeBack": "Domain.png",
+    "ImageLandscapeSky": "Domain.png",
+    "RoomTypeID": 0
+  },
+  {
+    "ID": "c9f9ea05-123f-487b-a747-981ecd8b68e2",
+    "Name": "Stall",
+    "HabitableCount": 3,
+    "SlotItemTypeIDs": [
+      "14e50bab-82d9-4136-ac24-7ba8fedaac0c"
+    ],
+    "Skills": [
+      {
+        "SkillID": "87e354e4-b946-4053-a3d6-854945fb52db",
+        "Value": 0,
+        "Core": false,
+        "Bonus": false,
+        "ValueCapRatio": null
+      },
+      {
+        "SkillID": "7ede63df-3c6b-45a6-8f80-e025b98114f2",
+        "Value": 0,
+        "Core": false,
+        "Bonus": false,
+        "ValueCapRatio": null
+      }
+    ],
+    "ImageLandscapeFront": "Plains.png",
+    "ImageLandscapeMiddle": "Domain.png",
+    "ImageLandscapeBack": "Domain.png",
+    "ImageLandscapeSky": "Domain.png",
+    "RoomTypeID": 0
+  },
+  {
+    "ID": "9240678d-6fcb-4b53-a4c0-996ad4670bfe",
+    "Name": "Tischlerzelt",
+    "HabitableCount": 0,
+    "SlotItemTypeIDs": [
+      "f8fe4b25-d5cf-4932-b115-827cb43786c2"
+    ],
+    "Skills": [
+      {
+        "SkillID": "96db0f91-0e80-4465-95dc-11f5d7e3c9e1",
+        "Value": 0,
+        "Core": true,
+        "Bonus": false,
+        "ValueCapRatio": null
+      }
+    ],
+    "ImageLandscapeFront": "Workshop.png",
+    "ImageLandscapeMiddle": null,
+    "ImageLandscapeBack": null,
+    "ImageLandscapeSky": null,
+    "RoomTypeID": 1
+  },
+  {
+    "ID": "546b642e-ff5b-4617-b153-9b100fd21f65",
+    "Name": "Gutshof",
+    "HabitableCount": 1,
+    "SlotItemTypeIDs": [
+      "2cfc948f-628b-4fa0-9086-8787eb22fdba"
+    ],
+    "Skills": [
+      {
+        "SkillID": "202cbb79-7eaf-44b2-aecc-9105ed029716",
+        "Value": 5,
+        "Core": true,
+        "Bonus": false,
+        "ValueCapRatio": null
+      }
+    ],
+    "ImageLandscapeFront": null,
+    "ImageLandscapeMiddle": null,
+    "ImageLandscapeBack": null,
+    "ImageLandscapeSky": null,
+    "RoomTypeID": 0
+  },
+  {
+    "ID": "4ca50fa1-4a5d-4401-bfa8-a013732de959",
+    "Name": "Kleine Schmiede",
+    "HabitableCount": 0,
+    "SlotItemTypeIDs": [
+      "1de31c0d-b71a-494d-a1b8-ae1e95cae593",
+      "f8fe4b25-d5cf-4932-b115-827cb43786c2"
+    ],
+    "Skills": [
+      {
+        "SkillID": "64b24669-703e-4ca8-b9e8-9da9f06fdab1",
+        "Value": 5,
+        "Core": true,
+        "Bonus": false,
+        "ValueCapRatio": null
+      }
+    ],
+    "ImageLandscapeFront": "Workshop.png",
+    "ImageLandscapeMiddle": null,
+    "ImageLandscapeBack": null,
+    "ImageLandscapeSky": null,
+    "RoomTypeID": 1
+  },
+  {
+    "ID": "8c931da8-6f1d-4226-b5aa-a5124c4f5b21",
+    "Name": "Valsongianischer Raum",
+    "HabitableCount": 1,
+    "SlotItemTypeIDs": [],
+    "Skills": [
+      {
+        "SkillID": "1e366689-a7c8-4d4a-b805-6ea453e509b6",
+        "Value": 0,
+        "Core": true,
+        "Bonus": false,
+        "ValueCapRatio": null
+      }
+    ],
+    "ImageLandscapeFront": "House.png",
+    "ImageLandscapeMiddle": null,
+    "ImageLandscapeBack": null,
+    "ImageLandscapeSky": null,
+    "RoomTypeID": 0
+  },
+  {
+    "ID": "e738daf3-f82a-464c-b439-aa78041b6036",
+    "Name": "Valsonge",
+    "HabitableCount": 0,
+    "SlotItemTypeIDs": [
+      "d31bfd16-55ab-4b16-b205-621da0082138"
+    ],
+    "Skills": [],
+    "ImageLandscapeFront": "Domain.png",
+    "ImageLandscapeMiddle": "Domain.png",
+    "ImageLandscapeBack": "Domain.png",
+    "ImageLandscapeSky": "Domain.png",
+    "RoomTypeID": 0
+  },
+  {
+    "ID": "a10e8c35-d010-4622-bd16-ab99bb2a438c",
+    "Name": "Nebeljagd",
+    "HabitableCount": 1,
+    "SlotItemTypeIDs": [],
+    "Skills": [
+      {
+        "SkillID": "3ff27acd-84c8-403f-889b-c2fcf8b4e584",
+        "Value": 0,
+        "Core": true,
+        "Bonus": false,
+        "ValueCapRatio": null
+      }
+    ],
+    "ImageLandscapeFront": null,
+    "ImageLandscapeMiddle": null,
+    "ImageLandscapeBack": null,
+    "ImageLandscapeSky": null,
+    "RoomTypeID": 1
+  },
+  {
+    "ID": "2ae5a892-b3af-44ad-88c1-b1762026ade4",
+    "Name": "Weide",
+    "HabitableCount": 2,
+    "SlotItemTypeIDs": [
+      "14e50bab-82d9-4136-ac24-7ba8fedaac0c"
+    ],
+    "Skills": [
+      {
+        "SkillID": "7ede63df-3c6b-45a6-8f80-e025b98114f2",
+        "Value": 0,
+        "Core": true,
+        "Bonus": false,
+        "ValueCapRatio": null
+      }
+    ],
+    "ImageLandscapeFront": "Plains.png",
+    "ImageLandscapeMiddle": "Domain.png",
+    "ImageLandscapeBack": "Domain.png",
+    "ImageLandscapeSky": "Domain.png",
+    "RoomTypeID": 0
+  },
+  {
+    "ID": "4c14cc23-4528-4d8e-8ebe-b7235dd160a8",
+    "Name": "Mistpflanze",
+    "HabitableCount": 2,
+    "SlotItemTypeIDs": [],
+    "Skills": [
+      {
+        "SkillID": "db3cb103-6d78-4781-b7fe-df193c8ef7c3",
+        "Value": 0,
+        "Core": true,
+        "Bonus": false,
+        "ValueCapRatio": null
+      }
+    ],
+    "ImageLandscapeFront": null,
+    "ImageLandscapeMiddle": null,
+    "ImageLandscapeBack": null,
+    "ImageLandscapeSky": null,
+    "RoomTypeID": 1
+  },
+  {
+    "ID": "5475bd7b-8b25-448e-be31-ba3b843dfc64",
+    "Name": "Wanderer",
+    "HabitableCount": 0,
+    "SlotItemTypeIDs": [
+      "b10899e6-07dd-4a96-99f4-8077a3a7da6d",
+      "e7d15da1-0fbd-40cf-a3a9-637875fa8a99",
+      "f77704d5-afd0-44a7-b38a-17d3906f4128"
+    ],
+    "Skills": [],
+    "ImageLandscapeFront": "Domain.png",
+    "ImageLandscapeMiddle": "Domain.png",
+    "ImageLandscapeBack": "Domain.png",
+    "ImageLandscapeSky": "Domain.png",
+    "RoomTypeID": 0
+  },
+  {
+    "ID": "89a70975-5ba4-4de5-abd1-bc24d2482d24",
+    "Name": "Sylphs Lager",
+    "HabitableCount": 1,
+    "SlotItemTypeIDs": [],
+    "Skills": [
+      {
+        "SkillID": "b9094875-5037-4c5d-bbeb-f9efcc7f75fd",
+        "Value": 0,
+        "Core": true,
+        "Bonus": false,
+        "ValueCapRatio": null
+      }
+    ],
+    "ImageLandscapeFront": null,
+    "ImageLandscapeMiddle": null,
+    "ImageLandscapeBack": null,
+    "ImageLandscapeSky": null,
+    "RoomTypeID": 0
+  },
+  {
+    "ID": "ab5c68be-d844-4eb5-8e7c-c05130a0f65e",
+    "Name": "Verstärkter Stall",
+    "HabitableCount": 1,
+    "SlotItemTypeIDs": [
+      "63e79f4f-926f-4b7f-8703-fdc57bf62da8",
+      "14e50bab-82d9-4136-ac24-7ba8fedaac0c"
+    ],
+    "Skills": [
+      {
+        "SkillID": "87e354e4-b946-4053-a3d6-854945fb52db",
+        "Value": 15,
+        "Core": true,
+        "Bonus": false,
+        "ValueCapRatio": null
+      }
+    ],
+    "ImageLandscapeFront": "Plains.png",
+    "ImageLandscapeMiddle": "Domain.png",
+    "ImageLandscapeBack": "Domain.png",
+    "ImageLandscapeSky": "Domain.png",
+    "RoomTypeID": 0
+  },
+  {
+    "ID": "c7dcdce2-c86a-44b9-82ac-c203fa77eaed",
+    "Name": "Saal",
+    "HabitableCount": 0,
+    "SlotItemTypeIDs": [],
+    "Skills": [],
+    "ImageLandscapeFront": "Tavern.jpg",
+    "ImageLandscapeMiddle": null,
+    "ImageLandscapeBack": null,
+    "ImageLandscapeSky": null,
+    "RoomTypeID": 1
+  },
+  {
+    "ID": "e3fe562d-b947-41be-a60f-c6072f73a449",
+    "Name": "Kleine Küche",
+    "HabitableCount": 0,
+    "SlotItemTypeIDs": [
+      "1de31c0d-b71a-494d-a1b8-ae1e95cae593",
+      "f8fe4b25-d5cf-4932-b115-827cb43786c2"
+    ],
+    "Skills": [
+      {
+        "SkillID": "a7a7bbed-c0d8-4294-9ab6-4a114905be49",
+        "Value": 5,
+        "Core": true,
+        "Bonus": false,
+        "ValueCapRatio": null
+      }
+    ],
+    "ImageLandscapeFront": "Workshop.png",
+    "ImageLandscapeMiddle": null,
+    "ImageLandscapeBack": null,
+    "ImageLandscapeSky": null,
+    "RoomTypeID": 1
+  },
+  {
+    "ID": "3b307291-363a-4b9c-a0a2-c80ea293f47e",
+    "Name": "Nebel Beschwörer",
+    "HabitableCount": 2,
+    "SlotItemTypeIDs": [],
+    "Skills": [
+      {
+        "SkillID": "1e366689-a7c8-4d4a-b805-6ea453e509b6",
+        "Value": 80,
+        "Core": true,
+        "Bonus": false,
+        "ValueCapRatio": null
+      }
+    ],
+    "ImageLandscapeFront": null,
+    "ImageLandscapeMiddle": null,
+    "ImageLandscapeBack": null,
+    "ImageLandscapeSky": null,
+    "RoomTypeID": 1
+  },
+  {
+    "ID": "c68dd4de-a175-4756-aa49-ce86c4a8800b",
+    "Name": "Kleine Steinmetz-Werkstatt",
+    "HabitableCount": 0,
+    "SlotItemTypeIDs": [
+      "1de31c0d-b71a-494d-a1b8-ae1e95cae593",
+      "f8fe4b25-d5cf-4932-b115-827cb43786c2"
+    ],
+    "Skills": [
+      {
+        "SkillID": "a3054f6b-4b44-4e93-838c-014d2128c07c",
+        "Value": 5,
+        "Core": true,
+        "Bonus": false,
+        "ValueCapRatio": null
+      }
+    ],
+    "ImageLandscapeFront": "Workshop.png",
+    "ImageLandscapeMiddle": null,
+    "ImageLandscapeBack": null,
+    "ImageLandscapeSky": null,
+    "RoomTypeID": 1
+  },
+  {
+    "ID": "0a205522-9d9c-427d-821f-d459b1b94cc3",
+    "Name": "Spezialisierte Küche",
+    "HabitableCount": 0,
+    "SlotItemTypeIDs": [
+      "1de31c0d-b71a-494d-a1b8-ae1e95cae593",
+      "f8fe4b25-d5cf-4932-b115-827cb43786c2",
+      "4892cf6f-7431-4186-a593-42bd6fff2d03"
+    ],
+    "Skills": [
+      {
+        "SkillID": "a7a7bbed-c0d8-4294-9ab6-4a114905be49",
+        "Value": 25,
+        "Core": true,
+        "Bonus": false,
+        "ValueCapRatio": null
+      }
+    ],
+    "ImageLandscapeFront": null,
+    "ImageLandscapeMiddle": null,
+    "ImageLandscapeBack": null,
+    "ImageLandscapeSky": null,
+    "RoomTypeID": 1
+  },
+  {
+    "ID": "8e952d35-6f3a-4896-8a2f-d5156b6e95ef",
+    "Name": "Steinmetzzelt",
+    "HabitableCount": 0,
+    "SlotItemTypeIDs": [
+      "f8fe4b25-d5cf-4932-b115-827cb43786c2"
+    ],
+    "Skills": [
+      {
+        "SkillID": "a3054f6b-4b44-4e93-838c-014d2128c07c",
+        "Value": 0,
+        "Core": true,
+        "Bonus": false,
+        "ValueCapRatio": null
+      }
+    ],
+    "ImageLandscapeFront": "Workshop.png",
+    "ImageLandscapeMiddle": null,
+    "ImageLandscapeBack": null,
+    "ImageLandscapeSky": null,
+    "RoomTypeID": 1
+  },
+  {
+    "ID": "ee7cff57-b328-4515-a975-dbe7f75bd1ec",
+    "Name": "Ingenieur-Werkbank",
+    "HabitableCount": 0,
+    "SlotItemTypeIDs": [
+      "f8fe4b25-d5cf-4932-b115-827cb43786c2"
+    ],
+    "Skills": [],
+    "ImageLandscapeFront": "Workshop.png",
+    "ImageLandscapeMiddle": null,
+    "ImageLandscapeBack": null,
+    "ImageLandscapeSky": null,
+    "RoomTypeID": 1
+  },
+  {
+    "ID": "f6ff251a-e317-41e6-a320-e0b88e6d928a",
+    "Name": "Gasthaus",
+    "HabitableCount": 0,
+    "SlotItemTypeIDs": [],
+    "Skills": [],
+    "ImageLandscapeFront": "Tavern.jpg",
+    "ImageLandscapeMiddle": null,
+    "ImageLandscapeBack": null,
+    "ImageLandscapeSky": null,
+    "RoomTypeID": 0
+  },
+  {
+    "ID": "8b6a6572-1691-4b02-99c2-ea19e388fc6c",
+    "Name": "Stall",
+    "HabitableCount": 1,
+    "SlotItemTypeIDs": [
+      "63e79f4f-926f-4b7f-8703-fdc57bf62da8",
+      "14e50bab-82d9-4136-ac24-7ba8fedaac0c"
+    ],
+    "Skills": [
+      {
+        "SkillID": "7ede63df-3c6b-45a6-8f80-e025b98114f2",
+        "Value": 10,
+        "Core": true,
+        "Bonus": false,
+        "ValueCapRatio": null
+      }
+    ],
+    "ImageLandscapeFront": "Plains.png",
+    "ImageLandscapeMiddle": "Domain.png",
+    "ImageLandscapeBack": "Domain.png",
+    "ImageLandscapeSky": "Domain.png",
+    "RoomTypeID": 0
+  },
+  {
+    "ID": "01dc1f3a-be2b-4e1e-aa3d-ea6ff5f97d79",
+    "Name": "Villa",
+    "HabitableCount": 0,
+    "SlotItemTypeIDs": [
+      "e9d1896f-248b-41f6-b92e-ebe9c61b77ef"
+    ],
+    "Skills": [],
+    "ImageLandscapeFront": "Kortombe.png",
+    "ImageLandscapeMiddle": "Domain.png",
+    "ImageLandscapeBack": "Domain.png",
+    "ImageLandscapeSky": "Domain.png",
+    "RoomTypeID": 0
+  },
+  {
+    "ID": "90835c36-8b45-4cd6-9246-eba1f45bfa77",
+    "Name": "Veranda des Herrenhauses",
+    "HabitableCount": 1,
+    "SlotItemTypeIDs": [
+      "63e79f4f-926f-4b7f-8703-fdc57bf62da8"
+    ],
+    "Skills": [
+      {
+        "SkillID": "7ede63df-3c6b-45a6-8f80-e025b98114f2",
+        "Value": 0,
+        "Core": true,
+        "Bonus": false,
+        "ValueCapRatio": null
+      }
+    ],
+    "ImageLandscapeFront": "Domain.png",
+    "ImageLandscapeMiddle": "Domain.png",
+    "ImageLandscapeBack": "Domain.png",
+    "ImageLandscapeSky": "Domain.png",
+    "RoomTypeID": 0
+  },
+  {
+    "ID": "9e8a53a7-ad63-4fea-9b29-ef00ce0aacb2",
+    "Name": "Alchemielabor",
+    "HabitableCount": 0,
+    "SlotItemTypeIDs": [
+      "f8fe4b25-d5cf-4932-b115-827cb43786c2"
+    ],
+    "Skills": [
+      {
+        "SkillID": "fb75c6c2-bcea-4731-9758-829e82de3c74",
+        "Value": 5,
+        "Core": true,
+        "Bonus": false,
+        "ValueCapRatio": null
+      }
+    ],
+    "ImageLandscapeFront": "Workshop.png",
+    "ImageLandscapeMiddle": null,
+    "ImageLandscapeBack": null,
+    "ImageLandscapeSky": null,
+    "RoomTypeID": 1
+  }
+]

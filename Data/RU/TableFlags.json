@@ -1,0 +1,1406 @@
+[
+  {
+    "ID": 9,
+    "Name": "Kortombe rumors",
+    "Group": null,
+    "ImageIcon": null,
+    "Tag": "[D]",
+    "Ranks": []
+  },
+  {
+    "ID": 11,
+    "Name": "Kortombe",
+    "Group": "Reputation",
+    "ImageIcon": "FlagKortombe.png",
+    "Tag": "[Rep]",
+    "Ranks": [
+      {
+        "ID": "9afa4431-138c-4629-be43-f274c93d611f",
+        "Name": "Незнакомец",
+        "Amount": 1
+      },
+      {
+        "ID": "9602fcce-f7ca-4c77-9b8e-cab8a7652872",
+        "Name": "Путешественник",
+        "Amount": 10
+      },
+      {
+        "ID": "bce562af-3caa-4022-8577-1f694ac8358e",
+        "Name": "Узнаваемый",
+        "Amount": 36
+      },
+      {
+        "ID": "09c641d3-78e1-464b-90b6-5fbcb6b89575",
+        "Name": "Фамильяр",
+        "Amount": 64
+      },
+      {
+        "ID": "4c41fb90-7c53-487a-9d08-0170eb4f40f4",
+        "Name": "Популярный",
+        "Amount": 100
+      },
+      {
+        "ID": "f341c1f8-c330-4d2d-bacb-80f641ce498b",
+        "Name": "Герой",
+        "Amount": 160
+      },
+      {
+        "ID": "74eadd7f-f240-4640-9ec7-afa70558114b",
+        "Name": "Идол",
+        "Amount": 280
+      }
+    ]
+  },
+  {
+    "ID": 14,
+    "Name": "Disapearing good terminated",
+    "Group": null,
+    "ImageIcon": null,
+    "Tag": "[D][Questline]",
+    "Ranks": []
+  },
+  {
+    "ID": 15,
+    "Name": "Sleepless night",
+    "Group": null,
+    "ImageIcon": null,
+    "Tag": "[Goodies]",
+    "Ranks": []
+  },
+  {
+    "ID": 20,
+    "Name": "Vargr spotted",
+    "Group": null,
+    "ImageIcon": null,
+    "Tag": "[D][Questline]",
+    "Ranks": []
+  },
+  {
+    "ID": 21,
+    "Name": "Roof climbed",
+    "Group": null,
+    "ImageIcon": null,
+    "Tag": "[D][Questline]",
+    "Ranks": []
+  },
+  {
+    "ID": 23,
+    "Name": "Brigands killed",
+    "Group": null,
+    "ImageIcon": null,
+    "Tag": "[D][Goodies]",
+    "Ranks": []
+  },
+  {
+    "ID": 31,
+    "Name": "Occult explanation",
+    "Group": null,
+    "ImageIcon": null,
+    "Tag": "[Questline]",
+    "Ranks": []
+  },
+  {
+    "ID": 32,
+    "Name": "History of the Grandmoon",
+    "Group": null,
+    "ImageIcon": null,
+    "Tag": "[Questline]",
+    "Ranks": []
+  },
+  {
+    "ID": 33,
+    "Name": "Necromantic censer",
+    "Group": null,
+    "ImageIcon": null,
+    "Tag": "[Questline]",
+    "Ranks": []
+  },
+  {
+    "ID": 35,
+    "Name": "Hint about the crypt",
+    "Group": null,
+    "ImageIcon": null,
+    "Tag": "[D][Questline]",
+    "Ranks": []
+  },
+  {
+    "ID": 36,
+    "Name": "Annabelle journal",
+    "Group": null,
+    "ImageIcon": null,
+    "Tag": "[D][Questline]",
+    "Ranks": []
+  },
+  {
+    "ID": 37,
+    "Name": "Reinfort's temptation",
+    "Group": null,
+    "ImageIcon": null,
+    "Tag": "[D][Questline]",
+    "Ranks": []
+  },
+  {
+    "ID": 40,
+    "Name": "Mysterious correspondent",
+    "Group": null,
+    "ImageIcon": null,
+    "Tag": "[D][Questline]",
+    "Ranks": []
+  },
+  {
+    "ID": 48,
+    "Name": "[[[DISABLED]]]",
+    "Group": null,
+    "ImageIcon": null,
+    "Tag": "[sys]",
+    "Ranks": []
+  },
+  {
+    "ID": 52,
+    "Name": "Barrack recipe",
+    "Group": null,
+    "ImageIcon": "Flag01.png",
+    "Tag": "[Know]",
+    "Ranks": []
+  },
+  {
+    "ID": 53,
+    "Name": "Assessment of a companion",
+    "Group": null,
+    "ImageIcon": "Flag01.png",
+    "Tag": "[Know]",
+    "Ranks": []
+  },
+  {
+    "ID": 55,
+    "Name": "Protector of the Rose",
+    "Group": "Guild",
+    "ImageIcon": "FlagRose.png",
+    "Tag": "[Rep]",
+    "Ranks": [
+      {
+        "ID": "a50a5a7a-100f-4905-8300-01679c7fa5c5",
+        "Name": "Претендент",
+        "Amount": 1
+      },
+      {
+        "ID": "42793c8a-585a-42a1-ae9a-0f7276e690a9",
+        "Name": "Сквайр",
+        "Amount": 5
+      },
+      {
+        "ID": "5ae5e475-38ab-4d31-8ae6-0fefde3d66ed",
+        "Name": "Компаньон",
+        "Amount": 25
+      },
+      {
+        "ID": "5f7c7779-7f57-4e84-9444-34b507348762",
+        "Name": "Защитник",
+        "Amount": 50
+      },
+      {
+        "ID": "ebc1eaf2-fb91-4cde-b07a-40a718bedacd",
+        "Name": "Паладин",
+        "Amount": 100
+      },
+      {
+        "ID": "ede2e261-5fbc-4822-9b8d-f660c0dd16a8",
+        "Name": "Рыцарь",
+        "Amount": 150
+      }
+    ]
+  },
+  {
+    "ID": 56,
+    "Name": "Larcen",
+    "Group": "Reputation",
+    "ImageIcon": "FlagLarcon.png",
+    "Tag": "[Rep]",
+    "Ranks": [
+      {
+        "ID": "2139d810-c4d6-4064-a7f3-0969aa5467d3",
+        "Name": "Незнакомец",
+        "Amount": 1
+      },
+      {
+        "ID": "a7c2e7ad-a4c5-4a5d-a15b-e3476e3a2a27",
+        "Name": "Посетитель",
+        "Amount": 10
+      },
+      {
+        "ID": "777b81cd-b9f5-4852-9989-a97ece2a1f19",
+        "Name": "Знакомый",
+        "Amount": 36
+      },
+      {
+        "ID": "f0020717-cab8-4f78-b60b-6ef3695b74a2",
+        "Name": "Узнаваемый",
+        "Amount": 64
+      },
+      {
+        "ID": "d8cddb28-d27e-435f-a074-4fada5f320aa",
+        "Name": "Герой",
+        "Amount": 100
+      },
+      {
+        "ID": "efdc433b-56e7-4765-82f5-20807f87a0ac",
+        "Name": "Знаменитый",
+        "Amount": 160
+      },
+      {
+        "ID": "ba2abbb7-3650-4bb1-a549-6d95be3c947f",
+        "Name": "Выдающийся",
+        "Amount": 280
+      }
+    ]
+  },
+  {
+    "ID": 57,
+    "Name": "Gantras",
+    "Group": "Reputation",
+    "ImageIcon": "FlagGantras.png",
+    "Tag": "[Rep]",
+    "Ranks": [
+      {
+        "ID": "da931028-89c1-4cf6-bb4c-8741349ed505",
+        "Name": "Подозрительный",
+        "Amount": 1
+      },
+      {
+        "ID": "6a84f998-9e34-46e3-b88a-548fb13d1b37",
+        "Name": "Допущенный",
+        "Amount": 10
+      },
+      {
+        "ID": "6fcddfc3-8cc3-4090-83b5-01d774d89c56",
+        "Name": "Узнаваемый",
+        "Amount": 36
+      },
+      {
+        "ID": "fc53db3c-c84a-4af6-bc91-921b23129057",
+        "Name": "Ценимый",
+        "Amount": 64
+      },
+      {
+        "ID": "73a4b020-abf7-4bff-9cb1-fb91e908dba9",
+        "Name": "Уважаемый",
+        "Amount": 100
+      },
+      {
+        "ID": "d8aab676-52e6-4351-94ed-814040befcbe",
+        "Name": "Герой",
+        "Amount": 160
+      },
+      {
+        "ID": "360a40ca-69bd-4dea-a5a6-55ac0bd9b202",
+        "Name": "Галантный",
+        "Amount": 280
+      }
+    ]
+  },
+  {
+    "ID": 58,
+    "Name": "Wellnear",
+    "Group": "Reputation",
+    "ImageIcon": "FlagBonvoisin.png",
+    "Tag": "[Rep]",
+    "Ranks": [
+      {
+        "ID": "d75fd204-ea80-4435-bbd8-b867fa4a5ddb",
+        "Name": "Босоногий",
+        "Amount": 1
+      },
+      {
+        "ID": "f571bb39-e92c-400d-9db2-0f87d84695ef",
+        "Name": "Незнакомец",
+        "Amount": 10
+      },
+      {
+        "ID": "eb413014-bf91-4d09-832d-9e4615cc48dd",
+        "Name": "Гость",
+        "Amount": 36
+      },
+      {
+        "ID": "899343cb-4b89-4388-ba9e-efdd89bec350",
+        "Name": "Уважаемый",
+        "Amount": 64
+      },
+      {
+        "ID": "5525a9ee-db54-4b24-84f0-bac6570bd188",
+        "Name": "Герой",
+        "Amount": 100
+      },
+      {
+        "ID": "102911c1-0496-4623-afaa-2f8e11d923ce",
+        "Name": "Знаменитость",
+        "Amount": 160
+      },
+      {
+        "ID": "3177b6da-0f28-44c4-833b-bffc826e8c0f",
+        "Name": "Легенда",
+        "Amount": 280
+      }
+    ]
+  },
+  {
+    "ID": 59,
+    "Name": "Thorval",
+    "Group": "Reputation",
+    "ImageIcon": "FlagThorval.png",
+    "Tag": "[Rep]",
+    "Ranks": [
+      {
+        "ID": "2108c855-ea4c-4260-ac91-452cec1d4120",
+        "Name": "Незнакомец",
+        "Amount": 1
+      },
+      {
+        "ID": "33df80f4-ee9d-4e4a-95f6-be83555baefa",
+        "Name": "Путешественник",
+        "Amount": 10
+      },
+      {
+        "ID": "09ce90c3-80fc-4dff-926a-1ffe9d12d639",
+        "Name": "Морские ноги",
+        "Amount": 36
+      },
+      {
+        "ID": "68d33f29-0876-4fb2-a29d-a57f0ec6fe9a",
+        "Name": "Узнаваемый",
+        "Amount": 64
+      },
+      {
+        "ID": "5b20720b-b69d-4b90-9dd6-f179a010bab4",
+        "Name": "Моряк",
+        "Amount": 100
+      },
+      {
+        "ID": "dc362fb6-5d5e-4a85-ac57-23091007a10c",
+        "Name": "Знаменитость",
+        "Amount": 160
+      },
+      {
+        "ID": "0311c7ef-7283-49a3-bd20-d1b9f7447b2a",
+        "Name": "Легенда",
+        "Amount": 280
+      }
+    ]
+  },
+  {
+    "ID": 61,
+    "Name": "Arcanists",
+    "Group": "Guild",
+    "ImageIcon": "FlagArcane.png",
+    "Tag": "[Rep]",
+    "Ranks": [
+      {
+        "ID": "49755657-fa0d-4bd2-9f6c-10ae8db2526a",
+        "Name": "Претендент",
+        "Amount": 1
+      },
+      {
+        "ID": "dc598d12-e4b8-44d8-85e9-ef7a15de9462",
+        "Name": "Ученик",
+        "Amount": 5
+      },
+      {
+        "ID": "31207190-8501-4101-86b6-ba2f3b8f7a47",
+        "Name": "Студент",
+        "Amount": 25
+      },
+      {
+        "ID": "f2e5141a-f2a3-44a9-b8f7-e240cf1f4e7b",
+        "Name": "Мыслитель",
+        "Amount": 50
+      },
+      {
+        "ID": "fb31e67a-b267-4bb2-a34a-5698ea856ea0",
+        "Name": "Маг",
+        "Amount": 100
+      },
+      {
+        "ID": "e8f91583-9fdc-4d29-9c34-d65081ad4df8",
+        "Name": "Мастер арканов",
+        "Amount": 150
+      }
+    ]
+  },
+  {
+    "ID": 62,
+    "Name": "Circle of the Great Tree",
+    "Group": "Guild",
+    "ImageIcon": "FlagTree.png",
+    "Tag": "[Rep]",
+    "Ranks": [
+      {
+        "ID": "4ac292b1-7ecb-4cd5-a729-1a71b881c173",
+        "Name": "Сочувствующий",
+        "Amount": 1
+      },
+      {
+        "ID": "15edd489-2de0-4ecd-8939-1098866d319f",
+        "Name": "Прислужник",
+        "Amount": 5
+      },
+      {
+        "ID": "2d20ea64-0d23-4bab-aa1d-03f59bad9531",
+        "Name": "Пастырь",
+        "Amount": 25
+      },
+      {
+        "ID": "085945d4-f787-481e-8d23-d048d05192de",
+        "Name": "Друид",
+        "Amount": 50
+      },
+      {
+        "ID": "f7bad4d2-617d-4785-8ab9-1f45992beb71",
+        "Name": "Студент Жизни",
+        "Amount": 100
+      },
+      {
+        "ID": "6ab38019-e9bd-4cc0-8b4a-5aa6e5805361",
+        "Name": "Великий друид",
+        "Amount": 150
+      }
+    ]
+  },
+  {
+    "ID": 63,
+    "Name": "Lunar caravan",
+    "Group": "Guild",
+    "ImageIcon": "FlagMoon.png",
+    "Tag": "[Rep]",
+    "Ranks": [
+      {
+        "ID": "3319a6f2-f2d0-42cd-971d-42c50a3b184a",
+        "Name": "Бродяга",
+        "Amount": 1
+      },
+      {
+        "ID": "e511515e-2d39-4de6-a4fd-0bc8b278fef1",
+        "Name": "Скиталец",
+        "Amount": 5
+      },
+      {
+        "ID": "426cdc9d-a1f3-474a-b405-ec20c87de903",
+        "Name": "Авантюрист",
+        "Amount": 25
+      },
+      {
+        "ID": "f495edb8-11b7-4e6f-8161-a0ee73457938",
+        "Name": "Караванщик",
+        "Amount": 50
+      },
+      {
+        "ID": "918070c2-c0f6-4d18-8bab-03d20fe47b66",
+        "Name": "Хозяин каравана",
+        "Amount": 100
+      },
+      {
+        "ID": "e272a212-1eee-4573-a332-74dd1910607d",
+        "Name": "Картограф",
+        "Amount": 150
+      }
+    ]
+  },
+  {
+    "ID": 64,
+    "Name": "Order of the Hippogriff",
+    "Group": "Guild",
+    "ImageIcon": "FlagWing.png",
+    "Tag": "[Rep]",
+    "Ranks": [
+      {
+        "ID": "1dad320f-9f20-416c-a306-a02f474be3c4",
+        "Name": "Разведка",
+        "Amount": 1
+      },
+      {
+        "ID": "55851123-5b04-44c3-a711-3e498b748553",
+        "Name": "Гонец",
+        "Amount": 5
+      },
+      {
+        "ID": "26b5f44b-c0fb-4d52-8738-afa86401d9bf",
+        "Name": "Посланник",
+        "Amount": 25
+      },
+      {
+        "ID": "67781ebe-9d0c-4df8-b7a7-2ed74e61ae05",
+        "Name": "Гиппогриф",
+        "Amount": 50
+      },
+      {
+        "ID": "811db77d-fa0f-44e2-9e4c-020dda1dd2e1",
+        "Name": "Эмиссар",
+        "Amount": 100
+      },
+      {
+        "ID": "aa5f4ca9-7cf7-4ccf-8765-23e554c35cb2",
+        "Name": "Судья",
+        "Amount": 150
+      }
+    ]
+  },
+  {
+    "ID": 65,
+    "Name": "Claw Assembly",
+    "Group": "Guild",
+    "ImageIcon": "FlagClaw.png",
+    "Tag": "[Rep]",
+    "Ranks": [
+      {
+        "ID": "d3e2e9ab-4e0f-4af7-a4f8-8645a232c914",
+        "Name": "Новичок",
+        "Amount": 1
+      },
+      {
+        "ID": "53934ffd-faf7-469c-869d-6093bc502be3",
+        "Name": "Коготь",
+        "Amount": 5
+      },
+      {
+        "ID": "e163d5a1-9148-4328-a6f1-bcc65380cb06",
+        "Name": "Шкала",
+        "Amount": 25
+      },
+      {
+        "ID": "9f97f5eb-99b5-4b80-9584-4cb4275ae07f",
+        "Name": "Безумец Войны",
+        "Amount": 50
+      },
+      {
+        "ID": "d601267d-bd9a-44fd-b4a9-1a97aa929d3e",
+        "Name": "Глава Клана",
+        "Amount": 100
+      },
+      {
+        "ID": "013cfdca-8ca3-4973-8ed5-bbba79c4a8d8",
+        "Name": "Разъяренный",
+        "Amount": 150
+      }
+    ]
+  },
+  {
+    "ID": 66,
+    "Name": "Workshop recipe",
+    "Group": null,
+    "ImageIcon": "Flag01.png",
+    "Tag": "[Know]",
+    "Ranks": []
+  },
+  {
+    "ID": 67,
+    "Name": "Cart recipe",
+    "Group": null,
+    "ImageIcon": "Flag01.png",
+    "Tag": "[Know]",
+    "Ranks": []
+  },
+  {
+    "ID": 68,
+    "Name": "Engineering",
+    "Group": null,
+    "ImageIcon": null,
+    "Tag": "[D]",
+    "Ranks": []
+  },
+  {
+    "ID": 69,
+    "Name": "Mist Sensor",
+    "Group": null,
+    "ImageIcon": null,
+    "Tag": "[D]",
+    "Ranks": []
+  },
+  {
+    "ID": 70,
+    "Name": "Mistwalkers",
+    "Group": "Guild",
+    "ImageIcon": "FlagMist.png",
+    "Tag": "[Rep]",
+    "Ranks": [
+      {
+        "ID": "5731ea69-9f45-4690-af67-8bd308a2a7fe",
+        "Name": "Новичок",
+        "Amount": 1
+      },
+      {
+        "ID": "d4af1e6f-a249-4549-b56c-24aa141b65c1",
+        "Name": "Странник",
+        "Amount": 20
+      },
+      {
+        "ID": "f6edac22-ca5f-4e0a-98bf-f1181367ed61",
+        "Name": "Странник тумана",
+        "Amount": 40
+      }
+    ]
+  },
+  {
+    "ID": 71,
+    "Name": "Find Matis",
+    "Group": null,
+    "ImageIcon": "Flag08.png",
+    "Tag": "[QuestLine]",
+    "Ranks": []
+  },
+  {
+    "ID": 72,
+    "Name": "Daily.Kortombe.Multiforge",
+    "Group": null,
+    "ImageIcon": null,
+    "Tag": "[daily]",
+    "Ranks": []
+  },
+  {
+    "ID": 73,
+    "Name": "Daily.Bonvoisin",
+    "Group": null,
+    "ImageIcon": null,
+    "Tag": "[daily]",
+    "Ranks": []
+  },
+  {
+    "ID": 74,
+    "Name": "Daily.Caravane",
+    "Group": null,
+    "ImageIcon": null,
+    "Tag": "[daily]",
+    "Ranks": []
+  },
+  {
+    "ID": 75,
+    "Name": "Daily.Larcon.Materiel",
+    "Group": null,
+    "ImageIcon": null,
+    "Tag": "[daily]",
+    "Ranks": []
+  },
+  {
+    "ID": 76,
+    "Name": "Daily.Arcaniste",
+    "Group": null,
+    "ImageIcon": null,
+    "Tag": "[daily]",
+    "Ranks": []
+  },
+  {
+    "ID": 77,
+    "Name": "Daily.Griffe",
+    "Group": null,
+    "ImageIcon": null,
+    "Tag": "[daily]",
+    "Ranks": []
+  },
+  {
+    "ID": 78,
+    "Name": "Daily.Larcon.Marriage",
+    "Group": null,
+    "ImageIcon": null,
+    "Tag": "[daily]",
+    "Ranks": []
+  },
+  {
+    "ID": 79,
+    "Name": "Daily.Thorval.Distillerie",
+    "Group": null,
+    "ImageIcon": null,
+    "Tag": "[daily]",
+    "Ranks": []
+  },
+  {
+    "ID": 80,
+    "Name": "Weekly.Caravane.Gemmes",
+    "Group": null,
+    "ImageIcon": null,
+    "Tag": "[weekly]",
+    "Ranks": []
+  },
+  {
+    "ID": 81,
+    "Name": "Weekly.Gantras.Pierres",
+    "Group": null,
+    "ImageIcon": null,
+    "Tag": "[weekly]",
+    "Ranks": []
+  },
+  {
+    "ID": 82,
+    "Name": "Daily.Enorwen.Thorcouleur",
+    "Group": null,
+    "ImageIcon": null,
+    "Tag": "[daily]",
+    "Ranks": []
+  },
+  {
+    "ID": 83,
+    "Name": "Weekly.Thorval.Chantier",
+    "Group": null,
+    "ImageIcon": null,
+    "Tag": "[weekly]",
+    "Ranks": []
+  },
+  {
+    "ID": 84,
+    "Name": "Klotoss study",
+    "Group": null,
+    "ImageIcon": "Flag06.png",
+    "Tag": "[Questline]",
+    "Ranks": []
+  },
+  {
+    "ID": 85,
+    "Name": "Daily.Hippogriffe.Brumedor",
+    "Group": null,
+    "ImageIcon": null,
+    "Tag": "[daily]",
+    "Ranks": []
+  },
+  {
+    "ID": 86,
+    "Name": "Information about Brumedor",
+    "Group": null,
+    "ImageIcon": "Flag06.png",
+    "Tag": "[Questline]",
+    "Ranks": []
+  },
+  {
+    "ID": 87,
+    "Name": "Information about Grandwind",
+    "Group": null,
+    "ImageIcon": "Flag06.png",
+    "Tag": "[Questline]",
+    "Ranks": []
+  },
+  {
+    "ID": 88,
+    "Name": "Daily.Hippogriffe.Grandvent",
+    "Group": null,
+    "ImageIcon": null,
+    "Tag": "[daily]",
+    "Ranks": []
+  },
+  {
+    "ID": 89,
+    "Name": "Ouab is found",
+    "Group": null,
+    "ImageIcon": "Flag02.png",
+    "Tag": "[Questline]",
+    "Ranks": []
+  },
+  {
+    "ID": 90,
+    "Name": "Badouk is found",
+    "Group": null,
+    "ImageIcon": null,
+    "Tag": "[Questline]",
+    "Ranks": []
+  },
+  {
+    "ID": 91,
+    "Name": "Sink.Bonvoisin",
+    "Group": null,
+    "ImageIcon": null,
+    "Tag": "[sink]",
+    "Ranks": []
+  },
+  {
+    "ID": 92,
+    "Name": "Sink.Larçon",
+    "Group": null,
+    "ImageIcon": null,
+    "Tag": "[sink]",
+    "Ranks": []
+  },
+  {
+    "ID": 93,
+    "Name": "Sink.Kortombe",
+    "Group": null,
+    "ImageIcon": null,
+    "Tag": "[sink]",
+    "Ranks": []
+  },
+  {
+    "ID": 94,
+    "Name": "Sink.Thorval",
+    "Group": null,
+    "ImageIcon": null,
+    "Tag": "[sink]",
+    "Ranks": []
+  },
+  {
+    "ID": 95,
+    "Name": "Sink.Gantras",
+    "Group": null,
+    "ImageIcon": null,
+    "Tag": "[sink]",
+    "Ranks": []
+  },
+  {
+    "ID": 96,
+    "Name": "Ovie's Travels",
+    "Group": null,
+    "ImageIcon": "Flag06.png",
+    "Tag": "[Quest]",
+    "Ranks": []
+  },
+  {
+    "ID": 97,
+    "Name": "Thorval.Chemin.Boue",
+    "Group": null,
+    "ImageIcon": null,
+    "Tag": "[task counter]",
+    "Ranks": []
+  },
+  {
+    "ID": 98,
+    "Name": "Daily.Cercle.Plante",
+    "Group": null,
+    "ImageIcon": null,
+    "Tag": "[daily]",
+    "Ranks": []
+  },
+  {
+    "ID": 99,
+    "Name": "Daily.Cercle.Kill",
+    "Group": null,
+    "ImageIcon": null,
+    "Tag": "[daily]",
+    "Ranks": []
+  },
+  {
+    "ID": 100,
+    "Name": "Daily.Griffe.Kill",
+    "Group": null,
+    "ImageIcon": null,
+    "Tag": "[daily]",
+    "Ranks": []
+  },
+  {
+    "ID": 101,
+    "Name": "Daily.Kortombe.Kill",
+    "Group": null,
+    "ImageIcon": null,
+    "Tag": "[daily]",
+    "Ranks": []
+  },
+  {
+    "ID": 102,
+    "Name": "Daily.Arcanists.Kill",
+    "Group": null,
+    "ImageIcon": null,
+    "Tag": "[daily]",
+    "Ranks": []
+  },
+  {
+    "ID": 103,
+    "Name": "Daily.Thorval.OutilRecolte",
+    "Group": null,
+    "ImageIcon": null,
+    "Tag": "[daily]",
+    "Ranks": []
+  },
+  {
+    "ID": 104,
+    "Name": "Daily.Gantras.Bois.Raonis",
+    "Group": null,
+    "ImageIcon": null,
+    "Tag": "[daily]",
+    "Ranks": []
+  },
+  {
+    "ID": 105,
+    "Name": "Daily.Gantras.Arme.Peuple",
+    "Group": null,
+    "ImageIcon": null,
+    "Tag": "[daily]",
+    "Ranks": []
+  },
+  {
+    "ID": 106,
+    "Name": "Rudugul at Altamire",
+    "Group": null,
+    "ImageIcon": "Flag03.png",
+    "Tag": "[Questline]",
+    "Ranks": []
+  },
+  {
+    "ID": 107,
+    "Name": "Milounala at Eligratine",
+    "Group": null,
+    "ImageIcon": "Flag03.png",
+    "Tag": "[Questline]",
+    "Ranks": []
+  },
+  {
+    "ID": 108,
+    "Name": "Zorkaza in Ridandoss",
+    "Group": null,
+    "ImageIcon": "Flag03.png",
+    "Tag": "[Questline]",
+    "Ranks": []
+  },
+  {
+    "ID": 109,
+    "Name": "Rollanko in Holdori",
+    "Group": null,
+    "ImageIcon": "Flag03.png",
+    "Tag": "[Questline]",
+    "Ranks": []
+  },
+  {
+    "ID": 110,
+    "Name": "Daily.Rose.Armurerie",
+    "Group": null,
+    "ImageIcon": null,
+    "Tag": "[daily]",
+    "Ranks": []
+  },
+  {
+    "ID": 111,
+    "Name": "Daily.Rose.Campement",
+    "Group": null,
+    "ImageIcon": null,
+    "Tag": "[daily]",
+    "Ranks": []
+  },
+  {
+    "ID": 112,
+    "Name": "Secrets of Enorwen",
+    "Group": null,
+    "ImageIcon": "Flag06.png",
+    "Tag": "[Questline]",
+    "Ranks": []
+  },
+  {
+    "ID": 113,
+    "Name": "Daily.Hippogriffe.Bed",
+    "Group": null,
+    "ImageIcon": null,
+    "Tag": "[daily]",
+    "Ranks": []
+  },
+  {
+    "ID": 114,
+    "Name": "Daily.Enorwen.Arme",
+    "Group": null,
+    "ImageIcon": null,
+    "Tag": "[daily]",
+    "Ranks": []
+  },
+  {
+    "ID": 115,
+    "Name": "Sink.ChevalNoir",
+    "Group": null,
+    "ImageIcon": null,
+    "Tag": "[sink]",
+    "Ranks": []
+  },
+  {
+    "ID": 116,
+    "Name": "Combat",
+    "Group": "XP",
+    "ImageIcon": "SkillCombat.png",
+    "Tag": "[CombatMaster]",
+    "Ranks": []
+  },
+  {
+    "ID": 117,
+    "Name": "Gathering",
+    "Group": "XP",
+    "ImageIcon": "SkillLumberjacking.png",
+    "Tag": "[GatherMaster]",
+    "Ranks": []
+  },
+  {
+    "ID": 118,
+    "Name": "Crafting",
+    "Group": "XP",
+    "ImageIcon": "SkillForge.png",
+    "Tag": "[CraftMaster]",
+    "Ranks": []
+  },
+  {
+    "ID": 119,
+    "Name": "Weapons",
+    "Group": null,
+    "ImageIcon": "MasteryCraftingWeapons.png",
+    "Tag": "[CraftMaster]",
+    "Ranks": []
+  },
+  {
+    "ID": 120,
+    "Name": "Armors",
+    "Group": null,
+    "ImageIcon": "MasteryCraftingArmor.png",
+    "Tag": "[CraftMaster]",
+    "Ranks": []
+  },
+  {
+    "ID": 121,
+    "Name": "Clothes",
+    "Group": null,
+    "ImageIcon": "MasteryCraftingCloth.png",
+    "Tag": "[CraftMaster]",
+    "Ranks": []
+  },
+  {
+    "ID": 122,
+    "Name": "Tools",
+    "Group": null,
+    "ImageIcon": "MasteryCraftingTools.png",
+    "Tag": "[CraftMaster]",
+    "Ranks": []
+  },
+  {
+    "ID": 123,
+    "Name": "Lumberjacking",
+    "Group": null,
+    "ImageIcon": "MasteryGatheringLumberjacking.png",
+    "Tag": "[GatherMaster]",
+    "Ranks": []
+  },
+  {
+    "ID": 124,
+    "Name": "Hunting",
+    "Group": null,
+    "ImageIcon": "MasteryGatheringHunting.png",
+    "Tag": "[GatherMaster]",
+    "Ranks": []
+  },
+  {
+    "ID": 125,
+    "Name": "Botany",
+    "Group": null,
+    "ImageIcon": "MasteryGatheringBotany.png",
+    "Tag": "[GatherMaster]",
+    "Ranks": []
+  },
+  {
+    "ID": 126,
+    "Name": "Mining",
+    "Group": null,
+    "ImageIcon": "MasteryGatheringMining.png",
+    "Tag": "[GatherMaster]",
+    "Ranks": []
+  },
+  {
+    "ID": 127,
+    "Name": "Keeper",
+    "Group": null,
+    "ImageIcon": "MasteryCombatKeeper.png",
+    "Tag": "[CombatMaster]",
+    "Ranks": []
+  },
+  {
+    "ID": 128,
+    "Name": "Hoarder",
+    "Group": null,
+    "ImageIcon": "MasteryCombatHoarder.png",
+    "Tag": "[CombatMaster]",
+    "Ranks": []
+  },
+  {
+    "ID": 129,
+    "Name": "Pathfinder",
+    "Group": null,
+    "ImageIcon": "MasteryCombatPathfinder.png",
+    "Tag": "[CombatMaster]",
+    "Ranks": []
+  },
+  {
+    "ID": 130,
+    "Name": "Tactician",
+    "Group": null,
+    "ImageIcon": "MasteryCombatSpecialist.png",
+    "Tag": "[CombatMaster]",
+    "Ranks": [
+      {
+        "ID": "968c62e3-da36-4026-8f62-0263f9a10490",
+        "Name": "Tactician",
+        "Amount": 6
+      }
+    ]
+  },
+  {
+    "ID": 131,
+    "Name": "Jewelry",
+    "Group": null,
+    "ImageIcon": "MasteryCraftingJewelry.png",
+    "Tag": "[CraftMaster]",
+    "Ranks": []
+  },
+  {
+    "ID": 132,
+    "Name": "Mores of the fairies",
+    "Group": null,
+    "ImageIcon": "Flag04.png",
+    "Tag": "[Questline]",
+    "Ranks": []
+  },
+  {
+    "ID": 133,
+    "Name": "DetteArcaniste",
+    "Group": null,
+    "ImageIcon": null,
+    "Tag": null,
+    "Ranks": []
+  },
+  {
+    "ID": 134,
+    "Name": "DetteGriffe",
+    "Group": null,
+    "ImageIcon": null,
+    "Tag": null,
+    "Ranks": []
+  },
+  {
+    "ID": 135,
+    "Name": "DetteCaravane",
+    "Group": null,
+    "ImageIcon": null,
+    "Tag": null,
+    "Ranks": []
+  },
+  {
+    "ID": 136,
+    "Name": "DetteCercle",
+    "Group": null,
+    "ImageIcon": null,
+    "Tag": null,
+    "Ranks": []
+  },
+  {
+    "ID": 137,
+    "Name": "DetteHippo",
+    "Group": null,
+    "ImageIcon": null,
+    "Tag": null,
+    "Ranks": []
+  },
+  {
+    "ID": 138,
+    "Name": "DetteRose",
+    "Group": null,
+    "ImageIcon": null,
+    "Tag": null,
+    "Ranks": []
+  },
+  {
+    "ID": 139,
+    "Name": "Weekly.Thorval.PoisonParfum",
+    "Group": null,
+    "ImageIcon": null,
+    "Tag": "[weekly]",
+    "Ranks": []
+  },
+  {
+    "ID": 140,
+    "Name": "Secret.CousineVerdant",
+    "Group": null,
+    "ImageIcon": null,
+    "Tag": "[secret]",
+    "Ranks": []
+  },
+  {
+    "ID": 141,
+    "Name": "Secret.OrdreLotusGantras",
+    "Group": null,
+    "ImageIcon": null,
+    "Tag": "[secret]",
+    "Ranks": []
+  },
+  {
+    "ID": 142,
+    "Name": "Secret.VigilesAThorval",
+    "Group": null,
+    "ImageIcon": null,
+    "Tag": "[secret]",
+    "Ranks": []
+  },
+  {
+    "ID": 143,
+    "Name": "Secret.LaReveuseHoldori",
+    "Group": null,
+    "ImageIcon": null,
+    "Tag": "[secret]",
+    "Ranks": []
+  },
+  {
+    "ID": 144,
+    "Name": "Secret.CauchemarKortombe",
+    "Group": null,
+    "ImageIcon": null,
+    "Tag": "[secret]",
+    "Ranks": []
+  },
+  {
+    "ID": 145,
+    "Name": "Secret.Iktar",
+    "Group": null,
+    "ImageIcon": null,
+    "Tag": "[secret]",
+    "Ranks": []
+  },
+  {
+    "ID": 146,
+    "Name": "Secret.Cedric.Tarul",
+    "Group": null,
+    "ImageIcon": null,
+    "Tag": "[secret]",
+    "Ranks": []
+  },
+  {
+    "ID": 147,
+    "Name": "Secret.Charles.Tarul",
+    "Group": null,
+    "ImageIcon": null,
+    "Tag": "[secret]",
+    "Ranks": []
+  },
+  {
+    "ID": 148,
+    "Name": "Secret.Allié.Legal",
+    "Group": null,
+    "ImageIcon": null,
+    "Tag": "[secret]",
+    "Ranks": []
+  },
+  {
+    "ID": 149,
+    "Name": "Daily.Kortombe.Machine",
+    "Group": null,
+    "ImageIcon": null,
+    "Tag": "[daily]",
+    "Ranks": []
+  },
+  {
+    "ID": 151,
+    "Name": "Daily.Debug",
+    "Group": null,
+    "ImageIcon": null,
+    "Tag": "[daily]",
+    "Ranks": []
+  },
+  {
+    "ID": 152,
+    "Name": "Donjon.Scale",
+    "Group": null,
+    "ImageIcon": "TaskBoss02.png",
+    "Tag": null,
+    "Ranks": []
+  },
+  {
+    "ID": 153,
+    "Name": "Donjon.Scale.Track",
+    "Group": null,
+    "ImageIcon": null,
+    "Tag": null,
+    "Ranks": []
+  },
+  {
+    "ID": 154,
+    "Name": "Tarul's Trust",
+    "Group": null,
+    "ImageIcon": null,
+    "Tag": null,
+    "Ranks": []
+  },
+  {
+    "ID": 155,
+    "Name": "Myrtille Trust",
+    "Group": null,
+    "ImageIcon": null,
+    "Tag": null,
+    "Ranks": []
+  },
+  {
+    "ID": 156,
+    "Name": "Celestre's Trust",
+    "Group": null,
+    "ImageIcon": null,
+    "Tag": null,
+    "Ranks": []
+  },
+  {
+    "ID": 157,
+    "Name": "Relene's Trust",
+    "Group": null,
+    "ImageIcon": null,
+    "Tag": null,
+    "Ranks": []
+  },
+  {
+    "ID": 158,
+    "Name": "Weekly.Bonvoisin.Substance",
+    "Group": null,
+    "ImageIcon": null,
+    "Tag": "[weekly]",
+    "Ranks": []
+  },
+  {
+    "ID": 159,
+    "Name": "Weekly.Kortombe.Reine",
+    "Group": null,
+    "ImageIcon": null,
+    "Tag": "[weekly]",
+    "Ranks": []
+  },
+  {
+    "ID": 160,
+    "Name": "Sink.Col.Arcaniste",
+    "Group": null,
+    "ImageIcon": null,
+    "Tag": "[daily]",
+    "Ranks": []
+  },
+  {
+    "ID": 161,
+    "Name": "Sink.Col.Griffe",
+    "Group": null,
+    "ImageIcon": null,
+    "Tag": "[sink]",
+    "Ranks": []
+  },
+  {
+    "ID": 162,
+    "Name": "Sink.Col.Hippo",
+    "Group": null,
+    "ImageIcon": null,
+    "Tag": "[sink]",
+    "Ranks": []
+  },
+  {
+    "ID": 163,
+    "Name": "Sink.Col.Rose",
+    "Group": null,
+    "ImageIcon": null,
+    "Tag": "[sink]",
+    "Ranks": []
+  },
+  {
+    "ID": 164,
+    "Name": "Sink.Col.Cercle",
+    "Group": null,
+    "ImageIcon": null,
+    "Tag": "[sink]",
+    "Ranks": []
+  },
+  {
+    "ID": 165,
+    "Name": "Sink.Col.Caravane",
+    "Group": null,
+    "ImageIcon": null,
+    "Tag": "[sink]",
+    "Ranks": []
+  },
+  {
+    "ID": 166,
+    "Name": "Percebrume.Down",
+    "Group": null,
+    "ImageIcon": null,
+    "Tag": null,
+    "Ranks": []
+  }
+]

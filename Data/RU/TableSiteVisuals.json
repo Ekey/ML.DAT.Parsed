@@ -1,0 +1,42 @@
+[
+  {
+    "ID": "fd927a7a-803f-43bd-8ab7-0df849875688",
+    "Name": "Cliff Tower",
+    "ImageMap": "CliffTower.png"
+  },
+  {
+    "ID": "3c9bbe35-40ec-4549-8205-7687328d5eba",
+    "Name": "Fallen Ship",
+    "ImageMap": "FallenShip.png"
+  },
+  {
+    "ID": "68641e0e-5f8e-477e-a921-7f22707e8aef",
+    "Name": "Cave Entrrance Right",
+    "ImageMap": "CaveEntranceRight.png"
+  },
+  {
+    "ID": "4dbb0244-ebbf-4fc5-91dc-8cae2d496afe",
+    "Name": "Stable",
+    "ImageMap": "Stable.png"
+  },
+  {
+    "ID": "be56a076-6ecc-4285-8d71-9beacca14141",
+    "Name": "Cave Entrance Front",
+    "ImageMap": "CaveEntranceFront.png"
+  },
+  {
+    "ID": "1b83e084-8651-4943-ad85-a17fdd5d2ddf",
+    "Name": "Mine Entrance",
+    "ImageMap": "MineEntrace.png"
+  },
+  {
+    "ID": "ad3f29ac-c3df-4dca-ad3a-c1a6a178e09e",
+    "Name": "Giant Tree",
+    "ImageMap": "GiantTree.png"
+  },
+  {
+    "ID": "70fea4c6-3b04-4e49-b130-e85081029e47",
+    "Name": "Lumber Mill",
+    "ImageMap": "LumberMill.png"
+  }
+]

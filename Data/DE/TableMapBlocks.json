@@ -1,0 +1,114 @@
+[
+  {
+    "ID": "fc0c197a-c156-440d-9079-03a82ca57d58",
+    "X": 12289,
+    "Y": 13273,
+    "Radius": 25,
+    "Image": "MapBlockBridge01"
+  },
+  {
+    "ID": "922d8a32-7fac-4455-9324-151508060d57",
+    "X": 10357,
+    "Y": 9996,
+    "Radius": 20,
+    "Image": null
+  },
+  {
+    "ID": "c0f9e75d-d942-4339-8aa8-260358fde2e0",
+    "X": 37562,
+    "Y": 896,
+    "Radius": 40,
+    "Image": "ElemCaveWindWall"
+  },
+  {
+    "ID": "20be49d4-b277-4992-8a5b-6c7b3a2dbad5",
+    "X": 38640,
+    "Y": 1550,
+    "Radius": 40,
+    "Image": "ElemCaveFireWall"
+  },
+  {
+    "ID": "b7d5b82e-339e-4990-bcea-82f5261553bb",
+    "X": 38997,
+    "Y": 1004,
+    "Radius": 60,
+    "Image": "ElemCaveIceWall"
+  },
+  {
+    "ID": "a653c999-57ee-4701-af28-86f7e50d7489",
+    "X": 32803,
+    "Y": 9126,
+    "Radius": 20,
+    "Image": null
+  },
+  {
+    "ID": "55554ade-3109-44d8-bd57-91097b6279ea",
+    "X": 9616,
+    "Y": 15027,
+    "Radius": 30,
+    "Image": null
+  },
+  {
+    "ID": "7c39a531-a1d1-4830-a7df-9f260a81772e",
+    "X": 11204,
+    "Y": 15506,
+    "Radius": 20,
+    "Image": null
+  },
+  {
+    "ID": "eca33ca8-a261-4e82-8e61-a6137d9bf579",
+    "X": 9509,
+    "Y": 19354,
+    "Radius": 50,
+    "Image": null
+  },
+  {
+    "ID": "91bdb5c4-c82e-4873-a2cf-bf0807bf2ca3",
+    "X": 35776,
+    "Y": 8785,
+    "Radius": 70,
+    "Image": "LithoSideDoor"
+  },
+  {
+    "ID": "6e4abc51-b710-46b1-b8e9-cc65628dd333",
+    "X": 10773,
+    "Y": 9281,
+    "Radius": 20,
+    "Image": null
+  },
+  {
+    "ID": "b47b98c2-0f90-4677-a3ed-d5f84dd8014f",
+    "X": 12677,
+    "Y": 13166,
+    "Radius": 23,
+    "Image": null
+  },
+  {
+    "ID": "7e8e58ba-11c6-448f-a586-d67d3a0e8793",
+    "X": 35538,
+    "Y": 7778,
+    "Radius": 90,
+    "Image": "LithoTrap"
+  },
+  {
+    "ID": "605ea881-3158-42e1-a087-d808d8c8a189",
+    "X": 10559,
+    "Y": 9378,
+    "Radius": 20,
+    "Image": null
+  },
+  {
+    "ID": "b4ad11e7-7fc9-4d44-a68d-d872a4802fcf",
+    "X": 35162,
+    "Y": 7659,
+    "Radius": 140,
+    "Image": "LithoMainDoor"
+  },
+  {
+    "ID": "131c11bd-5af0-4b98-b962-dc9d60f4d0df",
+    "X": 32447,
+    "Y": 8769,
+    "Radius": 20,
+    "Image": null
+  }
+]

@@ -1,0 +1,4913 @@
+[
+  {
+    "ID": "cb52609f-e02a-4ebf-857b-00b1c51b2279",
+    "Name": "Kampftanz",
+    "GroupID": "5e40fa86-2fd6-4eec-a710-6f8df515e86d",
+    "AbilityIDs": [
+      "c9ac5234-dba3-48aa-8b87-fa40f20a7a10"
+    ],
+    "AlterationIDs": [
+      "4ad0ea69-1a4c-4917-93bf-59e17b760981"
+    ],
+    "RootTalentID": "cf488a61-6681-455e-aa69-9eca2ecca24e",
+    "Level": 3
+  },
+  {
+    "ID": "dca4ced0-5705-4345-8631-01b6f392507c",
+    "Name": "Boomrangwurf",
+    "GroupID": "6364ff6f-ff8d-4e77-94c8-01254cc1c124",
+    "AbilityIDs": [
+      "be7f5601-6c7f-4810-897d-4b44eb3c11da"
+    ],
+    "AlterationIDs": [],
+    "RootTalentID": "598d5a76-9735-45bc-bb3f-813b5a7ac6a1",
+    "Level": 2
+  },
+  {
+    "ID": "9690529e-754f-402d-b526-01e7ad9684da",
+    "Name": "Trotziger Schrei",
+    "GroupID": "d38b54b9-90e9-4605-b419-43be86f894c6",
+    "AbilityIDs": [
+      "2032bb5a-164a-4a06-9471-3301df1c2688"
+    ],
+    "AlterationIDs": [],
+    "RootTalentID": "9e07bbab-7059-498a-8c23-5e4ff8aad14e",
+    "Level": 3
+  },
+  {
+    "ID": "015c7de9-40c6-4f2c-90ed-02812641e97f",
+    "Name": "Immunität gegen Gift",
+    "GroupID": null,
+    "AbilityIDs": [],
+    "AlterationIDs": [
+      "a8fef27a-71af-453f-b5cb-10159b8fc286"
+    ],
+    "RootTalentID": null,
+    "Level": 1
+  },
+  {
+    "ID": "78b2ae75-7bda-4a8b-b64e-02b5ee3ef2bb",
+    "Name": "Abwehrhaltung",
+    "GroupID": "d38b54b9-90e9-4605-b419-43be86f894c6",
+    "AbilityIDs": [
+      "0d41d1e0-8fb4-4221-ad3d-a272f1710217"
+    ],
+    "AlterationIDs": [],
+    "RootTalentID": "d2d24711-0fbe-4d71-ab74-f6cf989c4382",
+    "Level": 5
+  },
+  {
+    "ID": "7b8c921a-6a33-4522-a1de-0419147b7445",
+    "Name": "Mega Nova v2.14 r3",
+    "GroupID": null,
+    "AbilityIDs": [
+      "3a4c2d7d-076f-467d-930d-89035586016d"
+    ],
+    "AlterationIDs": [],
+    "RootTalentID": null,
+    "Level": 1
+  },
+  {
+    "ID": "5cceee75-b5bf-4b03-bf67-0641fb3795a0",
+    "Name": "Pilzausbruch",
+    "GroupID": null,
+    "AbilityIDs": [],
+    "AlterationIDs": [
+      "0268b9e8-16a3-4052-813e-5c0a4e550415"
+    ],
+    "RootTalentID": null,
+    "Level": 1
+  },
+  {
+    "ID": "aaec7d7b-9e43-4f5b-9729-071bc3bdc779",
+    "Name": "Toxischer Pfeil ",
+    "GroupID": null,
+    "AbilityIDs": [
+      "aa639e1a-b301-40d1-b928-5a79f1d4aa9b"
+    ],
+    "AlterationIDs": [],
+    "RootTalentID": "a205647f-934f-451b-a80a-68342135ae62",
+    "Level": 3
+  },
+  {
+    "ID": "3c400914-731a-4612-b454-08011d1115fb",
+    "Name": "Giftige Reißzähne",
+    "GroupID": null,
+    "AbilityIDs": [],
+    "AlterationIDs": [
+      "f2e3c272-abea-40ea-bb5f-625c6387917d"
+    ],
+    "RootTalentID": null,
+    "Level": 3
+  },
+  {
+    "ID": "730489cc-d3e4-4825-a83d-08514c7d0d65",
+    "Name": "Taktischer Plan",
+    "GroupID": "6364ff6f-ff8d-4e77-94c8-01254cc1c124",
+    "AbilityIDs": [
+      "c18f42aa-78ed-42d1-bc6b-660a0892c684"
+    ],
+    "AlterationIDs": [],
+    "RootTalentID": "d6c4d11d-f4dc-454e-9e8f-7e718f34e5c5",
+    "Level": 2
+  },
+  {
+    "ID": "c12dfeb9-8379-4d56-950e-08822ca4e102",
+    "Name": "Rachsüchtiger Geist",
+    "GroupID": "6147edf4-e18a-4ad4-9191-46e6d3c3be3d",
+    "AbilityIDs": [
+      "a922ac9b-fd55-413c-9eac-50a42bd289fc"
+    ],
+    "AlterationIDs": [
+      "8f02ece0-ec98-4c14-8657-d2b960aa9908"
+    ],
+    "RootTalentID": "3fa46c73-bab2-4db8-a680-8a53132692d6",
+    "Level": 3
+  },
+  {
+    "ID": "8548ffe8-ec7b-4057-8c05-08838f29d290",
+    "Name": "Schlachtruf",
+    "GroupID": "6147edf4-e18a-4ad4-9191-46e6d3c3be3d",
+    "AbilityIDs": [
+      "062a7f54-f444-460d-9212-dcc3265743c2"
+    ],
+    "AlterationIDs": [],
+    "RootTalentID": "8548ffe8-ec7b-4057-8c05-08838f29d290",
+    "Level": 1
+  },
+  {
+    "ID": "8cb64a32-ee0a-4d72-b14f-08b99aefd915",
+    "Name": "Vortex",
+    "GroupID": "a8089727-b446-4322-b8b4-8a6cdba9f47e",
+    "AbilityIDs": [
+      "311bb20f-250b-4321-8576-8de1db9446db"
+    ],
+    "AlterationIDs": [],
+    "RootTalentID": "86391dda-ecd2-4dd1-be72-88ea20e17dc8",
+    "Level": 4
+  },
+  {
+    "ID": "addfb4c6-7857-4e0d-b408-090ace561961",
+    "Name": "Weisheit",
+    "GroupID": "a8089727-b446-4322-b8b4-8a6cdba9f47e",
+    "AbilityIDs": [
+      "7c9c3abd-c5c7-4cf1-8458-39de8e8643fe"
+    ],
+    "AlterationIDs": [
+      "f16adb8b-401a-4805-9b34-ec86ece52e9d"
+    ],
+    "RootTalentID": "913abd4c-c9a4-4b99-9699-f6886ecbaa5d",
+    "Level": 4
+  },
+  {
+    "ID": "66a4ea51-c74a-44e8-a00a-098aac7f9cb4",
+    "Name": "Feuerbeschwörung",
+    "GroupID": null,
+    "AbilityIDs": [
+      "7bc47bf5-ee14-4501-a04c-f5f7dbe6bd0c"
+    ],
+    "AlterationIDs": [],
+    "RootTalentID": null,
+    "Level": 2
+  },
+  {
+    "ID": "cee0c3de-6e1d-4e40-88e1-0a81766ec8e4",
+    "Name": "Sprungschlag",
+    "GroupID": "6364ff6f-ff8d-4e77-94c8-01254cc1c124",
+    "AbilityIDs": [
+      "b86f3516-4b01-491c-a8a6-0866a0d029cb"
+    ],
+    "AlterationIDs": [],
+    "RootTalentID": "f2f69a6b-0799-4444-87f8-62976439db74",
+    "Level": 2
+  },
+  {
+    "ID": "8dba2bab-9383-47b6-aff4-0ad5f9512350",
+    "Name": "Heiliganfälligkeit",
+    "GroupID": null,
+    "AbilityIDs": [],
+    "AlterationIDs": [
+      "20b97efe-c163-44d6-9f9c-abc0cd6bc488"
+    ],
+    "RootTalentID": null,
+    "Level": 1
+  },
+  {
+    "ID": "2c232346-0e72-4cc5-aca0-0b49fd81eaee",
+    "Name": "Flugversuch",
+    "GroupID": null,
+    "AbilityIDs": [
+      "0cd19429-82c6-4d1e-a951-4daf71606ea0"
+    ],
+    "AlterationIDs": [],
+    "RootTalentID": null,
+    "Level": 1
+  },
+  {
+    "ID": "7b7b604f-86d8-4366-9fa3-0c823bf532a8",
+    "Name": "Wütend werden",
+    "GroupID": "6147edf4-e18a-4ad4-9191-46e6d3c3be3d",
+    "AbilityIDs": [
+      "c110e8e3-c9a1-4719-aea3-85c059c87951"
+    ],
+    "AlterationIDs": [],
+    "RootTalentID": "7b7b604f-86d8-4366-9fa3-0c823bf532a8",
+    "Level": 1
+  },
+  {
+    "ID": "87618427-ea9c-4c25-8368-0ce33fba185a",
+    "Name": "Mini-Boss",
+    "GroupID": null,
+    "AbilityIDs": [],
+    "AlterationIDs": [
+      "6e97dd91-de45-4fa6-a509-2f7f24e79ed2",
+      "9f1497a6-e175-4ae0-a32b-63b503f03fa2",
+      "8c7cf2a6-f907-4e03-865e-be98ab3fb674"
+    ],
+    "RootTalentID": null,
+    "Level": 1
+  },
+  {
+    "ID": "e0e84160-a54c-483e-83c1-0d01e6ca88bf",
+    "Name": "Schneller Verstand",
+    "GroupID": "6364ff6f-ff8d-4e77-94c8-01254cc1c124",
+    "AbilityIDs": [
+      "52754ff8-38af-4990-8688-6ace3b23d0c1"
+    ],
+    "AlterationIDs": [
+      "8aaa722b-627f-4e96-ba5d-6172a9665544"
+    ],
+    "RootTalentID": "e0e84160-a54c-483e-83c1-0d01e6ca88bf",
+    "Level": 1
+  },
+  {
+    "ID": "6398c86b-7c31-4a65-a323-0ed00a51009b",
+    "Name": "Wiederherstellen",
+    "GroupID": "5c48bc79-55ff-4dfc-be39-d44ba3ec516f",
+    "AbilityIDs": [
+      "11e03550-1345-408f-88f1-d899de49d959"
+    ],
+    "AlterationIDs": [],
+    "RootTalentID": "6398c86b-7c31-4a65-a323-0ed00a51009b",
+    "Level": 1
+  },
+  {
+    "ID": "b2e27207-a99e-405b-acd6-0f11f28ef777",
+    "Name": "Kraft",
+    "GroupID": "6364ff6f-ff8d-4e77-94c8-01254cc1c124",
+    "AbilityIDs": [
+      "11b46294-ef2b-49d1-9b03-b3149a45b009"
+    ],
+    "AlterationIDs": [],
+    "RootTalentID": "f1611a28-1541-40b1-b6e5-1f7be6082442",
+    "Level": 2
+  },
+  {
+    "ID": "1af59af2-7ac4-4df4-81ee-10b0379ef024",
+    "Name": "Knochenkauen",
+    "GroupID": null,
+    "AbilityIDs": [
+      "a333b043-f90e-46ca-9e30-dbad05a3229e"
+    ],
+    "AlterationIDs": [],
+    "RootTalentID": "55f49ba4-6104-41a8-9639-13c9d3b2d2cb",
+    "Level": 3
+  },
+  {
+    "ID": "be89910d-8896-4551-9083-10f620d90e89",
+    "Name": "Verbrennen",
+    "GroupID": "a8089727-b446-4322-b8b4-8a6cdba9f47e",
+    "AbilityIDs": [
+      "ed766a91-eb8a-4c58-a412-9a293a75f427"
+    ],
+    "AlterationIDs": [],
+    "RootTalentID": "6d0c8109-f5d8-4049-b796-d81b0caa72ed",
+    "Level": 3
+  },
+  {
+    "ID": "fb6eb667-0fd2-4206-9f6b-1105bec80c1c",
+    "Name": "Meister des Wassers",
+    "GroupID": null,
+    "AbilityIDs": [],
+    "AlterationIDs": [
+      "d13f3f86-96eb-46ce-991c-cf9b3958ed5f"
+    ],
+    "RootTalentID": null,
+    "Level": 1
+  },
+  {
+    "ID": "825fcd3a-1aef-4123-a02c-11636fe1efa6",
+    "Name": "Magischer Schutz",
+    "GroupID": null,
+    "AbilityIDs": [],
+    "AlterationIDs": [
+      "be0a60eb-97c2-4b02-8398-f900e29dbdcf"
+    ],
+    "RootTalentID": null,
+    "Level": 1
+  },
+  {
+    "ID": "07a173c5-12d8-4098-abd4-117a871361db",
+    "Name": "Zermalmen",
+    "GroupID": null,
+    "AbilityIDs": [
+      "cc42d9ec-cf2f-4ff4-b10c-6dd2544ee201"
+    ],
+    "AlterationIDs": [],
+    "RootTalentID": null,
+    "Level": 1
+  },
+  {
+    "ID": "b37d2644-c5fe-4f1f-8b4a-119da6761b7a",
+    "Name": "Winters Beschwörung",
+    "GroupID": "a8089727-b446-4322-b8b4-8a6cdba9f47e",
+    "AbilityIDs": [
+      "d953cef1-0ecd-4e5e-85f9-0f29175ca436"
+    ],
+    "AlterationIDs": [],
+    "RootTalentID": "b37d2644-c5fe-4f1f-8b4a-119da6761b7a",
+    "Level": 1
+  },
+  {
+    "ID": "d973ffcd-4bdf-4482-bec0-11e258359362",
+    "Name": "Blendendes Flimmern",
+    "GroupID": null,
+    "AbilityIDs": [
+      "ac73b58f-cd2c-4eb2-be54-2f6254b3a64a"
+    ],
+    "AlterationIDs": [],
+    "RootTalentID": null,
+    "Level": 1
+  },
+  {
+    "ID": "69214708-9107-4c83-9ced-11ebdb98c1a5",
+    "Name": "Zorn",
+    "GroupID": null,
+    "AbilityIDs": [
+      "aab754d1-76cf-437a-9670-c528293a8016"
+    ],
+    "AlterationIDs": [],
+    "RootTalentID": null,
+    "Level": 1
+  },
+  {
+    "ID": "55f49ba4-6104-41a8-9639-13c9d3b2d2cb",
+    "Name": "Knochenkauen",
+    "GroupID": null,
+    "AbilityIDs": [
+      "8a2c1280-e385-4c11-8971-78ad8c68624f"
+    ],
+    "AlterationIDs": [],
+    "RootTalentID": "55f49ba4-6104-41a8-9639-13c9d3b2d2cb",
+    "Level": 1
+  },
+  {
+    "ID": "7a050b7b-cc10-42dc-979f-13ebecaa1bce",
+    "Name": "Ausweichen",
+    "GroupID": "6364ff6f-ff8d-4e77-94c8-01254cc1c124",
+    "AbilityIDs": [
+      "d18da27b-a7e5-41b7-aaab-128dc9cdf2e9"
+    ],
+    "AlterationIDs": [],
+    "RootTalentID": "ab5d6bde-f677-4d45-b2bb-a180775261bd",
+    "Level": 3
+  },
+  {
+    "ID": "863e93ff-a2da-4cb1-86aa-14ba14d98349",
+    "Name": "Zermalmender Strahl",
+    "GroupID": null,
+    "AbilityIDs": [
+      "7ca4a6b4-e003-41ee-a68c-ce3e0895def9"
+    ],
+    "AlterationIDs": [],
+    "RootTalentID": null,
+    "Level": 1
+  },
+  {
+    "ID": "9ac502cf-5d61-43ad-99ba-1672e060951d",
+    "Name": "Glänzender Schlag",
+    "GroupID": "5c48bc79-55ff-4dfc-be39-d44ba3ec516f",
+    "AbilityIDs": [
+      "1f24c115-4e3b-42d3-be0f-d978983325c3"
+    ],
+    "AlterationIDs": [],
+    "RootTalentID": "6195fab3-b263-4679-b926-ab8be25da83a",
+    "Level": 4
+  },
+  {
+    "ID": "f48ec79b-2bd3-4341-aa23-167e6d989eb2",
+    "Name": "Feuerbeschwörung",
+    "GroupID": null,
+    "AbilityIDs": [
+      "97e7af2c-c72d-4dcb-9cff-be610201fb70"
+    ],
+    "AlterationIDs": [],
+    "RootTalentID": null,
+    "Level": 1
+  },
+  {
+    "ID": "69dabe80-5f79-471f-afdf-16bb968b0124",
+    "Name": "Exekutieren",
+    "GroupID": "6147edf4-e18a-4ad4-9191-46e6d3c3be3d",
+    "AbilityIDs": [
+      "5a2f5dc4-9f8f-4503-a311-98000bf993a8"
+    ],
+    "AlterationIDs": [],
+    "RootTalentID": "20977412-ba8f-495c-b6b8-b148a6c57483",
+    "Level": 3
+  },
+  {
+    "ID": "0e47a806-15e7-4f0f-ae8b-1786edb9e60d",
+    "Name": "Exekutieren",
+    "GroupID": "6147edf4-e18a-4ad4-9191-46e6d3c3be3d",
+    "AbilityIDs": [
+      "09794765-76f3-4bee-8dfd-8c91c64255af"
+    ],
+    "AlterationIDs": [],
+    "RootTalentID": "20977412-ba8f-495c-b6b8-b148a6c57483",
+    "Level": 2
+  },
+  {
+    "ID": "7c0dae2f-d558-4691-be59-17e4726d86f3",
+    "Name": "Schlachtruf",
+    "GroupID": "6147edf4-e18a-4ad4-9191-46e6d3c3be3d",
+    "AbilityIDs": [
+      "b7a699e3-d6ea-4623-b9a0-e0a20508b9b0"
+    ],
+    "AlterationIDs": [],
+    "RootTalentID": "8548ffe8-ec7b-4057-8c05-08838f29d290",
+    "Level": 3
+  },
+  {
+    "ID": "2e6cb1ce-05f9-4d9d-aeb5-18f4a9429737",
+    "Name": "Verstärkter Schlag",
+    "GroupID": null,
+    "AbilityIDs": [
+      "bc4539b0-3a34-4230-a537-a0f27cce11c0"
+    ],
+    "AlterationIDs": [],
+    "RootTalentID": null,
+    "Level": 1
+  },
+  {
+    "ID": "84796cc4-edff-4be5-8ce9-198c04251248",
+    "Name": "Gift heilen",
+    "GroupID": "5c48bc79-55ff-4dfc-be39-d44ba3ec516f",
+    "AbilityIDs": [
+      "eb9688dd-1871-47e4-b0ae-0cb339997696"
+    ],
+    "AlterationIDs": [],
+    "RootTalentID": "855e332a-01f1-4766-89b8-8b7191d14260",
+    "Level": 2
+  },
+  {
+    "ID": "6b94ff97-0b99-4b1a-a93e-1abb734244c6",
+    "Name": "Blutiger Stich",
+    "GroupID": null,
+    "AbilityIDs": [
+      "a95a7500-fd1c-40b1-acc2-c436ae003e41"
+    ],
+    "AlterationIDs": [],
+    "RootTalentID": "0f08513a-e38c-429e-ac0d-3432fd6b0006",
+    "Level": 2
+  },
+  {
+    "ID": "17ee7871-c154-4d61-8709-1b4fd5621adb",
+    "Name": "Feueranfälligkeit",
+    "GroupID": null,
+    "AbilityIDs": [],
+    "AlterationIDs": [
+      "5e401094-694b-4e6a-a483-808b52f67274"
+    ],
+    "RootTalentID": null,
+    "Level": 1
+  },
+  {
+    "ID": "a7ee3920-a72d-44bc-8131-1b6f10cab7e9",
+    "Name": "Scharfe Reißzähne",
+    "GroupID": null,
+    "AbilityIDs": [],
+    "AlterationIDs": [
+      "7decb5e5-ef1a-43cd-b6a9-c2ec7a8694e4"
+    ],
+    "RootTalentID": null,
+    "Level": 3
+  },
+  {
+    "ID": "519a1d5a-3e2c-491d-9f42-1be28d71b44c",
+    "Name": "Kampftanz",
+    "GroupID": "5e40fa86-2fd6-4eec-a710-6f8df515e86d",
+    "AbilityIDs": [
+      "0f1abaf5-8542-43a8-931f-35d7a18b55f6"
+    ],
+    "AlterationIDs": [
+      "2a720604-ea22-46d6-93df-45113f1ee46b"
+    ],
+    "RootTalentID": "cf488a61-6681-455e-aa69-9eca2ecca24e",
+    "Level": 2
+  },
+  {
+    "ID": "f6ee5d5d-7f5b-406e-b6fe-1c0651a1aca0",
+    "Name": "Flüchtiges Feuer",
+    "GroupID": null,
+    "AbilityIDs": [
+      "84b06eef-a75d-4f54-b661-cf9add55a973"
+    ],
+    "AlterationIDs": [],
+    "RootTalentID": null,
+    "Level": 2
+  },
+  {
+    "ID": "2738b057-a2da-431d-a4b2-1c1af90bff23",
+    "Name": "Pfotenschlag",
+    "GroupID": null,
+    "AbilityIDs": [
+      "a00605f4-9bad-4864-b389-502d3f5eacee"
+    ],
+    "AlterationIDs": [],
+    "RootTalentID": null,
+    "Level": 3
+  },
+  {
+    "ID": "e59d6c25-5a87-4521-918a-1ca214104be9",
+    "Name": "Niederschlagen",
+    "GroupID": "5e40fa86-2fd6-4eec-a710-6f8df515e86d",
+    "AbilityIDs": [
+      "f49e4c1c-e3c5-4ecb-92b4-ae09a490711a"
+    ],
+    "AlterationIDs": [],
+    "RootTalentID": "e59d6c25-5a87-4521-918a-1ca214104be9",
+    "Level": 1
+  },
+  {
+    "ID": "b92f0bfd-627c-4e0e-b88a-1cf69f459b3b",
+    "Name": "Zweigsturm",
+    "GroupID": null,
+    "AbilityIDs": [
+      "43d732ef-7da2-4626-a1fd-84696a93a89f"
+    ],
+    "AlterationIDs": [],
+    "RootTalentID": null,
+    "Level": 1
+  },
+  {
+    "ID": "43688298-4d36-4b15-89ac-1d25be2f4635",
+    "Name": "Gegenwind",
+    "GroupID": null,
+    "AbilityIDs": [
+      "40cde7c7-1341-4db3-92d7-a42f47bd7673"
+    ],
+    "AlterationIDs": [],
+    "RootTalentID": "43688298-4d36-4b15-89ac-1d25be2f4635",
+    "Level": 1
+  },
+  {
+    "ID": "504f8b4d-635b-4587-acf3-1d72a613e72b",
+    "Name": "Gift heilen",
+    "GroupID": "5c48bc79-55ff-4dfc-be39-d44ba3ec516f",
+    "AbilityIDs": [
+      "2d0dd8f9-012b-4692-a1c9-292bc0b87554"
+    ],
+    "AlterationIDs": [],
+    "RootTalentID": "855e332a-01f1-4766-89b8-8b7191d14260",
+    "Level": 3
+  },
+  {
+    "ID": "cc00947b-4b3e-457c-b227-1e6be78fbc5f",
+    "Name": "Diskret",
+    "GroupID": "5c48bc79-55ff-4dfc-be39-d44ba3ec516f",
+    "AbilityIDs": [
+      "9561c67c-eb40-49e6-83db-761ffa0a0d23"
+    ],
+    "AlterationIDs": [
+      "b945a237-1a29-4d21-9607-1e7c0e06678d"
+    ],
+    "RootTalentID": "820110e1-6c5d-43af-b202-45bd36b23212",
+    "Level": 2
+  },
+  {
+    "ID": "a75ce15a-4867-49a5-b173-1ef12c4964be",
+    "Name": "Doppelschlag",
+    "GroupID": "5e40fa86-2fd6-4eec-a710-6f8df515e86d",
+    "AbilityIDs": [
+      "01a74499-b478-41d5-afa6-732bea281a7a"
+    ],
+    "AlterationIDs": [],
+    "RootTalentID": "6e0ef28c-9756-4133-bd69-467585cdb700",
+    "Level": 3
+  },
+  {
+    "ID": "f1611a28-1541-40b1-b6e5-1f7be6082442",
+    "Name": "Kraft",
+    "GroupID": "6364ff6f-ff8d-4e77-94c8-01254cc1c124",
+    "AbilityIDs": [
+      "dddd0d9a-1e70-4485-bda6-340f67b3b1a5"
+    ],
+    "AlterationIDs": [],
+    "RootTalentID": "f1611a28-1541-40b1-b6e5-1f7be6082442",
+    "Level": 1
+  },
+  {
+    "ID": "1d5138ff-f411-4e66-8c92-1fc011fcce00",
+    "Name": "Beschützer",
+    "GroupID": "d38b54b9-90e9-4605-b419-43be86f894c6",
+    "AbilityIDs": [
+      "fe0b5425-e514-4a5d-887d-c5834c6edeed"
+    ],
+    "AlterationIDs": [
+      "0949050f-9ef2-45ad-95c8-a892c93c1100"
+    ],
+    "RootTalentID": "1d5138ff-f411-4e66-8c92-1fc011fcce00",
+    "Level": 1
+  },
+  {
+    "ID": "5d24252e-4202-4230-b860-24770f477f7a",
+    "Name": "Ablenkung",
+    "GroupID": "d38b54b9-90e9-4605-b419-43be86f894c6",
+    "AbilityIDs": [
+      "299a1a99-44e7-49b6-a3cc-3f36b5076247"
+    ],
+    "AlterationIDs": [],
+    "RootTalentID": "0c43d437-0fed-4f38-a631-8b72cc160f55",
+    "Level": 2
+  },
+  {
+    "ID": "96818399-f5f1-4029-943f-24b92ffe6d97",
+    "Name": "Beschützer",
+    "GroupID": "d38b54b9-90e9-4605-b419-43be86f894c6",
+    "AbilityIDs": [
+      "91314027-4b0c-4633-a889-9b5b74d6a3e7"
+    ],
+    "AlterationIDs": [
+      "6bfd20ae-218c-4d10-9c7a-b91818eef02f"
+    ],
+    "RootTalentID": "1d5138ff-f411-4e66-8c92-1fc011fcce00",
+    "Level": 9
+  },
+  {
+    "ID": "a31dfe0b-df11-4365-add9-258971dc9089",
+    "Name": "Revitalisieren",
+    "GroupID": "5c48bc79-55ff-4dfc-be39-d44ba3ec516f",
+    "AbilityIDs": [
+      "436c5bc8-f519-4301-aabc-b3dd9ab325a1"
+    ],
+    "AlterationIDs": [],
+    "RootTalentID": "a31dfe0b-df11-4365-add9-258971dc9089",
+    "Level": 1
+  },
+  {
+    "ID": "d9759e56-6326-4630-89d2-26127ef5becb",
+    "Name": "Feueratem",
+    "GroupID": null,
+    "AbilityIDs": [
+      "b308a3a0-7928-47d3-90a7-97914643a8d6"
+    ],
+    "AlterationIDs": [],
+    "RootTalentID": "d9759e56-6326-4630-89d2-26127ef5becb",
+    "Level": 2
+  },
+  {
+    "ID": "11b13029-30ce-4bca-aeef-265ec33f2050",
+    "Name": "Windanfälligkeit ",
+    "GroupID": null,
+    "AbilityIDs": [],
+    "AlterationIDs": [
+      "0d719bce-2241-497e-a65b-5df98b059574"
+    ],
+    "RootTalentID": null,
+    "Level": 1
+  },
+  {
+    "ID": "fd9ec589-427c-414d-941b-26ba3de3ffd1",
+    "Name": "Weitläufiger Schlag",
+    "GroupID": null,
+    "AbilityIDs": [
+      "1c3e1be9-a514-4c93-b3a0-c11a3e01bcb1"
+    ],
+    "AlterationIDs": [],
+    "RootTalentID": null,
+    "Level": 1
+  },
+  {
+    "ID": "9ea875a8-11e6-4a78-908e-27085fe1bdda",
+    "Name": "Schneesturm",
+    "GroupID": "a8089727-b446-4322-b8b4-8a6cdba9f47e",
+    "AbilityIDs": [
+      "31b58d5f-ada8-4629-ab5f-e00543f781b3"
+    ],
+    "AlterationIDs": [],
+    "RootTalentID": "8ea10cea-984c-4857-9796-3305950686f2",
+    "Level": 3
+  },
+  {
+    "ID": "f0cbead4-91fa-4baa-a1e6-282ebf7c61b0",
+    "Name": "Hauch",
+    "GroupID": "a8089727-b446-4322-b8b4-8a6cdba9f47e",
+    "AbilityIDs": [
+      "a344e9fb-78c2-4836-a366-80228f5c9ae9"
+    ],
+    "AlterationIDs": [],
+    "RootTalentID": "3ec7de07-b1b7-4678-9792-866def516675",
+    "Level": 4
+  },
+  {
+    "ID": "1fca537e-5158-432d-962f-2900915256cc",
+    "Name": "Physischer Widerstand",
+    "GroupID": null,
+    "AbilityIDs": [],
+    "AlterationIDs": [
+      "c90b9664-4075-4449-a6fc-e6a05ee90d34"
+    ],
+    "RootTalentID": null,
+    "Level": 1
+  },
+  {
+    "ID": "de61aac2-8428-4d1f-bf71-29a62d94d9a1",
+    "Name": "Schattenschritt",
+    "GroupID": "5e40fa86-2fd6-4eec-a710-6f8df515e86d",
+    "AbilityIDs": [
+      "f53cb3da-c2f5-45f2-90e4-aa8c1b82a4fa"
+    ],
+    "AlterationIDs": [],
+    "RootTalentID": "da29da36-2fa8-4327-936b-f06c15920346",
+    "Level": 3
+  },
+  {
+    "ID": "6f6fb982-5907-4607-b292-2a7ff6f32195",
+    "Name": "Stachelwurf",
+    "GroupID": null,
+    "AbilityIDs": [
+      "d9c90bd7-9e5a-4dd6-83f3-0d18e9f4cca3"
+    ],
+    "AlterationIDs": [],
+    "RootTalentID": null,
+    "Level": 1
+  },
+  {
+    "ID": "7161e623-0dc8-4e45-9a11-2a92fb6200c2",
+    "Name": "Bomb2Turn",
+    "GroupID": null,
+    "AbilityIDs": [],
+    "AlterationIDs": [
+      "dfc5020c-2335-426d-9cd0-25090d3f9416",
+      "d141638c-d029-40b7-8cdb-6e151bb3b373"
+    ],
+    "RootTalentID": null,
+    "Level": 1
+  },
+  {
+    "ID": "c931fe35-e66b-433c-961b-2b05bc7a769b",
+    "Name": "Scharfe Reißzähne",
+    "GroupID": null,
+    "AbilityIDs": [],
+    "AlterationIDs": [
+      "968f6c16-6ec2-482d-9cd4-dc29b3425e0e"
+    ],
+    "RootTalentID": null,
+    "Level": 2
+  },
+  {
+    "ID": "b8e4fc0e-c021-486d-b6cd-2b07c04d8bb9",
+    "Name": "Analysieren",
+    "GroupID": "6364ff6f-ff8d-4e77-94c8-01254cc1c124",
+    "AbilityIDs": [
+      "83ab0afd-c366-4ceb-a078-50c27edb570e"
+    ],
+    "AlterationIDs": [],
+    "RootTalentID": "b8e4fc0e-c021-486d-b6cd-2b07c04d8bb9",
+    "Level": 1
+  },
+  {
+    "ID": "c030a7e7-a0dd-4f10-8bf8-2b3d8ba1d648",
+    "Name": "Finsterer Schlag",
+    "GroupID": "5e40fa86-2fd6-4eec-a710-6f8df515e86d",
+    "AbilityIDs": [
+      "1264e247-260c-4c72-beb7-2d7d5bbec06e"
+    ],
+    "AlterationIDs": [],
+    "RootTalentID": "c030a7e7-a0dd-4f10-8bf8-2b3d8ba1d648",
+    "Level": 1
+  },
+  {
+    "ID": "a96ebba0-a467-46ed-b51f-2bff051c3881",
+    "Name": "Katzenartige Verstellung",
+    "GroupID": null,
+    "AbilityIDs": [
+      "c6bfc7ef-0458-4b34-8cd9-1c193b3ac443"
+    ],
+    "AlterationIDs": [],
+    "RootTalentID": null,
+    "Level": 2
+  },
+  {
+    "ID": "582757e1-2431-46df-bb93-2c0d7b27c3b8",
+    "Name": "Wasserstrahl",
+    "GroupID": "a8089727-b446-4322-b8b4-8a6cdba9f47e",
+    "AbilityIDs": [
+      "64360fc6-22cc-40e1-aa9c-a590e34c0ebe"
+    ],
+    "AlterationIDs": [],
+    "RootTalentID": "056f517f-f901-4000-90be-d6b76a32fe64",
+    "Level": 2
+  },
+  {
+    "ID": "f84e8b20-aecf-4c54-8ae0-2c6b58ae27bb",
+    "Name": "Springende Krallen",
+    "GroupID": null,
+    "AbilityIDs": [
+      "63b05656-aa59-4bad-907c-ab29f4610a49"
+    ],
+    "AlterationIDs": [],
+    "RootTalentID": "f84e8b20-aecf-4c54-8ae0-2c6b58ae27bb",
+    "Level": 1
+  },
+  {
+    "ID": "6641692c-5127-4a02-bc27-2c76b4e1c947",
+    "Name": "Beruhigen",
+    "GroupID": null,
+    "AbilityIDs": [],
+    "AlterationIDs": [
+      "31f8fddb-fbec-4f98-a162-4bcb030e1d74"
+    ],
+    "RootTalentID": null,
+    "Level": 4
+  },
+  {
+    "ID": "d055d8d8-e0b1-4b75-8db4-2db5e71ac492",
+    "Name": "Lichtblitz",
+    "GroupID": "5c48bc79-55ff-4dfc-be39-d44ba3ec516f",
+    "AbilityIDs": [
+      "e298c1e1-3bd0-41fb-9ed5-09366b20b087"
+    ],
+    "AlterationIDs": [],
+    "RootTalentID": "4195ab3d-a842-40ce-8e00-864d387642de",
+    "Level": 3
+  },
+  {
+    "ID": "e373165f-27a1-42a5-8155-2f24836daf88",
+    "Name": "Brandspezialist",
+    "GroupID": null,
+    "AbilityIDs": [],
+    "AlterationIDs": [
+      "baa88c08-ecc9-4205-8715-3aa0e4b197f2"
+    ],
+    "RootTalentID": null,
+    "Level": 1
+  },
+  {
+    "ID": "96cf2cf0-5ca2-45da-af01-2f43a759a295",
+    "Name": "Fliegend",
+    "GroupID": null,
+    "AbilityIDs": [],
+    "AlterationIDs": [
+      "0d719bce-2241-497e-a65b-5df98b059574",
+      "93fb3964-05e3-40d9-8f2e-75b6341547a7"
+    ],
+    "RootTalentID": null,
+    "Level": 1
+  },
+  {
+    "ID": "4ff9cdf4-fefd-4dcd-8351-2f5eee04399e",
+    "Name": "Eisbeschwörung",
+    "GroupID": null,
+    "AbilityIDs": [
+      "03dff70b-4ca2-4d3a-9edb-6db3667bc3c9"
+    ],
+    "AlterationIDs": [],
+    "RootTalentID": null,
+    "Level": 1
+  },
+  {
+    "ID": "856cd84d-bc0b-4c53-af3f-2ff0271ebefb",
+    "Name": "Ansturm",
+    "GroupID": "6147edf4-e18a-4ad4-9191-46e6d3c3be3d",
+    "AbilityIDs": [
+      "cec2d98d-95fa-47a7-94ff-41f48dd733c0"
+    ],
+    "AlterationIDs": [],
+    "RootTalentID": "f55633d4-4a98-4e3d-8ce8-9eb5b8f16150",
+    "Level": 2
+  },
+  {
+    "ID": "a8302dcb-7bd7-4e37-b4a1-3025a3ff32ce",
+    "Name": "Chelonisches Heiligtum",
+    "GroupID": null,
+    "AbilityIDs": [
+      "3e103a6d-a2d8-4d38-b7f8-db2f438ced9b"
+    ],
+    "AlterationIDs": [],
+    "RootTalentID": null,
+    "Level": 1
+  },
+  {
+    "ID": "cf5f97fb-a1b1-49c4-9784-30abccce661a",
+    "Name": "Taktischer Plan",
+    "GroupID": "6364ff6f-ff8d-4e77-94c8-01254cc1c124",
+    "AbilityIDs": [
+      "7918df32-2c98-46f0-887a-879bafb8c54e"
+    ],
+    "AlterationIDs": [],
+    "RootTalentID": "d6c4d11d-f4dc-454e-9e8f-7e718f34e5c5",
+    "Level": 3
+  },
+  {
+    "ID": "8ea10cea-984c-4857-9796-3305950686f2",
+    "Name": "Schneesturm",
+    "GroupID": "a8089727-b446-4322-b8b4-8a6cdba9f47e",
+    "AbilityIDs": [
+      "672bf8f3-2bbd-491e-9e0e-e55f09ca2f90"
+    ],
+    "AlterationIDs": [],
+    "RootTalentID": "8ea10cea-984c-4857-9796-3305950686f2",
+    "Level": 1
+  },
+  {
+    "ID": "e888bb46-c1b9-4ace-868f-332918d81b88",
+    "Name": "Wütend werden",
+    "GroupID": "6147edf4-e18a-4ad4-9191-46e6d3c3be3d",
+    "AbilityIDs": [
+      "17b57ebc-d1eb-495f-b925-b00823d224c9"
+    ],
+    "AlterationIDs": [],
+    "RootTalentID": "7b7b604f-86d8-4366-9fa3-0c823bf532a8",
+    "Level": 3
+  },
+  {
+    "ID": "54f72d57-e46e-4398-8bb7-33542a96f2c0",
+    "Name": "Niederschlagen",
+    "GroupID": "5e40fa86-2fd6-4eec-a710-6f8df515e86d",
+    "AbilityIDs": [
+      "7d47a524-8ce1-4026-bb60-bc1c8ab04e87"
+    ],
+    "AlterationIDs": [],
+    "RootTalentID": "e59d6c25-5a87-4521-918a-1ca214104be9",
+    "Level": 3
+  },
+  {
+    "ID": "0f08513a-e38c-429e-ac0d-3432fd6b0006",
+    "Name": "Blutiger Stich",
+    "GroupID": null,
+    "AbilityIDs": [
+      "de490eb4-3588-4888-8502-f89188ffd497"
+    ],
+    "AlterationIDs": [],
+    "RootTalentID": "0f08513a-e38c-429e-ac0d-3432fd6b0006",
+    "Level": 1
+  },
+  {
+    "ID": "7bf6f1dc-32d5-4b6e-919b-34ef47ecd0ee",
+    "Name": "Windbeschwörung",
+    "GroupID": null,
+    "AbilityIDs": [
+      "97514376-14c3-4783-bf98-0e92241517c9"
+    ],
+    "AlterationIDs": [],
+    "RootTalentID": null,
+    "Level": 1
+  },
+  {
+    "ID": "bd74397f-f3e4-4f9e-8abc-35351f5addb3",
+    "Name": "Blob",
+    "GroupID": null,
+    "AbilityIDs": [],
+    "AlterationIDs": [
+      "93ff7469-2091-4519-8461-0b01b0be5783"
+    ],
+    "RootTalentID": null,
+    "Level": 1
+  },
+  {
+    "ID": "487aa900-58c7-4cde-bd61-354479ce65b7",
+    "Name": "Entzünden",
+    "GroupID": "a8089727-b446-4322-b8b4-8a6cdba9f47e",
+    "AbilityIDs": [
+      "8aabe3c9-f428-4c5e-9823-a78f7158c3db"
+    ],
+    "AlterationIDs": [],
+    "RootTalentID": "487aa900-58c7-4cde-bd61-354479ce65b7",
+    "Level": 1
+  },
+  {
+    "ID": "7ce077e2-0d2b-49da-be37-35aca91e5c55",
+    "Name": "Überladung",
+    "GroupID": null,
+    "AbilityIDs": [
+      "6ca81374-ed77-4d1d-b830-4d04dd2ec8d4"
+    ],
+    "AlterationIDs": [],
+    "RootTalentID": null,
+    "Level": 1
+  },
+  {
+    "ID": "313ec38d-4ed4-4e8f-9d30-35e684a6edc5",
+    "Name": "Exposition",
+    "GroupID": "6364ff6f-ff8d-4e77-94c8-01254cc1c124",
+    "AbilityIDs": [
+      "b961517d-7482-4e84-98ef-cb7d9270ad0e"
+    ],
+    "AlterationIDs": [],
+    "RootTalentID": "79279e78-6687-4466-9e43-e05345cf5a29",
+    "Level": 2
+  },
+  {
+    "ID": "af78de81-ae8e-4b98-b395-364bd2e57f8f",
+    "Name": "Giftige Spucke",
+    "GroupID": null,
+    "AbilityIDs": [
+      "fbefb277-2cd4-4276-8106-c378ed7c63ed"
+    ],
+    "AlterationIDs": [],
+    "RootTalentID": null,
+    "Level": 1
+  },
+  {
+    "ID": "8b0315de-c863-494d-a4c0-36640859293e",
+    "Name": "Töte sie alle",
+    "GroupID": null,
+    "AbilityIDs": [
+      "98477f1f-1532-4454-acc4-d5817e5324d7"
+    ],
+    "AlterationIDs": [],
+    "RootTalentID": null,
+    "Level": 1
+  },
+  {
+    "ID": "304616e1-58dc-4773-9af8-3698a3cf62b6",
+    "Name": "Vernichten",
+    "GroupID": null,
+    "AbilityIDs": [
+      "324a5d24-8cc0-4ae0-90b0-39a543adf017"
+    ],
+    "AlterationIDs": [],
+    "RootTalentID": "784325bf-7aec-4121-88d8-939c9d21f886",
+    "Level": 2
+  },
+  {
+    "ID": "47d5877c-4e87-4b64-9dd4-36b98d85af27",
+    "Name": "Beruhigen",
+    "GroupID": null,
+    "AbilityIDs": [],
+    "AlterationIDs": [
+      "6d158ce8-b68e-495a-aa63-34bfa248d52d"
+    ],
+    "RootTalentID": null,
+    "Level": 2
+  },
+  {
+    "ID": "176daf5d-3c91-4e77-8508-376d0ac5467c",
+    "Name": "Blutiger Stich",
+    "GroupID": null,
+    "AbilityIDs": [
+      "80cdb654-8162-4fe1-9e6f-9b01af4ba317"
+    ],
+    "AlterationIDs": [],
+    "RootTalentID": "0f08513a-e38c-429e-ac0d-3432fd6b0006",
+    "Level": 3
+  },
+  {
+    "ID": "77eb6ecf-4e51-4f83-a17c-377235791f8a",
+    "Name": "Feueratem",
+    "GroupID": null,
+    "AbilityIDs": [
+      "9119e7c1-fccb-471b-8ddc-698336842de9"
+    ],
+    "AlterationIDs": [],
+    "RootTalentID": "d9759e56-6326-4630-89d2-26127ef5becb",
+    "Level": 3
+  },
+  {
+    "ID": "7f89c4f9-0eaa-44d3-9107-3841f819ddb8",
+    "Name": "Wirbelwind",
+    "GroupID": null,
+    "AbilityIDs": [
+      "4d4d6a7b-57a0-43f5-93b6-bfe39198cb0c"
+    ],
+    "AlterationIDs": [],
+    "RootTalentID": null,
+    "Level": 1
+  },
+  {
+    "ID": "abd51478-4049-4583-9230-3a9b628d8180",
+    "Name": "Dartwurf",
+    "GroupID": null,
+    "AbilityIDs": [
+      "805bb8a7-14c3-4a42-97b6-8690bc0b0dfe"
+    ],
+    "AlterationIDs": [],
+    "RootTalentID": "1198fccc-1236-4285-9f79-5a2934e6a445",
+    "Level": 4
+  },
+  {
+    "ID": "afcf9964-973d-478b-b886-3c525dbba1c2",
+    "Name": "Immunität gegen Gift",
+    "GroupID": null,
+    "AbilityIDs": [],
+    "AlterationIDs": [
+      "77569be9-bfe8-44be-b20c-7659b8f45d11"
+    ],
+    "RootTalentID": null,
+    "Level": 1
+  },
+  {
+    "ID": "658f8726-460f-4cf6-994d-3ef026a701ae",
+    "Name": "Verteidigen",
+    "GroupID": "d38b54b9-90e9-4605-b419-43be86f894c6",
+    "AbilityIDs": [
+      "2c0fc865-2bb0-490b-89ba-da5de1b8ddcc"
+    ],
+    "AlterationIDs": [],
+    "RootTalentID": "658f8726-460f-4cf6-994d-3ef026a701ae",
+    "Level": 1
+  },
+  {
+    "ID": "c6c91698-6f2b-4b74-a937-3f0ca78f01b9",
+    "Name": "Pfeilsalve",
+    "GroupID": null,
+    "AbilityIDs": [
+      "cd9a1195-9f06-4d17-a43b-c27f1d194c7c"
+    ],
+    "AlterationIDs": [],
+    "RootTalentID": "c6c91698-6f2b-4b74-a937-3f0ca78f01b9",
+    "Level": 1
+  },
+  {
+    "ID": "b6982144-032a-42c3-bd54-3f6485391e60",
+    "Name": "Schwarzer Traum",
+    "GroupID": null,
+    "AbilityIDs": [
+      "1ce7816b-1dea-4dc9-84c8-dad9560bb07a"
+    ],
+    "AlterationIDs": [],
+    "RootTalentID": null,
+    "Level": 1
+  },
+  {
+    "ID": "fc361725-0168-487e-83e3-3f8318bcb4e7",
+    "Name": "Wasserpfeil",
+    "GroupID": null,
+    "AbilityIDs": [
+      "fd742b8b-e7d8-43b7-8492-c30da826bd48"
+    ],
+    "AlterationIDs": [],
+    "RootTalentID": null,
+    "Level": 1
+  },
+  {
+    "ID": "deb3805d-5f81-471c-bcf6-3fb93107d2ca",
+    "Name": "Gegenklinge",
+    "GroupID": "d38b54b9-90e9-4605-b419-43be86f894c6",
+    "AbilityIDs": [
+      "0732fe61-59ec-4599-b0d5-a4da03ad820c"
+    ],
+    "AlterationIDs": [],
+    "RootTalentID": "deb3805d-5f81-471c-bcf6-3fb93107d2ca",
+    "Level": 1
+  },
+  {
+    "ID": "2e9457bd-0293-4a3b-a4f5-3fc458c729e6",
+    "Name": "Töte einen",
+    "GroupID": null,
+    "AbilityIDs": [
+      "2059053e-0956-4214-9f43-51603cb341b9"
+    ],
+    "AlterationIDs": [],
+    "RootTalentID": null,
+    "Level": 1
+  },
+  {
+    "ID": "c06c2e28-5fc7-4759-8c25-3fd42c8523f4",
+    "Name": "Fell",
+    "GroupID": null,
+    "AbilityIDs": [],
+    "AlterationIDs": [
+      "70004070-bcef-43ca-9b13-7e9250a891ea",
+      "8a36c0f3-64be-46d4-955d-c7db68d2894f"
+    ],
+    "RootTalentID": null,
+    "Level": 1
+  },
+  {
+    "ID": "fdb45988-13cc-48d9-94cc-4031582e03ce",
+    "Name": "Verbrennen",
+    "GroupID": "a8089727-b446-4322-b8b4-8a6cdba9f47e",
+    "AbilityIDs": [
+      "f5763f5c-5245-419a-9e9e-4a251f0a9c98"
+    ],
+    "AlterationIDs": [],
+    "RootTalentID": "6d0c8109-f5d8-4049-b796-d81b0caa72ed",
+    "Level": 5
+  },
+  {
+    "ID": "d7f5ade2-dff8-40a6-9910-414b540685e3",
+    "Name": "Wilder Biss",
+    "GroupID": null,
+    "AbilityIDs": [
+      "0f024d58-99d1-4733-bb4e-7d5e80b799eb"
+    ],
+    "AlterationIDs": [],
+    "RootTalentID": null,
+    "Level": 2
+  },
+  {
+    "ID": "2c7c0cc6-46af-4a88-bf82-41a1b4b9199b",
+    "Name": "Schwäche",
+    "GroupID": "6364ff6f-ff8d-4e77-94c8-01254cc1c124",
+    "AbilityIDs": [
+      "e3b33ca9-0873-4f32-89c1-602958bb301a"
+    ],
+    "AlterationIDs": [],
+    "RootTalentID": "f6f2bbe3-61e0-496c-bed1-e91b2f399b82",
+    "Level": 3
+  },
+  {
+    "ID": "7f52f256-dd3d-4b11-af54-41ac6d5b790f",
+    "Name": "Brutaler Klatscher",
+    "GroupID": null,
+    "AbilityIDs": [
+      "a83a5fe8-f4a9-40af-98fc-d75196dfd2ea"
+    ],
+    "AlterationIDs": [],
+    "RootTalentID": null,
+    "Level": 1
+  },
+  {
+    "ID": "25589013-1651-4c0b-b314-43f04705ca5d",
+    "Name": "Blutdurst",
+    "GroupID": "6147edf4-e18a-4ad4-9191-46e6d3c3be3d",
+    "AbilityIDs": [
+      "3e5c006c-1e3d-4301-bde7-f1906d03e0eb"
+    ],
+    "AlterationIDs": [],
+    "RootTalentID": "82fb5f2e-ca00-4f79-94b9-b4afe20ca4fd",
+    "Level": 3
+  },
+  {
+    "ID": "f2e61e0b-4dfd-4192-a616-446c3af679ee",
+    "Name": "Giftige Reißzähne",
+    "GroupID": null,
+    "AbilityIDs": [],
+    "AlterationIDs": [
+      "90a13d1b-96aa-4cd8-91a1-4a418c4fb690"
+    ],
+    "RootTalentID": null,
+    "Level": 1
+  },
+  {
+    "ID": "42be82a8-8c3f-45c2-8ab8-453475797482",
+    "Name": "Fragment",
+    "GroupID": null,
+    "AbilityIDs": [
+      "68f2e5a9-c040-47f2-9698-b46dd8c4925e"
+    ],
+    "AlterationIDs": [],
+    "RootTalentID": null,
+    "Level": 1
+  },
+  {
+    "ID": "820110e1-6c5d-43af-b202-45bd36b23212",
+    "Name": "Diskret",
+    "GroupID": "5c48bc79-55ff-4dfc-be39-d44ba3ec516f",
+    "AbilityIDs": [
+      "0fb1e482-5f96-4adc-9ba5-8b3df9e9dfee"
+    ],
+    "AlterationIDs": [
+      "f5a9f98c-1b9e-4793-93a5-9aaf0a2ddab1"
+    ],
+    "RootTalentID": "820110e1-6c5d-43af-b202-45bd36b23212",
+    "Level": 1
+  },
+  {
+    "ID": "287c12b6-307d-4a72-be0c-4627b9998af3",
+    "Name": "Lähmendes Gift",
+    "GroupID": null,
+    "AbilityIDs": [
+      "3ff084bc-2efa-4140-a47c-4a7cc66f7189"
+    ],
+    "AlterationIDs": [],
+    "RootTalentID": null,
+    "Level": 2
+  },
+  {
+    "ID": "6e0ef28c-9756-4133-bd69-467585cdb700",
+    "Name": "Doppelschlag",
+    "GroupID": "5e40fa86-2fd6-4eec-a710-6f8df515e86d",
+    "AbilityIDs": [
+      "dc9e1907-dbf5-4a15-a324-d951fe40ce65"
+    ],
+    "AlterationIDs": [],
+    "RootTalentID": "6e0ef28c-9756-4133-bd69-467585cdb700",
+    "Level": 1
+  },
+  {
+    "ID": "ef966403-3507-4e63-9524-473ee2eea7cd",
+    "Name": "Flügelschlag",
+    "GroupID": null,
+    "AbilityIDs": [
+      "e963d4cd-77c6-40f2-aaaf-b4fcfee93de7"
+    ],
+    "AlterationIDs": [],
+    "RootTalentID": null,
+    "Level": 1
+  },
+  {
+    "ID": "42cb99bc-09f6-4f23-b9a5-47c89f805948",
+    "Name": "Vortex",
+    "GroupID": "a8089727-b446-4322-b8b4-8a6cdba9f47e",
+    "AbilityIDs": [
+      "10df4c63-fe0d-4db0-8144-e1a8532c8934"
+    ],
+    "AlterationIDs": [],
+    "RootTalentID": "86391dda-ecd2-4dd1-be72-88ea20e17dc8",
+    "Level": 5
+  },
+  {
+    "ID": "42ddd7b9-926a-4c82-9630-47cb3b4220a5",
+    "Name": "Toxischer Pfeil",
+    "GroupID": null,
+    "AbilityIDs": [
+      "8be81795-16a7-40a0-bf3d-e704b82aa363"
+    ],
+    "AlterationIDs": [],
+    "RootTalentID": "a205647f-934f-451b-a80a-68342135ae62",
+    "Level": 2
+  },
+  {
+    "ID": "19c8fac4-86db-4331-8284-48d5054cefa7",
+    "Name": "Wilder Treffer",
+    "GroupID": null,
+    "AbilityIDs": [
+      "39fdd57f-96a3-42c8-88ef-c7707d659e51"
+    ],
+    "AlterationIDs": [],
+    "RootTalentID": null,
+    "Level": 1
+  },
+  {
+    "ID": "d31ad5f7-edbc-4e92-81b6-48e0b29cca83",
+    "Name": "Zerschlagen",
+    "GroupID": "d38b54b9-90e9-4605-b419-43be86f894c6",
+    "AbilityIDs": [
+      "1d311cdb-a999-4e9f-9b29-611c7e9d7591"
+    ],
+    "AlterationIDs": [],
+    "RootTalentID": "5eac7e20-cf83-45c6-a77f-c10c41fb0e44",
+    "Level": 2
+  },
+  {
+    "ID": "fdc4dee1-1676-4e24-8c64-49125e8f2514",
+    "Name": "Leuchtender Schleier",
+    "GroupID": "5c48bc79-55ff-4dfc-be39-d44ba3ec516f",
+    "AbilityIDs": [
+      "796401f3-b682-474b-8c82-3a4b6a73f84d"
+    ],
+    "AlterationIDs": [],
+    "RootTalentID": "fdc4dee1-1676-4e24-8c64-49125e8f2514",
+    "Level": 1
+  },
+  {
+    "ID": "786f1482-fec6-4f20-ad21-4938865bd823",
+    "Name": "Verbrennen",
+    "GroupID": "a8089727-b446-4322-b8b4-8a6cdba9f47e",
+    "AbilityIDs": [
+      "c802896f-de98-4dc1-9d89-9408638fa7c6"
+    ],
+    "AlterationIDs": [],
+    "RootTalentID": "6d0c8109-f5d8-4049-b796-d81b0caa72ed",
+    "Level": 2
+  },
+  {
+    "ID": "cf3d73c1-c709-4ee2-b77d-49f2517fd5e5",
+    "Name": "Schneller Verstand",
+    "GroupID": "6364ff6f-ff8d-4e77-94c8-01254cc1c124",
+    "AbilityIDs": [
+      "c248fb4a-1b53-416c-8e4f-3a337c37a54a"
+    ],
+    "AlterationIDs": [
+      "cf253986-1dbf-4164-a25e-f4ad17565448"
+    ],
+    "RootTalentID": "e0e84160-a54c-483e-83c1-0d01e6ca88bf",
+    "Level": 3
+  },
+  {
+    "ID": "29b92b02-2157-42e3-9599-4b4b08f7199e",
+    "Name": "Panzer",
+    "GroupID": null,
+    "AbilityIDs": [
+      "8be9e468-2a1f-4be5-a2f2-3ab58a955ac3"
+    ],
+    "AlterationIDs": [],
+    "RootTalentID": null,
+    "Level": 1
+  },
+  {
+    "ID": "ee1f6fec-6754-463f-946f-4b5134a25ad6",
+    "Name": "Analysieren",
+    "GroupID": "6364ff6f-ff8d-4e77-94c8-01254cc1c124",
+    "AbilityIDs": [
+      "46467342-fc13-481a-b03b-724998ad1868"
+    ],
+    "AlterationIDs": [],
+    "RootTalentID": "b8e4fc0e-c021-486d-b6cd-2b07c04d8bb9",
+    "Level": 3
+  },
+  {
+    "ID": "26388c19-7e39-41e1-8096-4c1534a66a88",
+    "Name": "Spucken",
+    "GroupID": null,
+    "AbilityIDs": [
+      "ab0ebdde-2372-4a15-91e6-af9e0626bdb0"
+    ],
+    "AlterationIDs": [],
+    "RootTalentID": null,
+    "Level": 1
+  },
+  {
+    "ID": "1840f90c-6b47-47f7-a63f-4c3347fa59fe",
+    "Name": "Widerhallender Schrei",
+    "GroupID": null,
+    "AbilityIDs": [
+      "2291f9d9-8dd7-4cd4-81a2-ab236cf61775"
+    ],
+    "AlterationIDs": [],
+    "RootTalentID": null,
+    "Level": 1
+  },
+  {
+    "ID": "8c9427a2-8a44-4286-9563-4d1f11df2fc1",
+    "Name": "Katzenartige Verstellung",
+    "GroupID": null,
+    "AbilityIDs": [
+      "54fba914-4d90-48bc-9cc6-1db887169f70"
+    ],
+    "AlterationIDs": [],
+    "RootTalentID": null,
+    "Level": 3
+  },
+  {
+    "ID": "73bd5cc0-cf34-46fb-a56f-4d1f5719dd10",
+    "Name": "Tödlicher Wahnsinn",
+    "GroupID": "6147edf4-e18a-4ad4-9191-46e6d3c3be3d",
+    "AbilityIDs": [
+      "9ecb4ddd-c661-4f15-a16b-20cc74455517"
+    ],
+    "AlterationIDs": [
+      "e28fbed3-f470-4831-9efb-ea81011690ce"
+    ],
+    "RootTalentID": "039bf4c5-0995-4cad-a439-7254b8c063bd",
+    "Level": 2
+  },
+  {
+    "ID": "00e05643-1539-4d7f-89df-4d38a501e18c",
+    "Name": "Zyklon",
+    "GroupID": "a8089727-b446-4322-b8b4-8a6cdba9f47e",
+    "AbilityIDs": [
+      "424b68f4-4c5d-4dcd-a7d0-50660d866a3f"
+    ],
+    "AlterationIDs": [],
+    "RootTalentID": "00e05643-1539-4d7f-89df-4d38a501e18c",
+    "Level": 1
+  },
+  {
+    "ID": "724d87e3-c4b8-4054-b395-4d47c606612f",
+    "Name": "Zyklon",
+    "GroupID": "a8089727-b446-4322-b8b4-8a6cdba9f47e",
+    "AbilityIDs": [
+      "ee3059ce-89f0-477e-aa31-90a6455b94d4"
+    ],
+    "AlterationIDs": [],
+    "RootTalentID": "00e05643-1539-4d7f-89df-4d38a501e18c",
+    "Level": 2
+  },
+  {
+    "ID": "bff7ed7b-9879-46d6-864c-4d983822a5ec",
+    "Name": "Bestialischer Ansturm",
+    "GroupID": null,
+    "AbilityIDs": [
+      "cd7cbade-d753-44a3-96e3-29b230bd5dc2"
+    ],
+    "AlterationIDs": [],
+    "RootTalentID": null,
+    "Level": 2
+  },
+  {
+    "ID": "5894e3df-0811-42b4-bd65-4f5c8d8c3a61",
+    "Name": "Staubhauch",
+    "GroupID": null,
+    "AbilityIDs": [
+      "01cbdfa1-86b9-442f-bc2c-5f857818e04e"
+    ],
+    "AlterationIDs": [],
+    "RootTalentID": "2dd5ddd2-076c-4399-9c13-a206826a3d65",
+    "Level": 2
+  },
+  {
+    "ID": "e5c687e3-61a0-4a31-bc90-4fac699f2c6a",
+    "Name": "Knochenkörper",
+    "GroupID": null,
+    "AbilityIDs": [],
+    "AlterationIDs": [
+      "def33d91-fa81-47de-b7dc-5161e283e135",
+      "5d2e98fa-626a-4378-b8fc-ed87c3a68dcc"
+    ],
+    "RootTalentID": null,
+    "Level": 1
+  },
+  {
+    "ID": "d8416b1c-8620-44d5-a7d1-506273a679cf",
+    "Name": "Bellen",
+    "GroupID": "5c48bc79-55ff-4dfc-be39-d44ba3ec516f",
+    "AbilityIDs": [
+      "79f617e3-620f-496e-9e01-f5778b040b7c"
+    ],
+    "AlterationIDs": [],
+    "RootTalentID": "be072ddb-6c54-4419-8e56-aaceede94276",
+    "Level": 3
+  },
+  {
+    "ID": "8b1f94e3-7ec9-48f0-8032-50e4403b1134",
+    "Name": "Dreifachschlag",
+    "GroupID": "5e40fa86-2fd6-4eec-a710-6f8df515e86d",
+    "AbilityIDs": [
+      "7ac8e7e3-3cb7-41af-86ef-e81914eca27a"
+    ],
+    "AlterationIDs": [],
+    "RootTalentID": "a9636b93-802b-4d31-adeb-8f4049e198ff",
+    "Level": 2
+  },
+  {
+    "ID": "ffd446c4-61dc-4292-b26d-5167c569a43e",
+    "Name": "Windbeschwörung",
+    "GroupID": null,
+    "AbilityIDs": [
+      "62af6ab8-af06-4318-b73e-0401bbd35d99"
+    ],
+    "AlterationIDs": [],
+    "RootTalentID": null,
+    "Level": 2
+  },
+  {
+    "ID": "7595b52e-f0e3-48db-ac4f-519d7207a8c3",
+    "Name": "Eislanze",
+    "GroupID": "a8089727-b446-4322-b8b4-8a6cdba9f47e",
+    "AbilityIDs": [
+      "586d5b06-d26a-4002-846e-ba265dc51526"
+    ],
+    "AlterationIDs": [],
+    "RootTalentID": "7595b52e-f0e3-48db-ac4f-519d7207a8c3",
+    "Level": 1
+  },
+  {
+    "ID": "063bb6f6-bf29-47e1-884e-51c50519d0f7",
+    "Name": "Verschlingen",
+    "GroupID": null,
+    "AbilityIDs": [
+      "5bad8d58-9199-4df8-a5ac-7b5bdf032772"
+    ],
+    "AlterationIDs": [],
+    "RootTalentID": null,
+    "Level": 3
+  },
+  {
+    "ID": "3b3f57ac-fd34-46ff-a1b1-52143fb6fa0f",
+    "Name": "Schneesturm",
+    "GroupID": "a8089727-b446-4322-b8b4-8a6cdba9f47e",
+    "AbilityIDs": [
+      "aa94ba1d-0546-42fa-bf06-1b79ba021e9e"
+    ],
+    "AlterationIDs": [],
+    "RootTalentID": "8ea10cea-984c-4857-9796-3305950686f2",
+    "Level": 2
+  },
+  {
+    "ID": "2a2e8c56-b032-45f2-ab5a-5388f7560f4a",
+    "Name": "Wilde Regeneration",
+    "GroupID": null,
+    "AbilityIDs": [],
+    "AlterationIDs": [
+      "0525774b-1204-49be-95ed-5c727a871a71"
+    ],
+    "RootTalentID": null,
+    "Level": 1
+  },
+  {
+    "ID": "853eb739-d135-49a2-b249-5406eb763512",
+    "Name": "Sprungschlag",
+    "GroupID": "6364ff6f-ff8d-4e77-94c8-01254cc1c124",
+    "AbilityIDs": [
+      "bdea9164-5d61-44ff-8951-d206a09e9ba9"
+    ],
+    "AlterationIDs": [],
+    "RootTalentID": "f2f69a6b-0799-4444-87f8-62976439db74",
+    "Level": 3
+  },
+  {
+    "ID": "e61266a4-792d-4be2-ac79-544ad3316726",
+    "Name": "Erneuern",
+    "GroupID": "5c48bc79-55ff-4dfc-be39-d44ba3ec516f",
+    "AbilityIDs": [
+      "2d809a31-1ac0-4796-89d3-84a9ddd3ddfd"
+    ],
+    "AlterationIDs": [],
+    "RootTalentID": "e61266a4-792d-4be2-ac79-544ad3316726",
+    "Level": 1
+  },
+  {
+    "ID": "ca49832d-39db-4e2e-99f6-55a2c18d44d7",
+    "Name": "Violent",
+    "GroupID": null,
+    "AbilityIDs": [],
+    "AlterationIDs": [
+      "8f3c964f-390a-437c-8d9c-fac1a44a0de6"
+    ],
+    "RootTalentID": null,
+    "Level": 1
+  },
+  {
+    "ID": "b65b97bc-749b-4a97-8a41-55cd53f598ff",
+    "Name": "Pollen neutralisieren",
+    "GroupID": null,
+    "AbilityIDs": [
+      "ea93c42b-bbac-477d-87a4-942583b6a38b"
+    ],
+    "AlterationIDs": [],
+    "RootTalentID": null,
+    "Level": 9
+  },
+  {
+    "ID": "36eae82f-1ce0-4526-904c-55ffd15e0ea0",
+    "Name": "Ruf der Untoten",
+    "GroupID": null,
+    "AbilityIDs": [
+      "66bd55da-7209-407a-a71c-0bea805be2be"
+    ],
+    "AlterationIDs": [],
+    "RootTalentID": null,
+    "Level": 1
+  },
+  {
+    "ID": "7a7bd462-cba2-4a30-9327-56540f937209",
+    "Name": "Erdbohrer",
+    "GroupID": null,
+    "AbilityIDs": [
+      "f40edf3e-992c-48bc-a7d2-0401a8e2b598"
+    ],
+    "AlterationIDs": [],
+    "RootTalentID": null,
+    "Level": 1
+  },
+  {
+    "ID": "6a30e585-23cd-427a-bc36-57f223e6ae5e",
+    "Name": "Sumpf",
+    "GroupID": null,
+    "AbilityIDs": [],
+    "AlterationIDs": [
+      "9c466d73-1de0-4b49-886e-98706d6d2f47",
+      "dbe76f39-682c-4897-abef-aed86cbe5a26"
+    ],
+    "RootTalentID": null,
+    "Level": 1
+  },
+  {
+    "ID": "fa8ac6ff-3434-48da-8fca-5920b0564600",
+    "Name": "Bestialischer Ansturm",
+    "GroupID": null,
+    "AbilityIDs": [
+      "bece355b-70e8-4c1f-bf65-0355aea813c4"
+    ],
+    "AlterationIDs": [],
+    "RootTalentID": null,
+    "Level": 1
+  },
+  {
+    "ID": "c65d76c3-50e2-4611-9e56-597912892500",
+    "Name": "Lichtblitz",
+    "GroupID": "5c48bc79-55ff-4dfc-be39-d44ba3ec516f",
+    "AbilityIDs": [
+      "a750b4be-2314-45ec-8a28-0e5639edee3c"
+    ],
+    "AlterationIDs": [],
+    "RootTalentID": "4195ab3d-a842-40ce-8e00-864d387642de",
+    "Level": 2
+  },
+  {
+    "ID": "1198fccc-1236-4285-9f79-5a2934e6a445",
+    "Name": "Dartwurf",
+    "GroupID": null,
+    "AbilityIDs": [
+      "dfd74038-435c-4c70-8855-b89a4b29f3a0"
+    ],
+    "AlterationIDs": [],
+    "RootTalentID": "1198fccc-1236-4285-9f79-5a2934e6a445",
+    "Level": 1
+  },
+  {
+    "ID": "2a453892-f2d6-4561-aa4f-5a4b9025c76e",
+    "Name": "Anregen",
+    "GroupID": null,
+    "AbilityIDs": [
+      "76e5af6a-f941-413f-9e6f-b8bff14e01f0"
+    ],
+    "AlterationIDs": [],
+    "RootTalentID": null,
+    "Level": 1
+  },
+  {
+    "ID": "74696d91-4358-4b33-a55c-5a753824176b",
+    "Name": "Windspezialist",
+    "GroupID": null,
+    "AbilityIDs": [],
+    "AlterationIDs": [
+      "89329c7e-3d76-4b6d-801f-30376045f3b5"
+    ],
+    "RootTalentID": null,
+    "Level": 1
+  },
+  {
+    "ID": "f9595246-34e9-4c70-9e11-5b8bf9a6f637",
+    "Name": "Blutiger Stich",
+    "GroupID": null,
+    "AbilityIDs": [
+      "57ed3593-319a-4194-a798-b76e362cba19"
+    ],
+    "AlterationIDs": [],
+    "RootTalentID": "0f08513a-e38c-429e-ac0d-3432fd6b0006",
+    "Level": 4
+  },
+  {
+    "ID": "b5b5fc8a-bda9-4f0e-bc97-5c050f1f93f0",
+    "Name": "Wilder Biss",
+    "GroupID": null,
+    "AbilityIDs": [
+      "cd761b85-c073-4423-b487-5b83ae73896d"
+    ],
+    "AlterationIDs": [],
+    "RootTalentID": null,
+    "Level": 1
+  },
+  {
+    "ID": "df2f6b6c-d3f6-4c63-bb36-5c28268fc010",
+    "Name": "Giftiger Biss",
+    "GroupID": null,
+    "AbilityIDs": [
+      "a0a624be-9332-4650-8534-105fc1aeaa2e"
+    ],
+    "AlterationIDs": [],
+    "RootTalentID": null,
+    "Level": 1
+  },
+  {
+    "ID": "fa569980-55f9-4e5e-b4cb-5cd8141a419f",
+    "Name": "Himmlischer Ansturm",
+    "GroupID": null,
+    "AbilityIDs": [
+      "99219e08-785b-4e3c-aa7d-681b6407b4ff"
+    ],
+    "AlterationIDs": [],
+    "RootTalentID": "fa569980-55f9-4e5e-b4cb-5cd8141a419f",
+    "Level": 1
+  },
+  {
+    "ID": "e9fe77fd-17f4-4804-bc04-5da206e65d61",
+    "Name": "Flügelschlag",
+    "GroupID": null,
+    "AbilityIDs": [
+      "86debb66-08ed-4011-8d65-5d3dd66cabb0"
+    ],
+    "AlterationIDs": [],
+    "RootTalentID": null,
+    "Level": 3
+  },
+  {
+    "ID": "9e07bbab-7059-498a-8c23-5e4ff8aad14e",
+    "Name": "Trotziger Schrei",
+    "GroupID": "d38b54b9-90e9-4605-b419-43be86f894c6",
+    "AbilityIDs": [
+      "42c29bd2-9e3c-43b9-b510-77162248d8ef"
+    ],
+    "AlterationIDs": [],
+    "RootTalentID": "9e07bbab-7059-498a-8c23-5e4ff8aad14e",
+    "Level": 1
+  },
+  {
+    "ID": "19c2dc3c-1774-45ce-b9a5-5e52ab88f450",
+    "Name": "Analysieren",
+    "GroupID": "6364ff6f-ff8d-4e77-94c8-01254cc1c124",
+    "AbilityIDs": [
+      "0b12c2f1-e190-41b6-bc6d-dbab110b5077"
+    ],
+    "AlterationIDs": [],
+    "RootTalentID": "b8e4fc0e-c021-486d-b6cd-2b07c04d8bb9",
+    "Level": 4
+  },
+  {
+    "ID": "960a417c-dfa0-446b-bd4e-5eeca7ce4ecc",
+    "Name": "Finsterer Schlag",
+    "GroupID": "5e40fa86-2fd6-4eec-a710-6f8df515e86d",
+    "AbilityIDs": [
+      "e939f1ee-240f-425a-9641-11abe3a294fc"
+    ],
+    "AlterationIDs": [],
+    "RootTalentID": "c030a7e7-a0dd-4f10-8bf8-2b3d8ba1d648",
+    "Level": 2
+  },
+  {
+    "ID": "64db8749-bc39-4eae-ae71-602cf2b60b56",
+    "Name": "Leuchtender Schleier",
+    "GroupID": "5c48bc79-55ff-4dfc-be39-d44ba3ec516f",
+    "AbilityIDs": [
+      "1533aaf2-51c9-417d-914e-c93417365293"
+    ],
+    "AlterationIDs": [],
+    "RootTalentID": "fdc4dee1-1676-4e24-8c64-49125e8f2514",
+    "Level": 3
+  },
+  {
+    "ID": "cd60157b-fec3-4e48-8482-6141788d52ab",
+    "Name": "Schlachtruf",
+    "GroupID": "6147edf4-e18a-4ad4-9191-46e6d3c3be3d",
+    "AbilityIDs": [
+      "f0062db7-5b77-423a-a819-a62790ad10b0"
+    ],
+    "AlterationIDs": [],
+    "RootTalentID": "8548ffe8-ec7b-4057-8c05-08838f29d290",
+    "Level": 2
+  },
+  {
+    "ID": "753e670a-548f-4167-af61-614e901bcfce",
+    "Name": "Ablenkung",
+    "GroupID": "d38b54b9-90e9-4605-b419-43be86f894c6",
+    "AbilityIDs": [
+      "a0fc95b8-6b0a-431e-b6d5-5fd4aa3507d8"
+    ],
+    "AlterationIDs": [],
+    "RootTalentID": "0c43d437-0fed-4f38-a631-8b72cc160f55",
+    "Level": 3
+  },
+  {
+    "ID": "8ec53c68-b656-41a6-9f09-6192d28ab91b",
+    "Name": "Rachsüchtig",
+    "GroupID": "6147edf4-e18a-4ad4-9191-46e6d3c3be3d",
+    "AbilityIDs": [
+      "cb647014-b7ca-4f12-a0f2-f33b20a796c4"
+    ],
+    "AlterationIDs": [
+      "650ce40f-8d4d-4ba4-a3bb-94aed70acef7"
+    ],
+    "RootTalentID": "d3833920-6e29-4d0c-82ac-f98e42750fa0",
+    "Level": 2
+  },
+  {
+    "ID": "96e872a8-103d-4086-8efa-62519f35e913",
+    "Name": "Wiederherstellen",
+    "GroupID": "5c48bc79-55ff-4dfc-be39-d44ba3ec516f",
+    "AbilityIDs": [
+      "b1f6b2fc-c1e5-410f-9e31-48749c51b171"
+    ],
+    "AlterationIDs": [],
+    "RootTalentID": "6398c86b-7c31-4a65-a323-0ed00a51009b",
+    "Level": 3
+  },
+  {
+    "ID": "85da41cd-3820-4d0f-bb29-625cc396e240",
+    "Name": "Eislanze",
+    "GroupID": "a8089727-b446-4322-b8b4-8a6cdba9f47e",
+    "AbilityIDs": [
+      "c3cc07ae-14f9-4f72-8b15-f418c1d89d27"
+    ],
+    "AlterationIDs": [],
+    "RootTalentID": "7595b52e-f0e3-48db-ac4f-519d7207a8c3",
+    "Level": 3
+  },
+  {
+    "ID": "f2f69a6b-0799-4444-87f8-62976439db74",
+    "Name": "Sprungschlag",
+    "GroupID": "6364ff6f-ff8d-4e77-94c8-01254cc1c124",
+    "AbilityIDs": [
+      "3efb8091-44d3-47cf-a8f0-d1c954146204"
+    ],
+    "AlterationIDs": [],
+    "RootTalentID": "f2f69a6b-0799-4444-87f8-62976439db74",
+    "Level": 1
+  },
+  {
+    "ID": "d5d06cdd-3d76-4c51-a52a-62d3877f8242",
+    "Name": "Bombenwurf",
+    "GroupID": null,
+    "AbilityIDs": [
+      "498bca8a-3c2a-4203-9844-cfee2689eb19"
+    ],
+    "AlterationIDs": [],
+    "RootTalentID": null,
+    "Level": 1
+  },
+  {
+    "ID": "09478fab-3469-4e41-a9ed-630ac0bddc6d",
+    "Name": "Ablenkung",
+    "GroupID": "d38b54b9-90e9-4605-b419-43be86f894c6",
+    "AbilityIDs": [
+      "494847c1-a539-4dc0-98dc-0e91ab8a2390"
+    ],
+    "AlterationIDs": [],
+    "RootTalentID": "0c43d437-0fed-4f38-a631-8b72cc160f55",
+    "Level": 4
+  },
+  {
+    "ID": "743b4102-29a3-4c9c-9aa5-63618d4cd1f8",
+    "Name": "Drohender Blick",
+    "GroupID": null,
+    "AbilityIDs": [
+      "c476344d-93c1-4fad-82ea-d791045dbadc"
+    ],
+    "AlterationIDs": [],
+    "RootTalentID": null,
+    "Level": 1
+  },
+  {
+    "ID": "67b97d51-a618-4ba4-86f8-639328b49736",
+    "Name": "Schaf",
+    "GroupID": null,
+    "AbilityIDs": [
+      "417fa159-adda-4b34-8620-580803596ee0"
+    ],
+    "AlterationIDs": [],
+    "RootTalentID": "1e5cb31f-a391-438a-9ec9-8df8e1383a0b",
+    "Level": 3
+  },
+  {
+    "ID": "d5096124-ab78-4584-9174-63fca3189647",
+    "Name": "Schneller Verstand",
+    "GroupID": "6364ff6f-ff8d-4e77-94c8-01254cc1c124",
+    "AbilityIDs": [
+      "4e5228e8-51c9-4eb8-a2d9-3cf1a4a77341"
+    ],
+    "AlterationIDs": [
+      "424acc7d-aa8c-473b-9273-b012540eda43"
+    ],
+    "RootTalentID": "e0e84160-a54c-483e-83c1-0d01e6ca88bf",
+    "Level": 2
+  },
+  {
+    "ID": "84f68c36-33f3-4fb7-985f-6530741df978",
+    "Name": "Zuschlagen",
+    "GroupID": "d38b54b9-90e9-4605-b419-43be86f894c6",
+    "AbilityIDs": [
+      "73bc2026-d684-48bc-a076-f74aaa258c26"
+    ],
+    "AlterationIDs": [],
+    "RootTalentID": "ceb03526-26b6-4492-bcce-aeb92c480019",
+    "Level": 2
+  },
+  {
+    "ID": "3f13ada6-e3ed-441c-87df-67051ebcb232",
+    "Name": "Knurren",
+    "GroupID": null,
+    "AbilityIDs": [
+      "9ba5a4bf-98de-4ab9-a6d4-a8a3d44d2297"
+    ],
+    "AlterationIDs": [],
+    "RootTalentID": null,
+    "Level": 2
+  },
+  {
+    "ID": "28ef2249-48b9-451c-ad1e-6717c8c9aeb8",
+    "Name": "Entzünden",
+    "GroupID": "a8089727-b446-4322-b8b4-8a6cdba9f47e",
+    "AbilityIDs": [
+      "afbc6d42-1c3c-4e0d-aa9f-7a39aab0d10e"
+    ],
+    "AlterationIDs": [],
+    "RootTalentID": "487aa900-58c7-4cde-bd61-354479ce65b7",
+    "Level": 4
+  },
+  {
+    "ID": "bb4b5b7d-22d8-489e-986a-6829c24c5f08",
+    "Name": "Wiederherstellen",
+    "GroupID": "5c48bc79-55ff-4dfc-be39-d44ba3ec516f",
+    "AbilityIDs": [
+      "d30cd7e5-89f4-4ecd-9482-d6d5ced8b962"
+    ],
+    "AlterationIDs": [],
+    "RootTalentID": "6398c86b-7c31-4a65-a323-0ed00a51009b",
+    "Level": 2
+  },
+  {
+    "ID": "a205647f-934f-451b-a80a-68342135ae62",
+    "Name": "Toxischer Pfeil ",
+    "GroupID": null,
+    "AbilityIDs": [
+      "3f600d30-f126-437a-a946-0c3d1da94519"
+    ],
+    "AlterationIDs": [],
+    "RootTalentID": "a205647f-934f-451b-a80a-68342135ae62",
+    "Level": 1
+  },
+  {
+    "ID": "9132c74a-134e-4328-b797-6840783be661",
+    "Name": "Immunität gegen Gift",
+    "GroupID": null,
+    "AbilityIDs": [],
+    "AlterationIDs": [
+      "0b9b2ff8-89a4-402f-8b65-619a384b4f0a"
+    ],
+    "RootTalentID": null,
+    "Level": 1
+  },
+  {
+    "ID": "6c6c5c5a-3b9f-4b47-99d5-6878f70fb689",
+    "Name": "Tödlicher Wahnsinn",
+    "GroupID": "6147edf4-e18a-4ad4-9191-46e6d3c3be3d",
+    "AbilityIDs": [
+      "4fa6bbc9-38c1-4a41-8093-2aca64a72090"
+    ],
+    "AlterationIDs": [
+      "8d4d10ef-05a6-46b2-b60a-7f9827f1f84f"
+    ],
+    "RootTalentID": "039bf4c5-0995-4cad-a439-7254b8c063bd",
+    "Level": 3
+  },
+  {
+    "ID": "6ead795e-6fdb-4b51-911c-68a000f9ee20",
+    "Name": "Calm",
+    "GroupID": null,
+    "AbilityIDs": [],
+    "AlterationIDs": [
+      "211acf4d-42fc-4446-ad2c-c8b018b20f65"
+    ],
+    "RootTalentID": null,
+    "Level": 3
+  },
+  {
+    "ID": "799d9e31-6e0e-4fde-8a50-6b0254d74c06",
+    "Name": "Massenheilung",
+    "GroupID": "5c48bc79-55ff-4dfc-be39-d44ba3ec516f",
+    "AbilityIDs": [
+      "0a47d3f4-bc52-4616-ad6b-d710925ae8e0"
+    ],
+    "AlterationIDs": [],
+    "RootTalentID": "da67a891-8017-4fb7-87c2-9e5b2d19893c",
+    "Level": 3
+  },
+  {
+    "ID": "17c8cf47-4591-48c3-a915-6c3e65a5cff1",
+    "Name": "Flut",
+    "GroupID": null,
+    "AbilityIDs": [
+      "bddfc5b4-349c-4313-a99a-2ec8ba71cee8"
+    ],
+    "AlterationIDs": [],
+    "RootTalentID": null,
+    "Level": 1
+  },
+  {
+    "ID": "f23e3158-148f-4a01-a6b9-6c7f502524ff",
+    "Name": "Wasserstrahl",
+    "GroupID": "a8089727-b446-4322-b8b4-8a6cdba9f47e",
+    "AbilityIDs": [
+      "d965517c-6568-4457-b677-959dd173ece8"
+    ],
+    "AlterationIDs": [],
+    "RootTalentID": "056f517f-f901-4000-90be-d6b76a32fe64",
+    "Level": 3
+  },
+  {
+    "ID": "e608f973-d81c-481d-b0b1-6de0f82e5bc0",
+    "Name": "Höhenvorteil",
+    "GroupID": null,
+    "AbilityIDs": [
+      "3863113c-2c3d-4bc8-a949-5740863b698a"
+    ],
+    "AlterationIDs": [],
+    "RootTalentID": null,
+    "Level": 1
+  },
+  {
+    "ID": "9bbdcd25-6fe1-4bbb-b124-6dfcf96f4391",
+    "Name": "Leuchtender Schleier",
+    "GroupID": "5c48bc79-55ff-4dfc-be39-d44ba3ec516f",
+    "AbilityIDs": [
+      "2915d753-adb5-44c6-a5a5-71ae9fbab502"
+    ],
+    "AlterationIDs": [],
+    "RootTalentID": "fdc4dee1-1676-4e24-8c64-49125e8f2514",
+    "Level": 2
+  },
+  {
+    "ID": "0c6aab33-694d-4909-bbbd-70627929bc97",
+    "Name": "Zerschlagen",
+    "GroupID": "d38b54b9-90e9-4605-b419-43be86f894c6",
+    "AbilityIDs": [
+      "ceaf2ff0-fa53-47d1-989c-61dc97448cd9"
+    ],
+    "AlterationIDs": [],
+    "RootTalentID": "5eac7e20-cf83-45c6-a77f-c10c41fb0e44",
+    "Level": 3
+  },
+  {
+    "ID": "322ee003-fd32-4ae9-b836-70a46f2ca267",
+    "Name": "Meteor",
+    "GroupID": "a8089727-b446-4322-b8b4-8a6cdba9f47e",
+    "AbilityIDs": [
+      "fc205535-c790-4219-9173-1b28ae7c4a12"
+    ],
+    "AlterationIDs": [],
+    "RootTalentID": "322ee003-fd32-4ae9-b836-70a46f2ca267",
+    "Level": 1
+  },
+  {
+    "ID": "61271280-1774-4565-b6da-72373afb8908",
+    "Name": "Fliegen",
+    "GroupID": null,
+    "AbilityIDs": [
+      "be68e6a6-31fa-4ef0-8371-28bc94df834c"
+    ],
+    "AlterationIDs": [],
+    "RootTalentID": null,
+    "Level": 1
+  },
+  {
+    "ID": "039bf4c5-0995-4cad-a439-7254b8c063bd",
+    "Name": "Tödlicher Wahnsinn",
+    "GroupID": "6147edf4-e18a-4ad4-9191-46e6d3c3be3d",
+    "AbilityIDs": [
+      "ffbbac43-c8e4-460b-b5f2-1956ea3ed62e"
+    ],
+    "AlterationIDs": [
+      "26ee1df8-d9bd-4539-80e1-7d10b1db0e5e"
+    ],
+    "RootTalentID": "039bf4c5-0995-4cad-a439-7254b8c063bd",
+    "Level": 1
+  },
+  {
+    "ID": "99287cf4-9625-4e8a-9169-73c7076e696b",
+    "Name": "Giftige Reißzähne",
+    "GroupID": null,
+    "AbilityIDs": [],
+    "AlterationIDs": [
+      "c5ece76b-226e-48a7-97f7-aa5286ff4612"
+    ],
+    "RootTalentID": null,
+    "Level": 2
+  },
+  {
+    "ID": "638aa3b9-988e-47bd-a9b4-7410efbbd44f",
+    "Name": "Schlag",
+    "GroupID": "6364ff6f-ff8d-4e77-94c8-01254cc1c124",
+    "AbilityIDs": [
+      "403c01e9-1324-4ae7-bf92-ad6081742e80"
+    ],
+    "AlterationIDs": [],
+    "RootTalentID": "d251b1f1-ed84-409a-854a-bb9f1400bf82",
+    "Level": 2
+  },
+  {
+    "ID": "e7f063fa-2a45-42dd-9505-743e9916144a",
+    "Name": "Feuermeister",
+    "GroupID": null,
+    "AbilityIDs": [],
+    "AlterationIDs": [
+      "2e8f5cd2-9170-4c4e-9a23-90fe6818bc92"
+    ],
+    "RootTalentID": null,
+    "Level": 1
+  },
+  {
+    "ID": "b291b406-663c-4207-9b1b-744ee0b1e15b",
+    "Name": "Wilde Regeneration",
+    "GroupID": null,
+    "AbilityIDs": [],
+    "AlterationIDs": [
+      "764215d0-1a23-4ce5-8dba-f4f38a7efbcc"
+    ],
+    "RootTalentID": null,
+    "Level": 2
+  },
+  {
+    "ID": "37a6d654-bebe-46c5-a301-746fc7dec764",
+    "Name": "Feuerball",
+    "GroupID": "a8089727-b446-4322-b8b4-8a6cdba9f47e",
+    "AbilityIDs": [
+      "2162db8c-68dc-4400-9293-f5cb45e5b732"
+    ],
+    "AlterationIDs": [],
+    "RootTalentID": "7736b69a-06af-4f80-a46b-778cf011cf2f",
+    "Level": 2
+  },
+  {
+    "ID": "56754c2b-72f7-44db-afbf-74fb4de9d6dc",
+    "Name": "Sturm",
+    "GroupID": "a8089727-b446-4322-b8b4-8a6cdba9f47e",
+    "AbilityIDs": [
+      "4790a443-f1a7-4bac-97cb-7a4351593a92"
+    ],
+    "AlterationIDs": [],
+    "RootTalentID": "8c842d8c-76fb-490e-9190-ba716d0914a4",
+    "Level": 3
+  },
+  {
+    "ID": "e3702285-42ce-466a-afd0-75be612b6571",
+    "Name": "Ausweichen",
+    "GroupID": "6364ff6f-ff8d-4e77-94c8-01254cc1c124",
+    "AbilityIDs": [
+      "b93da664-174b-46ab-885a-1bd06bb5f1d5"
+    ],
+    "AlterationIDs": [],
+    "RootTalentID": "ab5d6bde-f677-4d45-b2bb-a180775261bd",
+    "Level": 2
+  },
+  {
+    "ID": "cf05ae12-2a08-48d1-b5e0-7628007f4b4d",
+    "Name": null,
+    "GroupID": null,
+    "AbilityIDs": [
+      "4833b6f2-cf9d-47b6-8daa-c260221a475f"
+    ],
+    "AlterationIDs": [],
+    "RootTalentID": null,
+    "Level": 1
+  },
+  {
+    "ID": "7eac9860-4e56-4d6b-8011-767a4e112306",
+    "Name": "Revitalisieren",
+    "GroupID": "5c48bc79-55ff-4dfc-be39-d44ba3ec516f",
+    "AbilityIDs": [
+      "cf4ace96-21ed-4fc3-894f-02ba7a9710c0"
+    ],
+    "AlterationIDs": [],
+    "RootTalentID": "a31dfe0b-df11-4365-add9-258971dc9089",
+    "Level": 3
+  },
+  {
+    "ID": "7736b69a-06af-4f80-a46b-778cf011cf2f",
+    "Name": "Feuerball",
+    "GroupID": "a8089727-b446-4322-b8b4-8a6cdba9f47e",
+    "AbilityIDs": [
+      "fd8614df-3d4b-486e-a922-5490653f9ea2"
+    ],
+    "AlterationIDs": [],
+    "RootTalentID": "7736b69a-06af-4f80-a46b-778cf011cf2f",
+    "Level": 1
+  },
+  {
+    "ID": "b4368c06-e08c-4e8d-8f76-77e26c474188",
+    "Name": "Niederschlagen",
+    "GroupID": "5e40fa86-2fd6-4eec-a710-6f8df515e86d",
+    "AbilityIDs": [
+      "60c3105d-4a47-46fd-b1a8-36daffd94ea2"
+    ],
+    "AlterationIDs": [],
+    "RootTalentID": "e59d6c25-5a87-4521-918a-1ca214104be9",
+    "Level": 2
+  },
+  {
+    "ID": "50816bd1-28e9-4610-b5c8-781c40f0076c",
+    "Name": "Schaf",
+    "GroupID": null,
+    "AbilityIDs": [
+      "1de829ad-e70c-4312-ab72-1a8c7dadcfb6"
+    ],
+    "AlterationIDs": [],
+    "RootTalentID": "1e5cb31f-a391-438a-9ec9-8df8e1383a0b",
+    "Level": 2
+  },
+  {
+    "ID": "8273355d-2fa2-4aeb-9ab5-7834c1e2a325",
+    "Name": "Bösartiger Treffer",
+    "GroupID": "5e40fa86-2fd6-4eec-a710-6f8df515e86d",
+    "AbilityIDs": [
+      "bf31d924-a4f5-401a-804b-b87e3af077b2"
+    ],
+    "AlterationIDs": [],
+    "RootTalentID": "9e5f6774-3ada-40d2-a0f4-9ec8b8b30615",
+    "Level": 3
+  },
+  {
+    "ID": "aa1d8b26-bc09-4368-b7fb-788070144da2",
+    "Name": "Leeretor",
+    "GroupID": null,
+    "AbilityIDs": [
+      "5778356c-12e4-4000-9545-e96d612b737a"
+    ],
+    "AlterationIDs": [],
+    "RootTalentID": null,
+    "Level": 1
+  },
+  {
+    "ID": "ee11a9ac-4ef5-4927-ae61-7982c22c9898",
+    "Name": "Verteidigen",
+    "GroupID": "d38b54b9-90e9-4605-b419-43be86f894c6",
+    "AbilityIDs": [
+      "3c630639-1932-45e1-b09f-a01004801aab"
+    ],
+    "AlterationIDs": [],
+    "RootTalentID": "658f8726-460f-4cf6-994d-3ef026a701ae",
+    "Level": 3
+  },
+  {
+    "ID": "a3df4ab6-a650-4e62-9da8-79bd1a06c670",
+    "Name": "Präzision",
+    "GroupID": "5e40fa86-2fd6-4eec-a710-6f8df515e86d",
+    "AbilityIDs": [
+      "781b8da3-208d-4a94-9ab9-ebace26c3c8a"
+    ],
+    "AlterationIDs": [
+      "57717810-f036-4b4d-9cd7-1f746bd8c830"
+    ],
+    "RootTalentID": "00d2f2e5-8ede-4d72-b5d3-fab882b1feff",
+    "Level": 2
+  },
+  {
+    "ID": "d2f68886-59b6-4067-977e-7b2d8dab4596",
+    "Name": "Spucken",
+    "GroupID": null,
+    "AbilityIDs": [
+      "eb7c98d6-bd9c-442e-b64d-d4aa0e8a8470"
+    ],
+    "AlterationIDs": [],
+    "RootTalentID": null,
+    "Level": 2
+  },
+  {
+    "ID": "4089d060-bab0-45d5-8477-7b5682444d59",
+    "Name": "Glänzender Schlag",
+    "GroupID": "5c48bc79-55ff-4dfc-be39-d44ba3ec516f",
+    "AbilityIDs": [
+      "bebcf5a9-76a4-4637-8e22-c717e2a19e44"
+    ],
+    "AlterationIDs": [],
+    "RootTalentID": "6195fab3-b263-4679-b926-ab8be25da83a",
+    "Level": 3
+  },
+  {
+    "ID": "736e0911-9f7b-453e-8056-7b655637b637",
+    "Name": "Heilen",
+    "GroupID": "5c48bc79-55ff-4dfc-be39-d44ba3ec516f",
+    "AbilityIDs": [
+      "82b0da50-9bf1-4e33-811c-7908000ae878"
+    ],
+    "AlterationIDs": [],
+    "RootTalentID": "27893cd7-077c-4e00-8b25-969952f3f8fb",
+    "Level": 3
+  },
+  {
+    "ID": "d6c4d11d-f4dc-454e-9e8f-7e718f34e5c5",
+    "Name": "Taktischer Plan",
+    "GroupID": "6364ff6f-ff8d-4e77-94c8-01254cc1c124",
+    "AbilityIDs": [
+      "0feb6cc7-c4d7-44f5-b03f-0e9411211759"
+    ],
+    "AlterationIDs": [],
+    "RootTalentID": "d6c4d11d-f4dc-454e-9e8f-7e718f34e5c5",
+    "Level": 1
+  },
+  {
+    "ID": "e8cdd604-17d2-4a40-8691-805b582053fe",
+    "Name": "Vortex",
+    "GroupID": "a8089727-b446-4322-b8b4-8a6cdba9f47e",
+    "AbilityIDs": [
+      "fc802d41-4b27-4ec1-ab3e-6d0a45bb6d73"
+    ],
+    "AlterationIDs": [],
+    "RootTalentID": "86391dda-ecd2-4dd1-be72-88ea20e17dc8",
+    "Level": 2
+  },
+  {
+    "ID": "f57dc941-06c5-4df0-a1fc-805f3df073be",
+    "Name": "Diskret",
+    "GroupID": "5c48bc79-55ff-4dfc-be39-d44ba3ec516f",
+    "AbilityIDs": [
+      "74b971c1-f390-4e14-9636-0f79da05ffc8"
+    ],
+    "AlterationIDs": [
+      "16f244f9-7789-4279-a900-ec32163a3d9c"
+    ],
+    "RootTalentID": "820110e1-6c5d-43af-b202-45bd36b23212",
+    "Level": 3
+  },
+  {
+    "ID": "ec88ceee-d263-47a2-9db4-809bd873a11b",
+    "Name": "Doppelschlag",
+    "GroupID": "5e40fa86-2fd6-4eec-a710-6f8df515e86d",
+    "AbilityIDs": [
+      "77229b8f-fb76-450d-82bf-3ca22cbfb7b6"
+    ],
+    "AlterationIDs": [],
+    "RootTalentID": "6e0ef28c-9756-4133-bd69-467585cdb700",
+    "Level": 2
+  },
+  {
+    "ID": "80789bdd-6939-4196-8d0a-80e82274e9c6",
+    "Name": "Physischer Widerstand",
+    "GroupID": null,
+    "AbilityIDs": [],
+    "AlterationIDs": [
+      "ef01d1a6-11d1-4320-b0cb-6c905307c442"
+    ],
+    "RootTalentID": null,
+    "Level": 2
+  },
+  {
+    "ID": "cdc38179-0dc5-456d-a78b-80f3253346d4",
+    "Name": "Zweites Leben",
+    "GroupID": "5c48bc79-55ff-4dfc-be39-d44ba3ec516f",
+    "AbilityIDs": [
+      "1c6eadbe-f2f6-4874-9ba9-8085832858b3"
+    ],
+    "AlterationIDs": [],
+    "RootTalentID": "cdc38179-0dc5-456d-a78b-80f3253346d4",
+    "Level": 1
+  },
+  {
+    "ID": "598d5a76-9735-45bc-bb3f-813b5a7ac6a1",
+    "Name": "Boomrangwurf",
+    "GroupID": "6364ff6f-ff8d-4e77-94c8-01254cc1c124",
+    "AbilityIDs": [
+      "4132ab74-b631-4f8d-9250-cbebb8e9aba3"
+    ],
+    "AlterationIDs": [],
+    "RootTalentID": "598d5a76-9735-45bc-bb3f-813b5a7ac6a1",
+    "Level": 1
+  },
+  {
+    "ID": "1234449e-c69c-4458-b5b3-8144c781e172",
+    "Name": "EnrageOnAllyDie",
+    "GroupID": null,
+    "AbilityIDs": [],
+    "AlterationIDs": [
+      "f41e889d-97c7-4214-ba5f-f6bc6289fa22"
+    ],
+    "RootTalentID": null,
+    "Level": 1
+  },
+  {
+    "ID": "2c4329db-93e4-47fc-93b5-815eac2dd604",
+    "Name": "Kristallbarriere",
+    "GroupID": null,
+    "AbilityIDs": [
+      "2830e95b-6021-443c-9367-d2df43b14c23"
+    ],
+    "AlterationIDs": [],
+    "RootTalentID": null,
+    "Level": 1
+  },
+  {
+    "ID": "9181dd8f-583e-4211-a372-81adc0ad2e5b",
+    "Name": "Finsterer Schlag",
+    "GroupID": "5e40fa86-2fd6-4eec-a710-6f8df515e86d",
+    "AbilityIDs": [
+      "8067b3d9-5418-4469-b370-6c65d2b8a739"
+    ],
+    "AlterationIDs": [],
+    "RootTalentID": "c030a7e7-a0dd-4f10-8bf8-2b3d8ba1d648",
+    "Level": 3
+  },
+  {
+    "ID": "da27a418-23bc-4ce5-a75d-83b9dfaa2779",
+    "Name": "Schneegestöber",
+    "GroupID": "5e40fa86-2fd6-4eec-a710-6f8df515e86d",
+    "AbilityIDs": [
+      "a68fda8d-ebb1-43e4-bd73-14cb538045c7"
+    ],
+    "AlterationIDs": [],
+    "RootTalentID": "da27a418-23bc-4ce5-a75d-83b9dfaa2779",
+    "Level": 1
+  },
+  {
+    "ID": "fc767c7e-8d1f-4a5d-b2b9-83c74a93d4f4",
+    "Name": "Fähigkeit testen",
+    "GroupID": null,
+    "AbilityIDs": [
+      "e27c8894-1291-4f9d-9ddd-1fc1bda3841b"
+    ],
+    "AlterationIDs": [],
+    "RootTalentID": null,
+    "Level": 0
+  },
+  {
+    "ID": "14267e31-390d-45d0-b95d-8519bf89b3cd",
+    "Name": "Jungtierbiss",
+    "GroupID": null,
+    "AbilityIDs": [
+      "7351f109-b83f-4a2a-861a-9f3f54694c69"
+    ],
+    "AlterationIDs": [],
+    "RootTalentID": null,
+    "Level": 1
+  },
+  {
+    "ID": "4195ab3d-a842-40ce-8e00-864d387642de",
+    "Name": "Lichtblitz",
+    "GroupID": "5c48bc79-55ff-4dfc-be39-d44ba3ec516f",
+    "AbilityIDs": [
+      "96555f47-3863-40dd-b9d6-d6a99d4b6648"
+    ],
+    "AlterationIDs": [],
+    "RootTalentID": "4195ab3d-a842-40ce-8e00-864d387642de",
+    "Level": 1
+  },
+  {
+    "ID": "859af841-478f-4359-975f-8661e4286551",
+    "Name": "Bombenwurf",
+    "GroupID": null,
+    "AbilityIDs": [
+      "0a207d81-f8c5-4479-8b89-a34723ab7280"
+    ],
+    "AlterationIDs": [],
+    "RootTalentID": null,
+    "Level": 2
+  },
+  {
+    "ID": "3ec7de07-b1b7-4678-9792-866def516675",
+    "Name": "Hauch",
+    "GroupID": "a8089727-b446-4322-b8b4-8a6cdba9f47e",
+    "AbilityIDs": [
+      "43dbf8a5-d3ec-4ae1-bd94-a1dbdb44379f"
+    ],
+    "AlterationIDs": [],
+    "RootTalentID": "3ec7de07-b1b7-4678-9792-866def516675",
+    "Level": 1
+  },
+  {
+    "ID": "08e046e8-31f0-4d44-b6b1-874bd5e33086",
+    "Name": "Dunkles Ritual",
+    "GroupID": null,
+    "AbilityIDs": [
+      "2d681ec5-b6b9-4d28-92fd-eb9d76cabfce"
+    ],
+    "AlterationIDs": [],
+    "RootTalentID": null,
+    "Level": 2
+  },
+  {
+    "ID": "d7221c99-0187-4382-9e90-878ad8bd07cc",
+    "Name": "Helfende Hand",
+    "GroupID": null,
+    "AbilityIDs": [
+      "38ab1393-411c-4e37-a996-87c7d531cf4b"
+    ],
+    "AlterationIDs": [],
+    "RootTalentID": null,
+    "Level": 1
+  },
+  {
+    "ID": "12626035-257a-4c3d-abb3-8858d7837db9",
+    "Name": "Explosiv",
+    "GroupID": null,
+    "AbilityIDs": [],
+    "AlterationIDs": [
+      "5719bfa9-6b17-407a-92d9-d6d77246607c"
+    ],
+    "RootTalentID": null,
+    "Level": 1
+  },
+  {
+    "ID": "3aa7db85-cd01-4653-a0f3-88dd7f0d1cbd",
+    "Name": "Ablenkung",
+    "GroupID": "d38b54b9-90e9-4605-b419-43be86f894c6",
+    "AbilityIDs": [
+      "c3d2e0c1-0cee-4e08-954b-ac576ceca4a7"
+    ],
+    "AlterationIDs": [],
+    "RootTalentID": "0c43d437-0fed-4f38-a631-8b72cc160f55",
+    "Level": 5
+  },
+  {
+    "ID": "86391dda-ecd2-4dd1-be72-88ea20e17dc8",
+    "Name": "Vortex",
+    "GroupID": "a8089727-b446-4322-b8b4-8a6cdba9f47e",
+    "AbilityIDs": [
+      "577c1511-aa58-4fdb-a28f-51b96d0605be"
+    ],
+    "AlterationIDs": [],
+    "RootTalentID": "86391dda-ecd2-4dd1-be72-88ea20e17dc8",
+    "Level": 1
+  },
+  {
+    "ID": "a998de84-2046-45b1-991e-8a09d7ff6fd6",
+    "Name": "Wassertrennung",
+    "GroupID": null,
+    "AbilityIDs": [
+      "d27072d9-64e9-4dff-8b9f-6c84308e43a3"
+    ],
+    "AlterationIDs": [],
+    "RootTalentID": null,
+    "Level": 1
+  },
+  {
+    "ID": "3fa46c73-bab2-4db8-a680-8a53132692d6",
+    "Name": "Rachsüchtiger Geist",
+    "GroupID": "6147edf4-e18a-4ad4-9191-46e6d3c3be3d",
+    "AbilityIDs": [
+      "85ad76c8-c67b-48ec-b03a-afddf7387588"
+    ],
+    "AlterationIDs": [
+      "867f1e81-69aa-4a02-8cf8-833207a3ceac"
+    ],
+    "RootTalentID": "3fa46c73-bab2-4db8-a680-8a53132692d6",
+    "Level": 1
+  },
+  {
+    "ID": "214d166e-5bef-4963-8cd2-8a6994c2e0cc",
+    "Name": "Eisatem",
+    "GroupID": null,
+    "AbilityIDs": [
+      "87d21678-d0de-4f32-a11c-7d39b3224ced"
+    ],
+    "AlterationIDs": [],
+    "RootTalentID": null,
+    "Level": 3
+  },
+  {
+    "ID": "855e332a-01f1-4766-89b8-8b7191d14260",
+    "Name": "Gift heilen",
+    "GroupID": "5c48bc79-55ff-4dfc-be39-d44ba3ec516f",
+    "AbilityIDs": [
+      "8448ea79-ddf5-4834-b9e8-51c66fcce6f9"
+    ],
+    "AlterationIDs": [],
+    "RootTalentID": "855e332a-01f1-4766-89b8-8b7191d14260",
+    "Level": 1
+  },
+  {
+    "ID": "0c43d437-0fed-4f38-a631-8b72cc160f55",
+    "Name": "Ablenkung",
+    "GroupID": "d38b54b9-90e9-4605-b419-43be86f894c6",
+    "AbilityIDs": [
+      "0157d1b2-258e-4630-b492-577ee25f8c93"
+    ],
+    "AlterationIDs": [],
+    "RootTalentID": "0c43d437-0fed-4f38-a631-8b72cc160f55",
+    "Level": 1
+  },
+  {
+    "ID": "261aa41e-7d6a-4db4-8ec4-8cb76a301aba",
+    "Name": "Weisheit",
+    "GroupID": "a8089727-b446-4322-b8b4-8a6cdba9f47e",
+    "AbilityIDs": [
+      "70283a8d-aac9-4a8b-84f1-99c0811e006c"
+    ],
+    "AlterationIDs": [
+      "5f072736-bbae-4e58-9fd2-8deb87cf9609"
+    ],
+    "RootTalentID": "913abd4c-c9a4-4b99-9699-f6886ecbaa5d",
+    "Level": 5
+  },
+  {
+    "ID": "9f0a7188-8c66-470b-b3d1-8cece572c3b9",
+    "Name": "Wasserkörper",
+    "GroupID": null,
+    "AbilityIDs": [],
+    "AlterationIDs": [
+      "7e5debf0-e094-4c17-973d-01cfc994bcf6",
+      "a8fef27a-71af-453f-b5cb-10159b8fc286",
+      "0d719bce-2241-497e-a65b-5df98b059574"
+    ],
+    "RootTalentID": null,
+    "Level": 1
+  },
+  {
+    "ID": "014fea3c-d4a2-4450-ae7a-8d6346b55db8",
+    "Name": "Exposition",
+    "GroupID": "6364ff6f-ff8d-4e77-94c8-01254cc1c124",
+    "AbilityIDs": [
+      "15d93514-1e97-4d6e-b5d6-e4ae0cae8701"
+    ],
+    "AlterationIDs": [],
+    "RootTalentID": "79279e78-6687-4466-9e43-e05345cf5a29",
+    "Level": 3
+  },
+  {
+    "ID": "1e5cb31f-a391-438a-9ec9-8df8e1383a0b",
+    "Name": "Schaf",
+    "GroupID": null,
+    "AbilityIDs": [
+      "7abc9db3-cd0c-481f-b5e5-6d8affd99620"
+    ],
+    "AlterationIDs": [],
+    "RootTalentID": "1e5cb31f-a391-438a-9ec9-8df8e1383a0b",
+    "Level": 1
+  },
+  {
+    "ID": "a9636b93-802b-4d31-adeb-8f4049e198ff",
+    "Name": "Dreifachschlag",
+    "GroupID": "5e40fa86-2fd6-4eec-a710-6f8df515e86d",
+    "AbilityIDs": [
+      "f1bdaf11-de0f-485a-8b14-dd58e178a8fc"
+    ],
+    "AlterationIDs": [],
+    "RootTalentID": "a9636b93-802b-4d31-adeb-8f4049e198ff",
+    "Level": 1
+  },
+  {
+    "ID": "dd04a3fc-274f-4d01-8938-8fb44c00a9b4",
+    "Name": "Schwäche",
+    "GroupID": "6364ff6f-ff8d-4e77-94c8-01254cc1c124",
+    "AbilityIDs": [
+      "234951e6-b5fc-4458-9a8a-4f26f2630641"
+    ],
+    "AlterationIDs": [],
+    "RootTalentID": "f6f2bbe3-61e0-496c-bed1-e91b2f399b82",
+    "Level": 2
+  },
+  {
+    "ID": "b860368d-fd9c-4e6a-8814-901b87f9d9ab",
+    "Name": "Augenlaser",
+    "GroupID": null,
+    "AbilityIDs": [
+      "0015ff58-2db5-4d0f-8dc4-97fd8028a3d4"
+    ],
+    "AlterationIDs": [],
+    "RootTalentID": null,
+    "Level": 1
+  },
+  {
+    "ID": "979500aa-81ea-4988-aff0-90e6426d8822",
+    "Name": "Abwehrhaltung",
+    "GroupID": "d38b54b9-90e9-4605-b419-43be86f894c6",
+    "AbilityIDs": [
+      "c6978f64-a452-463a-82d1-fa1d57689063"
+    ],
+    "AlterationIDs": [],
+    "RootTalentID": "d2d24711-0fbe-4d71-ab74-f6cf989c4382",
+    "Level": 3
+  },
+  {
+    "ID": "01794119-6176-45b2-adb0-9120a412790c",
+    "Name": "Mini-Boss",
+    "GroupID": null,
+    "AbilityIDs": [],
+    "AlterationIDs": [
+      "59dc0864-769d-46ad-bbcc-2a894e9f550d",
+      "9f1497a6-e175-4ae0-a32b-63b503f03fa2",
+      "c5f63930-845a-40fe-93af-f2fd449a185d",
+      "2b5012c0-b76e-4ff7-9ab9-fc76bae4314d"
+    ],
+    "RootTalentID": null,
+    "Level": 4
+  },
+  {
+    "ID": "c6c14ece-bafd-4aeb-8291-916a04e60093",
+    "Name": "Kraft",
+    "GroupID": "6364ff6f-ff8d-4e77-94c8-01254cc1c124",
+    "AbilityIDs": [
+      "fdcb52e7-4c94-45c0-92a1-8ce61c286101"
+    ],
+    "AlterationIDs": [],
+    "RootTalentID": "f1611a28-1541-40b1-b6e5-1f7be6082442",
+    "Level": 3
+  },
+  {
+    "ID": "e0112720-9575-42fc-91b2-91ad16098ec0",
+    "Name": "Ansturm",
+    "GroupID": "6147edf4-e18a-4ad4-9191-46e6d3c3be3d",
+    "AbilityIDs": [
+      "b5bff292-de17-4daf-a19c-4145a187e4ea"
+    ],
+    "AlterationIDs": [],
+    "RootTalentID": "f55633d4-4a98-4e3d-8ce8-9eb5b8f16150",
+    "Level": 3
+  },
+  {
+    "ID": "db088a8e-8d41-4ad5-845d-9297c1a0a61b",
+    "Name": "Immunität gegen Gift",
+    "GroupID": null,
+    "AbilityIDs": [],
+    "AlterationIDs": [
+      "3bc4d7cc-a6a2-436e-ae54-d2c3119f80e2"
+    ],
+    "RootTalentID": null,
+    "Level": 1
+  },
+  {
+    "ID": "1ae6ab31-c1ee-47b4-b704-9361916a7cf1",
+    "Name": "Lähmendes Gift",
+    "GroupID": null,
+    "AbilityIDs": [
+      "93464b13-5528-4e93-8e29-4aa2161e038f"
+    ],
+    "AlterationIDs": [],
+    "RootTalentID": null,
+    "Level": 1
+  },
+  {
+    "ID": "784325bf-7aec-4121-88d8-939c9d21f886",
+    "Name": "Vernichten",
+    "GroupID": null,
+    "AbilityIDs": [
+      "695c1fb1-1f8c-4d2b-82dd-83dcf5db3e69"
+    ],
+    "AlterationIDs": [],
+    "RootTalentID": "784325bf-7aec-4121-88d8-939c9d21f886",
+    "Level": 1
+  },
+  {
+    "ID": "c3b38bdd-0a23-4a89-b96b-93cc45531829",
+    "Name": "Präzision",
+    "GroupID": "5e40fa86-2fd6-4eec-a710-6f8df515e86d",
+    "AbilityIDs": [
+      "16ff2969-e8c6-4567-bbc9-c9afa1d849f9"
+    ],
+    "AlterationIDs": [
+      "f685fef0-a18d-4f5c-9a88-be0dfc28c3b6"
+    ],
+    "RootTalentID": "00d2f2e5-8ede-4d72-b5d3-fab882b1feff",
+    "Level": 9
+  },
+  {
+    "ID": "43f5f05b-448a-449e-806f-95f910482dd0",
+    "Name": "Feuerball",
+    "GroupID": "a8089727-b446-4322-b8b4-8a6cdba9f47e",
+    "AbilityIDs": [
+      "9428058a-61e6-444d-8e8a-0d57bfaf973a"
+    ],
+    "AlterationIDs": [],
+    "RootTalentID": "7736b69a-06af-4f80-a46b-778cf011cf2f",
+    "Level": 4
+  },
+  {
+    "ID": "df7b426a-d306-4ca4-806b-96638f34d0ec",
+    "Name": "Zerschlagen",
+    "GroupID": null,
+    "AbilityIDs": [
+      "89cc45b7-1275-40ed-bf50-37e12426323f"
+    ],
+    "AlterationIDs": [],
+    "RootTalentID": null,
+    "Level": 1
+  },
+  {
+    "ID": "27893cd7-077c-4e00-8b25-969952f3f8fb",
+    "Name": "Heilen",
+    "GroupID": "5c48bc79-55ff-4dfc-be39-d44ba3ec516f",
+    "AbilityIDs": [
+      "960a0ab2-13ac-420b-bb1d-173a11a0e509"
+    ],
+    "AlterationIDs": [],
+    "RootTalentID": "27893cd7-077c-4e00-8b25-969952f3f8fb",
+    "Level": 1
+  },
+  {
+    "ID": "b6ad081d-d2b7-46eb-b978-96c1a538ff42",
+    "Name": "Abwehrhaltung",
+    "GroupID": "d38b54b9-90e9-4605-b419-43be86f894c6",
+    "AbilityIDs": [
+      "8c3a3eb5-cfb2-4c24-8435-10cfa053cd04"
+    ],
+    "AlterationIDs": [],
+    "RootTalentID": "d2d24711-0fbe-4d71-ab74-f6cf989c4382",
+    "Level": 4
+  },
+  {
+    "ID": "b54479fd-297f-4bd9-8044-96d37d95f684",
+    "Name": "Vortex",
+    "GroupID": "a8089727-b446-4322-b8b4-8a6cdba9f47e",
+    "AbilityIDs": [
+      "8904ae43-eceb-4b3a-a51c-0e92dd0d4f03"
+    ],
+    "AlterationIDs": [],
+    "RootTalentID": "86391dda-ecd2-4dd1-be72-88ea20e17dc8",
+    "Level": 3
+  },
+  {
+    "ID": "a377fdbd-0f8f-47cc-84e4-971d00db120f",
+    "Name": "Untot",
+    "GroupID": null,
+    "AbilityIDs": [],
+    "AlterationIDs": [
+      "20b97efe-c163-44d6-9f9c-abc0cd6bc488"
+    ],
+    "RootTalentID": null,
+    "Level": 1
+  },
+  {
+    "ID": "67b833d9-6427-4336-8433-9739f5375b9a",
+    "Name": "Verjüngen",
+    "GroupID": null,
+    "AbilityIDs": [
+      "983ab8bb-9b38-4432-925a-89cff5f1a6ed"
+    ],
+    "AlterationIDs": [],
+    "RootTalentID": "d2b1721a-31f8-41fe-8be5-9af89576747d",
+    "Level": 2
+  },
+  {
+    "ID": "46626723-6a50-4bd7-a730-98323808fd8e",
+    "Name": "Klingensturm",
+    "GroupID": "5e40fa86-2fd6-4eec-a710-6f8df515e86d",
+    "AbilityIDs": [
+      "2a61f64a-075e-494d-af23-8dd1b4225bbf"
+    ],
+    "AlterationIDs": [],
+    "RootTalentID": "46626723-6a50-4bd7-a730-98323808fd8e",
+    "Level": 1
+  },
+  {
+    "ID": "6d1a330e-9f47-40f4-a485-98f4e3fa7f76",
+    "Name": "Zermalmen",
+    "GroupID": null,
+    "AbilityIDs": [
+      "005dd698-ee20-45ad-aeca-374d30387875"
+    ],
+    "AlterationIDs": [],
+    "RootTalentID": null,
+    "Level": 2
+  },
+  {
+    "ID": "887903f6-ed88-46d5-9447-994551ad9e3f",
+    "Name": "Meteor",
+    "GroupID": "a8089727-b446-4322-b8b4-8a6cdba9f47e",
+    "AbilityIDs": [
+      "89ece216-6e6e-4399-ba4e-491a5d3d865e"
+    ],
+    "AlterationIDs": [],
+    "RootTalentID": "322ee003-fd32-4ae9-b836-70a46f2ca267",
+    "Level": 3
+  },
+  {
+    "ID": "34e94147-d6a3-498c-87c8-9982a6a0910d",
+    "Name": "Schleichen",
+    "GroupID": null,
+    "AbilityIDs": [
+      "89f2c9fd-2962-42c5-bddb-b11b1e769e52"
+    ],
+    "AlterationIDs": [],
+    "RootTalentID": null,
+    "Level": 1
+  },
+  {
+    "ID": "4df01755-ef20-48df-8dbb-9a0ba503e182",
+    "Name": "Giftige Aura",
+    "GroupID": null,
+    "AbilityIDs": [],
+    "AlterationIDs": [
+      "244af8a4-5bf7-4897-bdbe-a8b8e58e9f6d"
+    ],
+    "RootTalentID": null,
+    "Level": 1
+  },
+  {
+    "ID": "40f5a3b6-3dd5-4c12-8a2b-9a3e128b1cbf",
+    "Name": "Pfeilsalve",
+    "GroupID": null,
+    "AbilityIDs": [
+      "6d061713-68b2-497f-9969-61f5546b0cac"
+    ],
+    "AlterationIDs": [],
+    "RootTalentID": "c6c91698-6f2b-4b74-a937-3f0ca78f01b9",
+    "Level": 1
+  },
+  {
+    "ID": "dde42c26-682b-487f-bd28-9a7866042057",
+    "Name": "Rachsüchtiger Geist",
+    "GroupID": "6147edf4-e18a-4ad4-9191-46e6d3c3be3d",
+    "AbilityIDs": [
+      "b5f58e81-5c2d-4ccb-b2de-e9659e758836"
+    ],
+    "AlterationIDs": [
+      "926804ca-ad10-4e64-85a6-179bf8615435"
+    ],
+    "RootTalentID": "3fa46c73-bab2-4db8-a680-8a53132692d6",
+    "Level": 2
+  },
+  {
+    "ID": "81812de4-2681-4346-8513-9ac4ad636c3f",
+    "Name": "Windruf",
+    "GroupID": null,
+    "AbilityIDs": [
+      "807802d9-03c7-4632-80b9-2c98c58bd246"
+    ],
+    "AlterationIDs": [],
+    "RootTalentID": null,
+    "Level": 1
+  },
+  {
+    "ID": "d2b1721a-31f8-41fe-8be5-9af89576747d",
+    "Name": "Verjüngen",
+    "GroupID": null,
+    "AbilityIDs": [
+      "31f2a6f3-b728-4dee-8943-ceb2111c441a"
+    ],
+    "AlterationIDs": [],
+    "RootTalentID": "d2b1721a-31f8-41fe-8be5-9af89576747d",
+    "Level": 1
+  },
+  {
+    "ID": "c73ec9bb-bccb-40e6-a2bd-9b1c418588ed",
+    "Name": "Bombenwurf",
+    "GroupID": null,
+    "AbilityIDs": [
+      "2088b226-1ec0-476f-ac1b-2a5d85de9a1b"
+    ],
+    "AlterationIDs": [],
+    "RootTalentID": null,
+    "Level": 2
+  },
+  {
+    "ID": "cbb7d985-1e2f-4d53-895c-9b781d78640d",
+    "Name": "Wütend werden",
+    "GroupID": "6147edf4-e18a-4ad4-9191-46e6d3c3be3d",
+    "AbilityIDs": [
+      "9ae4b4b6-4da0-43d0-a117-28e1b5231b83"
+    ],
+    "AlterationIDs": [],
+    "RootTalentID": "7b7b604f-86d8-4366-9fa3-0c823bf532a8",
+    "Level": 2
+  },
+  {
+    "ID": "77edf03b-7fb1-47f2-8524-9bed0c5bb02d",
+    "Name": "Verschlingen",
+    "GroupID": null,
+    "AbilityIDs": [
+      "187bd300-a24d-4a63-a06d-e4e94622dbb6"
+    ],
+    "AlterationIDs": [],
+    "RootTalentID": null,
+    "Level": 1
+  },
+  {
+    "ID": "ccd5b870-3695-4d6f-8497-9c5ce6d7e130",
+    "Name": "Schutzmodul M1",
+    "GroupID": null,
+    "AbilityIDs": [
+      "e22533b4-1442-4019-a2ec-44cdc06e9cf3"
+    ],
+    "AlterationIDs": [],
+    "RootTalentID": null,
+    "Level": 1
+  },
+  {
+    "ID": "d9592e0d-7b41-4b12-9eef-9d7a794f8793",
+    "Name": "Dartwurf",
+    "GroupID": null,
+    "AbilityIDs": [
+      "d5c14656-dd22-4b06-8be7-579d890cd26f"
+    ],
+    "AlterationIDs": [],
+    "RootTalentID": "1198fccc-1236-4285-9f79-5a2934e6a445",
+    "Level": 3
+  },
+  {
+    "ID": "da67a891-8017-4fb7-87c2-9e5b2d19893c",
+    "Name": "Massenheilung",
+    "GroupID": "5c48bc79-55ff-4dfc-be39-d44ba3ec516f",
+    "AbilityIDs": [
+      "a9018f0c-9b33-4dcf-8249-c92fcd5f658a"
+    ],
+    "AlterationIDs": [],
+    "RootTalentID": "da67a891-8017-4fb7-87c2-9e5b2d19893c",
+    "Level": 1
+  },
+  {
+    "ID": "f55633d4-4a98-4e3d-8ce8-9eb5b8f16150",
+    "Name": "Ansturm",
+    "GroupID": "6147edf4-e18a-4ad4-9191-46e6d3c3be3d",
+    "AbilityIDs": [
+      "0f3e7246-2f01-4b92-adba-620473bc224d"
+    ],
+    "AlterationIDs": [],
+    "RootTalentID": "f55633d4-4a98-4e3d-8ce8-9eb5b8f16150",
+    "Level": 1
+  },
+  {
+    "ID": "1129296c-d984-499f-b77c-9ebaa3c36295",
+    "Name": "Mini-Boss",
+    "GroupID": null,
+    "AbilityIDs": [],
+    "AlterationIDs": [
+      "8195f7fe-de9d-49bc-b74c-39dd41e11cc4",
+      "2aee220f-d301-475f-b29f-5f019eb20cf8",
+      "9f1497a6-e175-4ae0-a32b-63b503f03fa2",
+      "0397360a-8f0a-4383-bd9d-f11e45dbe67d"
+    ],
+    "RootTalentID": null,
+    "Level": 2
+  },
+  {
+    "ID": "9e5f6774-3ada-40d2-a0f4-9ec8b8b30615",
+    "Name": "Bösartiger Treffer",
+    "GroupID": "5e40fa86-2fd6-4eec-a710-6f8df515e86d",
+    "AbilityIDs": [
+      "562ef43f-a9df-4b06-a609-2c537772ffe1"
+    ],
+    "AlterationIDs": [],
+    "RootTalentID": "9e5f6774-3ada-40d2-a0f4-9ec8b8b30615",
+    "Level": 1
+  },
+  {
+    "ID": "cf488a61-6681-455e-aa69-9eca2ecca24e",
+    "Name": "Kampftanz",
+    "GroupID": "5e40fa86-2fd6-4eec-a710-6f8df515e86d",
+    "AbilityIDs": [
+      "696aa0c2-939c-4b40-ae30-941ce1117e76"
+    ],
+    "AlterationIDs": [
+      "e63c1cb0-a07f-456b-8b22-a9a17458bcd9"
+    ],
+    "RootTalentID": "cf488a61-6681-455e-aa69-9eca2ecca24e",
+    "Level": 1
+  },
+  {
+    "ID": "c40054f3-17c9-4270-aa44-9ef14608529a",
+    "Name": "Isolierung",
+    "GroupID": null,
+    "AbilityIDs": [
+      "dc149e98-fee5-4860-9250-21f529a938f7"
+    ],
+    "AlterationIDs": [],
+    "RootTalentID": null,
+    "Level": 1
+  },
+  {
+    "ID": "ab5d6bde-f677-4d45-b2bb-a180775261bd",
+    "Name": "Ausweichen",
+    "GroupID": "6364ff6f-ff8d-4e77-94c8-01254cc1c124",
+    "AbilityIDs": [
+      "b33488e4-4681-4035-8dd4-baab84c96f13"
+    ],
+    "AlterationIDs": [],
+    "RootTalentID": "ab5d6bde-f677-4d45-b2bb-a180775261bd",
+    "Level": 1
+  },
+  {
+    "ID": "2dd5ddd2-076c-4399-9c13-a206826a3d65",
+    "Name": "Staubhauch",
+    "GroupID": null,
+    "AbilityIDs": [
+      "0c7557fc-6229-432b-9bfc-3a9224ec47d4"
+    ],
+    "AlterationIDs": [],
+    "RootTalentID": null,
+    "Level": 1
+  },
+  {
+    "ID": "f00ad96e-8d8b-4c0b-bc00-a2c035a7d665",
+    "Name": "Giftiger Dampf",
+    "GroupID": null,
+    "AbilityIDs": [
+      "d752e765-0174-43da-928b-b7fa94e3eb4a"
+    ],
+    "AlterationIDs": [],
+    "RootTalentID": null,
+    "Level": 1
+  },
+  {
+    "ID": "4a397bf7-9d8b-499d-928c-a3431dc52c3a",
+    "Name": "Außer Gefecht setzen",
+    "GroupID": "5e40fa86-2fd6-4eec-a710-6f8df515e86d",
+    "AbilityIDs": [
+      "b9f8dc9d-af72-4840-b6c9-ce4e37ad38b9"
+    ],
+    "AlterationIDs": [],
+    "RootTalentID": "e59d6c25-5a87-4521-918a-1ca214104be9",
+    "Level": 4
+  },
+  {
+    "ID": "323aa686-f3d6-471e-ac2e-a48033e9bd93",
+    "Name": "Wasseranfälligkeit",
+    "GroupID": null,
+    "AbilityIDs": [],
+    "AlterationIDs": [
+      "056d9629-d42f-4470-a8db-9eaf70cec795"
+    ],
+    "RootTalentID": null,
+    "Level": 1
+  },
+  {
+    "ID": "9352f0ec-9cdf-472c-baa3-a4bf08d98df8",
+    "Name": "Weisheit",
+    "GroupID": "a8089727-b446-4322-b8b4-8a6cdba9f47e",
+    "AbilityIDs": [
+      "1638466b-4b39-4c7d-b142-a5d403484c51"
+    ],
+    "AlterationIDs": [
+      "5a63b50f-b5ff-45de-92a2-dd3281bc859d"
+    ],
+    "RootTalentID": "913abd4c-c9a4-4b99-9699-f6886ecbaa5d",
+    "Level": 3
+  },
+  {
+    "ID": "4c54ba8f-b084-46ed-81c2-a51e9a1b6859",
+    "Name": "Giftiger Schlag",
+    "GroupID": null,
+    "AbilityIDs": [
+      "f1de6cc1-8449-482e-af96-fe4fcfa043ee"
+    ],
+    "AlterationIDs": [],
+    "RootTalentID": null,
+    "Level": 1
+  },
+  {
+    "ID": "cb1c5ce2-b0ac-4167-939b-a59622caceb6",
+    "Name": "Verwüsten",
+    "GroupID": "6147edf4-e18a-4ad4-9191-46e6d3c3be3d",
+    "AbilityIDs": [
+      "7e78969e-32a8-4547-b6f9-35fce2c8df74"
+    ],
+    "AlterationIDs": [],
+    "RootTalentID": "cb1c5ce2-b0ac-4167-939b-a59622caceb6",
+    "Level": 1
+  },
+  {
+    "ID": "da778d2c-2d56-4b29-9b2e-a5b15011fca1",
+    "Name": "Heulen",
+    "GroupID": null,
+    "AbilityIDs": [
+      "08994ba6-d6ba-48e9-8479-9fa257ce6b27"
+    ],
+    "AlterationIDs": [],
+    "RootTalentID": null,
+    "Level": 1
+  },
+  {
+    "ID": "da66eb10-7988-494c-b31d-a6734a7c1aca",
+    "Name": "Entzünden",
+    "GroupID": "a8089727-b446-4322-b8b4-8a6cdba9f47e",
+    "AbilityIDs": [
+      "95be8358-4b31-454b-af0c-8f79da891956"
+    ],
+    "AlterationIDs": [],
+    "RootTalentID": "487aa900-58c7-4cde-bd61-354479ce65b7",
+    "Level": 5
+  },
+  {
+    "ID": "183a8f62-1604-47aa-b0a2-a70f807cd0fc",
+    "Name": "Friedliche Aura",
+    "GroupID": null,
+    "AbilityIDs": [
+      "1667b1b1-e13e-45e5-a668-f054647fcce3"
+    ],
+    "AlterationIDs": [],
+    "RootTalentID": null,
+    "Level": 9
+  },
+  {
+    "ID": "f441e880-579b-4170-92fc-a746b8135289",
+    "Name": "Magische Immunität",
+    "GroupID": null,
+    "AbilityIDs": [],
+    "AlterationIDs": [
+      "a9079222-68f4-4150-a550-c259e9f4278f"
+    ],
+    "RootTalentID": null,
+    "Level": 1
+  },
+  {
+    "ID": "38abc260-0e82-481f-a24e-aa5ae0803c77",
+    "Name": "Hauch",
+    "GroupID": "a8089727-b446-4322-b8b4-8a6cdba9f47e",
+    "AbilityIDs": [
+      "b87b7831-eca4-45be-9e9b-481dd14caba7"
+    ],
+    "AlterationIDs": [],
+    "RootTalentID": "3ec7de07-b1b7-4678-9792-866def516675",
+    "Level": 3
+  },
+  {
+    "ID": "be072ddb-6c54-4419-8e56-aaceede94276",
+    "Name": "Bellen",
+    "GroupID": "5c48bc79-55ff-4dfc-be39-d44ba3ec516f",
+    "AbilityIDs": [
+      "010b6668-452b-49f7-99b0-4b3a78002496"
+    ],
+    "AlterationIDs": [],
+    "RootTalentID": "be072ddb-6c54-4419-8e56-aaceede94276",
+    "Level": 1
+  },
+  {
+    "ID": "4e26a442-a2f0-4f65-ad24-ab09bd04af49",
+    "Name": "Tornado",
+    "GroupID": "a8089727-b446-4322-b8b4-8a6cdba9f47e",
+    "AbilityIDs": [
+      "e5580262-87f1-44ca-9392-c4dd4e530799"
+    ],
+    "AlterationIDs": [],
+    "RootTalentID": "f29dd18c-143c-42e3-acc6-d9ec7bcbd8cc",
+    "Level": 2
+  },
+  {
+    "ID": "6195fab3-b263-4679-b926-ab8be25da83a",
+    "Name": "Glänzender Schlag",
+    "GroupID": "5c48bc79-55ff-4dfc-be39-d44ba3ec516f",
+    "AbilityIDs": [
+      "1064a6a0-3c78-4224-9f2d-c58fb4597eb8"
+    ],
+    "AlterationIDs": [],
+    "RootTalentID": "6195fab3-b263-4679-b926-ab8be25da83a",
+    "Level": 1
+  },
+  {
+    "ID": "25ec951d-34cf-4a2b-9fa2-ab8ca2fd8de9",
+    "Name": "Wasserspezialist",
+    "GroupID": null,
+    "AbilityIDs": [],
+    "AlterationIDs": [
+      "3587235d-787a-43e9-8a81-a64582f21d2a"
+    ],
+    "RootTalentID": null,
+    "Level": 1
+  },
+  {
+    "ID": "74c63dbf-c963-40b8-bd79-abbe68f72ce8",
+    "Name": "Giftwiderstand",
+    "GroupID": null,
+    "AbilityIDs": [],
+    "AlterationIDs": [
+      "9c466d73-1de0-4b49-886e-98706d6d2f47"
+    ],
+    "RootTalentID": null,
+    "Level": 1
+  },
+  {
+    "ID": "53c9c343-c495-46d8-9581-ac1ab686ed04",
+    "Name": "Entzünden",
+    "GroupID": "a8089727-b446-4322-b8b4-8a6cdba9f47e",
+    "AbilityIDs": [
+      "516c7edd-6187-4d03-8a8b-5c6146e3cb63"
+    ],
+    "AlterationIDs": [],
+    "RootTalentID": "487aa900-58c7-4cde-bd61-354479ce65b7",
+    "Level": 2
+  },
+  {
+    "ID": "7b94fd24-cae4-413e-bfae-ad83f0236e4c",
+    "Name": "Sammelnder Schrei",
+    "GroupID": null,
+    "AbilityIDs": [
+      "cd996204-e545-4014-a20f-21fd714c7c9c"
+    ],
+    "AlterationIDs": [],
+    "RootTalentID": null,
+    "Level": 2
+  },
+  {
+    "ID": "32f64056-d792-40a9-8afe-ae51621ba7dd",
+    "Name": "Wasserstrahl",
+    "GroupID": "a8089727-b446-4322-b8b4-8a6cdba9f47e",
+    "AbilityIDs": [
+      "686581de-39e6-4f12-86b6-9a2c68bf9ca5"
+    ],
+    "AlterationIDs": [],
+    "RootTalentID": "056f517f-f901-4000-90be-d6b76a32fe64",
+    "Level": 5
+  },
+  {
+    "ID": "6971d1a7-f007-45fc-9884-ae64c0bffae6",
+    "Name": "Toben",
+    "GroupID": "5e40fa86-2fd6-4eec-a710-6f8df515e86d",
+    "AbilityIDs": [
+      "2dd7d182-2b72-4738-b962-e4bb1e6349c9"
+    ],
+    "AlterationIDs": [],
+    "RootTalentID": "483671c4-eaaf-470a-88d9-f78ad18581b0",
+    "Level": 3
+  },
+  {
+    "ID": "ceb03526-26b6-4492-bcce-aeb92c480019",
+    "Name": "Zuschlagen",
+    "GroupID": "d38b54b9-90e9-4605-b419-43be86f894c6",
+    "AbilityIDs": [
+      "9d9c71a5-b39c-4bf6-87d7-5730784d14cd"
+    ],
+    "AlterationIDs": [],
+    "RootTalentID": "ceb03526-26b6-4492-bcce-aeb92c480019",
+    "Level": 1
+  },
+  {
+    "ID": "dbd90054-71dc-40e9-b355-af975afa2375",
+    "Name": "Explosiv",
+    "GroupID": null,
+    "AbilityIDs": [],
+    "AlterationIDs": [
+      "2bb821d0-2e69-4928-8840-a2022673f066"
+    ],
+    "RootTalentID": null,
+    "Level": 2
+  },
+  {
+    "ID": "97c4d9da-d844-423e-945a-afc3fc7e1c44",
+    "Name": "Wasserpfeil",
+    "GroupID": null,
+    "AbilityIDs": [
+      "18732a2f-d401-4301-af7c-2110d6b85fe8"
+    ],
+    "AlterationIDs": [],
+    "RootTalentID": null,
+    "Level": 3
+  },
+  {
+    "ID": "272bd316-8a40-48e3-aec3-afd8c76c7771",
+    "Name": "Magische Barriere",
+    "GroupID": "d38b54b9-90e9-4605-b419-43be86f894c6",
+    "AbilityIDs": [
+      "104a6b51-8a72-463d-9d54-bc09120f8de9"
+    ],
+    "AlterationIDs": [],
+    "RootTalentID": "272bd316-8a40-48e3-aec3-afd8c76c7771",
+    "Level": 1
+  },
+  {
+    "ID": "cd3459b2-c136-4792-ac28-b06ec949fbe5",
+    "Name": "Entzünden",
+    "GroupID": "a8089727-b446-4322-b8b4-8a6cdba9f47e",
+    "AbilityIDs": [
+      "b981b237-88dd-4d9b-8637-1d8beb9dc33f"
+    ],
+    "AlterationIDs": [],
+    "RootTalentID": "487aa900-58c7-4cde-bd61-354479ce65b7",
+    "Level": 3
+  },
+  {
+    "ID": "f6ba1043-f9ad-4c9f-9644-b07771771bf3",
+    "Name": "Glänzender Schlag",
+    "GroupID": "5c48bc79-55ff-4dfc-be39-d44ba3ec516f",
+    "AbilityIDs": [
+      "3f3b47db-bf8d-4d94-b498-4e337a1af9da"
+    ],
+    "AlterationIDs": [],
+    "RootTalentID": "6195fab3-b263-4679-b926-ab8be25da83a",
+    "Level": 5
+  },
+  {
+    "ID": "22a6551a-e303-45d7-8aff-b10ce6a02f9b",
+    "Name": "Analysieren",
+    "GroupID": "6364ff6f-ff8d-4e77-94c8-01254cc1c124",
+    "AbilityIDs": [
+      "88a961bb-f6c5-4e8c-943e-3d29f0e69fbb"
+    ],
+    "AlterationIDs": [],
+    "RootTalentID": "b8e4fc0e-c021-486d-b6cd-2b07c04d8bb9",
+    "Level": 5
+  },
+  {
+    "ID": "20977412-ba8f-495c-b6b8-b148a6c57483",
+    "Name": "Exekutieren",
+    "GroupID": "6147edf4-e18a-4ad4-9191-46e6d3c3be3d",
+    "AbilityIDs": [
+      "4003ffce-b6ad-41d5-a1f8-8c1bce1fde04"
+    ],
+    "AlterationIDs": [],
+    "RootTalentID": "20977412-ba8f-495c-b6b8-b148a6c57483",
+    "Level": 1
+  },
+  {
+    "ID": "ada3d33f-1077-4356-bee9-b2ea18990908",
+    "Name": "Zuschlagen",
+    "GroupID": "d38b54b9-90e9-4605-b419-43be86f894c6",
+    "AbilityIDs": [
+      "1e58387d-2981-4757-9219-f6d6c7ccb8ed"
+    ],
+    "AlterationIDs": [],
+    "RootTalentID": "ceb03526-26b6-4492-bcce-aeb92c480019",
+    "Level": 3
+  },
+  {
+    "ID": "b331f61b-4cab-4d5b-b651-b38caea55f4b",
+    "Name": "Dornen werfen",
+    "GroupID": null,
+    "AbilityIDs": [
+      "292b4a1e-b00e-4553-8ed6-a5d4fdb5e8b0"
+    ],
+    "AlterationIDs": [],
+    "RootTalentID": null,
+    "Level": 1
+  },
+  {
+    "ID": "a4d37c0e-d54b-4902-99a1-b41b97ffbf42",
+    "Name": "Wasserpfeil",
+    "GroupID": null,
+    "AbilityIDs": [
+      "2e7fc762-8e84-49bb-9851-cc033a10d1e1"
+    ],
+    "AlterationIDs": [],
+    "RootTalentID": null,
+    "Level": 2
+  },
+  {
+    "ID": "82fb5f2e-ca00-4f79-94b9-b4afe20ca4fd",
+    "Name": "Blutdurst",
+    "GroupID": "6147edf4-e18a-4ad4-9191-46e6d3c3be3d",
+    "AbilityIDs": [
+      "618cb61b-2bac-4d8b-81ca-a22bf4860110"
+    ],
+    "AlterationIDs": [],
+    "RootTalentID": "82fb5f2e-ca00-4f79-94b9-b4afe20ca4fd",
+    "Level": 1
+  },
+  {
+    "ID": "0c2a0a8b-0ffb-409f-9bc4-b4fdb8c0ac8b",
+    "Name": "Meteor",
+    "GroupID": "a8089727-b446-4322-b8b4-8a6cdba9f47e",
+    "AbilityIDs": [
+      "92de6568-ac8b-4531-9648-bca85733129b"
+    ],
+    "AlterationIDs": [],
+    "RootTalentID": "322ee003-fd32-4ae9-b836-70a46f2ca267",
+    "Level": 2
+  },
+  {
+    "ID": "a6dfce2d-9969-49ea-995a-b5001589eee0",
+    "Name": "Mini-Boss",
+    "GroupID": null,
+    "AbilityIDs": [],
+    "AlterationIDs": [
+      "2aee220f-d301-475f-b29f-5f019eb20cf8",
+      "70b8bc17-cc4c-40bd-a832-5f72c1b269c0",
+      "9f1497a6-e175-4ae0-a32b-63b503f03fa2",
+      "4f463d48-0af5-4377-834f-bfba05db70a4"
+    ],
+    "RootTalentID": null,
+    "Level": 3
+  },
+  {
+    "ID": "2985190d-de95-4fde-ba9e-b562fcd93e09",
+    "Name": "Flüchtiges Feuer",
+    "GroupID": null,
+    "AbilityIDs": [
+      "de631601-5051-49d7-a6c5-2ff3d5229d97"
+    ],
+    "AlterationIDs": [],
+    "RootTalentID": null,
+    "Level": 1
+  },
+  {
+    "ID": "7b95b762-db56-420a-ab38-b5978dddb702",
+    "Name": "Trampeln",
+    "GroupID": null,
+    "AbilityIDs": [
+      "cca6c3fd-7e98-4b67-9ada-f8b8ccd6784d"
+    ],
+    "AlterationIDs": [],
+    "RootTalentID": "7b95b762-db56-420a-ab38-b5978dddb702",
+    "Level": 1
+  },
+  {
+    "ID": "86cdf78c-509e-4eb5-8351-b5dcc02a9e7a",
+    "Name": "Analysieren",
+    "GroupID": "6364ff6f-ff8d-4e77-94c8-01254cc1c124",
+    "AbilityIDs": [
+      "a99e02f7-0b26-42ab-836c-644ade5f091f"
+    ],
+    "AlterationIDs": [],
+    "RootTalentID": "b8e4fc0e-c021-486d-b6cd-2b07c04d8bb9",
+    "Level": 2
+  },
+  {
+    "ID": "01d8f3b8-e53b-468a-ac2b-b659ad017806",
+    "Name": "Ruhig",
+    "GroupID": null,
+    "AbilityIDs": [],
+    "AlterationIDs": [
+      "54332842-2b7e-4302-9ff0-d946ba54dc14"
+    ],
+    "RootTalentID": null,
+    "Level": 1
+  },
+  {
+    "ID": "7ad9cd61-a9e6-43ae-99f0-b6886270d5c1",
+    "Name": "Infernos Ruf",
+    "GroupID": "a8089727-b446-4322-b8b4-8a6cdba9f47e",
+    "AbilityIDs": [
+      "2a14d8ff-9c04-4c99-8fe4-6d4cbf625124"
+    ],
+    "AlterationIDs": [],
+    "RootTalentID": "7ad9cd61-a9e6-43ae-99f0-b6886270d5c1",
+    "Level": 1
+  },
+  {
+    "ID": "f19ea50b-9574-45b3-9110-b729b8c06ad8",
+    "Name": "Abwehrhaltung",
+    "GroupID": "d38b54b9-90e9-4605-b419-43be86f894c6",
+    "AbilityIDs": [
+      "db8c6fca-8dfc-46e5-8dc4-2a7af0c6ca39"
+    ],
+    "AlterationIDs": [],
+    "RootTalentID": "d2d24711-0fbe-4d71-ab74-f6cf989c4382",
+    "Level": 2
+  },
+  {
+    "ID": "7e249e16-1e31-4836-bf85-b7ab835284fa",
+    "Name": "Immunität gegen Gift",
+    "GroupID": null,
+    "AbilityIDs": [],
+    "AlterationIDs": [
+      "4c62d519-29fa-4572-a55f-86568feaaf00"
+    ],
+    "RootTalentID": null,
+    "Level": 1
+  },
+  {
+    "ID": "b6e9ed16-deb9-4981-8259-b826e67a8c85",
+    "Name": "Wilder Biss",
+    "GroupID": null,
+    "AbilityIDs": [
+      "2f39d33e-df8c-47cb-8d22-5e6a86eb35ec"
+    ],
+    "AlterationIDs": [],
+    "RootTalentID": null,
+    "Level": 3
+  },
+  {
+    "ID": "8c38931b-1f0f-4cab-b09c-b86984998575",
+    "Name": "Windmeister",
+    "GroupID": null,
+    "AbilityIDs": [],
+    "AlterationIDs": [
+      "e602e62e-9f5a-4978-b55e-c5d0c0683e64"
+    ],
+    "RootTalentID": null,
+    "Level": 1
+  },
+  {
+    "ID": "24e1c02b-5ff8-4dc5-a4bd-b8d08769d869",
+    "Name": "Feuer",
+    "GroupID": null,
+    "AbilityIDs": [
+      "f24aca17-e49f-4612-ba32-f7c0f838ede0"
+    ],
+    "AlterationIDs": [],
+    "RootTalentID": null,
+    "Level": 1
+  },
+  {
+    "ID": "73aded15-9db4-4997-85fa-b9778721be5d",
+    "Name": "Zermalmen",
+    "GroupID": null,
+    "AbilityIDs": [
+      "85a1d197-7e9d-4bad-989f-0fa2037633e7"
+    ],
+    "AlterationIDs": [],
+    "RootTalentID": null,
+    "Level": 1
+  },
+  {
+    "ID": "dcd80063-34c9-479c-bc69-ba6681ace5e9",
+    "Name": "Kristallisierender Rauch",
+    "GroupID": null,
+    "AbilityIDs": [
+      "c6910796-0bcc-4b41-a917-9e7bfabf7d48"
+    ],
+    "AlterationIDs": [],
+    "RootTalentID": "dcd80063-34c9-479c-bc69-ba6681ace5e9",
+    "Level": 1
+  },
+  {
+    "ID": "8c842d8c-76fb-490e-9190-ba716d0914a4",
+    "Name": "Sturm",
+    "GroupID": "a8089727-b446-4322-b8b4-8a6cdba9f47e",
+    "AbilityIDs": [
+      "ef670b6a-80c1-4b11-85da-5762b3674054"
+    ],
+    "AlterationIDs": [],
+    "RootTalentID": "8c842d8c-76fb-490e-9190-ba716d0914a4",
+    "Level": 1
+  },
+  {
+    "ID": "7d048c38-e2c5-470f-b791-bb10ecc0226e",
+    "Name": "Steady Ward",
+    "GroupID": null,
+    "AbilityIDs": [
+      "5a87592a-4482-4049-b514-618fa2515aa5"
+    ],
+    "AlterationIDs": [],
+    "RootTalentID": null,
+    "Level": 1
+  },
+  {
+    "ID": "d251b1f1-ed84-409a-854a-bb9f1400bf82",
+    "Name": "Schlag",
+    "GroupID": "6364ff6f-ff8d-4e77-94c8-01254cc1c124",
+    "AbilityIDs": [
+      "357164f4-ec23-494f-a8a0-dc26c049b7d0"
+    ],
+    "AlterationIDs": [],
+    "RootTalentID": "d251b1f1-ed84-409a-854a-bb9f1400bf82",
+    "Level": 1
+  },
+  {
+    "ID": "993657ac-abff-4705-a166-bcdf28f54e4f",
+    "Name": "Revitalisieren",
+    "GroupID": "5c48bc79-55ff-4dfc-be39-d44ba3ec516f",
+    "AbilityIDs": [
+      "96491337-9cee-4145-b381-e7e8e6af116a"
+    ],
+    "AlterationIDs": [],
+    "RootTalentID": "a31dfe0b-df11-4365-add9-258971dc9089",
+    "Level": 2
+  },
+  {
+    "ID": "baf1d0ca-7891-4478-b3d1-bd1f95388952",
+    "Name": "Wasserstrahl",
+    "GroupID": "a8089727-b446-4322-b8b4-8a6cdba9f47e",
+    "AbilityIDs": [
+      "65d2703e-dc8c-4058-80e1-2bab6ec46943"
+    ],
+    "AlterationIDs": [],
+    "RootTalentID": "056f517f-f901-4000-90be-d6b76a32fe64",
+    "Level": 4
+  },
+  {
+    "ID": "a0e9abd6-6cb9-4ca1-883d-bd7998b58a38",
+    "Name": "Boss",
+    "GroupID": null,
+    "AbilityIDs": [],
+    "AlterationIDs": [
+      "1683e2fa-cdc9-4abe-a75e-2feaebef3d70",
+      "ac39e1cd-5656-4fe5-8830-432c3b43a7e6",
+      "41f57457-5aff-4dda-b511-b6b9d94514ec",
+      "7c0bed14-aba3-4fad-b069-d4e2cfab5246"
+    ],
+    "RootTalentID": null,
+    "Level": 1
+  },
+  {
+    "ID": "4c2f45dc-3412-4c79-89e3-be37c63eafcf",
+    "Name": "Bellen",
+    "GroupID": "5c48bc79-55ff-4dfc-be39-d44ba3ec516f",
+    "AbilityIDs": [
+      "5951e2ce-25bb-4b0a-9818-ab482338e1aa"
+    ],
+    "AlterationIDs": [],
+    "RootTalentID": "be072ddb-6c54-4419-8e56-aaceede94276",
+    "Level": 2
+  },
+  {
+    "ID": "c4094c4b-119c-4239-815e-be56dd82ea6d",
+    "Name": "Giftige Spucke",
+    "GroupID": null,
+    "AbilityIDs": [
+      "3411b433-df3f-4699-8c2f-0765fa9d4947"
+    ],
+    "AlterationIDs": [],
+    "RootTalentID": null,
+    "Level": 2
+  },
+  {
+    "ID": "37704134-9937-4335-8b4e-bf356b3ca6d2",
+    "Name": "Explosion",
+    "GroupID": null,
+    "AbilityIDs": [
+      "01430549-7e79-4424-bcf7-f19f07897315"
+    ],
+    "AlterationIDs": [],
+    "RootTalentID": null,
+    "Level": 1
+  },
+  {
+    "ID": "aeeb9ffa-f278-4639-9828-bf8bbc72c173",
+    "Name": "Passiv",
+    "GroupID": null,
+    "AbilityIDs": [],
+    "AlterationIDs": [
+      "c27ee496-5966-45d6-a363-2e4819732458"
+    ],
+    "RootTalentID": null,
+    "Level": 1
+  },
+  {
+    "ID": "0440bf02-681a-4916-9d81-bff2c8aa95cf",
+    "Name": "Verschlingen",
+    "GroupID": null,
+    "AbilityIDs": [
+      "3b1cb994-3a09-4b0d-8e61-644eff37026e"
+    ],
+    "AlterationIDs": [],
+    "RootTalentID": null,
+    "Level": 2
+  },
+  {
+    "ID": "180b684f-0cf5-4832-83d1-c0f7bef09e98",
+    "Name": "Bösartiger Treffer",
+    "GroupID": "5e40fa86-2fd6-4eec-a710-6f8df515e86d",
+    "AbilityIDs": [
+      "489e213f-e79d-425a-8130-b2847ac60389"
+    ],
+    "AlterationIDs": [],
+    "RootTalentID": "9e5f6774-3ada-40d2-a0f4-9ec8b8b30615",
+    "Level": 2
+  },
+  {
+    "ID": "5eac7e20-cf83-45c6-a77f-c10c41fb0e44",
+    "Name": "Zerschlagen",
+    "GroupID": "d38b54b9-90e9-4605-b419-43be86f894c6",
+    "AbilityIDs": [
+      "2117041a-36cd-45e9-9c18-cb5e1b92be85"
+    ],
+    "AlterationIDs": [],
+    "RootTalentID": "5eac7e20-cf83-45c6-a77f-c10c41fb0e44",
+    "Level": 1
+  },
+  {
+    "ID": "c915c531-0d78-457f-b6df-c19201fbe84f",
+    "Name": "Feuerruf",
+    "GroupID": null,
+    "AbilityIDs": [
+      "c43e9a16-d0f6-43ac-9ce3-4af0de630c9f"
+    ],
+    "AlterationIDs": [],
+    "RootTalentID": null,
+    "Level": 1
+  },
+  {
+    "ID": "0eb3f3a0-40d6-4ec4-9ee3-c30ec4df4746",
+    "Name": "Zungenschlag",
+    "GroupID": null,
+    "AbilityIDs": [
+      "aae37381-4c55-42b7-b9f2-5815b12ac79e"
+    ],
+    "AlterationIDs": [],
+    "RootTalentID": null,
+    "Level": 1
+  },
+  {
+    "ID": "c9494102-051a-4796-b2e4-c4639a68107f",
+    "Name": "Verjüngen",
+    "GroupID": null,
+    "AbilityIDs": [
+      "faafc8a6-9f8e-4d11-a4ab-7b06e21fd350"
+    ],
+    "AlterationIDs": [],
+    "RootTalentID": "d2b1721a-31f8-41fe-8be5-9af89576747d",
+    "Level": 3
+  },
+  {
+    "ID": "dd0b69df-c818-4fc2-a07b-c5a189d0ee1e",
+    "Name": "Hauch",
+    "GroupID": "a8089727-b446-4322-b8b4-8a6cdba9f47e",
+    "AbilityIDs": [
+      "60fedf6e-23ec-4f5d-a8fc-7c5bb58e8e69"
+    ],
+    "AlterationIDs": [],
+    "RootTalentID": "3ec7de07-b1b7-4678-9792-866def516675",
+    "Level": 5
+  },
+  {
+    "ID": "08ee96da-0dc4-4840-a404-c634d6502a10",
+    "Name": "Schattenschritt",
+    "GroupID": "5e40fa86-2fd6-4eec-a710-6f8df515e86d",
+    "AbilityIDs": [
+      "6298120c-392e-48ae-898b-4c25221c3b29"
+    ],
+    "AlterationIDs": [],
+    "RootTalentID": "da29da36-2fa8-4327-936b-f06c15920346",
+    "Level": 2
+  },
+  {
+    "ID": "702c7fea-fa97-41b9-a1ec-c7c3aad4f6cc",
+    "Name": "Weit weg",
+    "GroupID": null,
+    "AbilityIDs": [],
+    "AlterationIDs": [
+      "adacab5b-fc12-4059-89d8-18d2ddf2b3af"
+    ],
+    "RootTalentID": null,
+    "Level": 1
+  },
+  {
+    "ID": "21631e43-e9a2-4ad8-a02e-c80be194da92",
+    "Name": "Hydrotoxischer Dampf",
+    "GroupID": null,
+    "AbilityIDs": [
+      "ae0b008c-44ba-4ae0-a521-0d74db3e322e"
+    ],
+    "AlterationIDs": [],
+    "RootTalentID": null,
+    "Level": 1
+  },
+  {
+    "ID": "ccfbe57f-c02d-4075-a4f8-c8b40d1d82f4",
+    "Name": "Weisheit",
+    "GroupID": "a8089727-b446-4322-b8b4-8a6cdba9f47e",
+    "AbilityIDs": [
+      "dfdcaa7a-99b0-4422-8411-427653412069"
+    ],
+    "AlterationIDs": [
+      "5d5fec86-39be-4168-85d5-d43164a708cb"
+    ],
+    "RootTalentID": "913abd4c-c9a4-4b99-9699-f6886ecbaa5d",
+    "Level": 2
+  },
+  {
+    "ID": "f19f5042-9ad6-40c3-9bf4-c9848bb2b4ec",
+    "Name": "Verwüsten",
+    "GroupID": null,
+    "AbilityIDs": [
+      "13081e9b-b66d-4382-9072-db0d890f7f7d"
+    ],
+    "AlterationIDs": [],
+    "RootTalentID": null,
+    "Level": 3
+  },
+  {
+    "ID": "29acad27-7fd3-4c55-9c13-ca41b8eaf5a0",
+    "Name": "Schlag",
+    "GroupID": "6364ff6f-ff8d-4e77-94c8-01254cc1c124",
+    "AbilityIDs": [
+      "1a60e921-3fc8-4729-b518-c72870a069be"
+    ],
+    "AlterationIDs": [],
+    "RootTalentID": "d251b1f1-ed84-409a-854a-bb9f1400bf82",
+    "Level": 3
+  },
+  {
+    "ID": "af6790a5-df3b-41cf-9d8c-cafcaa2f8296",
+    "Name": "Schutzmodul D1",
+    "GroupID": null,
+    "AbilityIDs": [
+      "842d90e4-79b8-43e2-88ba-e47ef3513e6a"
+    ],
+    "AlterationIDs": [],
+    "RootTalentID": null,
+    "Level": 1
+  },
+  {
+    "ID": "9e4d501e-0c20-4eeb-95ec-cb2209b56c41",
+    "Name": "Trotziger Schrei",
+    "GroupID": "d38b54b9-90e9-4605-b419-43be86f894c6",
+    "AbilityIDs": [
+      "b2ae62a3-627e-4c8b-b7e4-1e057532a78e"
+    ],
+    "AlterationIDs": [],
+    "RootTalentID": "9e07bbab-7059-498a-8c23-5e4ff8aad14e",
+    "Level": 2
+  },
+  {
+    "ID": "eb387587-4bc5-42b5-911c-cb3245038d08",
+    "Name": "Vernichten",
+    "GroupID": null,
+    "AbilityIDs": [
+      "7b3dcc08-d991-402d-b3cd-36b7764872ba"
+    ],
+    "AlterationIDs": [],
+    "RootTalentID": "784325bf-7aec-4121-88d8-939c9d21f886",
+    "Level": 3
+  },
+  {
+    "ID": "5f93dfd7-c3dc-465d-8ea3-cb6a8e4a2d85",
+    "Name": "Boomrangwurf",
+    "GroupID": "6364ff6f-ff8d-4e77-94c8-01254cc1c124",
+    "AbilityIDs": [
+      "a308d488-e78b-4fe3-9619-d0f28ae8f16b"
+    ],
+    "AlterationIDs": [],
+    "RootTalentID": "598d5a76-9735-45bc-bb3f-813b5a7ac6a1",
+    "Level": 3
+  },
+  {
+    "ID": "a40d094a-9724-419a-8db9-cb6e3652ceaa",
+    "Name": "Dunkles Ritual",
+    "GroupID": null,
+    "AbilityIDs": [
+      "1bcfb4e5-9836-4ae0-b767-fb8699d6e7ec"
+    ],
+    "AlterationIDs": [],
+    "RootTalentID": null,
+    "Level": 1
+  },
+  {
+    "ID": "7dcb20cb-9e5c-4e3b-8bfe-cc8ea8e08078",
+    "Name": "Tote Manifestation",
+    "GroupID": null,
+    "AbilityIDs": [
+      "a59d2366-5e28-461d-9202-1fb6ba57604a"
+    ],
+    "AlterationIDs": [],
+    "RootTalentID": null,
+    "Level": 1
+  },
+  {
+    "ID": "40bed8c4-e7dc-42e6-bafc-ccc8bfb2e2de",
+    "Name": "Mini-Boss",
+    "GroupID": null,
+    "AbilityIDs": [],
+    "AlterationIDs": [
+      "10933248-435a-4970-8151-2702fe4cca14",
+      "59dc0864-769d-46ad-bbcc-2a894e9f550d",
+      "c02f4de5-c1f2-4a07-a97d-4a629b592f10",
+      "9f1497a6-e175-4ae0-a32b-63b503f03fa2"
+    ],
+    "RootTalentID": null,
+    "Level": 5
+  },
+  {
+    "ID": "f87491b3-05a6-4814-8703-cd6f00dc338f",
+    "Name": "Eislanze",
+    "GroupID": "a8089727-b446-4322-b8b4-8a6cdba9f47e",
+    "AbilityIDs": [
+      "daa2345e-c440-443d-952e-251a041593e2"
+    ],
+    "AlterationIDs": [],
+    "RootTalentID": "7595b52e-f0e3-48db-ac4f-519d7207a8c3",
+    "Level": 2
+  },
+  {
+    "ID": "5665cfd8-b264-4135-88f3-cdab067f6dab",
+    "Name": "Toben",
+    "GroupID": "5e40fa86-2fd6-4eec-a710-6f8df515e86d",
+    "AbilityIDs": [
+      "d20ffa9a-08b6-4691-a6e5-8d650877605f"
+    ],
+    "AlterationIDs": [],
+    "RootTalentID": "483671c4-eaaf-470a-88d9-f78ad18581b0",
+    "Level": 2
+  },
+  {
+    "ID": "fb4e2ae1-e28c-409a-a479-cdc1faafe6bc",
+    "Name": "Knurren",
+    "GroupID": null,
+    "AbilityIDs": [
+      "91cd8513-09bf-4b8e-801f-d6b44b4be7af"
+    ],
+    "AlterationIDs": [],
+    "RootTalentID": null,
+    "Level": 3
+  },
+  {
+    "ID": "3cc59256-69e1-433e-ba2c-ceecc187ab1c",
+    "Name": "Beschützer",
+    "GroupID": "d38b54b9-90e9-4605-b419-43be86f894c6",
+    "AbilityIDs": [
+      "9548ea28-97a3-41c4-9a82-2c620720f7f4"
+    ],
+    "AlterationIDs": [
+      "b26e3680-51e8-4b68-adb1-a617925ea755"
+    ],
+    "RootTalentID": "1d5138ff-f411-4e66-8c92-1fc011fcce00",
+    "Level": 3
+  },
+  {
+    "ID": "9f207245-e7b2-44e9-8edf-d01f12eaacea",
+    "Name": "Rüstung durchbohren",
+    "GroupID": null,
+    "AbilityIDs": [
+      "4bc9f786-8cba-4ae8-a3b1-88f709e446c4"
+    ],
+    "AlterationIDs": [],
+    "RootTalentID": null,
+    "Level": 1
+  },
+  {
+    "ID": "5cfe63a7-163b-4036-8a75-d024e19d8fdf",
+    "Name": "Verbrennen",
+    "GroupID": "a8089727-b446-4322-b8b4-8a6cdba9f47e",
+    "AbilityIDs": [
+      "09b2eff6-e080-4784-a66c-b78a45325244"
+    ],
+    "AlterationIDs": [],
+    "RootTalentID": "6d0c8109-f5d8-4049-b796-d81b0caa72ed",
+    "Level": 4
+  },
+  {
+    "ID": "b69404f0-6653-4121-bde0-d11da16348c2",
+    "Name": "Erneuern",
+    "GroupID": "5c48bc79-55ff-4dfc-be39-d44ba3ec516f",
+    "AbilityIDs": [
+      "4d3596d3-edf5-4e75-992d-356f24e35ff9"
+    ],
+    "AlterationIDs": [],
+    "RootTalentID": "e61266a4-792d-4be2-ac79-544ad3316726",
+    "Level": 2
+  },
+  {
+    "ID": "8542b9ef-fee4-4399-ad2b-d14b902cbda8",
+    "Name": "Kriegsansturm",
+    "GroupID": null,
+    "AbilityIDs": [
+      "f5e2f81b-cc85-4a4b-a685-7ce7a8767ab2"
+    ],
+    "AlterationIDs": [],
+    "RootTalentID": null,
+    "Level": 1
+  },
+  {
+    "ID": "8bc350f5-b6e5-4b02-9f75-d1a7452be4fd",
+    "Name": "Genauigkeit",
+    "GroupID": "5e40fa86-2fd6-4eec-a710-6f8df515e86d",
+    "AbilityIDs": [
+      "b27abdb0-51ef-4b67-ab67-76b2ae4513c8"
+    ],
+    "AlterationIDs": [
+      "0cc8bb47-750e-455b-8044-5a2bc19423ad"
+    ],
+    "RootTalentID": "00d2f2e5-8ede-4d72-b5d3-fab882b1feff",
+    "Level": 4
+  },
+  {
+    "ID": "208c15f4-ae2b-4fae-9c4b-d1c3ab75bb1f",
+    "Name": "Dartwurf",
+    "GroupID": null,
+    "AbilityIDs": [
+      "44cf39cb-9e67-4653-94ec-c1fae51dd33d"
+    ],
+    "AlterationIDs": [],
+    "RootTalentID": "1198fccc-1236-4285-9f79-5a2934e6a445",
+    "Level": 2
+  },
+  {
+    "ID": "c8c473a4-473d-4d19-9a28-d29bbe357aa5",
+    "Name": "Sturm",
+    "GroupID": "a8089727-b446-4322-b8b4-8a6cdba9f47e",
+    "AbilityIDs": [
+      "b90f8fdb-3c49-49d5-a2f5-16df661d9806"
+    ],
+    "AlterationIDs": [],
+    "RootTalentID": "8c842d8c-76fb-490e-9190-ba716d0914a4",
+    "Level": 2
+  },
+  {
+    "ID": "0beac25b-3fd1-4cf6-8a12-d3dd39089292",
+    "Name": "Zuschlagen",
+    "GroupID": "d38b54b9-90e9-4605-b419-43be86f894c6",
+    "AbilityIDs": [
+      "ce879079-4797-40b4-ad72-c48105b14f08"
+    ],
+    "AlterationIDs": [],
+    "RootTalentID": "ceb03526-26b6-4492-bcce-aeb92c480019",
+    "Level": 4
+  },
+  {
+    "ID": "399b5219-e595-4afc-8b2e-d58c2b6e815f",
+    "Name": "Wassersturm",
+    "GroupID": null,
+    "AbilityIDs": [
+      "f815ceb8-2f54-42e0-a600-f9d31a3f140f"
+    ],
+    "AlterationIDs": [],
+    "RootTalentID": "399b5219-e595-4afc-8b2e-d58c2b6e815f",
+    "Level": 1
+  },
+  {
+    "ID": "c4bbb023-967a-473c-b5b9-d5aa1b9f4d1e",
+    "Name": "Blutdurst",
+    "GroupID": "6147edf4-e18a-4ad4-9191-46e6d3c3be3d",
+    "AbilityIDs": [
+      "082b0adf-a3e5-4a9b-aa20-403f968c8cd3"
+    ],
+    "AlterationIDs": [],
+    "RootTalentID": "82fb5f2e-ca00-4f79-94b9-b4afe20ca4fd",
+    "Level": 2
+  },
+  {
+    "ID": "a48cd896-0a2b-4729-83e7-d64d55463b2f",
+    "Name": "Gelassen",
+    "GroupID": null,
+    "AbilityIDs": [],
+    "AlterationIDs": [
+      "f0e6e534-5eb0-4024-83a8-cb9aca2f495a"
+    ],
+    "RootTalentID": null,
+    "Level": 1
+  },
+  {
+    "ID": "056f517f-f901-4000-90be-d6b76a32fe64",
+    "Name": "Wasserstrahl",
+    "GroupID": "a8089727-b446-4322-b8b4-8a6cdba9f47e",
+    "AbilityIDs": [
+      "fb0701b7-e413-468f-8036-2e3a8b0a3384"
+    ],
+    "AlterationIDs": [],
+    "RootTalentID": "056f517f-f901-4000-90be-d6b76a32fe64",
+    "Level": 1
+  },
+  {
+    "ID": "0eefa05e-1e86-43c7-8fc2-d6dfb34fdd41",
+    "Name": "Eislanze",
+    "GroupID": "a8089727-b446-4322-b8b4-8a6cdba9f47e",
+    "AbilityIDs": [
+      "b26c8ce8-92ab-4585-8ac9-0a06589a0b71"
+    ],
+    "AlterationIDs": [],
+    "RootTalentID": "7595b52e-f0e3-48db-ac4f-519d7207a8c3",
+    "Level": 4
+  },
+  {
+    "ID": "86ac98c2-2ba3-4d6f-8ef0-d6e8507cb4ff",
+    "Name": "Tornado",
+    "GroupID": "a8089727-b446-4322-b8b4-8a6cdba9f47e",
+    "AbilityIDs": [
+      "c7701012-ea3e-4398-ba6c-069278fd9f41"
+    ],
+    "AlterationIDs": [],
+    "RootTalentID": "f29dd18c-143c-42e3-acc6-d9ec7bcbd8cc",
+    "Level": 3
+  },
+  {
+    "ID": "fe7be618-504a-4923-876e-d703fafe66e7",
+    "Name": "Jungtier",
+    "GroupID": null,
+    "AbilityIDs": [
+      "7b82aa04-2cd9-4772-b65a-8611167d4fc5"
+    ],
+    "AlterationIDs": [
+      "b086d762-9988-4a92-8d79-a72e754ae65c"
+    ],
+    "RootTalentID": null,
+    "Level": 1
+  },
+  {
+    "ID": "0eff2509-25d2-40d5-a39e-d7457f5443b9",
+    "Name": "Eislanze",
+    "GroupID": "a8089727-b446-4322-b8b4-8a6cdba9f47e",
+    "AbilityIDs": [
+      "ff1734e3-9a76-4959-9031-b46983c6dbce"
+    ],
+    "AlterationIDs": [],
+    "RootTalentID": "7595b52e-f0e3-48db-ac4f-519d7207a8c3",
+    "Level": 5
+  },
+  {
+    "ID": "eaca502d-7c66-49ee-bc56-d7cdc554b012",
+    "Name": "Zuschlagen",
+    "GroupID": "d38b54b9-90e9-4605-b419-43be86f894c6",
+    "AbilityIDs": [
+      "588d73e1-5350-4768-9a6e-b2036ea55e02"
+    ],
+    "AlterationIDs": [],
+    "RootTalentID": "ceb03526-26b6-4492-bcce-aeb92c480019",
+    "Level": 5
+  },
+  {
+    "ID": "6d0c8109-f5d8-4049-b796-d81b0caa72ed",
+    "Name": "Verbrennen",
+    "GroupID": "a8089727-b446-4322-b8b4-8a6cdba9f47e",
+    "AbilityIDs": [
+      "9edb54d1-763e-4c57-a624-41adcf2e5aff"
+    ],
+    "AlterationIDs": [],
+    "RootTalentID": "6d0c8109-f5d8-4049-b796-d81b0caa72ed",
+    "Level": 1
+  },
+  {
+    "ID": "f29dd18c-143c-42e3-acc6-d9ec7bcbd8cc",
+    "Name": "Tornado",
+    "GroupID": "a8089727-b446-4322-b8b4-8a6cdba9f47e",
+    "AbilityIDs": [
+      "6f0ae79c-40cf-4095-9e6f-3b35d4a4c601"
+    ],
+    "AlterationIDs": [],
+    "RootTalentID": "f29dd18c-143c-42e3-acc6-d9ec7bcbd8cc",
+    "Level": 1
+  },
+  {
+    "ID": "254e6c68-7cdd-477e-aa8f-dacbee276dbe",
+    "Name": "Venomous Aura",
+    "GroupID": null,
+    "AbilityIDs": [],
+    "AlterationIDs": [
+      "90a13d1b-96aa-4cd8-91a1-4a418c4fb690"
+    ],
+    "RootTalentID": null,
+    "Level": 1
+  },
+  {
+    "ID": "3ef51fe8-17e2-4464-953b-daeb6f968d6d",
+    "Name": "Zephyrs Flüstern",
+    "GroupID": "a8089727-b446-4322-b8b4-8a6cdba9f47e",
+    "AbilityIDs": [
+      "3dd86a15-9a7c-47cd-bcb9-8da5f7a537a2"
+    ],
+    "AlterationIDs": [],
+    "RootTalentID": "3ef51fe8-17e2-4464-953b-daeb6f968d6d",
+    "Level": 1
+  },
+  {
+    "ID": "aa96cf8b-33ac-4ba6-ae2d-dbcd226a0838",
+    "Name": "Zorn",
+    "GroupID": null,
+    "AbilityIDs": [
+      "892e9742-e19b-4346-8511-e17512699bf6"
+    ],
+    "AlterationIDs": [],
+    "RootTalentID": null,
+    "Level": 2
+  },
+  {
+    "ID": "da30470a-9722-4431-9a15-dc2713352df7",
+    "Name": "Staubhauch",
+    "GroupID": null,
+    "AbilityIDs": [
+      "152bd46a-4a22-431d-9a63-d28311498371"
+    ],
+    "AlterationIDs": [],
+    "RootTalentID": "2dd5ddd2-076c-4399-9c13-a206826a3d65",
+    "Level": 3
+  },
+  {
+    "ID": "6fc440db-ef7b-48a8-ba79-dda8a5390d8d",
+    "Name": "Sammelnder Schrei",
+    "GroupID": null,
+    "AbilityIDs": [
+      "481cc453-fe9c-4ec5-a84b-b2e16d3802cb"
+    ],
+    "AlterationIDs": [],
+    "RootTalentID": null,
+    "Level": 1
+  },
+  {
+    "ID": "5b255e1e-a120-4137-ab96-ddab9c0586af",
+    "Name": "Zyklon",
+    "GroupID": "a8089727-b446-4322-b8b4-8a6cdba9f47e",
+    "AbilityIDs": [
+      "dd9aeeb1-3aa9-422f-82a0-81a522935d58"
+    ],
+    "AlterationIDs": [],
+    "RootTalentID": "00e05643-1539-4d7f-89df-4d38a501e18c",
+    "Level": 3
+  },
+  {
+    "ID": "cdffb55b-8d72-4984-a73d-ddb194c4411f",
+    "Name": "Nicht-Bio",
+    "GroupID": null,
+    "AbilityIDs": [],
+    "AlterationIDs": [
+      "9e01c4c5-73aa-46f2-a1f0-2de6e8f85557",
+      "0b9b2ff8-89a4-402f-8b65-619a384b4f0a"
+    ],
+    "RootTalentID": null,
+    "Level": 1
+  },
+  {
+    "ID": "8f3bd0d9-eeb0-4787-9450-ddbf45e5b8e2",
+    "Name": "Rachsüchtig",
+    "GroupID": "6147edf4-e18a-4ad4-9191-46e6d3c3be3d",
+    "AbilityIDs": [
+      "7caabcc9-2b6e-4bbc-a83a-84fa97627ee6"
+    ],
+    "AlterationIDs": [
+      "0ae3de01-2447-46fe-b5ab-d7adfaef38d3"
+    ],
+    "RootTalentID": "d3833920-6e29-4d0c-82ac-f98e42750fa0",
+    "Level": 3
+  },
+  {
+    "ID": "74cf6cd4-8534-4178-9f68-de2a8c80782d",
+    "Name": "Verteidigen",
+    "GroupID": "d38b54b9-90e9-4605-b419-43be86f894c6",
+    "AbilityIDs": [
+      "14b97e93-afc5-4348-8a1d-1bf17778c2b6"
+    ],
+    "AlterationIDs": [],
+    "RootTalentID": "658f8726-460f-4cf6-994d-3ef026a701ae",
+    "Level": 2
+  },
+  {
+    "ID": "79279e78-6687-4466-9e43-e05345cf5a29",
+    "Name": "Exposition",
+    "GroupID": "6364ff6f-ff8d-4e77-94c8-01254cc1c124",
+    "AbilityIDs": [
+      "e610086e-cc71-4f7c-87b9-25e31cfd88f3"
+    ],
+    "AlterationIDs": [],
+    "RootTalentID": "79279e78-6687-4466-9e43-e05345cf5a29",
+    "Level": 1
+  },
+  {
+    "ID": "72dd5065-23e8-4c22-bf87-e0728face3dd",
+    "Name": "Bösartig",
+    "GroupID": null,
+    "AbilityIDs": [
+      "33b76e5a-086a-42be-ba7e-651a3006b1c5"
+    ],
+    "AlterationIDs": [
+      "73652e48-28b2-4550-ae0a-a192045bae08"
+    ],
+    "RootTalentID": null,
+    "Level": 1
+  },
+  {
+    "ID": "e4d79540-e804-4d4c-9d29-e07c8378de8b",
+    "Name": "Gegenwind",
+    "GroupID": null,
+    "AbilityIDs": [
+      "9788f890-9ee3-48c9-90f6-c841e58fd377"
+    ],
+    "AlterationIDs": [],
+    "RootTalentID": "43688298-4d36-4b15-89ac-1d25be2f4635",
+    "Level": 2
+  },
+  {
+    "ID": "2aad4f2d-5249-4f34-9790-e0a30b6e8fa2",
+    "Name": "Hauch",
+    "GroupID": "a8089727-b446-4322-b8b4-8a6cdba9f47e",
+    "AbilityIDs": [
+      "2c4ee708-03f3-437b-a0a8-089bc8596ee9"
+    ],
+    "AlterationIDs": [],
+    "RootTalentID": "3ec7de07-b1b7-4678-9792-866def516675",
+    "Level": 2
+  },
+  {
+    "ID": "86754786-2d55-49f8-8aa5-e27a448b8283",
+    "Name": "Lähmendes Gift",
+    "GroupID": null,
+    "AbilityIDs": [
+      "e0061137-8ca5-45f1-a6f4-d1be938977b4"
+    ],
+    "AlterationIDs": [],
+    "RootTalentID": null,
+    "Level": 3
+  },
+  {
+    "ID": "5f9b2560-4e62-479c-af60-e28f8f4f9d80",
+    "Name": "Erneuern",
+    "GroupID": "5c48bc79-55ff-4dfc-be39-d44ba3ec516f",
+    "AbilityIDs": [
+      "facc5fac-e14f-48b5-8da5-53cf8b6cdb10"
+    ],
+    "AlterationIDs": [],
+    "RootTalentID": "e61266a4-792d-4be2-ac79-544ad3316726",
+    "Level": 3
+  },
+  {
+    "ID": "455739c1-9b33-41d3-963b-e3213ee16d19",
+    "Name": "Wassersturm",
+    "GroupID": null,
+    "AbilityIDs": [
+      "eb4f9c65-8002-4b05-9bd9-d6a7cd26fcab"
+    ],
+    "AlterationIDs": [],
+    "RootTalentID": "399b5219-e595-4afc-8b2e-d58c2b6e815f",
+    "Level": 3
+  },
+  {
+    "ID": "3d1af9a2-0434-4ef4-b52a-e45138fb1846",
+    "Name": "Scharfe Reißzähne",
+    "GroupID": null,
+    "AbilityIDs": [],
+    "AlterationIDs": [
+      "2efb8608-515b-4ff6-b928-af1390675083"
+    ],
+    "RootTalentID": null,
+    "Level": 1
+  },
+  {
+    "ID": "0f1a6385-66ae-48d3-8fb3-e503559bc1a1",
+    "Name": "Pfotenschlag",
+    "GroupID": null,
+    "AbilityIDs": [
+      "c238ed7d-275a-482f-a51d-fef4fe334526"
+    ],
+    "AlterationIDs": [],
+    "RootTalentID": null,
+    "Level": 2
+  },
+  {
+    "ID": "0cf6a93a-550d-44e8-8691-e56233a6531a",
+    "Name": "Katzenartige Verstellung",
+    "GroupID": null,
+    "AbilityIDs": [
+      "fafbbfc9-1241-498a-acd7-71d2ec7f0c72"
+    ],
+    "AlterationIDs": [],
+    "RootTalentID": null,
+    "Level": 1
+  },
+  {
+    "ID": "736ec207-6b8e-4f04-b813-e7e37fd81417",
+    "Name": "Flügelschlag",
+    "GroupID": null,
+    "AbilityIDs": [
+      "bf26f9a5-41e3-404b-bceb-b1ef340d9cf5"
+    ],
+    "AlterationIDs": [],
+    "RootTalentID": null,
+    "Level": 2
+  },
+  {
+    "ID": "28e4aff5-4286-42d7-8258-e7eddb9f84b1",
+    "Name": "Verwüsten",
+    "GroupID": null,
+    "AbilityIDs": [
+      "deac6e01-79a7-4c1a-8ddc-17ddde351acb"
+    ],
+    "AlterationIDs": [],
+    "RootTalentID": "84719188-5f5d-4840-bee6-ea952c442a88",
+    "Level": 2
+  },
+  {
+    "ID": "f6f2bbe3-61e0-496c-bed1-e91b2f399b82",
+    "Name": "Schwäche",
+    "GroupID": "6364ff6f-ff8d-4e77-94c8-01254cc1c124",
+    "AbilityIDs": [
+      "ecb76052-6dcc-4a7f-8b85-18955333c6c8"
+    ],
+    "AlterationIDs": [],
+    "RootTalentID": "f6f2bbe3-61e0-496c-bed1-e91b2f399b82",
+    "Level": 1
+  },
+  {
+    "ID": "834d4eba-6ce8-4815-9674-e941062aa64d",
+    "Name": "Unheimlicher Schlag",
+    "GroupID": "5e40fa86-2fd6-4eec-a710-6f8df515e86d",
+    "AbilityIDs": [
+      "dbfb0686-490f-4a1d-af0c-144bdf74b87e"
+    ],
+    "AlterationIDs": [],
+    "RootTalentID": "c030a7e7-a0dd-4f10-8bf8-2b3d8ba1d648",
+    "Level": 4
+  },
+  {
+    "ID": "b54dbfdf-c045-4099-abf4-e999b2dcfb5d",
+    "Name": "Dreifachschlag",
+    "GroupID": "5e40fa86-2fd6-4eec-a710-6f8df515e86d",
+    "AbilityIDs": [
+      "063a87bf-e86f-4f2b-a75d-ddabff3abfcc"
+    ],
+    "AlterationIDs": [],
+    "RootTalentID": "a9636b93-802b-4d31-adeb-8f4049e198ff",
+    "Level": 3
+  },
+  {
+    "ID": "84719188-5f5d-4840-bee6-ea952c442a88",
+    "Name": "Verwüsten",
+    "GroupID": null,
+    "AbilityIDs": [
+      "5a30c10e-8db3-4c1f-aae9-dca1ce600602"
+    ],
+    "AlterationIDs": [],
+    "RootTalentID": "84719188-5f5d-4840-bee6-ea952c442a88",
+    "Level": 1
+  },
+  {
+    "ID": "8b88ee1a-d4b8-40fa-9c13-ebca09b9e425",
+    "Name": "Präzision",
+    "GroupID": "5e40fa86-2fd6-4eec-a710-6f8df515e86d",
+    "AbilityIDs": [
+      "b0e41d7b-987f-4dc3-b156-23939f7b91d7"
+    ],
+    "AlterationIDs": [
+      "d56ac07c-7fb3-44c3-99e9-148c9573bf21"
+    ],
+    "RootTalentID": "00d2f2e5-8ede-4d72-b5d3-fab882b1feff",
+    "Level": 3
+  },
+  {
+    "ID": "530c4699-b834-4e46-b317-ec3e5a5befc8",
+    "Name": "Schneesturm",
+    "GroupID": "a8089727-b446-4322-b8b4-8a6cdba9f47e",
+    "AbilityIDs": [
+      "200e6815-6a42-4df7-9df0-8ca40dda381c"
+    ],
+    "AlterationIDs": [],
+    "RootTalentID": "8ea10cea-984c-4857-9796-3305950686f2",
+    "Level": 4
+  },
+  {
+    "ID": "efc31d1e-0da8-4773-94cc-edb5216b52c1",
+    "Name": "Weitläufiger Schlag",
+    "GroupID": null,
+    "AbilityIDs": [
+      "aa2b19f1-4b2a-47b2-8424-3cc8857f24de"
+    ],
+    "AlterationIDs": [],
+    "RootTalentID": null,
+    "Level": 2
+  },
+  {
+    "ID": "3763729d-40a8-40ef-b677-ee3ccf14e0e8",
+    "Name": "Heilen",
+    "GroupID": "5c48bc79-55ff-4dfc-be39-d44ba3ec516f",
+    "AbilityIDs": [
+      "4e1f519d-511b-4c80-bb78-935fbe1f98de"
+    ],
+    "AlterationIDs": [],
+    "RootTalentID": "27893cd7-077c-4e00-8b25-969952f3f8fb",
+    "Level": 2
+  },
+  {
+    "ID": "35b06948-7c8e-469d-abd2-efc3d0d6ae02",
+    "Name": "Beschützer",
+    "GroupID": "d38b54b9-90e9-4605-b419-43be86f894c6",
+    "AbilityIDs": [
+      "240bc3dd-6ef2-4584-b8de-b06d18a24075"
+    ],
+    "AlterationIDs": [
+      "07775995-28c7-4a10-a52c-254b766e8ad5"
+    ],
+    "RootTalentID": "1d5138ff-f411-4e66-8c92-1fc011fcce00",
+    "Level": 2
+  },
+  {
+    "ID": "da29da36-2fa8-4327-936b-f06c15920346",
+    "Name": "Schattenschritt",
+    "GroupID": "5e40fa86-2fd6-4eec-a710-6f8df515e86d",
+    "AbilityIDs": [
+      "8be2c419-bff3-4ae9-99ae-98f6f36b8141"
+    ],
+    "AlterationIDs": [],
+    "RootTalentID": "da29da36-2fa8-4327-936b-f06c15920346",
+    "Level": 1
+  },
+  {
+    "ID": "3643b177-7241-4199-9245-f091782eb260",
+    "Name": "Wassersturm",
+    "GroupID": null,
+    "AbilityIDs": [
+      "b177eaed-bd80-4e37-9355-1f32574619f3"
+    ],
+    "AlterationIDs": [],
+    "RootTalentID": "399b5219-e595-4afc-8b2e-d58c2b6e815f",
+    "Level": 2
+  },
+  {
+    "ID": "79659220-2f6c-4463-8e1b-f0b92e91f9cb",
+    "Name": "Springende Krallen",
+    "GroupID": null,
+    "AbilityIDs": [
+      "a2ce6162-56b1-4860-95be-b0394bb782ea"
+    ],
+    "AlterationIDs": [],
+    "RootTalentID": "f84e8b20-aecf-4c54-8ae0-2c6b58ae27bb",
+    "Level": 2
+  },
+  {
+    "ID": "10edb63a-230d-46ab-b252-f0d6386693c3",
+    "Name": "Wut",
+    "GroupID": null,
+    "AbilityIDs": [
+      "7080bd9c-8244-4a81-81bd-41f9679265b2"
+    ],
+    "AlterationIDs": [],
+    "RootTalentID": null,
+    "Level": 1
+  },
+  {
+    "ID": "fefa97b7-617c-40e1-a9c4-f29ae8d50ec9",
+    "Name": "Belebender Fels",
+    "GroupID": null,
+    "AbilityIDs": [
+      "e27c8894-1291-4f9d-9ddd-1fc1bda3841b"
+    ],
+    "AlterationIDs": [],
+    "RootTalentID": null,
+    "Level": 1
+  },
+  {
+    "ID": "72562c71-b5f8-4a7c-ae10-f2acb6dc0f7b",
+    "Name": "Glänzender Schlag",
+    "GroupID": "5c48bc79-55ff-4dfc-be39-d44ba3ec516f",
+    "AbilityIDs": [
+      "34add10a-e235-4c23-afe8-473f1c7adb7e"
+    ],
+    "AlterationIDs": [],
+    "RootTalentID": "6195fab3-b263-4679-b926-ab8be25da83a",
+    "Level": 2
+  },
+  {
+    "ID": "066b303d-3b49-4e84-8c9f-f3039c242c16",
+    "Name": "Rächen",
+    "GroupID": null,
+    "AbilityIDs": [],
+    "AlterationIDs": [
+      "f7fdaf73-fa81-48c7-87cd-00ba6a7f1471"
+    ],
+    "RootTalentID": null,
+    "Level": 1
+  },
+  {
+    "ID": "6d7c92c0-2683-4d7a-8a94-f39ce2a3b7a3",
+    "Name": "Feuerball",
+    "GroupID": "a8089727-b446-4322-b8b4-8a6cdba9f47e",
+    "AbilityIDs": [
+      "41746909-4e2b-41f4-94ba-f6fdd98697b5"
+    ],
+    "AlterationIDs": [],
+    "RootTalentID": "7736b69a-06af-4f80-a46b-778cf011cf2f",
+    "Level": 3
+  },
+  {
+    "ID": "4d4f8e42-17a0-4a5c-bf5d-f39e893a85e9",
+    "Name": "Knochenkauen",
+    "GroupID": null,
+    "AbilityIDs": [
+      "0fad5401-8aef-4fbf-9e21-b74708caed48"
+    ],
+    "AlterationIDs": [],
+    "RootTalentID": "55f49ba4-6104-41a8-9639-13c9d3b2d2cb",
+    "Level": 2
+  },
+  {
+    "ID": "6e450ec6-ccf4-483e-8467-f3bd23930c82",
+    "Name": "Vergiften3",
+    "GroupID": null,
+    "AbilityIDs": [],
+    "AlterationIDs": [
+      "ba1ade8c-c375-4d66-8417-87691a50f9be"
+    ],
+    "RootTalentID": null,
+    "Level": 3
+  },
+  {
+    "ID": "e5604d83-6599-4208-b9fe-f4d3f946e0c5",
+    "Name": "Zermalmen",
+    "GroupID": null,
+    "AbilityIDs": [
+      "0e35b996-339e-4627-9429-5c8749b995bc"
+    ],
+    "AlterationIDs": [],
+    "RootTalentID": null,
+    "Level": 3
+  },
+  {
+    "ID": "913abd4c-c9a4-4b99-9699-f6886ecbaa5d",
+    "Name": "Weisheit",
+    "GroupID": "a8089727-b446-4322-b8b4-8a6cdba9f47e",
+    "AbilityIDs": [
+      "de050886-e888-4257-8dfb-088ca86d53ec"
+    ],
+    "AlterationIDs": [
+      "147a066b-beca-4497-a032-d0598e8e9a55"
+    ],
+    "RootTalentID": "913abd4c-c9a4-4b99-9699-f6886ecbaa5d",
+    "Level": 1
+  },
+  {
+    "ID": "29e95fca-e84b-4dd2-812d-f6cad6014e06",
+    "Name": "Schläfrige Teilchen",
+    "GroupID": null,
+    "AbilityIDs": [
+      "25ea924e-942c-4168-96fd-da452077fa20"
+    ],
+    "AlterationIDs": [],
+    "RootTalentID": null,
+    "Level": 1
+  },
+  {
+    "ID": "d2d24711-0fbe-4d71-ab74-f6cf989c4382",
+    "Name": "Abwehrhaltung",
+    "GroupID": "d38b54b9-90e9-4605-b419-43be86f894c6",
+    "AbilityIDs": [
+      "3bd34080-dfe2-4f0a-9746-192b7989bef1"
+    ],
+    "AlterationIDs": [],
+    "RootTalentID": "d2d24711-0fbe-4d71-ab74-f6cf989c4382",
+    "Level": 1
+  },
+  {
+    "ID": "483671c4-eaaf-470a-88d9-f78ad18581b0",
+    "Name": "Toben",
+    "GroupID": "5e40fa86-2fd6-4eec-a710-6f8df515e86d",
+    "AbilityIDs": [
+      "ade14594-af1d-4970-b44a-74ee523ed531"
+    ],
+    "AlterationIDs": [],
+    "RootTalentID": "483671c4-eaaf-470a-88d9-f78ad18581b0",
+    "Level": 1
+  },
+  {
+    "ID": "aeec1767-c403-4001-af6d-f87385ddaa25",
+    "Name": "Überladung",
+    "GroupID": null,
+    "AbilityIDs": [
+      "8648bd32-8703-4ab7-8126-f9c87ba7d614"
+    ],
+    "AlterationIDs": [],
+    "RootTalentID": null,
+    "Level": 2
+  },
+  {
+    "ID": "6134685e-7a9c-43ff-b70f-f88f2bc41947",
+    "Name": "Eisruf",
+    "GroupID": null,
+    "AbilityIDs": [
+      "9a262464-828b-431d-81cb-1555758ae62e"
+    ],
+    "AlterationIDs": [],
+    "RootTalentID": null,
+    "Level": 1
+  },
+  {
+    "ID": "0f6b4dec-1704-4ec9-a03c-f8d916dc93d6",
+    "Name": "Pfotenschlag",
+    "GroupID": null,
+    "AbilityIDs": [
+      "5c0ca96a-0a57-4507-83a9-d15f7e18f8ef"
+    ],
+    "AlterationIDs": [],
+    "RootTalentID": null,
+    "Level": 1
+  },
+  {
+    "ID": "cf572e12-4345-4a6d-a70c-f9111d8e20a3",
+    "Name": "Springende Krallen",
+    "GroupID": null,
+    "AbilityIDs": [
+      "543968b0-ee98-4cea-8588-ed0f387fa07c"
+    ],
+    "AlterationIDs": [],
+    "RootTalentID": "f84e8b20-aecf-4c54-8ae0-2c6b58ae27bb",
+    "Level": 3
+  },
+  {
+    "ID": "bf87fe39-7c46-41f5-a03c-f96b7fc19d73",
+    "Name": "Fragment",
+    "GroupID": null,
+    "AbilityIDs": [
+      "dd33004d-9773-4dc8-80d8-59cf86bec205"
+    ],
+    "AlterationIDs": [],
+    "RootTalentID": null,
+    "Level": 2
+  },
+  {
+    "ID": "d3833920-6e29-4d0c-82ac-f98e42750fa0",
+    "Name": "Rachsüchtig",
+    "GroupID": "6147edf4-e18a-4ad4-9191-46e6d3c3be3d",
+    "AbilityIDs": [
+      "33ed1003-1129-42b0-ba83-976819e2f9bb"
+    ],
+    "AlterationIDs": [
+      "f9cab88f-49cf-4364-8d20-86e71bec5e81"
+    ],
+    "RootTalentID": "d3833920-6e29-4d0c-82ac-f98e42750fa0",
+    "Level": 1
+  },
+  {
+    "ID": "188a5a88-78b4-459b-a730-fa1516a549c2",
+    "Name": "Eisbeschwörung",
+    "GroupID": null,
+    "AbilityIDs": [
+      "eb9d9411-a226-4409-aab5-9da960a2a207"
+    ],
+    "AlterationIDs": [],
+    "RootTalentID": null,
+    "Level": 2
+  },
+  {
+    "ID": "00df10d0-cd09-42a0-b9e1-fa480e78fdf1",
+    "Name": "Massenheilung",
+    "GroupID": "5c48bc79-55ff-4dfc-be39-d44ba3ec516f",
+    "AbilityIDs": [
+      "0ce440ac-e745-4c78-b126-2f14497d06d2"
+    ],
+    "AlterationIDs": [],
+    "RootTalentID": "da67a891-8017-4fb7-87c2-9e5b2d19893c",
+    "Level": 2
+  },
+  {
+    "ID": "00d2f2e5-8ede-4d72-b5d3-fab882b1feff",
+    "Name": "Präzision",
+    "GroupID": "5e40fa86-2fd6-4eec-a710-6f8df515e86d",
+    "AbilityIDs": [
+      "a530aaa1-bcae-4723-9886-81794a813eed"
+    ],
+    "AlterationIDs": [
+      "c0e7f062-3361-4759-a4cc-43e40e516d25"
+    ],
+    "RootTalentID": "00d2f2e5-8ede-4d72-b5d3-fab882b1feff",
+    "Level": 1
+  },
+  {
+    "ID": "f36ae495-5f90-4804-aaff-fb07f3aa86cb",
+    "Name": "Verwüsten",
+    "GroupID": null,
+    "AbilityIDs": [
+      "d0701f6b-15e8-43f1-8019-253c2fde0abf"
+    ],
+    "AlterationIDs": [],
+    "RootTalentID": "84719188-5f5d-4840-bee6-ea952c442a88",
+    "Level": 3
+  },
+  {
+    "ID": "dddd5088-4954-4997-9666-fc87e6828095",
+    "Name": "Tornado",
+    "GroupID": "a8089727-b446-4322-b8b4-8a6cdba9f47e",
+    "AbilityIDs": [
+      "c747b863-ae0c-4775-8b0e-dae69be8857e"
+    ],
+    "AlterationIDs": [],
+    "RootTalentID": "f29dd18c-143c-42e3-acc6-d9ec7bcbd8cc",
+    "Level": 4
+  },
+  {
+    "ID": "b02255c1-8ef5-4952-9d42-fdd2d74657ec",
+    "Name": "Toxischer Dampf",
+    "GroupID": null,
+    "AbilityIDs": [
+      "74049a2c-795f-471b-a458-b59777ace8e3"
+    ],
+    "AlterationIDs": [],
+    "RootTalentID": null,
+    "Level": 1
+  },
+  {
+    "ID": "6a1e9baa-831d-4808-b53d-feab401ba7c7",
+    "Name": "Hydrolische Explosion",
+    "GroupID": null,
+    "AbilityIDs": [
+      "82ffb66c-8881-4c59-bb82-ceac89c7efcc"
+    ],
+    "AlterationIDs": [],
+    "RootTalentID": null,
+    "Level": 1
+  },
+  {
+    "ID": "937b1541-cc2d-4d64-b29d-ff393cebff10",
+    "Name": "Knurren",
+    "GroupID": null,
+    "AbilityIDs": [
+      "feca81cb-60e0-4520-8b2f-7011b59f28d1"
+    ],
+    "AlterationIDs": [],
+    "RootTalentID": null,
+    "Level": 1
+  }
+]

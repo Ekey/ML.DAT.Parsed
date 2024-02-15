@@ -1,0 +1,1647 @@
+[
+  {
+    "ID": "12275ee8-78b2-4fcb-918e-00c57bbed7c4",
+    "Name": "Cyclop01",
+    "ImageBody": "Cyclop01.png",
+    "Size": 1.0,
+    "Small": false
+  },
+  {
+    "ID": "34a87323-3f8d-472e-8275-04b7b6a5e102",
+    "Name": "Cyclop01Shaman",
+    "ImageBody": "Cyclop01Shaman.png",
+    "Size": 1.0,
+    "Small": false
+  },
+  {
+    "ID": "830f4b96-5ebc-4261-84ef-065375441a8a",
+    "Name": "2\\Aberration01",
+    "ImageBody": "2\\Aberration01.png",
+    "Size": 0.8,
+    "Small": true
+  },
+  {
+    "ID": "f33cb4b0-a1ff-41b7-95e3-0835554e6130",
+    "Name": "Professor04Male",
+    "ImageBody": "Professor04Male.png",
+    "Size": 0.95,
+    "Small": false
+  },
+  {
+    "ID": "53188473-7aed-4bac-882c-0863c5e3cd8e",
+    "Name": "Worker03Female",
+    "ImageBody": "Worker03Female.png",
+    "Size": 0.9,
+    "Small": false
+  },
+  {
+    "ID": "f78cf18f-32b2-449b-9866-087de7132524",
+    "Name": "CaptainFemale",
+    "ImageBody": "CaptainFemale.png",
+    "Size": 1.0,
+    "Small": false
+  },
+  {
+    "ID": "b85462e0-8744-4bb8-8fd6-08aa55c4d18b",
+    "Name": "GreenDragon01",
+    "ImageBody": "GreenDragon01.png",
+    "Size": 0.8,
+    "Small": true
+  },
+  {
+    "ID": "27547d75-21ef-4754-aefb-08d792939acd",
+    "Name": "Blob",
+    "ImageBody": "Blob.png",
+    "Size": 0.7,
+    "Small": true
+  },
+  {
+    "ID": "6fe22195-9fd0-4d85-99bd-092834ba9ae7",
+    "Name": "SwampCreature",
+    "ImageBody": "SwampCreature.png",
+    "Size": 0.7,
+    "Small": true
+  },
+  {
+    "ID": "ad04429c-faf2-42c7-8256-0a9ead4658da",
+    "Name": "GolemMetal",
+    "ImageBody": "GolemMetal.png",
+    "Size": 1.0,
+    "Small": true
+  },
+  {
+    "ID": "166c4a44-5760-42ff-b65b-0ded24ad443d",
+    "Name": "2\\Finn03",
+    "ImageBody": "2\\Finn03.png",
+    "Size": 1.0,
+    "Small": false
+  },
+  {
+    "ID": "6aa32e9f-16b8-4c93-8efd-0e68a982e0fe",
+    "Name": "Professor03Male",
+    "ImageBody": "Professor03Male.png",
+    "Size": 0.95,
+    "Small": false
+  },
+  {
+    "ID": "5a9dc24f-b909-4318-ae8f-0f6d1aa695b3",
+    "Name": "2\\TrogulhusCaptain01",
+    "ImageBody": "2\\TrogulhusCaptain01.png",
+    "Size": 1.0,
+    "Small": false
+  },
+  {
+    "ID": "72a3a1d5-c90d-4a86-8420-0fc43e0ec6e4",
+    "Name": "OryctusLarge",
+    "ImageBody": "OryctusLarge.png",
+    "Size": 1.3,
+    "Small": true
+  },
+  {
+    "ID": "e0f72ab7-fa1b-45d5-a078-0fe0884b898c",
+    "Name": "OryctusBaby",
+    "ImageBody": "OryctusBaby.png",
+    "Size": 1.0,
+    "Small": true
+  },
+  {
+    "ID": "89b4a0d5-ba80-4c89-a773-1066538856c8",
+    "Name": "GreenDragon02",
+    "ImageBody": "GreenDragon02.png",
+    "Size": 0.8,
+    "Small": true
+  },
+  {
+    "ID": "1538c5ed-c464-420e-ac26-1421bf0f3a5a",
+    "Name": "Worker02Male",
+    "ImageBody": "Worker02Male.png",
+    "Size": 1.0,
+    "Small": false
+  },
+  {
+    "ID": "ddb0dbde-7251-41dc-9ffe-147e94c3689d",
+    "Name": "Manticore",
+    "ImageBody": "Manticore.png",
+    "Size": 1.0,
+    "Small": true
+  },
+  {
+    "ID": "b0833a3e-d3c6-4e7d-9a6e-1498faad6f04",
+    "Name": "2\\TrogulhusWarrior01",
+    "ImageBody": "2\\TrogulhusWarrior01.png",
+    "Size": 1.0,
+    "Small": false
+  },
+  {
+    "ID": "c99b009d-859f-4255-8511-14c691202ca3",
+    "Name": "Adventurer04Female",
+    "ImageBody": "Adventurer04Female.png",
+    "Size": 0.95,
+    "Small": false
+  },
+  {
+    "ID": "b36411c2-2556-4e5c-97d3-1633b5aed5f3",
+    "Name": "Zombie",
+    "ImageBody": "Zombie.png",
+    "Size": 1.0,
+    "Small": false
+  },
+  {
+    "ID": "ebb84fa8-6af5-4435-ab37-165f1185149f",
+    "Name": "WispGreen",
+    "ImageBody": "WispGreen.png",
+    "Size": 0.6,
+    "Small": true
+  },
+  {
+    "ID": "53419f0d-6a83-4de8-922a-176188f3a6d4",
+    "Name": "DuellistFemale",
+    "ImageBody": "DuellistFemale.png",
+    "Size": 0.95,
+    "Small": false
+  },
+  {
+    "ID": "19a6af0f-6547-43f1-94c2-17a9454d9125",
+    "Name": "Scissana",
+    "ImageBody": "Scissana.png",
+    "Size": 0.9,
+    "Small": false
+  },
+  {
+    "ID": "f18fc0b0-2c5f-4a30-899f-18193a85faa8",
+    "Name": "GremlinWingsArmor",
+    "ImageBody": "GremlinWingsArmor.png",
+    "Size": 0.9,
+    "Small": true
+  },
+  {
+    "ID": "3b5a3b38-9c9f-4716-8b8d-183f34d61e41",
+    "Name": "Sorka02",
+    "ImageBody": "Sorka02.png",
+    "Size": 0.95,
+    "Small": false
+  },
+  {
+    "ID": "ce39836c-3cb6-43d7-a9cc-19dc0d093e57",
+    "Name": "2\\CrystalResident01",
+    "ImageBody": "2\\CrystalResident01.png",
+    "Size": 1.0,
+    "Small": true
+  },
+  {
+    "ID": "ee2dfbef-a066-4d3c-9c6c-1a6ba5286d60",
+    "Name": "2\\NobleMale01",
+    "ImageBody": "2\\NobleMale01.png",
+    "Size": 1.0,
+    "Small": false
+  },
+  {
+    "ID": "59a9f9be-f9a0-4ad6-a0c7-1ae96b362ad2",
+    "Name": "Cyclop01Guerrier",
+    "ImageBody": "Cyclop01Guerrier.png",
+    "Size": 1.0,
+    "Small": false
+  },
+  {
+    "ID": "5219978d-08bf-4f3c-aa5a-1b2a9a02271b",
+    "Name": "ScarecrowKnight",
+    "ImageBody": "ScarecrowKnight.png",
+    "Size": 1.0,
+    "Small": false
+  },
+  {
+    "ID": "8101ca0e-f7bd-4cba-beec-1b7010e5f207",
+    "Name": "2\\Gnoll02Fighter",
+    "ImageBody": "2\\Gnoll02Fighter.png",
+    "Size": 0.8,
+    "Small": false
+  },
+  {
+    "ID": "d333143f-6c19-43de-85f5-1bcff521e27b",
+    "Name": "Corrin",
+    "ImageBody": "Corrin.png",
+    "Size": 1.0,
+    "Small": false
+  },
+  {
+    "ID": "70cc2cd8-a44f-4b62-b6b3-1d50d067f0dd",
+    "Name": "WarriorMagic",
+    "ImageBody": "WarriorMagic.png",
+    "Size": 1.0,
+    "Small": false
+  },
+  {
+    "ID": "fc30d0f5-d0a6-4d98-921d-1d6a927b1496",
+    "Name": "WarriorNorthern",
+    "ImageBody": "WarriorNorthern.png",
+    "Size": 1.0,
+    "Small": false
+  },
+  {
+    "ID": "a5d4c5ee-280f-427e-a320-1fd6c4f3ea61",
+    "Name": "2\\SkeletonCaster01",
+    "ImageBody": "2\\SkeletonCaster01.png",
+    "Size": 0.8,
+    "Small": false
+  },
+  {
+    "ID": "54aefb8c-799a-4f1a-b751-2281865158ed",
+    "Name": "2\\MutanorkBoss02",
+    "ImageBody": "2\\MutanorkBoss02.png",
+    "Size": 1.0,
+    "Small": false
+  },
+  {
+    "ID": "1b744c0e-9bc6-4ee9-bc88-22dc762b87b8",
+    "Name": "GiantTurtle01",
+    "ImageBody": "GiantTurtle01.png",
+    "Size": 1.0,
+    "Small": true
+  },
+  {
+    "ID": "634e6be0-2f08-4750-9765-2362b392069e",
+    "Name": "ChildrenFemale",
+    "ImageBody": "ChildrenFemale.png",
+    "Size": 0.8,
+    "Small": true
+  },
+  {
+    "ID": "9d6d189c-2ddd-402b-a273-238bccecd139",
+    "Name": "NostrianAdventurerMale",
+    "ImageBody": "NostrianAdventurerMale.png",
+    "Size": 1.0,
+    "Small": false
+  },
+  {
+    "ID": "f7a65629-49d1-4e8e-a3c6-24b985bc76d1",
+    "Name": "ChildrenMale",
+    "ImageBody": "ChildrenMale.png",
+    "Size": 0.8,
+    "Small": true
+  },
+  {
+    "ID": "b02f158d-21ab-4dce-953a-28aed03f9861",
+    "Name": "CarnivorousPlant02",
+    "ImageBody": "CarnivorousPlant02.png",
+    "Size": 0.8,
+    "Small": true
+  },
+  {
+    "ID": "6c622769-eb60-4cfe-a6d7-295626f22c00",
+    "Name": "Gremlin",
+    "ImageBody": "Gremlin.png",
+    "Size": 0.8,
+    "Small": true
+  },
+  {
+    "ID": "96929956-5e02-4913-a37f-295b572ee6f9",
+    "Name": "Ogre",
+    "ImageBody": "Ogre.png",
+    "Size": 1.0,
+    "Small": false
+  },
+  {
+    "ID": "24df4be6-a73e-4803-acf0-29c75a113e98",
+    "Name": "Leonidas",
+    "ImageBody": "Leonidas.png",
+    "Size": 0.7,
+    "Small": false
+  },
+  {
+    "ID": "ed4e7ffb-4754-4c03-829a-2a2dd595134d",
+    "Name": "GolemWood",
+    "ImageBody": "GolemWood.png",
+    "Size": 1.0,
+    "Small": true
+  },
+  {
+    "ID": "cce1d0da-104e-4519-8d31-2ab95ae680ac",
+    "Name": "WolfWorgen",
+    "ImageBody": "WolfWorgen.png",
+    "Size": 0.85,
+    "Small": true
+  },
+  {
+    "ID": "c0340f2f-4777-4b92-b3bb-2c182760bec8",
+    "Name": "Marchant03Female",
+    "ImageBody": "Marchant03Female.png",
+    "Size": 0.92,
+    "Small": false
+  },
+  {
+    "ID": "f4b8a0cd-110f-4c0d-b8c9-2d0fc3ca1644",
+    "Name": "2\\HillaOmbrageuse",
+    "ImageBody": "2\\HillaOmbrageuse.png",
+    "Size": 1.0,
+    "Small": false
+  },
+  {
+    "ID": "98cf782d-f5a8-4edb-b15e-2df8a6c3c691",
+    "Name": "ThiefMale",
+    "ImageBody": "ThiefMale.png",
+    "Size": 1.0,
+    "Small": false
+  },
+  {
+    "ID": "a9d60115-dbd4-440b-9d4d-2fddaa6d1103",
+    "Name": "TransportWagon",
+    "ImageBody": "TransportWagon.png",
+    "Size": 1.5,
+    "Small": false
+  },
+  {
+    "ID": "801f467d-f0e4-44b3-a49e-301b417a6c59",
+    "Name": "Lion",
+    "ImageBody": "Lion.png",
+    "Size": 0.8,
+    "Small": true
+  },
+  {
+    "ID": "b50caa1d-275e-4dff-b547-3114a24ebd08",
+    "Name": "PeasantFemale",
+    "ImageBody": "PeasantFemale.png",
+    "Size": 0.85,
+    "Small": false
+  },
+  {
+    "ID": "70a948a4-74cd-4a17-b466-32168d607405",
+    "Name": "Boarwoman",
+    "ImageBody": "Boarwoman.png",
+    "Size": 1.0,
+    "Small": false
+  },
+  {
+    "ID": "9d240d9a-443c-4dcc-9a53-3462125b64dd",
+    "Name": "TravelReptile",
+    "ImageBody": "TravelReptile.png",
+    "Size": 1.0,
+    "Small": true
+  },
+  {
+    "ID": "9acae550-523d-47b7-8625-34e9ef73a9a7",
+    "Name": "GoatBrown",
+    "ImageBody": "GoatBrown.png",
+    "Size": 0.9,
+    "Small": true
+  },
+  {
+    "ID": "f04a59be-22fc-491d-95eb-37f392bbe732",
+    "Name": "Mule",
+    "ImageBody": "Mule.png",
+    "Size": 1.0,
+    "Small": true
+  },
+  {
+    "ID": "0ccb07bd-40f0-44fa-a188-38827ab781a5",
+    "Name": "QuestBoard01",
+    "ImageBody": "QuestBoard01.png",
+    "Size": 0.8,
+    "Small": true
+  },
+  {
+    "ID": "fa2b5eed-55f2-4972-8188-38e787400504",
+    "Name": "Bomb01",
+    "ImageBody": "Bomb01.png",
+    "Size": 1.0,
+    "Small": true
+  },
+  {
+    "ID": "f31e1935-0d43-4fb8-b7e1-3b4e36e89482",
+    "Name": "2\\Firbolgs01",
+    "ImageBody": "2\\Firbolgs01.png",
+    "Size": 0.75,
+    "Small": false
+  },
+  {
+    "ID": "9073ed8b-b122-4b1b-a341-3cd1303f2b61",
+    "Name": "UndeadChampion",
+    "ImageBody": "UndeadChampion.png",
+    "Size": 0.8,
+    "Small": false
+  },
+  {
+    "ID": "dccd18a8-bb4d-41f6-aac1-3d2904936063",
+    "Name": "UndeadAberration",
+    "ImageBody": "UndeadAberration.png",
+    "Size": 0.8,
+    "Small": true
+  },
+  {
+    "ID": "c44c73ac-28cf-4b44-a9a8-3e264a294843",
+    "Name": "2\\BardFemale01",
+    "ImageBody": "2\\BardFemale01.png",
+    "Size": 1.0,
+    "Small": false
+  },
+  {
+    "ID": "bc140a02-3291-4f61-8417-40bfe1aff112",
+    "Name": "WarReptile",
+    "ImageBody": "WarReptile.png",
+    "Size": 1.0,
+    "Small": true
+  },
+  {
+    "ID": "6b5d4c14-590a-47f9-aec3-42901e07f8d1",
+    "Name": "2\\Sailorwoman01",
+    "ImageBody": "2\\Sailorwoman01.png",
+    "Size": 1.0,
+    "Small": false
+  },
+  {
+    "ID": "6be7c92c-76ab-45dd-b310-43eabbcfa750",
+    "Name": "Panther",
+    "ImageBody": "Panther.png",
+    "Size": 0.8,
+    "Small": true
+  },
+  {
+    "ID": "06d30315-45aa-448c-80d8-44d4ffd524f8",
+    "Name": "2\\Gnoll01",
+    "ImageBody": "2\\Gnoll01.png",
+    "Size": 0.8,
+    "Small": true
+  },
+  {
+    "ID": "a8d22b6e-4141-47ec-a422-44d9df36f5fc",
+    "Name": "TreeMonsterMedium",
+    "ImageBody": "TreeMonsterMedium.png",
+    "Size": 0.8,
+    "Small": true
+  },
+  {
+    "ID": "496ae959-20a1-4126-9389-460491a3d42f",
+    "Name": "Cyclop02",
+    "ImageBody": "Cyclop02.png",
+    "Size": 1.0,
+    "Small": false
+  },
+  {
+    "ID": "90c89610-dfe4-4bbd-8e56-46cc8ce1d3d1",
+    "Name": "2\\TrollWarrior01",
+    "ImageBody": "2\\TrollWarrior01.png",
+    "Size": 1.0,
+    "Small": false
+  },
+  {
+    "ID": "6e24d68d-8d88-4ea6-a9b2-46de72781f21",
+    "Name": "WispBlue",
+    "ImageBody": "WispBlue.png",
+    "Size": 0.6,
+    "Small": true
+  },
+  {
+    "ID": "96e8f6ed-275f-4012-b9f3-46e578868aa0",
+    "Name": "WarriorDragon",
+    "ImageBody": "WarriorDragon.png",
+    "Size": 1.0,
+    "Small": false
+  },
+  {
+    "ID": "cae48ed4-65f0-4e50-96e3-48d398e0e38f",
+    "Name": "Bear",
+    "ImageBody": "Bear.png",
+    "Size": 0.8,
+    "Small": true
+  },
+  {
+    "ID": "6ffe24b0-16de-418e-ac5e-493d439014c8",
+    "Name": "TransportTrain",
+    "ImageBody": "TransportTrain.png",
+    "Size": 1.0,
+    "Small": false
+  },
+  {
+    "ID": "46e12ffd-6ff9-4d8a-8591-49fb54f055f2",
+    "Name": "Worker02Female",
+    "ImageBody": "Worker02Female.png",
+    "Size": 0.9,
+    "Small": false
+  },
+  {
+    "ID": "284e98a9-d41a-48c7-9f7e-4a2a4455af68",
+    "Name": "PaperdollMale",
+    "ImageBody": "PaperdollMale.png",
+    "Size": 1.0,
+    "Small": false
+  },
+  {
+    "ID": "52b0fef4-2ef8-4185-8d8e-4bef423f597a",
+    "Name": "UndeadKnight",
+    "ImageBody": "UndeadKnight.png",
+    "Size": 0.8,
+    "Small": false
+  },
+  {
+    "ID": "0a922d67-eb40-4135-b40a-4c80d849bdaf",
+    "Name": "Horse",
+    "ImageBody": "Horse.png",
+    "Size": 1.0,
+    "Small": true
+  },
+  {
+    "ID": "f7abfaa5-b9de-4cea-b20b-4cddb954b1bb",
+    "Name": "2\\GolemCrystal01Niv01",
+    "ImageBody": "2\\GolemCrystal01Niv01.png",
+    "Size": 1.0,
+    "Small": false
+  },
+  {
+    "ID": "4b6a65e9-78ac-4bf9-9931-4d15890daa3d",
+    "Name": "Palenne",
+    "ImageBody": "Palenne.png",
+    "Size": 1.0,
+    "Small": false
+  },
+  {
+    "ID": "7e0ebea9-d1ae-4c28-b683-5269321675e6",
+    "Name": "Cyclop03",
+    "ImageBody": "Cyclop03.png",
+    "Size": 1.0,
+    "Small": true
+  },
+  {
+    "ID": "72e48bbc-c3f6-4115-8b51-5366c27ec3ad",
+    "Name": "PlaceholderMale",
+    "ImageBody": "PlaceholderMale.png",
+    "Size": 0.9,
+    "Small": false
+  },
+  {
+    "ID": "29207067-0f4d-449c-b2e6-54bd8d9ccea1",
+    "Name": "2\\Ratman03",
+    "ImageBody": "2\\Ratman03.png",
+    "Size": 0.9,
+    "Small": false
+  },
+  {
+    "ID": "00d3a9cf-f142-42f6-80d1-55403cccda61",
+    "Name": "2\\Aberration02",
+    "ImageBody": "2\\Aberration02.png",
+    "Size": 0.8,
+    "Small": true
+  },
+  {
+    "ID": "24d61a23-73f7-4e65-86e5-557570d9f982",
+    "Name": "KnightBlondMale",
+    "ImageBody": "KnightBlondMale.png",
+    "Size": 1.0,
+    "Small": false
+  },
+  {
+    "ID": "bb45a62f-d254-4f06-8c15-571bd9cc8a4c",
+    "Name": "QuestBoard03",
+    "ImageBody": "QuestBoard03.png",
+    "Size": 0.8,
+    "Small": true
+  },
+  {
+    "ID": "2e804eef-8524-4d3d-9c10-5759cd08b2d6",
+    "Name": "Wolfwoman",
+    "ImageBody": "Wolfwoman.png",
+    "Size": 1.0,
+    "Small": false
+  },
+  {
+    "ID": "b92e8b9e-4b0f-482d-ba44-58684c0770e1",
+    "Name": "KnightHelmetMale",
+    "ImageBody": "KnightHelmetMale.png",
+    "Size": 1.0,
+    "Small": false
+  },
+  {
+    "ID": "0878df68-94ac-41f0-894c-5987e6034aca",
+    "Name": "GoatBlack",
+    "ImageBody": "GoatBlack.png",
+    "Size": 0.95,
+    "Small": true
+  },
+  {
+    "ID": "c5249f37-053a-42c4-838c-5ab7cf64d64a",
+    "Name": "2\\Illithid01",
+    "ImageBody": "2\\Illithid01.png",
+    "Size": 0.8,
+    "Small": false
+  },
+  {
+    "ID": "cb1e1988-4b02-4ca5-b10b-5d2f90cbaf4b",
+    "Name": "SeaMonster",
+    "ImageBody": "SeaMonster.png",
+    "Size": 0.8,
+    "Small": true
+  },
+  {
+    "ID": "43559fce-ba6d-4569-af30-5d48dcbc6b4d",
+    "Name": "Undead",
+    "ImageBody": "Undead.png",
+    "Size": 0.8,
+    "Small": false
+  },
+  {
+    "ID": "591d5135-bc39-46d7-905e-6090ba5303d3",
+    "Name": "Wyvern02",
+    "ImageBody": "Wyvern02.png",
+    "Size": 1.2,
+    "Small": true
+  },
+  {
+    "ID": "035b5269-7233-4292-873d-616a190839da",
+    "Name": "2\\TrogulhusArcher01",
+    "ImageBody": "2\\TrogulhusArcher01.png",
+    "Size": 1.0,
+    "Small": false
+  },
+  {
+    "ID": "daeeac9f-7841-4c7f-a1dd-62fa7072e351",
+    "Name": "Peasant03Female",
+    "ImageBody": "Peasant03Female.png",
+    "Size": 0.85,
+    "Small": false
+  },
+  {
+    "ID": "4df29300-3a33-49e6-84b6-644560464a98",
+    "Name": "GremlinArcane",
+    "ImageBody": "GremlinArcane.png",
+    "Size": 0.82,
+    "Small": true
+  },
+  {
+    "ID": "4e9c9872-1a40-42fc-a22a-64974462d010",
+    "Name": "2\\Ratman02",
+    "ImageBody": "2\\Ratman02.png",
+    "Size": 0.9,
+    "Small": false
+  },
+  {
+    "ID": "bab28314-2e78-4724-b783-67d2236a4425",
+    "Name": "2\\GolemSteampunkBoss03",
+    "ImageBody": "2\\GolemSteampunkBoss03.png",
+    "Size": 1.0,
+    "Small": false
+  },
+  {
+    "ID": "6a9b7022-fc01-4b51-9fb7-682aef56ded9",
+    "Name": "Adventurer03Female",
+    "ImageBody": "Adventurer03Female.png",
+    "Size": 0.95,
+    "Small": false
+  },
+  {
+    "ID": "4d1df73c-b997-4b01-a165-682b2bb1817d",
+    "Name": "Noble03Female",
+    "ImageBody": "Noble03Female.png",
+    "Size": 0.9,
+    "Small": false
+  },
+  {
+    "ID": "98cad282-8b31-4fa6-a151-686310cb7989",
+    "Name": "TravelGoat",
+    "ImageBody": "TravelGoat.png",
+    "Size": 1.0,
+    "Small": true
+  },
+  {
+    "ID": "0fff598a-8659-4cbd-9584-68e79ea1af7c",
+    "Name": "2\\Mutanork01",
+    "ImageBody": "2\\Mutanork01.png",
+    "Size": 0.8,
+    "Small": false
+  },
+  {
+    "ID": "47da5915-41e2-4987-b9c6-69bf60221dd8",
+    "Name": "Marchant03Male",
+    "ImageBody": "Marchant03Male.png",
+    "Size": 0.95,
+    "Small": false
+  },
+  {
+    "ID": "6fbe8aa4-6c2f-4d4f-9f24-6a546ed86d29",
+    "Name": "Leighanna",
+    "ImageBody": "Leighanna.png",
+    "Size": 1.0,
+    "Small": false
+  },
+  {
+    "ID": "189ed5fa-8777-4b99-93cd-6a9e356a66b9",
+    "Name": "TransportCarriage",
+    "ImageBody": "TransportCarriage.png",
+    "Size": 1.0,
+    "Small": false
+  },
+  {
+    "ID": "57e31d20-43fc-43f1-9477-6aefc30497b1",
+    "Name": "2\\NobleFemale01",
+    "ImageBody": "2\\NobleFemale01.png",
+    "Size": 1.0,
+    "Small": false
+  },
+  {
+    "ID": "0c6e20d4-2a1a-4787-be7b-6b67335e6cf4",
+    "Name": "2\\GolemCrystal01Niv02",
+    "ImageBody": "2\\GolemCrystal01Niv02.png",
+    "Size": 1.0,
+    "Small": false
+  },
+  {
+    "ID": "e782cf3b-aa24-40aa-9895-6c578c9368bc",
+    "Name": "AdventurerFemale",
+    "ImageBody": "AdventurerFemale.png",
+    "Size": 0.95,
+    "Small": false
+  },
+  {
+    "ID": "21407505-12f8-43d3-a66b-6c7d07c03851",
+    "Name": "2\\Gnoll02",
+    "ImageBody": "2\\Gnoll02.png",
+    "Size": 0.8,
+    "Small": false
+  },
+  {
+    "ID": "cf1a5e3d-d84c-4f8a-b551-6ca3e36b44c3",
+    "Name": "GiantWorm01",
+    "ImageBody": "GiantWorm01.png",
+    "Size": 1.0,
+    "Small": true
+  },
+  {
+    "ID": "29e94e74-6475-4e2c-81e7-6d189d1576c6",
+    "Name": "ShireHorse",
+    "ImageBody": "ShireHorse.png",
+    "Size": 1.0,
+    "Small": true
+  },
+  {
+    "ID": "bb479ceb-fcfd-4757-8d7c-6da380ceba6c",
+    "Name": "OryctusAlpha",
+    "ImageBody": "OryctusAlpha.png",
+    "Size": 1.4,
+    "Small": true
+  },
+  {
+    "ID": "cac289fe-8a56-4a9e-94d7-6fc847ea7c00",
+    "Name": "Cyclop04",
+    "ImageBody": "Cyclop04.png",
+    "Size": 1.0,
+    "Small": false
+  },
+  {
+    "ID": "5386a4c5-b20e-4d53-b6d4-70d5292472a0",
+    "Name": "NostrianAdventurerFemale",
+    "ImageBody": "NostrianAdventurerFemale.png",
+    "Size": 1.0,
+    "Small": false
+  },
+  {
+    "ID": "7fe75b9b-bb84-474d-a1ef-716138040d77",
+    "Name": "2\\Courtisane01",
+    "ImageBody": "2\\Courtisane01.png",
+    "Size": 1.0,
+    "Small": false
+  },
+  {
+    "ID": "f4816e81-04c6-428c-bcaf-71a7dbf408f6",
+    "Name": "UndeadChampionDark",
+    "ImageBody": "UndeadChampionDark.png",
+    "Size": 0.85,
+    "Small": false
+  },
+  {
+    "ID": "eea0d49e-fc60-4453-b000-71cc79221bd7",
+    "Name": "TreeMonsterSmall",
+    "ImageBody": "TreeMonsterSmall.png",
+    "Size": 0.8,
+    "Small": true
+  },
+  {
+    "ID": "671a0a8d-a2d5-4c0a-9038-732e310a6df3",
+    "Name": "ClockedWoman",
+    "ImageBody": "ClockedWoman.png",
+    "Size": 1.0,
+    "Small": false
+  },
+  {
+    "ID": "0f421b93-1a9a-4034-807e-733f07da8b3e",
+    "Name": "Cyclop01King",
+    "ImageBody": "Cyclop01King.png",
+    "Size": 1.0,
+    "Small": false
+  },
+  {
+    "ID": "e0d899d5-2bdf-4c26-955a-738051515fc4",
+    "Name": "UndeadWarrior",
+    "ImageBody": "UndeadWarrior.png",
+    "Size": 0.8,
+    "Small": false
+  },
+  {
+    "ID": "db4a30b0-71f4-4378-8519-749e65c9cc04",
+    "Name": "ZombieFemale",
+    "ImageBody": "ZombieFemale.png",
+    "Size": 1.0,
+    "Small": false
+  },
+  {
+    "ID": "f4c82302-1b7e-4bde-80ee-77b085f0b161",
+    "Name": "Troll",
+    "ImageBody": "Troll.png",
+    "Size": 1.0,
+    "Small": false
+  },
+  {
+    "ID": "06272faf-4458-4648-8e99-77c04fde6c66",
+    "Name": "2\\BadoukBrank02",
+    "ImageBody": "2\\BadoukBrank02.png",
+    "Size": 1.0,
+    "Small": false
+  },
+  {
+    "ID": "ff8ea82b-1484-4f06-9d67-7c896cb51c8e",
+    "Name": "Spider",
+    "ImageBody": "Spider.png",
+    "Size": 0.7,
+    "Small": true
+  },
+  {
+    "ID": "bebf557e-f867-4315-9ee3-7f43cf2d8b7c",
+    "Name": "2\\MonsterHand01",
+    "ImageBody": "2\\MonsterHand01.png",
+    "Size": 1.0,
+    "Small": true
+  },
+  {
+    "ID": "71c6931a-5ad5-4cc8-a0d3-7f55fc7dff61",
+    "Name": "MarchantFemale",
+    "ImageBody": "MarchantFemale.png",
+    "Size": 0.92,
+    "Small": false
+  },
+  {
+    "ID": "808f831a-deb3-41fc-8b1d-7f6bf8f2db89",
+    "Name": "2\\MagneticShield01",
+    "ImageBody": "2\\MagneticShield01.png",
+    "Size": 1.0,
+    "Small": true
+  },
+  {
+    "ID": "dbfa018d-43de-4a51-974d-825baa3510ee",
+    "Name": "KnightMale",
+    "ImageBody": "KnightMale.png",
+    "Size": 1.0,
+    "Small": false
+  },
+  {
+    "ID": "0774d5fd-26e5-4b47-a57b-82d383a7a3b6",
+    "Name": "Ghoul",
+    "ImageBody": "Ghoul.png",
+    "Size": 1.0,
+    "Small": false
+  },
+  {
+    "ID": "daca74cb-8b72-4b46-9af6-86199b3a8138",
+    "Name": "Worker03Male",
+    "ImageBody": "Worker03Male.png",
+    "Size": 1.0,
+    "Small": false
+  },
+  {
+    "ID": "a90a8c24-252f-450c-b07c-86604553c7c2",
+    "Name": "Cyclop01Protecteur",
+    "ImageBody": "Cyclop01Protecteur.png",
+    "Size": 1.0,
+    "Small": false
+  },
+  {
+    "ID": "36c8fa3d-082b-489c-9ce5-89e0cb18ca10",
+    "Name": "CaptainMale",
+    "ImageBody": "CaptainMale.png",
+    "Size": 1.0,
+    "Small": false
+  },
+  {
+    "ID": "f99470cf-a967-4eca-a4d8-8a0d0e801ccd",
+    "Name": "Finn",
+    "ImageBody": "Finn.png",
+    "Size": 1.0,
+    "Small": false
+  },
+  {
+    "ID": "b4152345-3363-48f4-bd8d-8c0facfad370",
+    "Name": "MarchantMale",
+    "ImageBody": "MarchantMale.png",
+    "Size": 0.95,
+    "Small": false
+  },
+  {
+    "ID": "4355bc19-cf83-4579-beff-8c5033e5aa51",
+    "Name": "Snake",
+    "ImageBody": "Snake.png",
+    "Size": 0.6,
+    "Small": true
+  },
+  {
+    "ID": "4868da34-54a6-4341-8c32-8e4332c1da9c",
+    "Name": "Bulette",
+    "ImageBody": "Bulette.png",
+    "Size": 0.7,
+    "Small": true
+  },
+  {
+    "ID": "fe3c31d4-aaca-4a95-9112-900de7c56d20",
+    "Name": "2\\GolemSteampunkArcher01",
+    "ImageBody": "2\\GolemSteampunkArcher01.png",
+    "Size": 1.0,
+    "Small": false
+  },
+  {
+    "ID": "2b8c0eed-e200-47ba-8bd8-936883ec248a",
+    "Name": "2\\ImpDemonAir",
+    "ImageBody": "2\\ImpDemonAir.png",
+    "Size": 0.8,
+    "Small": true
+  },
+  {
+    "ID": "70347a4e-6ce5-4039-befe-944e55af92cb",
+    "Name": "GiantWorm02",
+    "ImageBody": "GiantWorm02.png",
+    "Size": 1.0,
+    "Small": true
+  },
+  {
+    "ID": "b62b00d2-5a6f-479b-86b7-94e9855b7091",
+    "Name": "FarmerMale",
+    "ImageBody": "FarmerMale.png",
+    "Size": 0.95,
+    "Small": false
+  },
+  {
+    "ID": "339fbff7-0f87-44bd-adac-9773ecd61200",
+    "Name": "Professor02Male",
+    "ImageBody": "Professor02Male.png",
+    "Size": 0.95,
+    "Small": false
+  },
+  {
+    "ID": "a5e912bd-ce11-4e37-b9b2-97cbc3168504",
+    "Name": "2\\Vargr04",
+    "ImageBody": "2\\Vargr04.png",
+    "Size": 0.9,
+    "Small": true
+  },
+  {
+    "ID": "96ddfe0d-b0c1-4c39-af73-9857fd81e2fe",
+    "Name": "Buletteman",
+    "ImageBody": "Buletteman.png",
+    "Size": 1.0,
+    "Small": true
+  },
+  {
+    "ID": "08c067ae-e07a-4456-8c76-99b43ce71b04",
+    "Name": "IceGodess",
+    "ImageBody": "IceGodess.png",
+    "Size": 1.0,
+    "Small": false
+  },
+  {
+    "ID": "0647b1e4-0b84-43ce-bbfb-9cb7ff685f96",
+    "Name": "2\\Sailorman01",
+    "ImageBody": "2\\Sailorman01.png",
+    "Size": 1.0,
+    "Small": false
+  },
+  {
+    "ID": "bc8e6e08-c054-4c26-b52c-9eb91b119e0b",
+    "Name": "2\\Gnoll02Caster",
+    "ImageBody": "2\\Gnoll02Caster.png",
+    "Size": 0.8,
+    "Small": false
+  },
+  {
+    "ID": "16104638-ab32-4305-b10f-9f07b7cf3da8",
+    "Name": "PaperdollFemale",
+    "ImageBody": "PaperdollFemale.png",
+    "Size": 1.0,
+    "Small": false
+  },
+  {
+    "ID": "35770b4d-af6d-4eb9-92eb-a05e93c9a636",
+    "Name": "QuestBoard04",
+    "ImageBody": "QuestBoard04.png",
+    "Size": 0.8,
+    "Small": true
+  },
+  {
+    "ID": "84a63041-8c9d-4d87-9be7-a12332f2fcac",
+    "Name": "Ratman",
+    "ImageBody": "Ratman.png",
+    "Size": 0.8,
+    "Small": true
+  },
+  {
+    "ID": "c71b1c26-8acb-433a-a7be-a49e7dddfbd3",
+    "Name": "Wolf",
+    "ImageBody": "Wolf.png",
+    "Size": 0.8,
+    "Small": true
+  },
+  {
+    "ID": "5fe634bc-4cf1-469f-985a-a4b54f285a1d",
+    "Name": "Lizard",
+    "ImageBody": "Lizard.png",
+    "Size": 0.7,
+    "Small": true
+  },
+  {
+    "ID": "3e4039f9-96b1-49fa-9d7e-a68b409e3537",
+    "Name": "2\\GolemSteampunkTransporteur01",
+    "ImageBody": "2\\GolemSteampunkTransporteur01.png",
+    "Size": 1.0,
+    "Small": false
+  },
+  {
+    "ID": "4c912f65-a20f-4d58-af0a-a8d1f271795d",
+    "Name": "GolemStone",
+    "ImageBody": "GolemStone.png",
+    "Size": 1.0,
+    "Small": true
+  },
+  {
+    "ID": "7808bb8d-5b6b-4d19-86a8-a9459e50168a",
+    "Name": "GolemClock",
+    "ImageBody": "GolemClock.png",
+    "Size": 1.0,
+    "Small": true
+  },
+  {
+    "ID": "89aa769d-cb51-4d51-9fb2-a9c130eee85a",
+    "Name": "2\\UndeadLibrarian01",
+    "ImageBody": "2\\UndeadLibrarian01.png",
+    "Size": 1.0,
+    "Small": false
+  },
+  {
+    "ID": "4a91ad4e-ca49-43d6-ba64-a9c49a49393d",
+    "Name": "2\\ScribeMale01",
+    "ImageBody": "2\\ScribeMale01.png",
+    "Size": 0.8,
+    "Small": false
+  },
+  {
+    "ID": "2a0d3bd1-de6f-4619-a237-ab1e00f34f38",
+    "Name": "Boar",
+    "ImageBody": "Boar.png",
+    "Size": 0.8,
+    "Small": true
+  },
+  {
+    "ID": "7f9b0929-c49b-4078-86cf-ac268578a8e5",
+    "Name": "2\\SkeletonCaster02",
+    "ImageBody": "2\\SkeletonCaster02.png",
+    "Size": 0.8,
+    "Small": false
+  },
+  {
+    "ID": "e1b9a4a4-b8da-415b-b096-ad1a983f9abc",
+    "Name": "GremlinAlpha",
+    "ImageBody": "GremlinAlpha.png",
+    "Size": 1.0,
+    "Small": true
+  },
+  {
+    "ID": "4ef1cc9f-cfb6-4ea2-8c6d-ad99d0c551d3",
+    "Name": "2\\TrogulhusScout01",
+    "ImageBody": "2\\TrogulhusScout01.png",
+    "Size": 1.0,
+    "Small": false
+  },
+  {
+    "ID": "7c222d9a-0144-4582-abcd-adb97b1d982e",
+    "Name": "2\\Bardmale01",
+    "ImageBody": "2\\Bardmale01.png",
+    "Size": 1.0,
+    "Small": false
+  },
+  {
+    "ID": "b5f55ac4-f15b-4bf2-a189-ae3d9318090e",
+    "Name": "GiantWorm03",
+    "ImageBody": "GiantWorm03.png",
+    "Size": 1.0,
+    "Small": true
+  },
+  {
+    "ID": "6c5cb139-350a-48c3-afca-aecaa69665bb",
+    "Name": "CarnivousPlant",
+    "ImageBody": "CarnivousPlant.png",
+    "Size": 0.75,
+    "Small": true
+  },
+  {
+    "ID": "bea063f0-0e00-49bf-a0bc-b06520c4ccdc",
+    "Name": "GiantTurtle02",
+    "ImageBody": "GiantTurtle02.png",
+    "Size": 1.0,
+    "Small": true
+  },
+  {
+    "ID": "762105f7-a91a-43bc-a82a-b11c9b2dbc1f",
+    "Name": "Adventurer02Female",
+    "ImageBody": "Adventurer02Female.png",
+    "Size": 0.95,
+    "Small": false
+  },
+  {
+    "ID": "80d340b9-2aa0-48c0-bbe7-b12e80ed679f",
+    "Name": "2\\BoneDragon01",
+    "ImageBody": "2\\BoneDragon01.png",
+    "Size": 0.5,
+    "Small": true
+  },
+  {
+    "ID": "bcf40845-f994-4a84-bb32-b34f933aaf29",
+    "Name": "Bilma",
+    "ImageBody": "Bilma.png",
+    "Size": 1.0,
+    "Small": false
+  },
+  {
+    "ID": "61052497-17e2-4180-8388-b44055150102",
+    "Name": "GremlinAqua",
+    "ImageBody": "GremlinAqua.png",
+    "Size": 0.9,
+    "Small": true
+  },
+  {
+    "ID": "57880ab9-0892-41c5-a4a1-b5bd6a0ea5eb",
+    "Name": "2\\FarmerMale01",
+    "ImageBody": "2\\FarmerMale01.png",
+    "Size": 1.0,
+    "Small": false
+  },
+  {
+    "ID": "8c0577ee-0c55-4d18-aacb-b5f6103d7bce",
+    "Name": "Wyvern01",
+    "ImageBody": "Wyvern01.png",
+    "Size": 0.8,
+    "Small": true
+  },
+  {
+    "ID": "3face3e3-3471-41fb-b35d-b7d7b383b0d7",
+    "Name": "FlyingInsect",
+    "ImageBody": "FlyingInsect.png",
+    "Size": 0.6,
+    "Small": true
+  },
+  {
+    "ID": "2cd6686e-a429-4413-b197-b7ffb8e55c60",
+    "Name": "Wolfman",
+    "ImageBody": "Wolfman.png",
+    "Size": 1.0,
+    "Small": false
+  },
+  {
+    "ID": "85e6fa75-9c28-4b01-aef7-b8cc4edeecfe",
+    "Name": "PlaceholderFemale",
+    "ImageBody": "PlaceholderFemale.png",
+    "Size": 0.9,
+    "Small": false
+  },
+  {
+    "ID": "69fafc13-8eba-4845-812c-bc362ec41df0",
+    "Name": "2\\Hyena01",
+    "ImageBody": "2\\Hyena01.png",
+    "Size": 0.7,
+    "Small": true
+  },
+  {
+    "ID": "3ff698d7-7719-420d-a7da-bcb5d4cb9ad5",
+    "Name": "CourtisanMale",
+    "ImageBody": "CourtisanMale.png",
+    "Size": 1.0,
+    "Small": false
+  },
+  {
+    "ID": "179fef38-ccb9-47cd-b573-bd4c559e6796",
+    "Name": "Marchant02Male",
+    "ImageBody": "Marchant02Male.png",
+    "Size": 0.95,
+    "Small": false
+  },
+  {
+    "ID": "d058bac9-1252-4202-884a-be82b5756880",
+    "Name": "2\\GolemSteampunkBoss01",
+    "ImageBody": "2\\GolemSteampunkBoss01.png",
+    "Size": 1.0,
+    "Small": false
+  },
+  {
+    "ID": "130131c1-1b5d-482f-9272-bf0cb8becbf4",
+    "Name": "Loucantar",
+    "ImageBody": "Loucantar.png",
+    "Size": 0.8,
+    "Small": true
+  },
+  {
+    "ID": "068d02db-59fb-4989-b5b7-c1772ff3c976",
+    "Name": "2\\Reptile",
+    "ImageBody": "2\\Reptile.png",
+    "Size": 1.0,
+    "Small": true
+  },
+  {
+    "ID": "8acc529b-d41c-41c9-aaf8-c39fc31ea174",
+    "Name": "2\\MageFemale01",
+    "ImageBody": "2\\MageFemale01.png",
+    "Size": 1.0,
+    "Small": false
+  },
+  {
+    "ID": "72f05f43-b112-46c5-bc3f-c4be144bc501",
+    "Name": "2\\ImpDemonFire",
+    "ImageBody": "2\\ImpDemonFire.png",
+    "Size": 0.8,
+    "Small": true
+  },
+  {
+    "ID": "1ca936c9-3507-431e-bd02-c60ae2555218",
+    "Name": "NobleFemale",
+    "ImageBody": "NobleFemale.png",
+    "Size": 0.9,
+    "Small": false
+  },
+  {
+    "ID": "4b243dbb-1793-4e9c-a748-c60f2ecbdfc0",
+    "Name": "Wrath",
+    "ImageBody": "Wrath.png",
+    "Size": 1.0,
+    "Small": false
+  },
+  {
+    "ID": "3f8b1c2d-5d89-46fe-9c1a-c65661860969",
+    "Name": "Peasant02Female",
+    "ImageBody": "Peasant02Female.png",
+    "Size": 0.85,
+    "Small": false
+  },
+  {
+    "ID": "8a676578-c3b7-433e-b90f-c6dce610c92c",
+    "Name": "2\\MutanorkBoss01",
+    "ImageBody": "2\\MutanorkBoss01.png",
+    "Size": 1.0,
+    "Small": false
+  },
+  {
+    "ID": "abe96d4e-f2e8-4fa1-bea8-c6fed065f39c",
+    "Name": "SwampFrog01",
+    "ImageBody": "SwampFrog01.png",
+    "Size": 0.8,
+    "Small": true
+  },
+  {
+    "ID": "20185dfd-aa2d-4081-a0a2-c78743311f2e",
+    "Name": "2\\ImpDemonIce",
+    "ImageBody": "2\\ImpDemonIce.png",
+    "Size": 0.8,
+    "Small": true
+  },
+  {
+    "ID": "8eb3e9e2-f257-4509-998e-c78f9c63097a",
+    "Name": "Pegasus",
+    "ImageBody": "Pegasus.png",
+    "Size": 1.0,
+    "Small": true
+  },
+  {
+    "ID": "54d13200-1a9e-411a-be49-c9c03b1ac39b",
+    "Name": "2\\RatmanPet01",
+    "ImageBody": "2\\RatmanPet01.png",
+    "Size": 1.0,
+    "Small": false
+  },
+  {
+    "ID": "32049cc7-f6ba-419f-bf9b-c9eba2351300",
+    "Name": "2\\GolemCrystal01Niv03",
+    "ImageBody": "2\\GolemCrystal01Niv03.png",
+    "Size": 1.0,
+    "Small": false
+  },
+  {
+    "ID": "0830f165-cef2-4a64-a179-cba7444d005f",
+    "Name": "SwampFrog03",
+    "ImageBody": "SwampFrog03.png",
+    "Size": 0.8,
+    "Small": true
+  },
+  {
+    "ID": "fc9386f9-1597-4058-bf79-cbd6dc770c49",
+    "Name": "2\\Mutanork02",
+    "ImageBody": "2\\Mutanork02.png",
+    "Size": 0.8,
+    "Small": false
+  },
+  {
+    "ID": "734d4d5f-1c38-4400-959c-cc1149b0c71a",
+    "Name": "2\\TrogulhusMage01",
+    "ImageBody": "2\\TrogulhusMage01.png",
+    "Size": 1.0,
+    "Small": false
+  },
+  {
+    "ID": "218bd67d-3414-49f1-975f-cc6ad173e6e1",
+    "Name": "2\\Doppelganger01",
+    "ImageBody": "2\\Doppelganger01.png",
+    "Size": 1.0,
+    "Small": false
+  },
+  {
+    "ID": "e988e590-f0f6-4738-95a2-ce74df0ef9aa",
+    "Name": "GremlinWings",
+    "ImageBody": "GremlinWings.png",
+    "Size": 0.85,
+    "Small": true
+  },
+  {
+    "ID": "19972298-ade1-48f5-a619-cea310e79b1b",
+    "Name": "Cyclop05",
+    "ImageBody": "Cyclop05.png",
+    "Size": 1.0,
+    "Small": false
+  },
+  {
+    "ID": "68386808-0f41-41c8-b576-d05bd4b03cbe",
+    "Name": "Aberration",
+    "ImageBody": "Aberration.png",
+    "Size": 0.7,
+    "Small": true
+  },
+  {
+    "ID": "ef6d2d30-3c97-4826-8c1a-d0f2d2faca40",
+    "Name": "QuestBoard02",
+    "ImageBody": "QuestBoard02.png",
+    "Size": 0.8,
+    "Small": true
+  },
+  {
+    "ID": "2cd6ae59-42d2-47b6-a801-d0fcab6793f1",
+    "Name": "WolfPuppy",
+    "ImageBody": "WolfPuppy.png",
+    "Size": 0.75,
+    "Small": true
+  },
+  {
+    "ID": "8dc22ce2-d36f-43a1-a4f1-d24091bd2564",
+    "Name": "2\\FarmerFemale01",
+    "ImageBody": "2\\FarmerFemale01.png",
+    "Size": 1.0,
+    "Small": false
+  },
+  {
+    "ID": "a2d8075d-b542-44ce-b652-d87980bc8468",
+    "Name": "TransportCart",
+    "ImageBody": "TransportCart.png",
+    "Size": 1.5,
+    "Small": false
+  },
+  {
+    "ID": "c9f185d5-2b6b-49fc-8fcc-d9282146a2c6",
+    "Name": "2\\GolemSteampunkBoss02",
+    "ImageBody": "2\\GolemSteampunkBoss02.png",
+    "Size": 1.0,
+    "Small": true
+  },
+  {
+    "ID": "bc91a7ce-89c8-4dca-8ac3-da9e697326aa",
+    "Name": "2\\TrogulhusDesHauteurs01",
+    "ImageBody": "2\\TrogulhusDesHauteurs01.png",
+    "Size": 1.0,
+    "Small": false
+  },
+  {
+    "ID": "c184ea02-3517-4f77-8414-db102fb5baa1",
+    "Name": "CarnivorousPlant03",
+    "ImageBody": "CarnivorousPlant03.png",
+    "Size": 0.8,
+    "Small": true
+  },
+  {
+    "ID": "638ce41e-7ec4-4e4c-bed9-db9cad853dd3",
+    "Name": "TrollTechno",
+    "ImageBody": "TrollTechno.png",
+    "Size": 1.0,
+    "Small": false
+  },
+  {
+    "ID": "640df245-6b3b-4b76-b595-dd3d21d8620e",
+    "Name": "2\\GolemSteampunkMineur01",
+    "ImageBody": "2\\GolemSteampunkMineur01.png",
+    "Size": 1.0,
+    "Small": false
+  },
+  {
+    "ID": "ac6f2639-ce64-4a40-8adb-dd8a734b0bb0",
+    "Name": "Boarman",
+    "ImageBody": "Boarman.png",
+    "Size": 1.0,
+    "Small": false
+  },
+  {
+    "ID": "143a45e7-1f21-4512-8956-def902ddfb39",
+    "Name": "Marchant02Female",
+    "ImageBody": "Marchant02Female.png",
+    "Size": 0.92,
+    "Small": false
+  },
+  {
+    "ID": "7eb53cd1-7eeb-43ce-bb82-e05196a477c6",
+    "Name": "WispRed",
+    "ImageBody": "WispRed.png",
+    "Size": 0.6,
+    "Small": true
+  },
+  {
+    "ID": "7ee7545f-e581-482d-bfb6-e11c85f10867",
+    "Name": "Scorpion",
+    "ImageBody": "Scorpion.png",
+    "Size": 0.8,
+    "Small": true
+  },
+  {
+    "ID": "05fef9a1-1fea-4266-9356-e210333de00b",
+    "Name": "Oryctus",
+    "ImageBody": "Oryctus.png",
+    "Size": 1.2,
+    "Small": true
+  },
+  {
+    "ID": "199fb9fa-6e29-42de-a773-e2fab1b9b9b9",
+    "Name": "Bearman",
+    "ImageBody": "Bearman.png",
+    "Size": 1.0,
+    "Small": false
+  },
+  {
+    "ID": "c6bc9d21-85b3-4827-9b89-e39fabea90e6",
+    "Name": "CarnivorousPlant04",
+    "ImageBody": "CarnivorousPlant04.png",
+    "Size": 0.8,
+    "Small": true
+  },
+  {
+    "ID": "0a067a9b-313f-4637-a933-e3a3e4e77c43",
+    "Name": "SwampFrog02",
+    "ImageBody": "SwampFrog02.png",
+    "Size": 0.8,
+    "Small": true
+  },
+  {
+    "ID": "a48566cd-bd0e-4d58-a0ca-e48a3a7eefee",
+    "Name": "Cyclop06",
+    "ImageBody": "Cyclop06.png",
+    "Size": 1.0,
+    "Small": false
+  },
+  {
+    "ID": "94e781ca-dc22-4a2f-99b2-e660a2eac1aa",
+    "Name": "WolfWorgenAlpha",
+    "ImageBody": "WolfWorgenAlpha.png",
+    "Size": 0.9,
+    "Small": true
+  },
+  {
+    "ID": "a1ab4ccf-4161-4e35-866d-e7bce99cf07e",
+    "Name": "WorkerFemale",
+    "ImageBody": "WorkerFemale.png",
+    "Size": 0.9,
+    "Small": false
+  },
+  {
+    "ID": "41aacb04-1189-45c9-b98a-e83263b9b69b",
+    "Name": "Finn02",
+    "ImageBody": "Finn02.png",
+    "Size": 1.0,
+    "Small": false
+  },
+  {
+    "ID": "0e58c786-501e-4623-af58-e916cb871c42",
+    "Name": "WorkerMale",
+    "ImageBody": "WorkerMale.png",
+    "Size": 1.0,
+    "Small": false
+  },
+  {
+    "ID": "a973b303-7a47-4240-bf0a-ea448596415f",
+    "Name": "BadoukBrank",
+    "ImageBody": "BadoukBrank.png",
+    "Size": 1.0,
+    "Small": false
+  },
+  {
+    "ID": "ec0e2f1f-289b-4a05-929b-ec0258dcbf64",
+    "Name": "Noble02Female",
+    "ImageBody": "Noble02Female.png",
+    "Size": 0.9,
+    "Small": false
+  },
+  {
+    "ID": "2f04e59e-a8f4-401c-ad41-ec3c5f2212ba",
+    "Name": "2\\PustuleMonster01",
+    "ImageBody": "2\\PustuleMonster01.png",
+    "Size": 1.0,
+    "Small": true
+  },
+  {
+    "ID": "a1d0e4b3-b8bf-4b09-98d7-eda3f3a0879b",
+    "Name": "WarHorse",
+    "ImageBody": "WarHorse.png",
+    "Size": 1.0,
+    "Small": true
+  },
+  {
+    "ID": "ffb7401e-27d2-42fb-a76c-f1778d5b4f2f",
+    "Name": "2\\GolemCrystal01Niv04",
+    "ImageBody": "2\\GolemCrystal01Niv04.png",
+    "Size": 1.0,
+    "Small": false
+  },
+  {
+    "ID": "01969021-59f9-4a99-a2b2-f1a3c9510417",
+    "Name": "Farmer02Male",
+    "ImageBody": "Farmer02Male.png",
+    "Size": 0.95,
+    "Small": false
+  },
+  {
+    "ID": "112c9bc7-f99b-4c59-8653-f2f7747a103f",
+    "Name": "ProfessorMale",
+    "ImageBody": "ProfessorMale.png",
+    "Size": 0.95,
+    "Small": false
+  },
+  {
+    "ID": "4cf20b71-dbd0-433c-a63b-f35c44027c60",
+    "Name": "Banshee",
+    "ImageBody": "Banshee.png",
+    "Size": 1.0,
+    "Small": false
+  },
+  {
+    "ID": "dcda5437-5010-4878-87d0-f3a01010098a",
+    "Name": "Donkey",
+    "ImageBody": "Donkey.png",
+    "Size": 1.0,
+    "Small": true
+  },
+  {
+    "ID": "2212100c-5eb9-4080-8320-f3df7c31ce3f",
+    "Name": "Bearwoman",
+    "ImageBody": "Bearwoman.png",
+    "Size": 1.0,
+    "Small": false
+  },
+  {
+    "ID": "50b9696c-07db-4bcf-bcf2-f8923c81cdf0",
+    "Name": "Insect",
+    "ImageBody": "Insect.png",
+    "Size": 0.7,
+    "Small": true
+  },
+  {
+    "ID": "da6d2d8e-4094-4771-a440-f947c33baeba",
+    "Name": "2\\ScribeFemale01",
+    "ImageBody": "2\\ScribeFemale01.png",
+    "Size": 0.8,
+    "Small": false
+  },
+  {
+    "ID": "ddaf4ffd-15a9-400f-a1eb-f9ebf81cf62f",
+    "Name": "HunterMale",
+    "ImageBody": "HunterMale.png",
+    "Size": 0.95,
+    "Small": false
+  },
+  {
+    "ID": "28dafb25-f12b-475d-bcc5-faf0531d3e41",
+    "Name": "Adventurer05Female",
+    "ImageBody": "Adventurer05Female.png",
+    "Size": 0.95,
+    "Small": false
+  },
+  {
+    "ID": "62e4928e-5637-46ea-b3a4-fafccd6c4901",
+    "Name": "Ratwoman",
+    "ImageBody": "Ratwoman.png",
+    "Size": 0.8,
+    "Small": true
+  },
+  {
+    "ID": "2db194a2-f2b8-4ffd-8007-fe0765d182c2",
+    "Name": "TreeMonsterLarge",
+    "ImageBody": "TreeMonsterLarge.png",
+    "Size": 0.8,
+    "Small": false
+  },
+  {
+    "ID": "649118f1-a6c8-46cd-9c84-fe2f805bce6c",
+    "Name": "TravelHorse",
+    "ImageBody": "TravelHorse.png",
+    "Size": 1.0,
+    "Small": true
+  }
+]

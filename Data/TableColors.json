@@ -1,0 +1,7940 @@
+[
+  {
+    "ID": "36c653d7-c27d-11e2-b792-0021917eda62",
+    "ColorBegin": {
+      "Red": 8,
+      "Green": 8,
+      "Blue": 9,
+      "Alpha": 255
+    },
+    "ColorMiddle": {
+      "Red": 140,
+      "Green": 181,
+      "Blue": 210,
+      "Alpha": 200
+    },
+    "ColorEnd": {
+      "Red": 172,
+      "Green": 195,
+      "Blue": 159,
+      "Alpha": 255
+    }
+  },
+  {
+    "ID": "137c19c8-c27e-11e2-b792-0021917eda62",
+    "ColorBegin": {
+      "Red": 10,
+      "Green": 11,
+      "Blue": 10,
+      "Alpha": 255
+    },
+    "ColorMiddle": {
+      "Red": 119,
+      "Green": 42,
+      "Blue": 155,
+      "Alpha": 128
+    },
+    "ColorEnd": {
+      "Red": 116,
+      "Green": 128,
+      "Blue": 91,
+      "Alpha": 255
+    }
+  },
+  {
+    "ID": "033889ab-4b68-11e4-863e-005056c00008",
+    "ColorBegin": {
+      "Red": 11,
+      "Green": 10,
+      "Blue": 10,
+      "Alpha": 255
+    },
+    "ColorMiddle": {
+      "Red": 200,
+      "Green": 190,
+      "Blue": 180,
+      "Alpha": 128
+    },
+    "ColorEnd": {
+      "Red": 247,
+      "Green": 234,
+      "Blue": 223,
+      "Alpha": 255
+    }
+  },
+  {
+    "ID": "ce893468-4ca7-11e4-89dd-005056c00008",
+    "ColorBegin": {
+      "Red": 56,
+      "Green": 50,
+      "Blue": 23,
+      "Alpha": 255
+    },
+    "ColorMiddle": {
+      "Red": 150,
+      "Green": 83,
+      "Blue": 23,
+      "Alpha": 100
+    },
+    "ColorEnd": {
+      "Red": 255,
+      "Green": 255,
+      "Blue": 255,
+      "Alpha": 255
+    }
+  },
+  {
+    "ID": "ce893469-4ca7-11e4-89dd-005056c00008",
+    "ColorBegin": {
+      "Red": 0,
+      "Green": 0,
+      "Blue": 20,
+      "Alpha": 255
+    },
+    "ColorMiddle": {
+      "Red": 90,
+      "Green": 100,
+      "Blue": 160,
+      "Alpha": 128
+    },
+    "ColorEnd": {
+      "Red": 255,
+      "Green": 255,
+      "Blue": 128,
+      "Alpha": 255
+    }
+  },
+  {
+    "ID": "3d412d14-decb-11e2-8f87-005056c00008",
+    "ColorBegin": {
+      "Red": 0,
+      "Green": 75,
+      "Blue": 30,
+      "Alpha": 255
+    },
+    "ColorMiddle": {
+      "Red": 0,
+      "Green": 200,
+      "Blue": 123,
+      "Alpha": 128
+    },
+    "ColorEnd": {
+      "Red": 151,
+      "Green": 255,
+      "Blue": 230,
+      "Alpha": 255
+    }
+  },
+  {
+    "ID": "3979ebb6-be92-11e2-996d-005056c00008",
+    "ColorBegin": {
+      "Red": 11,
+      "Green": 10,
+      "Blue": 8,
+      "Alpha": 255
+    },
+    "ColorMiddle": {
+      "Red": 108,
+      "Green": 65,
+      "Blue": 36,
+      "Alpha": 128
+    },
+    "ColorEnd": {
+      "Red": 242,
+      "Green": 169,
+      "Blue": 119,
+      "Alpha": 255
+    }
+  },
+  {
+    "ID": "261f86c2-1cc0-11e4-a30c-005056c00008",
+    "ColorBegin": {
+      "Red": 0,
+      "Green": 0,
+      "Blue": 0,
+      "Alpha": 255
+    },
+    "ColorMiddle": {
+      "Red": 255,
+      "Green": 198,
+      "Blue": 0,
+      "Alpha": 128
+    },
+    "ColorEnd": {
+      "Red": 255,
+      "Green": 255,
+      "Blue": 255,
+      "Alpha": 255
+    }
+  },
+  {
+    "ID": "f108fa22-1ddc-11e4-a30c-005056c00008",
+    "ColorBegin": {
+      "Red": 0,
+      "Green": 0,
+      "Blue": 0,
+      "Alpha": 255
+    },
+    "ColorMiddle": {
+      "Red": 255,
+      "Green": 255,
+      "Blue": 127,
+      "Alpha": 127
+    },
+    "ColorEnd": {
+      "Red": 255,
+      "Green": 255,
+      "Blue": 255,
+      "Alpha": 255
+    }
+  },
+  {
+    "ID": "28eeadac-0871-11e4-a7ea-005056c00008",
+    "ColorBegin": {
+      "Red": 0,
+      "Green": 0,
+      "Blue": 0,
+      "Alpha": 255
+    },
+    "ColorMiddle": {
+      "Red": 32,
+      "Green": 50,
+      "Blue": 23,
+      "Alpha": 100
+    },
+    "ColorEnd": {
+      "Red": 255,
+      "Green": 255,
+      "Blue": 255,
+      "Alpha": 255
+    }
+  },
+  {
+    "ID": "28eeadad-0871-11e4-a7ea-005056c00008",
+    "ColorBegin": {
+      "Red": 56,
+      "Green": 50,
+      "Blue": 63,
+      "Alpha": 255
+    },
+    "ColorMiddle": {
+      "Red": 150,
+      "Green": 33,
+      "Blue": 83,
+      "Alpha": 100
+    },
+    "ColorEnd": {
+      "Red": 255,
+      "Green": 200,
+      "Blue": 200,
+      "Alpha": 255
+    }
+  },
+  {
+    "ID": "28eeadae-0871-11e4-a7ea-005056c00008",
+    "ColorBegin": {
+      "Red": 56,
+      "Green": 30,
+      "Blue": 23,
+      "Alpha": 255
+    },
+    "ColorMiddle": {
+      "Red": 255,
+      "Green": 200,
+      "Blue": 100,
+      "Alpha": 150
+    },
+    "ColorEnd": {
+      "Red": 255,
+      "Green": 255,
+      "Blue": 255,
+      "Alpha": 255
+    }
+  },
+  {
+    "ID": "e24b30ed-0871-11e4-a7ea-005056c00008",
+    "ColorBegin": {
+      "Red": 0,
+      "Green": 0,
+      "Blue": 0,
+      "Alpha": 255
+    },
+    "ColorMiddle": {
+      "Red": 120,
+      "Green": 23,
+      "Blue": 23,
+      "Alpha": 100
+    },
+    "ColorEnd": {
+      "Red": 200,
+      "Green": 200,
+      "Blue": 200,
+      "Alpha": 255
+    }
+  },
+  {
+    "ID": "e24b30ee-0871-11e4-a7ea-005056c00008",
+    "ColorBegin": {
+      "Red": 56,
+      "Green": 28,
+      "Blue": 23,
+      "Alpha": 255
+    },
+    "ColorMiddle": {
+      "Red": 20,
+      "Green": 23,
+      "Blue": 23,
+      "Alpha": 100
+    },
+    "ColorEnd": {
+      "Red": 120,
+      "Green": 0,
+      "Blue": 0,
+      "Alpha": 255
+    }
+  },
+  {
+    "ID": "e24b30ef-0871-11e4-a7ea-005056c00008",
+    "ColorBegin": {
+      "Red": 56,
+      "Green": 28,
+      "Blue": 23,
+      "Alpha": 255
+    },
+    "ColorMiddle": {
+      "Red": 150,
+      "Green": 23,
+      "Blue": 23,
+      "Alpha": 100
+    },
+    "ColorEnd": {
+      "Red": 255,
+      "Green": 255,
+      "Blue": 255,
+      "Alpha": 255
+    }
+  },
+  {
+    "ID": "eaaa39ed-3ebd-11e3-a81f-005056c00008",
+    "ColorBegin": {
+      "Red": 50,
+      "Green": 0,
+      "Blue": 0,
+      "Alpha": 255
+    },
+    "ColorMiddle": {
+      "Red": 255,
+      "Green": 150,
+      "Blue": 255,
+      "Alpha": 128
+    },
+    "ColorEnd": {
+      "Red": 120,
+      "Green": 120,
+      "Blue": 255,
+      "Alpha": 255
+    }
+  },
+  {
+    "ID": "eaaa39ee-3ebd-11e3-a81f-005056c00008",
+    "ColorBegin": {
+      "Red": 0,
+      "Green": 0,
+      "Blue": 78,
+      "Alpha": 255
+    },
+    "ColorMiddle": {
+      "Red": 127,
+      "Green": 127,
+      "Blue": 170,
+      "Alpha": 100
+    },
+    "ColorEnd": {
+      "Red": 255,
+      "Green": 255,
+      "Blue": 255,
+      "Alpha": 255
+    }
+  },
+  {
+    "ID": "eaaa39ef-3ebd-11e3-a81f-005056c00008",
+    "ColorBegin": {
+      "Red": 255,
+      "Green": 0,
+      "Blue": 0,
+      "Alpha": 255
+    },
+    "ColorMiddle": {
+      "Red": 255,
+      "Green": 255,
+      "Blue": 255,
+      "Alpha": 127
+    },
+    "ColorEnd": {
+      "Red": 255,
+      "Green": 255,
+      "Blue": 0,
+      "Alpha": 255
+    }
+  },
+  {
+    "ID": "eaaa39f0-3ebd-11e3-a81f-005056c00008",
+    "ColorBegin": {
+      "Red": 0,
+      "Green": 60,
+      "Blue": 0,
+      "Alpha": 255
+    },
+    "ColorMiddle": {
+      "Red": 200,
+      "Green": 255,
+      "Blue": 200,
+      "Alpha": 60
+    },
+    "ColorEnd": {
+      "Red": 0,
+      "Green": 255,
+      "Blue": 0,
+      "Alpha": 255
+    }
+  },
+  {
+    "ID": "eaaa39f1-3ebd-11e3-a81f-005056c00008",
+    "ColorBegin": {
+      "Red": 0,
+      "Green": 0,
+      "Blue": 0,
+      "Alpha": 255
+    },
+    "ColorMiddle": {
+      "Red": 127,
+      "Green": 127,
+      "Blue": 150,
+      "Alpha": 100
+    },
+    "ColorEnd": {
+      "Red": 150,
+      "Green": 127,
+      "Blue": 150,
+      "Alpha": 255
+    }
+  },
+  {
+    "ID": "eaaa39f2-3ebd-11e3-a81f-005056c00008",
+    "ColorBegin": {
+      "Red": 20,
+      "Green": 20,
+      "Blue": 30,
+      "Alpha": 255
+    },
+    "ColorMiddle": {
+      "Red": 60,
+      "Green": 120,
+      "Blue": 255,
+      "Alpha": 128
+    },
+    "ColorEnd": {
+      "Red": 254,
+      "Green": 230,
+      "Blue": 100,
+      "Alpha": 255
+    }
+  },
+  {
+    "ID": "eaaa39f3-3ebd-11e3-a81f-005056c00008",
+    "ColorBegin": {
+      "Red": 255,
+      "Green": 255,
+      "Blue": 255,
+      "Alpha": 255
+    },
+    "ColorMiddle": {
+      "Red": 255,
+      "Green": 128,
+      "Blue": 50,
+      "Alpha": 130
+    },
+    "ColorEnd": {
+      "Red": 0,
+      "Green": 111,
+      "Blue": 0,
+      "Alpha": 255
+    }
+  },
+  {
+    "ID": "eaaa39f4-3ebd-11e3-a81f-005056c00008",
+    "ColorBegin": {
+      "Red": 27,
+      "Green": 8,
+      "Blue": 8,
+      "Alpha": 255
+    },
+    "ColorMiddle": {
+      "Red": 150,
+      "Green": 100,
+      "Blue": 90,
+      "Alpha": 128
+    },
+    "ColorEnd": {
+      "Red": 255,
+      "Green": 255,
+      "Blue": 255,
+      "Alpha": 255
+    }
+  },
+  {
+    "ID": "eaaa39f5-3ebd-11e3-a81f-005056c00008",
+    "ColorBegin": {
+      "Red": 0,
+      "Green": 0,
+      "Blue": 64,
+      "Alpha": 255
+    },
+    "ColorMiddle": {
+      "Red": 0,
+      "Green": 255,
+      "Blue": 0,
+      "Alpha": 128
+    },
+    "ColorEnd": {
+      "Red": 255,
+      "Green": 200,
+      "Blue": 200,
+      "Alpha": 255
+    }
+  },
+  {
+    "ID": "eaaa39f6-3ebd-11e3-a81f-005056c00008",
+    "ColorBegin": {
+      "Red": 0,
+      "Green": 0,
+      "Blue": 0,
+      "Alpha": 255
+    },
+    "ColorMiddle": {
+      "Red": 64,
+      "Green": 0,
+      "Blue": 12,
+      "Alpha": 127
+    },
+    "ColorEnd": {
+      "Red": 255,
+      "Green": 255,
+      "Blue": 255,
+      "Alpha": 255
+    }
+  },
+  {
+    "ID": "eaaa39f7-3ebd-11e3-a81f-005056c00008",
+    "ColorBegin": {
+      "Red": 255,
+      "Green": 255,
+      "Blue": 255,
+      "Alpha": 255
+    },
+    "ColorMiddle": {
+      "Red": 60,
+      "Green": 150,
+      "Blue": 60,
+      "Alpha": 128
+    },
+    "ColorEnd": {
+      "Red": 0,
+      "Green": 0,
+      "Blue": 0,
+      "Alpha": 255
+    }
+  },
+  {
+    "ID": "a3d04312-3ebe-11e3-a81f-005056c00008",
+    "ColorBegin": {
+      "Red": 60,
+      "Green": 150,
+      "Blue": 60,
+      "Alpha": 255
+    },
+    "ColorMiddle": {
+      "Red": 100,
+      "Green": 255,
+      "Blue": 200,
+      "Alpha": 127
+    },
+    "ColorEnd": {
+      "Red": 255,
+      "Green": 255,
+      "Blue": 255,
+      "Alpha": 255
+    }
+  },
+  {
+    "ID": "4c103564-3ebe-11e3-a81f-005056c00008",
+    "ColorBegin": {
+      "Red": 0,
+      "Green": 151,
+      "Blue": 228,
+      "Alpha": 255
+    },
+    "ColorMiddle": {
+      "Red": 130,
+      "Green": 255,
+      "Blue": 255,
+      "Alpha": 128
+    },
+    "ColorEnd": {
+      "Red": 200,
+      "Green": 230,
+      "Blue": 255,
+      "Alpha": 255
+    }
+  },
+  {
+    "ID": "7784259a-3ec0-11e3-a81f-005056c00008",
+    "ColorBegin": {
+      "Red": 255,
+      "Green": 255,
+      "Blue": 255,
+      "Alpha": 255
+    },
+    "ColorMiddle": {
+      "Red": 255,
+      "Green": 55,
+      "Blue": 0,
+      "Alpha": 130
+    },
+    "ColorEnd": {
+      "Red": 0,
+      "Green": 0,
+      "Blue": 0,
+      "Alpha": 255
+    }
+  },
+  {
+    "ID": "7784259b-3ec0-11e3-a81f-005056c00008",
+    "ColorBegin": {
+      "Red": 50,
+      "Green": 50,
+      "Blue": 0,
+      "Alpha": 255
+    },
+    "ColorMiddle": {
+      "Red": 25,
+      "Green": 0,
+      "Blue": 200,
+      "Alpha": 80
+    },
+    "ColorEnd": {
+      "Red": 255,
+      "Green": 255,
+      "Blue": 100,
+      "Alpha": 255
+    }
+  },
+  {
+    "ID": "7784259c-3ec0-11e3-a81f-005056c00008",
+    "ColorBegin": {
+      "Red": 255,
+      "Green": 255,
+      "Blue": 0,
+      "Alpha": 255
+    },
+    "ColorMiddle": {
+      "Red": 255,
+      "Green": 0,
+      "Blue": 0,
+      "Alpha": 130
+    },
+    "ColorEnd": {
+      "Red": 50,
+      "Green": 50,
+      "Blue": 0,
+      "Alpha": 255
+    }
+  },
+  {
+    "ID": "7784259d-3ec0-11e3-a81f-005056c00008",
+    "ColorBegin": {
+      "Red": 0,
+      "Green": 255,
+      "Blue": 255,
+      "Alpha": 255
+    },
+    "ColorMiddle": {
+      "Red": 0,
+      "Green": 0,
+      "Blue": 255,
+      "Alpha": 130
+    },
+    "ColorEnd": {
+      "Red": 0,
+      "Green": 0,
+      "Blue": 0,
+      "Alpha": 255
+    }
+  },
+  {
+    "ID": "7784259e-3ec0-11e3-a81f-005056c00008",
+    "ColorBegin": {
+      "Red": 255,
+      "Green": 200,
+      "Blue": 255,
+      "Alpha": 255
+    },
+    "ColorMiddle": {
+      "Red": 120,
+      "Green": 0,
+      "Blue": 120,
+      "Alpha": 130
+    },
+    "ColorEnd": {
+      "Red": 0,
+      "Green": 0,
+      "Blue": 100,
+      "Alpha": 255
+    }
+  },
+  {
+    "ID": "7784259f-3ec0-11e3-a81f-005056c00008",
+    "ColorBegin": {
+      "Red": 0,
+      "Green": 20,
+      "Blue": 0,
+      "Alpha": 255
+    },
+    "ColorMiddle": {
+      "Red": 0,
+      "Green": 255,
+      "Blue": 0,
+      "Alpha": 128
+    },
+    "ColorEnd": {
+      "Red": 255,
+      "Green": 255,
+      "Blue": 255,
+      "Alpha": 255
+    }
+  },
+  {
+    "ID": "778425a0-3ec0-11e3-a81f-005056c00008",
+    "ColorBegin": {
+      "Red": 200,
+      "Green": 255,
+      "Blue": 255,
+      "Alpha": 255
+    },
+    "ColorMiddle": {
+      "Red": 255,
+      "Green": 200,
+      "Blue": 255,
+      "Alpha": 64
+    },
+    "ColorEnd": {
+      "Red": 255,
+      "Green": 255,
+      "Blue": 200,
+      "Alpha": 255
+    }
+  },
+  {
+    "ID": "778425a1-3ec0-11e3-a81f-005056c00008",
+    "ColorBegin": {
+      "Red": 0,
+      "Green": 0,
+      "Blue": 0,
+      "Alpha": 255
+    },
+    "ColorMiddle": {
+      "Red": 64,
+      "Green": 64,
+      "Blue": 255,
+      "Alpha": 64
+    },
+    "ColorEnd": {
+      "Red": 0,
+      "Green": 0,
+      "Blue": 0,
+      "Alpha": 255
+    }
+  },
+  {
+    "ID": "778425a2-3ec0-11e3-a81f-005056c00008",
+    "ColorBegin": {
+      "Red": 255,
+      "Green": 255,
+      "Blue": 255,
+      "Alpha": 255
+    },
+    "ColorMiddle": {
+      "Red": 255,
+      "Green": 0,
+      "Blue": 255,
+      "Alpha": 64
+    },
+    "ColorEnd": {
+      "Red": 0,
+      "Green": 255,
+      "Blue": 255,
+      "Alpha": 255
+    }
+  },
+  {
+    "ID": "778425a3-3ec0-11e3-a81f-005056c00008",
+    "ColorBegin": {
+      "Red": 255,
+      "Green": 255,
+      "Blue": 255,
+      "Alpha": 255
+    },
+    "ColorMiddle": {
+      "Red": 255,
+      "Green": 255,
+      "Blue": 0,
+      "Alpha": 64
+    },
+    "ColorEnd": {
+      "Red": 255,
+      "Green": 255,
+      "Blue": 0,
+      "Alpha": 255
+    }
+  },
+  {
+    "ID": "778425a4-3ec0-11e3-a81f-005056c00008",
+    "ColorBegin": {
+      "Red": 255,
+      "Green": 255,
+      "Blue": 255,
+      "Alpha": 255
+    },
+    "ColorMiddle": {
+      "Red": 255,
+      "Green": 255,
+      "Blue": 255,
+      "Alpha": 64
+    },
+    "ColorEnd": {
+      "Red": 64,
+      "Green": 0,
+      "Blue": 64,
+      "Alpha": 255
+    }
+  },
+  {
+    "ID": "778425a5-3ec0-11e3-a81f-005056c00008",
+    "ColorBegin": {
+      "Red": 64,
+      "Green": 64,
+      "Blue": 64,
+      "Alpha": 255
+    },
+    "ColorMiddle": {
+      "Red": 200,
+      "Green": 200,
+      "Blue": 200,
+      "Alpha": 128
+    },
+    "ColorEnd": {
+      "Red": 255,
+      "Green": 255,
+      "Blue": 255,
+      "Alpha": 255
+    }
+  },
+  {
+    "ID": "778425a6-3ec0-11e3-a81f-005056c00008",
+    "ColorBegin": {
+      "Red": 20,
+      "Green": 20,
+      "Blue": 30,
+      "Alpha": 255
+    },
+    "ColorMiddle": {
+      "Red": 60,
+      "Green": 60,
+      "Blue": 255,
+      "Alpha": 128
+    },
+    "ColorEnd": {
+      "Red": 200,
+      "Green": 255,
+      "Blue": 255,
+      "Alpha": 255
+    }
+  },
+  {
+    "ID": "fca1151b-2739-11e4-a978-005056c00008",
+    "ColorBegin": {
+      "Red": 24,
+      "Green": 26,
+      "Blue": 29,
+      "Alpha": 255
+    },
+    "ColorMiddle": {
+      "Red": 227,
+      "Green": 108,
+      "Blue": 9,
+      "Alpha": 128
+    },
+    "ColorEnd": {
+      "Red": 253,
+      "Green": 234,
+      "Blue": 218,
+      "Alpha": 255
+    }
+  },
+  {
+    "ID": "cf15da9e-28d1-11e4-a978-005056c00008",
+    "ColorBegin": {
+      "Red": 7,
+      "Green": 13,
+      "Blue": 36,
+      "Alpha": 255
+    },
+    "ColorMiddle": {
+      "Red": 68,
+      "Green": 23,
+      "Blue": 13,
+      "Alpha": 151
+    },
+    "ColorEnd": {
+      "Red": 108,
+      "Green": 127,
+      "Blue": 4,
+      "Alpha": 255
+    }
+  },
+  {
+    "ID": "70ac521e-d207-11e2-ad28-005056c00008",
+    "ColorBegin": {
+      "Red": 19,
+      "Green": 19,
+      "Blue": 26,
+      "Alpha": 255
+    },
+    "ColorMiddle": {
+      "Red": 125,
+      "Green": 150,
+      "Blue": 174,
+      "Alpha": 128
+    },
+    "ColorEnd": {
+      "Red": 200,
+      "Green": 200,
+      "Blue": 255,
+      "Alpha": 255
+    }
+  },
+  {
+    "ID": "70ac521f-d207-11e2-ad28-005056c00008",
+    "ColorBegin": {
+      "Red": 26,
+      "Green": 26,
+      "Blue": 26,
+      "Alpha": 255
+    },
+    "ColorMiddle": {
+      "Red": 140,
+      "Green": 140,
+      "Blue": 100,
+      "Alpha": 128
+    },
+    "ColorEnd": {
+      "Red": 200,
+      "Green": 193,
+      "Blue": 161,
+      "Alpha": 255
+    }
+  },
+  {
+    "ID": "70ac5220-d207-11e2-ad28-005056c00008",
+    "ColorBegin": {
+      "Red": 24,
+      "Green": 24,
+      "Blue": 24,
+      "Alpha": 255
+    },
+    "ColorMiddle": {
+      "Red": 220,
+      "Green": 197,
+      "Blue": 167,
+      "Alpha": 128
+    },
+    "ColorEnd": {
+      "Red": 255,
+      "Green": 255,
+      "Blue": 255,
+      "Alpha": 255
+    }
+  },
+  {
+    "ID": "70ac5221-d207-11e2-ad28-005056c00008",
+    "ColorBegin": {
+      "Red": 35,
+      "Green": 32,
+      "Blue": 31,
+      "Alpha": 255
+    },
+    "ColorMiddle": {
+      "Red": 185,
+      "Green": 130,
+      "Blue": 108,
+      "Alpha": 138
+    },
+    "ColorEnd": {
+      "Red": 252,
+      "Green": 229,
+      "Blue": 217,
+      "Alpha": 255
+    }
+  },
+  {
+    "ID": "70ac5222-d207-11e2-ad28-005056c00008",
+    "ColorBegin": {
+      "Red": 28,
+      "Green": 0,
+      "Blue": 0,
+      "Alpha": 255
+    },
+    "ColorMiddle": {
+      "Red": 188,
+      "Green": 135,
+      "Blue": 31,
+      "Alpha": 128
+    },
+    "ColorEnd": {
+      "Red": 142,
+      "Green": 139,
+      "Blue": 112,
+      "Alpha": 255
+    }
+  },
+  {
+    "ID": "70ac5223-d207-11e2-ad28-005056c00008",
+    "ColorBegin": {
+      "Red": 26,
+      "Green": 20,
+      "Blue": 19,
+      "Alpha": 255
+    },
+    "ColorMiddle": {
+      "Red": 215,
+      "Green": 215,
+      "Blue": 200,
+      "Alpha": 81
+    },
+    "ColorEnd": {
+      "Red": 255,
+      "Green": 255,
+      "Blue": 255,
+      "Alpha": 255
+    }
+  },
+  {
+    "ID": "70ac5224-d207-11e2-ad28-005056c00008",
+    "ColorBegin": {
+      "Red": 64,
+      "Green": 64,
+      "Blue": 64,
+      "Alpha": 255
+    },
+    "ColorMiddle": {
+      "Red": 160,
+      "Green": 120,
+      "Blue": 20,
+      "Alpha": 128
+    },
+    "ColorEnd": {
+      "Red": 255,
+      "Green": 255,
+      "Blue": 255,
+      "Alpha": 255
+    }
+  },
+  {
+    "ID": "70ac5225-d207-11e2-ad28-005056c00008",
+    "ColorBegin": {
+      "Red": 0,
+      "Green": 0,
+      "Blue": 0,
+      "Alpha": 255
+    },
+    "ColorMiddle": {
+      "Red": 122,
+      "Green": 177,
+      "Blue": 173,
+      "Alpha": 128
+    },
+    "ColorEnd": {
+      "Red": 255,
+      "Green": 255,
+      "Blue": 255,
+      "Alpha": 255
+    }
+  },
+  {
+    "ID": "70ac5226-d207-11e2-ad28-005056c00008",
+    "ColorBegin": {
+      "Red": 33,
+      "Green": 25,
+      "Blue": 25,
+      "Alpha": 255
+    },
+    "ColorMiddle": {
+      "Red": 173,
+      "Green": 96,
+      "Blue": 83,
+      "Alpha": 90
+    },
+    "ColorEnd": {
+      "Red": 252,
+      "Green": 229,
+      "Blue": 217,
+      "Alpha": 255
+    }
+  },
+  {
+    "ID": "483cc066-d208-11e2-ad28-005056c00008",
+    "ColorBegin": {
+      "Red": 0,
+      "Green": 0,
+      "Blue": 0,
+      "Alpha": 255
+    },
+    "ColorMiddle": {
+      "Red": 200,
+      "Green": 100,
+      "Blue": 0,
+      "Alpha": 127
+    },
+    "ColorEnd": {
+      "Red": 255,
+      "Green": 255,
+      "Blue": 255,
+      "Alpha": 255
+    }
+  },
+  {
+    "ID": "a6e859f0-d234-11e2-ad28-005056c00008",
+    "ColorBegin": {
+      "Red": 27,
+      "Green": 8,
+      "Blue": 8,
+      "Alpha": 255
+    },
+    "ColorMiddle": {
+      "Red": 174,
+      "Green": 123,
+      "Blue": 89,
+      "Alpha": 128
+    },
+    "ColorEnd": {
+      "Red": 241,
+      "Green": 200,
+      "Blue": 170,
+      "Alpha": 255
+    }
+  },
+  {
+    "ID": "d9bf24c9-d1dc-11e2-ad28-005056c00008",
+    "ColorBegin": {
+      "Red": 0,
+      "Green": 0,
+      "Blue": 0,
+      "Alpha": 255
+    },
+    "ColorMiddle": {
+      "Red": 42,
+      "Green": 36,
+      "Blue": 61,
+      "Alpha": 175
+    },
+    "ColorEnd": {
+      "Red": 100,
+      "Green": 200,
+      "Blue": 200,
+      "Alpha": 255
+    }
+  },
+  {
+    "ID": "afd9f926-d1eb-11e2-ad28-005056c00008",
+    "ColorBegin": {
+      "Red": 24,
+      "Green": 10,
+      "Blue": 3,
+      "Alpha": 255
+    },
+    "ColorMiddle": {
+      "Red": 64,
+      "Green": 64,
+      "Blue": 64,
+      "Alpha": 186
+    },
+    "ColorEnd": {
+      "Red": 211,
+      "Green": 192,
+      "Blue": 133,
+      "Alpha": 255
+    }
+  },
+  {
+    "ID": "afd9f927-d1eb-11e2-ad28-005056c00008",
+    "ColorBegin": {
+      "Red": 0,
+      "Green": 0,
+      "Blue": 0,
+      "Alpha": 255
+    },
+    "ColorMiddle": {
+      "Red": 127,
+      "Green": 127,
+      "Blue": 127,
+      "Alpha": 128
+    },
+    "ColorEnd": {
+      "Red": 177,
+      "Green": 177,
+      "Blue": 177,
+      "Alpha": 255
+    }
+  },
+  {
+    "ID": "afd9f928-d1eb-11e2-ad28-005056c00008",
+    "ColorBegin": {
+      "Red": 0,
+      "Green": 0,
+      "Blue": 0,
+      "Alpha": 255
+    },
+    "ColorMiddle": {
+      "Red": 127,
+      "Green": 255,
+      "Blue": 255,
+      "Alpha": 127
+    },
+    "ColorEnd": {
+      "Red": 255,
+      "Green": 255,
+      "Blue": 255,
+      "Alpha": 255
+    }
+  },
+  {
+    "ID": "afd9f929-d1eb-11e2-ad28-005056c00008",
+    "ColorBegin": {
+      "Red": 0,
+      "Green": 0,
+      "Blue": 0,
+      "Alpha": 255
+    },
+    "ColorMiddle": {
+      "Red": 255,
+      "Green": 127,
+      "Blue": 255,
+      "Alpha": 127
+    },
+    "ColorEnd": {
+      "Red": 255,
+      "Green": 255,
+      "Blue": 255,
+      "Alpha": 255
+    }
+  },
+  {
+    "ID": "afd9f92a-d1eb-11e2-ad28-005056c00008",
+    "ColorBegin": {
+      "Red": 0,
+      "Green": 0,
+      "Blue": 0,
+      "Alpha": 255
+    },
+    "ColorMiddle": {
+      "Red": 255,
+      "Green": 0,
+      "Blue": 0,
+      "Alpha": 127
+    },
+    "ColorEnd": {
+      "Red": 255,
+      "Green": 255,
+      "Blue": 255,
+      "Alpha": 255
+    }
+  },
+  {
+    "ID": "c6fb0851-d1f7-11e2-ad28-005056c00008",
+    "ColorBegin": {
+      "Red": 33,
+      "Green": 0,
+      "Blue": 0,
+      "Alpha": 255
+    },
+    "ColorMiddle": {
+      "Red": 64,
+      "Green": 96,
+      "Blue": 55,
+      "Alpha": 135
+    },
+    "ColorEnd": {
+      "Red": 255,
+      "Green": 200,
+      "Blue": 200,
+      "Alpha": 255
+    }
+  },
+  {
+    "ID": "c6fb0852-d1f7-11e2-ad28-005056c00008",
+    "ColorBegin": {
+      "Red": 11,
+      "Green": 10,
+      "Blue": 8,
+      "Alpha": 255
+    },
+    "ColorMiddle": {
+      "Red": 47,
+      "Green": 43,
+      "Blue": 50,
+      "Alpha": 128
+    },
+    "ColorEnd": {
+      "Red": 182,
+      "Green": 163,
+      "Blue": 196,
+      "Alpha": 255
+    }
+  },
+  {
+    "ID": "c6fb0853-d1f7-11e2-ad28-005056c00008",
+    "ColorBegin": {
+      "Red": 0,
+      "Green": 0,
+      "Blue": 0,
+      "Alpha": 255
+    },
+    "ColorMiddle": {
+      "Red": 0,
+      "Green": 0,
+      "Blue": 100,
+      "Alpha": 128
+    },
+    "ColorEnd": {
+      "Red": 0,
+      "Green": 0,
+      "Blue": 200,
+      "Alpha": 255
+    }
+  },
+  {
+    "ID": "c6fb0854-d1f7-11e2-ad28-005056c00008",
+    "ColorBegin": {
+      "Red": 11,
+      "Green": 10,
+      "Blue": 8,
+      "Alpha": 255
+    },
+    "ColorMiddle": {
+      "Red": 72,
+      "Green": 94,
+      "Blue": 75,
+      "Alpha": 128
+    },
+    "ColorEnd": {
+      "Red": 255,
+      "Green": 255,
+      "Blue": 255,
+      "Alpha": 255
+    }
+  },
+  {
+    "ID": "c6fb0855-d1f7-11e2-ad28-005056c00008",
+    "ColorBegin": {
+      "Red": 11,
+      "Green": 10,
+      "Blue": 8,
+      "Alpha": 255
+    },
+    "ColorMiddle": {
+      "Red": 46,
+      "Green": 50,
+      "Blue": 29,
+      "Alpha": 128
+    },
+    "ColorEnd": {
+      "Red": 146,
+      "Green": 147,
+      "Blue": 122,
+      "Alpha": 255
+    }
+  },
+  {
+    "ID": "c6fb0856-d1f7-11e2-ad28-005056c00008",
+    "ColorBegin": {
+      "Red": 63,
+      "Green": 49,
+      "Blue": 81,
+      "Alpha": 255
+    },
+    "ColorMiddle": {
+      "Red": 205,
+      "Green": 205,
+      "Blue": 255,
+      "Alpha": 124
+    },
+    "ColorEnd": {
+      "Red": 104,
+      "Green": 104,
+      "Blue": 83,
+      "Alpha": 255
+    }
+  },
+  {
+    "ID": "c6fb0857-d1f7-11e2-ad28-005056c00008",
+    "ColorBegin": {
+      "Red": 11,
+      "Green": 10,
+      "Blue": 8,
+      "Alpha": 255
+    },
+    "ColorMiddle": {
+      "Red": 86,
+      "Green": 66,
+      "Blue": 103,
+      "Alpha": 128
+    },
+    "ColorEnd": {
+      "Red": 120,
+      "Green": 97,
+      "Blue": 167,
+      "Alpha": 255
+    }
+  },
+  {
+    "ID": "c6fb0858-d1f7-11e2-ad28-005056c00008",
+    "ColorBegin": {
+      "Red": 18,
+      "Green": 15,
+      "Blue": 16,
+      "Alpha": 255
+    },
+    "ColorMiddle": {
+      "Red": 90,
+      "Green": 93,
+      "Blue": 95,
+      "Alpha": 128
+    },
+    "ColorEnd": {
+      "Red": 237,
+      "Green": 245,
+      "Blue": 230,
+      "Alpha": 255
+    }
+  },
+  {
+    "ID": "b6257a0b-3537-4eba-a0e8-020752e9caa8",
+    "ColorBegin": {
+      "Red": 15,
+      "Green": 14,
+      "Blue": 43,
+      "Alpha": 255
+    },
+    "ColorMiddle": {
+      "Red": 105,
+      "Green": 110,
+      "Blue": 166,
+      "Alpha": 127
+    },
+    "ColorEnd": {
+      "Red": 255,
+      "Green": 255,
+      "Blue": 255,
+      "Alpha": 255
+    }
+  },
+  {
+    "ID": "0591a773-000b-47d8-b8b1-02857deb2f27",
+    "ColorBegin": {
+      "Red": 13,
+      "Green": 38,
+      "Blue": 40,
+      "Alpha": 255
+    },
+    "ColorMiddle": {
+      "Red": 48,
+      "Green": 50,
+      "Blue": 109,
+      "Alpha": 128
+    },
+    "ColorEnd": {
+      "Red": 110,
+      "Green": 63,
+      "Blue": 115,
+      "Alpha": 255
+    }
+  },
+  {
+    "ID": "f2f558e7-1514-43bb-8f7a-0319eb3f3d29",
+    "ColorBegin": {
+      "Red": 0,
+      "Green": 0,
+      "Blue": 0,
+      "Alpha": 255
+    },
+    "ColorMiddle": {
+      "Red": 76,
+      "Green": 127,
+      "Blue": 18,
+      "Alpha": 128
+    },
+    "ColorEnd": {
+      "Red": 180,
+      "Green": 251,
+      "Blue": 231,
+      "Alpha": 255
+    }
+  },
+  {
+    "ID": "f472df09-d3f9-11e5-9c36-0862664fec15",
+    "ColorBegin": {
+      "Red": 84,
+      "Green": 84,
+      "Blue": 86,
+      "Alpha": 255
+    },
+    "ColorMiddle": {
+      "Red": 209,
+      "Green": 209,
+      "Blue": 209,
+      "Alpha": 21
+    },
+    "ColorEnd": {
+      "Red": 255,
+      "Green": 255,
+      "Blue": 255,
+      "Alpha": 255
+    }
+  },
+  {
+    "ID": "eb24b882-d3f9-11e5-9c36-0862664fec15",
+    "ColorBegin": {
+      "Red": 0,
+      "Green": 16,
+      "Blue": 65,
+      "Alpha": 255
+    },
+    "ColorMiddle": {
+      "Red": 0,
+      "Green": 200,
+      "Blue": 65,
+      "Alpha": 64
+    },
+    "ColorEnd": {
+      "Red": 0,
+      "Green": 100,
+      "Blue": 255,
+      "Alpha": 255
+    }
+  },
+  {
+    "ID": "63af5555-eab3-11e5-9c4b-0862664fec15",
+    "ColorBegin": {
+      "Red": 15,
+      "Green": 11,
+      "Blue": 10,
+      "Alpha": 255
+    },
+    "ColorMiddle": {
+      "Red": 103,
+      "Green": 95,
+      "Blue": 92,
+      "Alpha": 128
+    },
+    "ColorEnd": {
+      "Red": 140,
+      "Green": 138,
+      "Blue": 137,
+      "Alpha": 255
+    }
+  },
+  {
+    "ID": "e3e15179-aff1-11e6-9cde-0862664fec15",
+    "ColorBegin": {
+      "Red": 0,
+      "Green": 0,
+      "Blue": 0,
+      "Alpha": 255
+    },
+    "ColorMiddle": {
+      "Red": 155,
+      "Green": 130,
+      "Blue": 0,
+      "Alpha": 127
+    },
+    "ColorEnd": {
+      "Red": 255,
+      "Green": 200,
+      "Blue": 200,
+      "Alpha": 255
+    }
+  },
+  {
+    "ID": "89550be0-b675-11e6-9ce3-0862664fec15",
+    "ColorBegin": {
+      "Red": 0,
+      "Green": 0,
+      "Blue": 0,
+      "Alpha": 255
+    },
+    "ColorMiddle": {
+      "Red": 49,
+      "Green": 83,
+      "Blue": 153,
+      "Alpha": 128
+    },
+    "ColorEnd": {
+      "Red": 136,
+      "Green": 209,
+      "Blue": 225,
+      "Alpha": 255
+    }
+  },
+  {
+    "ID": "57f95181-b676-11e6-9ce3-0862664fec15",
+    "ColorBegin": {
+      "Red": 59,
+      "Green": 55,
+      "Blue": 44,
+      "Alpha": 255
+    },
+    "ColorMiddle": {
+      "Red": 120,
+      "Green": 150,
+      "Blue": 105,
+      "Alpha": 128
+    },
+    "ColorEnd": {
+      "Red": 225,
+      "Green": 195,
+      "Blue": 136,
+      "Alpha": 255
+    }
+  },
+  {
+    "ID": "530c672a-18b9-11e8-9e2c-0862664fec15",
+    "ColorBegin": {
+      "Red": 0,
+      "Green": 0,
+      "Blue": 0,
+      "Alpha": 255
+    },
+    "ColorMiddle": {
+      "Red": 40,
+      "Green": 40,
+      "Blue": 60,
+      "Alpha": 128
+    },
+    "ColorEnd": {
+      "Red": 32,
+      "Green": 32,
+      "Blue": 48,
+      "Alpha": 255
+    }
+  },
+  {
+    "ID": "fb47d897-b20b-11e8-9ef8-0862664fec15",
+    "ColorBegin": {
+      "Red": 32,
+      "Green": 0,
+      "Blue": 0,
+      "Alpha": 255
+    },
+    "ColorMiddle": {
+      "Red": 85,
+      "Green": 80,
+      "Blue": 78,
+      "Alpha": 128
+    },
+    "ColorEnd": {
+      "Red": 183,
+      "Green": 154,
+      "Blue": 154,
+      "Alpha": 255
+    }
+  },
+  {
+    "ID": "7a962bb6-b20b-11e8-9ef8-0862664fec15",
+    "ColorBegin": {
+      "Red": 0,
+      "Green": 32,
+      "Blue": 32,
+      "Alpha": 255
+    },
+    "ColorMiddle": {
+      "Red": 141,
+      "Green": 141,
+      "Blue": 141,
+      "Alpha": 128
+    },
+    "ColorEnd": {
+      "Red": 255,
+      "Green": 255,
+      "Blue": 255,
+      "Alpha": 255
+    }
+  },
+  {
+    "ID": "3229c121-a11f-42c6-86c0-08f8de66c142",
+    "ColorBegin": {
+      "Red": 0,
+      "Green": 0,
+      "Blue": 0,
+      "Alpha": 255
+    },
+    "ColorMiddle": {
+      "Red": 216,
+      "Green": 216,
+      "Blue": 216,
+      "Alpha": 128
+    },
+    "ColorEnd": {
+      "Red": 221,
+      "Green": 217,
+      "Blue": 195,
+      "Alpha": 255
+    }
+  },
+  {
+    "ID": "4414e6ac-5317-4861-89e8-0a327fdea2b4",
+    "ColorBegin": {
+      "Red": 0,
+      "Green": 0,
+      "Blue": 0,
+      "Alpha": 255
+    },
+    "ColorMiddle": {
+      "Red": 72,
+      "Green": 3,
+      "Blue": 13,
+      "Alpha": 225
+    },
+    "ColorEnd": {
+      "Red": 247,
+      "Green": 150,
+      "Blue": 70,
+      "Alpha": 255
+    }
+  },
+  {
+    "ID": "900db00e-0bdf-441e-9e6a-0b86032967cb",
+    "ColorBegin": {
+      "Red": 0,
+      "Green": 0,
+      "Blue": 0,
+      "Alpha": 255
+    },
+    "ColorMiddle": {
+      "Red": 0,
+      "Green": 31,
+      "Blue": 66,
+      "Alpha": 150
+    },
+    "ColorEnd": {
+      "Red": 122,
+      "Green": 8,
+      "Blue": 102,
+      "Alpha": 255
+    }
+  },
+  {
+    "ID": "2d97db67-44d0-4256-8493-0bc5549440c7",
+    "ColorBegin": {
+      "Red": 30,
+      "Green": 0,
+      "Blue": 12,
+      "Alpha": 255
+    },
+    "ColorMiddle": {
+      "Red": 84,
+      "Green": 43,
+      "Blue": 32,
+      "Alpha": 128
+    },
+    "ColorEnd": {
+      "Red": 150,
+      "Green": 158,
+      "Blue": 229,
+      "Alpha": 255
+    }
+  },
+  {
+    "ID": "601b237b-7414-4138-a906-0c03a65c6576",
+    "ColorBegin": {
+      "Red": 0,
+      "Green": 20,
+      "Blue": 0,
+      "Alpha": 255
+    },
+    "ColorMiddle": {
+      "Red": 9,
+      "Green": 53,
+      "Blue": 4,
+      "Alpha": 128
+    },
+    "ColorEnd": {
+      "Red": 100,
+      "Green": 80,
+      "Blue": 70,
+      "Alpha": 255
+    }
+  },
+  {
+    "ID": "f8fd512e-663a-439f-8856-0c20880fb183",
+    "ColorBegin": {
+      "Red": 0,
+      "Green": 0,
+      "Blue": 0,
+      "Alpha": 255
+    },
+    "ColorMiddle": {
+      "Red": 16,
+      "Green": 3,
+      "Blue": 88,
+      "Alpha": 59
+    },
+    "ColorEnd": {
+      "Red": 40,
+      "Green": 231,
+      "Blue": 251,
+      "Alpha": 255
+    }
+  },
+  {
+    "ID": "a4a0ca18-2b48-4882-b5af-1115bdc3d5de",
+    "ColorBegin": {
+      "Red": 0,
+      "Green": 0,
+      "Blue": 0,
+      "Alpha": 255
+    },
+    "ColorMiddle": {
+      "Red": 77,
+      "Green": 37,
+      "Blue": 102,
+      "Alpha": 120
+    },
+    "ColorEnd": {
+      "Red": 133,
+      "Green": 106,
+      "Blue": 106,
+      "Alpha": 255
+    }
+  },
+  {
+    "ID": "943dec11-f14e-466f-98cb-1246adac144c",
+    "ColorBegin": {
+      "Red": 0,
+      "Green": 0,
+      "Blue": 0,
+      "Alpha": 255
+    },
+    "ColorMiddle": {
+      "Red": 126,
+      "Green": 103,
+      "Blue": 127,
+      "Alpha": 128
+    },
+    "ColorEnd": {
+      "Red": 240,
+      "Green": 244,
+      "Blue": 171,
+      "Alpha": 255
+    }
+  },
+  {
+    "ID": "4f594fa0-5539-452d-8774-13bfa6631ec1",
+    "ColorBegin": {
+      "Red": 0,
+      "Green": 38,
+      "Blue": 42,
+      "Alpha": 255
+    },
+    "ColorMiddle": {
+      "Red": 0,
+      "Green": 120,
+      "Blue": 176,
+      "Alpha": 128
+    },
+    "ColorEnd": {
+      "Red": 145,
+      "Green": 157,
+      "Blue": 255,
+      "Alpha": 255
+    }
+  },
+  {
+    "ID": "b6038122-ec8a-4d2a-b046-192a743038c4",
+    "ColorBegin": {
+      "Red": 0,
+      "Green": 0,
+      "Blue": 0,
+      "Alpha": 255
+    },
+    "ColorMiddle": {
+      "Red": 130,
+      "Green": 55,
+      "Blue": 5,
+      "Alpha": 128
+    },
+    "ColorEnd": {
+      "Red": 181,
+      "Green": 183,
+      "Blue": 51,
+      "Alpha": 255
+    }
+  },
+  {
+    "ID": "d13ad5bd-bf4d-4d8f-9ec5-1fbde890ff22",
+    "ColorBegin": {
+      "Red": 0,
+      "Green": 0,
+      "Blue": 0,
+      "Alpha": 255
+    },
+    "ColorMiddle": {
+      "Red": 216,
+      "Green": 166,
+      "Blue": 190,
+      "Alpha": 140
+    },
+    "ColorEnd": {
+      "Red": 218,
+      "Green": 219,
+      "Blue": 164,
+      "Alpha": 255
+    }
+  },
+  {
+    "ID": "1effc955-486e-4e25-a239-1fe85337da17",
+    "ColorBegin": {
+      "Red": 30,
+      "Green": 15,
+      "Blue": 15,
+      "Alpha": 255
+    },
+    "ColorMiddle": {
+      "Red": 154,
+      "Green": 74,
+      "Blue": 73,
+      "Alpha": 128
+    },
+    "ColorEnd": {
+      "Red": 236,
+      "Green": 204,
+      "Blue": 203,
+      "Alpha": 255
+    }
+  },
+  {
+    "ID": "b964c7b4-aa89-400c-8ca4-1fffc2e04852",
+    "ColorBegin": {
+      "Red": 19,
+      "Green": 0,
+      "Blue": 0,
+      "Alpha": 255
+    },
+    "ColorMiddle": {
+      "Red": 97,
+      "Green": 48,
+      "Blue": 28,
+      "Alpha": 192
+    },
+    "ColorEnd": {
+      "Red": 176,
+      "Green": 205,
+      "Blue": 170,
+      "Alpha": 255
+    }
+  },
+  {
+    "ID": "c7b0800e-7792-47fe-b741-2037ab42c552",
+    "ColorBegin": {
+      "Red": 11,
+      "Green": 10,
+      "Blue": 8,
+      "Alpha": 255
+    },
+    "ColorMiddle": {
+      "Red": 38,
+      "Green": 9,
+      "Blue": 9,
+      "Alpha": 133
+    },
+    "ColorEnd": {
+      "Red": 114,
+      "Green": 21,
+      "Blue": 52,
+      "Alpha": 255
+    }
+  },
+  {
+    "ID": "593c49df-b8de-45d2-b458-206da76f9603",
+    "ColorBegin": {
+      "Red": 15,
+      "Green": 3,
+      "Blue": 3,
+      "Alpha": 255
+    },
+    "ColorMiddle": {
+      "Red": 37,
+      "Green": 26,
+      "Blue": 5,
+      "Alpha": 200
+    },
+    "ColorEnd": {
+      "Red": 216,
+      "Green": 145,
+      "Blue": 97,
+      "Alpha": 255
+    }
+  },
+  {
+    "ID": "67ac9616-1563-4264-9389-23b07514bf90",
+    "ColorBegin": {
+      "Red": 0,
+      "Green": 0,
+      "Blue": 0,
+      "Alpha": 255
+    },
+    "ColorMiddle": {
+      "Red": 42,
+      "Green": 36,
+      "Blue": 61,
+      "Alpha": 175
+    },
+    "ColorEnd": {
+      "Red": 100,
+      "Green": 200,
+      "Blue": 200,
+      "Alpha": 255
+    }
+  },
+  {
+    "ID": "7800c8fc-58cf-41c7-95a5-262a0ed1b1f8",
+    "ColorBegin": {
+      "Red": 0,
+      "Green": 0,
+      "Blue": 0,
+      "Alpha": 255
+    },
+    "ColorMiddle": {
+      "Red": 33,
+      "Green": 42,
+      "Blue": 104,
+      "Alpha": 128
+    },
+    "ColorEnd": {
+      "Red": 62,
+      "Green": 129,
+      "Blue": 183,
+      "Alpha": 255
+    }
+  },
+  {
+    "ID": "869ef28b-4c86-43e9-b084-2bc2d42d86df",
+    "ColorBegin": {
+      "Red": 0,
+      "Green": 0,
+      "Blue": 0,
+      "Alpha": 255
+    },
+    "ColorMiddle": {
+      "Red": 238,
+      "Green": 245,
+      "Blue": 41,
+      "Alpha": 128
+    },
+    "ColorEnd": {
+      "Red": 220,
+      "Green": 197,
+      "Blue": 167,
+      "Alpha": 255
+    }
+  },
+  {
+    "ID": "b6998647-3b56-46ba-b753-32ac7e2fe8f1",
+    "ColorBegin": {
+      "Red": 41,
+      "Green": 19,
+      "Blue": 8,
+      "Alpha": 255
+    },
+    "ColorMiddle": {
+      "Red": 182,
+      "Green": 18,
+      "Blue": 16,
+      "Alpha": 128
+    },
+    "ColorEnd": {
+      "Red": 248,
+      "Green": 170,
+      "Blue": 110,
+      "Alpha": 255
+    }
+  },
+  {
+    "ID": "5c3bb430-9747-4697-b3bd-32b874bc4c5d",
+    "ColorBegin": {
+      "Red": 29,
+      "Green": 27,
+      "Blue": 16,
+      "Alpha": 255
+    },
+    "ColorMiddle": {
+      "Red": 147,
+      "Green": 137,
+      "Blue": 83,
+      "Alpha": 128
+    },
+    "ColorEnd": {
+      "Red": 229,
+      "Green": 185,
+      "Blue": 183,
+      "Alpha": 255
+    }
+  },
+  {
+    "ID": "3684aba9-96aa-419e-be6d-32c5d07d69a0",
+    "ColorBegin": {
+      "Red": 17,
+      "Green": 50,
+      "Blue": 58,
+      "Alpha": 255
+    },
+    "ColorMiddle": {
+      "Red": 151,
+      "Green": 128,
+      "Blue": 0,
+      "Alpha": 128
+    },
+    "ColorEnd": {
+      "Red": 216,
+      "Green": 216,
+      "Blue": 216,
+      "Alpha": 255
+    }
+  },
+  {
+    "ID": "a967a70c-8f2a-4f6c-9131-333c4601e70d",
+    "ColorBegin": {
+      "Red": 35,
+      "Green": 32,
+      "Blue": 31,
+      "Alpha": 255
+    },
+    "ColorMiddle": {
+      "Red": 50,
+      "Green": 32,
+      "Blue": 19,
+      "Alpha": 132
+    },
+    "ColorEnd": {
+      "Red": 108,
+      "Green": 81,
+      "Blue": 67,
+      "Alpha": 255
+    }
+  },
+  {
+    "ID": "a9381574-74be-443a-87e5-334200b82520",
+    "ColorBegin": {
+      "Red": 48,
+      "Green": 25,
+      "Blue": 14,
+      "Alpha": 255
+    },
+    "ColorMiddle": {
+      "Red": 115,
+      "Green": 115,
+      "Blue": 60,
+      "Alpha": 128
+    },
+    "ColorEnd": {
+      "Red": 137,
+      "Green": 220,
+      "Blue": 219,
+      "Alpha": 255
+    }
+  },
+  {
+    "ID": "3d09f41a-4b3d-488b-8480-34a0a5a18b64",
+    "ColorBegin": {
+      "Red": 79,
+      "Green": 97,
+      "Blue": 40,
+      "Alpha": 255
+    },
+    "ColorMiddle": {
+      "Red": 205,
+      "Green": 255,
+      "Blue": 206,
+      "Alpha": 130
+    },
+    "ColorEnd": {
+      "Red": 104,
+      "Green": 104,
+      "Blue": 83,
+      "Alpha": 255
+    }
+  },
+  {
+    "ID": "89768b5f-a008-41c9-add8-3501d3ff114e",
+    "ColorBegin": {
+      "Red": 0,
+      "Green": 0,
+      "Blue": 0,
+      "Alpha": 255
+    },
+    "ColorMiddle": {
+      "Red": 48,
+      "Green": 88,
+      "Blue": 68,
+      "Alpha": 128
+    },
+    "ColorEnd": {
+      "Red": 176,
+      "Green": 176,
+      "Blue": 75,
+      "Alpha": 255
+    }
+  },
+  {
+    "ID": "4a972998-995e-4229-8609-359fcf977388",
+    "ColorBegin": {
+      "Red": 0,
+      "Green": 0,
+      "Blue": 0,
+      "Alpha": 255
+    },
+    "ColorMiddle": {
+      "Red": 176,
+      "Green": 100,
+      "Blue": 177,
+      "Alpha": 200
+    },
+    "ColorEnd": {
+      "Red": 200,
+      "Green": 170,
+      "Blue": 130,
+      "Alpha": 255
+    }
+  },
+  {
+    "ID": "aa69f21a-2645-44ca-b4f7-35fc2ff244bb",
+    "ColorBegin": {
+      "Red": 0,
+      "Green": 0,
+      "Blue": 0,
+      "Alpha": 255
+    },
+    "ColorMiddle": {
+      "Red": 0,
+      "Green": 0,
+      "Blue": 0,
+      "Alpha": 128
+    },
+    "ColorEnd": {
+      "Red": 0,
+      "Green": 0,
+      "Blue": 0,
+      "Alpha": 255
+    }
+  },
+  {
+    "ID": "e91bc6b2-fdb7-44ef-abdb-377ec7fc3ac6",
+    "ColorBegin": {
+      "Red": 41,
+      "Green": 19,
+      "Blue": 8,
+      "Alpha": 255
+    },
+    "ColorMiddle": {
+      "Red": 17,
+      "Green": 182,
+      "Blue": 157,
+      "Alpha": 128
+    },
+    "ColorEnd": {
+      "Red": 248,
+      "Green": 170,
+      "Blue": 110,
+      "Alpha": 255
+    }
+  },
+  {
+    "ID": "28315670-0a8c-482a-8cb7-38453b9687c5",
+    "ColorBegin": {
+      "Red": 0,
+      "Green": 0,
+      "Blue": 0,
+      "Alpha": 255
+    },
+    "ColorMiddle": {
+      "Red": 53,
+      "Green": 44,
+      "Blue": 65,
+      "Alpha": 128
+    },
+    "ColorEnd": {
+      "Red": 178,
+      "Green": 162,
+      "Blue": 199,
+      "Alpha": 255
+    }
+  },
+  {
+    "ID": "74d114ef-6152-4290-b52f-3acbdea9a751",
+    "ColorBegin": {
+      "Red": 0,
+      "Green": 0,
+      "Blue": 0,
+      "Alpha": 255
+    },
+    "ColorMiddle": {
+      "Red": 54,
+      "Green": 57,
+      "Blue": 82,
+      "Alpha": 128
+    },
+    "ColorEnd": {
+      "Red": 240,
+      "Green": 0,
+      "Blue": 0,
+      "Alpha": 255
+    }
+  },
+  {
+    "ID": "9273f372-ffe0-4595-85fc-43aff11b198b",
+    "ColorBegin": {
+      "Red": 10,
+      "Green": 11,
+      "Blue": 10,
+      "Alpha": 255
+    },
+    "ColorMiddle": {
+      "Red": 89,
+      "Green": 106,
+      "Blue": 71,
+      "Alpha": 128
+    },
+    "ColorEnd": {
+      "Red": 134,
+      "Green": 148,
+      "Blue": 105,
+      "Alpha": 255
+    }
+  },
+  {
+    "ID": "5d168e0d-b009-4106-b651-44307f369a2f",
+    "ColorBegin": {
+      "Red": 46,
+      "Green": 45,
+      "Blue": 6,
+      "Alpha": 255
+    },
+    "ColorMiddle": {
+      "Red": 227,
+      "Green": 255,
+      "Blue": 200,
+      "Alpha": 105
+    },
+    "ColorEnd": {
+      "Red": 255,
+      "Green": 255,
+      "Blue": 200,
+      "Alpha": 255
+    }
+  },
+  {
+    "ID": "204f4429-2c23-4e7f-a7e4-46cb2c6c06ba",
+    "ColorBegin": {
+      "Red": 0,
+      "Green": 0,
+      "Blue": 0,
+      "Alpha": 255
+    },
+    "ColorMiddle": {
+      "Red": 49,
+      "Green": 153,
+      "Blue": 71,
+      "Alpha": 128
+    },
+    "ColorEnd": {
+      "Red": 225,
+      "Green": 205,
+      "Blue": 136,
+      "Alpha": 255
+    }
+  },
+  {
+    "ID": "0cd2aedd-bbc9-4d6b-8459-4726695cfca8",
+    "ColorBegin": {
+      "Red": 14,
+      "Green": 40,
+      "Blue": 19,
+      "Alpha": 255
+    },
+    "ColorMiddle": {
+      "Red": 100,
+      "Green": 147,
+      "Blue": 92,
+      "Alpha": 127
+    },
+    "ColorEnd": {
+      "Red": 255,
+      "Green": 255,
+      "Blue": 255,
+      "Alpha": 255
+    }
+  },
+  {
+    "ID": "8d2f996d-4baa-49da-a82c-47a866b94a6b",
+    "ColorBegin": {
+      "Red": 63,
+      "Green": 63,
+      "Blue": 63,
+      "Alpha": 255
+    },
+    "ColorMiddle": {
+      "Red": 149,
+      "Green": 55,
+      "Blue": 52,
+      "Alpha": 128
+    },
+    "ColorEnd": {
+      "Red": 219,
+      "Green": 229,
+      "Blue": 241,
+      "Alpha": 255
+    }
+  },
+  {
+    "ID": "b5ef8aba-455a-41f2-83b9-4898f9db86bf",
+    "ColorBegin": {
+      "Red": 64,
+      "Green": 0,
+      "Blue": 0,
+      "Alpha": 255
+    },
+    "ColorMiddle": {
+      "Red": 0,
+      "Green": 128,
+      "Blue": 0,
+      "Alpha": 127
+    },
+    "ColorEnd": {
+      "Red": 0,
+      "Green": 0,
+      "Blue": 255,
+      "Alpha": 255
+    }
+  },
+  {
+    "ID": "ca6e5d9b-5efc-498d-9728-4cd6b15b9b1d",
+    "ColorBegin": {
+      "Red": 0,
+      "Green": 32,
+      "Blue": 32,
+      "Alpha": 255
+    },
+    "ColorMiddle": {
+      "Red": 58,
+      "Green": 72,
+      "Blue": 73,
+      "Alpha": 128
+    },
+    "ColorEnd": {
+      "Red": 255,
+      "Green": 227,
+      "Blue": 117,
+      "Alpha": 255
+    }
+  },
+  {
+    "ID": "d0d88bee-e73e-40f5-aa00-524364230a5f",
+    "ColorBegin": {
+      "Red": 9,
+      "Green": 23,
+      "Blue": 50,
+      "Alpha": 255
+    },
+    "ColorMiddle": {
+      "Red": 88,
+      "Green": 70,
+      "Blue": 51,
+      "Alpha": 128
+    },
+    "ColorEnd": {
+      "Red": 247,
+      "Green": 254,
+      "Blue": 23,
+      "Alpha": 255
+    }
+  },
+  {
+    "ID": "80f2153f-cb50-4e74-bb73-525d38aa9808",
+    "ColorBegin": {
+      "Red": 0,
+      "Green": 0,
+      "Blue": 0,
+      "Alpha": 255
+    },
+    "ColorMiddle": {
+      "Red": 203,
+      "Green": 168,
+      "Blue": 85,
+      "Alpha": 168
+    },
+    "ColorEnd": {
+      "Red": 55,
+      "Green": 202,
+      "Blue": 16,
+      "Alpha": 255
+    }
+  },
+  {
+    "ID": "e028acf0-c8d0-4059-973a-5a4ec016ae15",
+    "ColorBegin": {
+      "Red": 0,
+      "Green": 0,
+      "Blue": 0,
+      "Alpha": 255
+    },
+    "ColorMiddle": {
+      "Red": 134,
+      "Green": 157,
+      "Blue": 22,
+      "Alpha": 127
+    },
+    "ColorEnd": {
+      "Red": 128,
+      "Green": 253,
+      "Blue": 118,
+      "Alpha": 255
+    }
+  },
+  {
+    "ID": "ae4fc996-e591-4b6f-afcb-5c80f49b86c4",
+    "ColorBegin": {
+      "Red": 11,
+      "Green": 10,
+      "Blue": 10,
+      "Alpha": 255
+    },
+    "ColorMiddle": {
+      "Red": 208,
+      "Green": 183,
+      "Blue": 171,
+      "Alpha": 128
+    },
+    "ColorEnd": {
+      "Red": 140,
+      "Green": 82,
+      "Blue": 35,
+      "Alpha": 255
+    }
+  },
+  {
+    "ID": "7b75b458-e0fa-4849-b546-5e2153970884",
+    "ColorBegin": {
+      "Red": 0,
+      "Green": 0,
+      "Blue": 0,
+      "Alpha": 255
+    },
+    "ColorMiddle": {
+      "Red": 14,
+      "Green": 11,
+      "Blue": 10,
+      "Alpha": 192
+    },
+    "ColorEnd": {
+      "Red": 57,
+      "Green": 14,
+      "Blue": 13,
+      "Alpha": 255
+    }
+  },
+  {
+    "ID": "045017d0-529d-417b-a9fe-5edbd5170060",
+    "ColorBegin": {
+      "Red": 30,
+      "Green": 45,
+      "Blue": 63,
+      "Alpha": 255
+    },
+    "ColorMiddle": {
+      "Red": 59,
+      "Green": 185,
+      "Blue": 193,
+      "Alpha": 127
+    },
+    "ColorEnd": {
+      "Red": 255,
+      "Green": 255,
+      "Blue": 255,
+      "Alpha": 255
+    }
+  },
+  {
+    "ID": "3b12cebd-4765-43be-9f93-6257edea8352",
+    "ColorBegin": {
+      "Red": 4,
+      "Green": 11,
+      "Blue": 19,
+      "Alpha": 255
+    },
+    "ColorMiddle": {
+      "Red": 0,
+      "Green": 120,
+      "Blue": 202,
+      "Alpha": 55
+    },
+    "ColorEnd": {
+      "Red": 177,
+      "Green": 177,
+      "Blue": 177,
+      "Alpha": 255
+    }
+  },
+  {
+    "ID": "e09b9bb7-1c1e-4482-b17b-64a7e61028a7",
+    "ColorBegin": {
+      "Red": 56,
+      "Green": 44,
+      "Blue": 64,
+      "Alpha": 255
+    },
+    "ColorMiddle": {
+      "Red": 9,
+      "Green": 227,
+      "Blue": 168,
+      "Alpha": 128
+    },
+    "ColorEnd": {
+      "Red": 92,
+      "Green": 245,
+      "Blue": 158,
+      "Alpha": 255
+    }
+  },
+  {
+    "ID": "0af1d01d-6994-461c-9868-656a1e200b1f",
+    "ColorBegin": {
+      "Red": 0,
+      "Green": 0,
+      "Blue": 0,
+      "Alpha": 255
+    },
+    "ColorMiddle": {
+      "Red": 188,
+      "Green": 98,
+      "Blue": 140,
+      "Alpha": 128
+    },
+    "ColorEnd": {
+      "Red": 168,
+      "Green": 219,
+      "Blue": 167,
+      "Alpha": 255
+    }
+  },
+  {
+    "ID": "5ff827c8-5ebd-4a8b-8c20-6661bfadf44f",
+    "ColorBegin": {
+      "Red": 45,
+      "Green": 20,
+      "Blue": 0,
+      "Alpha": 255
+    },
+    "ColorMiddle": {
+      "Red": 250,
+      "Green": 201,
+      "Blue": 66,
+      "Alpha": 128
+    },
+    "ColorEnd": {
+      "Red": 251,
+      "Green": 255,
+      "Blue": 211,
+      "Alpha": 255
+    }
+  },
+  {
+    "ID": "75e9e0cc-d340-4498-9cbc-68cb86c36637",
+    "ColorBegin": {
+      "Red": 41,
+      "Green": 19,
+      "Blue": 8,
+      "Alpha": 255
+    },
+    "ColorMiddle": {
+      "Red": 181,
+      "Green": 121,
+      "Blue": 17,
+      "Alpha": 128
+    },
+    "ColorEnd": {
+      "Red": 248,
+      "Green": 170,
+      "Blue": 110,
+      "Alpha": 255
+    }
+  },
+  {
+    "ID": "e321c38c-5c03-4920-b85b-695de32961a5",
+    "ColorBegin": {
+      "Red": 35,
+      "Green": 32,
+      "Blue": 31,
+      "Alpha": 255
+    },
+    "ColorMiddle": {
+      "Red": 193,
+      "Green": 138,
+      "Blue": 98,
+      "Alpha": 132
+    },
+    "ColorEnd": {
+      "Red": 252,
+      "Green": 229,
+      "Blue": 217,
+      "Alpha": 255
+    }
+  },
+  {
+    "ID": "1a1f54d6-a98c-4081-a76d-699b15af999a",
+    "ColorBegin": {
+      "Red": 30,
+      "Green": 0,
+      "Blue": 0,
+      "Alpha": 255
+    },
+    "ColorMiddle": {
+      "Red": 52,
+      "Green": 23,
+      "Blue": 13,
+      "Alpha": 128
+    },
+    "ColorEnd": {
+      "Red": 144,
+      "Green": 0,
+      "Blue": 54,
+      "Alpha": 255
+    }
+  },
+  {
+    "ID": "d0cbb621-8d58-4c03-bb49-6a3ef18b0dc4",
+    "ColorBegin": {
+      "Red": 11,
+      "Green": 10,
+      "Blue": 8,
+      "Alpha": 255
+    },
+    "ColorMiddle": {
+      "Red": 66,
+      "Green": 25,
+      "Blue": 46,
+      "Alpha": 128
+    },
+    "ColorEnd": {
+      "Red": 112,
+      "Green": 48,
+      "Blue": 160,
+      "Alpha": 255
+    }
+  },
+  {
+    "ID": "47e1df5f-46a2-43e2-8c61-6b239e568d76",
+    "ColorBegin": {
+      "Red": 66,
+      "Green": 23,
+      "Blue": 7,
+      "Alpha": 255
+    },
+    "ColorMiddle": {
+      "Red": 255,
+      "Green": 198,
+      "Blue": 0,
+      "Alpha": 128
+    },
+    "ColorEnd": {
+      "Red": 202,
+      "Green": 173,
+      "Blue": 159,
+      "Alpha": 255
+    }
+  },
+  {
+    "ID": "8f2722b6-f8de-4c4c-9cf3-7131f349326b",
+    "ColorBegin": {
+      "Red": 0,
+      "Green": 0,
+      "Blue": 0,
+      "Alpha": 255
+    },
+    "ColorMiddle": {
+      "Red": 107,
+      "Green": 107,
+      "Blue": 196,
+      "Alpha": 200
+    },
+    "ColorEnd": {
+      "Red": 190,
+      "Green": 200,
+      "Blue": 120,
+      "Alpha": 255
+    }
+  },
+  {
+    "ID": "30a4373b-9e86-42eb-988d-75772b967be7",
+    "ColorBegin": {
+      "Red": 22,
+      "Green": 0,
+      "Blue": 21,
+      "Alpha": 255
+    },
+    "ColorMiddle": {
+      "Red": 100,
+      "Green": 80,
+      "Blue": 100,
+      "Alpha": 128
+    },
+    "ColorEnd": {
+      "Red": 200,
+      "Green": 180,
+      "Blue": 200,
+      "Alpha": 255
+    }
+  },
+  {
+    "ID": "aa164a1d-073d-4a92-9919-76051f0fab74",
+    "ColorBegin": {
+      "Red": 30,
+      "Green": 15,
+      "Blue": 15,
+      "Alpha": 255
+    },
+    "ColorMiddle": {
+      "Red": 139,
+      "Green": 87,
+      "Blue": 87,
+      "Alpha": 127
+    },
+    "ColorEnd": {
+      "Red": 236,
+      "Green": 204,
+      "Blue": 203,
+      "Alpha": 255
+    }
+  },
+  {
+    "ID": "b06ecfab-59b5-47cd-9e5e-774c4c257a9d",
+    "ColorBegin": {
+      "Red": 4,
+      "Green": 11,
+      "Blue": 19,
+      "Alpha": 255
+    },
+    "ColorMiddle": {
+      "Red": 0,
+      "Green": 120,
+      "Blue": 202,
+      "Alpha": 55
+    },
+    "ColorEnd": {
+      "Red": 255,
+      "Green": 255,
+      "Blue": 100,
+      "Alpha": 255
+    }
+  },
+  {
+    "ID": "59d7345c-b4b6-e211-be8c-782bcb902040",
+    "ColorBegin": {
+      "Red": 20,
+      "Green": 0,
+      "Blue": 0,
+      "Alpha": 255
+    },
+    "ColorMiddle": {
+      "Red": 100,
+      "Green": 110,
+      "Blue": 120,
+      "Alpha": 128
+    },
+    "ColorEnd": {
+      "Red": 255,
+      "Green": 220,
+      "Blue": 240,
+      "Alpha": 255
+    }
+  },
+  {
+    "ID": "5ad7345c-b4b6-e211-be8c-782bcb902040",
+    "ColorBegin": {
+      "Red": 27,
+      "Green": 14,
+      "Blue": 8,
+      "Alpha": 255
+    },
+    "ColorMiddle": {
+      "Red": 132,
+      "Green": 131,
+      "Blue": 69,
+      "Alpha": 128
+    },
+    "ColorEnd": {
+      "Red": 203,
+      "Green": 211,
+      "Blue": 196,
+      "Alpha": 255
+    }
+  },
+  {
+    "ID": "5bd7345c-b4b6-e211-be8c-782bcb902040",
+    "ColorBegin": {
+      "Red": 23,
+      "Green": 12,
+      "Blue": 6,
+      "Alpha": 255
+    },
+    "ColorMiddle": {
+      "Red": 83,
+      "Green": 61,
+      "Blue": 42,
+      "Alpha": 128
+    },
+    "ColorEnd": {
+      "Red": 204,
+      "Green": 136,
+      "Blue": 75,
+      "Alpha": 255
+    }
+  },
+  {
+    "ID": "5cd7345c-b4b6-e211-be8c-782bcb902040",
+    "ColorBegin": {
+      "Red": 11,
+      "Green": 50,
+      "Blue": 10,
+      "Alpha": 255
+    },
+    "ColorMiddle": {
+      "Red": 50,
+      "Green": 90,
+      "Blue": 80,
+      "Alpha": 128
+    },
+    "ColorEnd": {
+      "Red": 247,
+      "Green": 254,
+      "Blue": 23,
+      "Alpha": 255
+    }
+  },
+  {
+    "ID": "5dd7345c-b4b6-e211-be8c-782bcb902040",
+    "ColorBegin": {
+      "Red": 24,
+      "Green": 10,
+      "Blue": 3,
+      "Alpha": 255
+    },
+    "ColorMiddle": {
+      "Red": 128,
+      "Green": 135,
+      "Blue": 128,
+      "Alpha": 128
+    },
+    "ColorEnd": {
+      "Red": 211,
+      "Green": 192,
+      "Blue": 133,
+      "Alpha": 255
+    }
+  },
+  {
+    "ID": "5ed7345c-b4b6-e211-be8c-782bcb902040",
+    "ColorBegin": {
+      "Red": 0,
+      "Green": 0,
+      "Blue": 0,
+      "Alpha": 255
+    },
+    "ColorMiddle": {
+      "Red": 40,
+      "Green": 73,
+      "Blue": 100,
+      "Alpha": 120
+    },
+    "ColorEnd": {
+      "Red": 125,
+      "Green": 130,
+      "Blue": 110,
+      "Alpha": 255
+    }
+  },
+  {
+    "ID": "5fd7345c-b4b6-e211-be8c-782bcb902040",
+    "ColorBegin": {
+      "Red": 0,
+      "Green": 0,
+      "Blue": 0,
+      "Alpha": 255
+    },
+    "ColorMiddle": {
+      "Red": 148,
+      "Green": 130,
+      "Blue": 66,
+      "Alpha": 168
+    },
+    "ColorEnd": {
+      "Red": 202,
+      "Green": 179,
+      "Blue": 17,
+      "Alpha": 255
+    }
+  },
+  {
+    "ID": "60d7345c-b4b6-e211-be8c-782bcb902040",
+    "ColorBegin": {
+      "Red": 11,
+      "Green": 10,
+      "Blue": 8,
+      "Alpha": 255
+    },
+    "ColorMiddle": {
+      "Red": 234,
+      "Green": 232,
+      "Blue": 232,
+      "Alpha": 128
+    },
+    "ColorEnd": {
+      "Red": 255,
+      "Green": 255,
+      "Blue": 255,
+      "Alpha": 255
+    }
+  },
+  {
+    "ID": "61d7345c-b4b6-e211-be8c-782bcb902040",
+    "ColorBegin": {
+      "Red": 24,
+      "Green": 10,
+      "Blue": 3,
+      "Alpha": 255
+    },
+    "ColorMiddle": {
+      "Red": 46,
+      "Green": 31,
+      "Blue": 21,
+      "Alpha": 128
+    },
+    "ColorEnd": {
+      "Red": 86,
+      "Green": 53,
+      "Blue": 35,
+      "Alpha": 255
+    }
+  },
+  {
+    "ID": "62d7345c-b4b6-e211-be8c-782bcb902040",
+    "ColorBegin": {
+      "Red": 23,
+      "Green": 10,
+      "Blue": 4,
+      "Alpha": 255
+    },
+    "ColorMiddle": {
+      "Red": 182,
+      "Green": 79,
+      "Blue": 17,
+      "Alpha": 128
+    },
+    "ColorEnd": {
+      "Red": 248,
+      "Green": 170,
+      "Blue": 110,
+      "Alpha": 255
+    }
+  },
+  {
+    "ID": "63d7345c-b4b6-e211-be8c-782bcb902040",
+    "ColorBegin": {
+      "Red": 30,
+      "Green": 19,
+      "Blue": 7,
+      "Alpha": 255
+    },
+    "ColorMiddle": {
+      "Red": 131,
+      "Green": 103,
+      "Blue": 42,
+      "Alpha": 128
+    },
+    "ColorEnd": {
+      "Red": 205,
+      "Green": 187,
+      "Blue": 124,
+      "Alpha": 255
+    }
+  },
+  {
+    "ID": "64d7345c-b4b6-e211-be8c-782bcb902040",
+    "ColorBegin": {
+      "Red": 0,
+      "Green": 0,
+      "Blue": 0,
+      "Alpha": 255
+    },
+    "ColorMiddle": {
+      "Red": 240,
+      "Green": 100,
+      "Blue": 72,
+      "Alpha": 200
+    },
+    "ColorEnd": {
+      "Red": 255,
+      "Green": 255,
+      "Blue": 255,
+      "Alpha": 255
+    }
+  },
+  {
+    "ID": "65d7345c-b4b6-e211-be8c-782bcb902040",
+    "ColorBegin": {
+      "Red": 14,
+      "Green": 14,
+      "Blue": 5,
+      "Alpha": 255
+    },
+    "ColorMiddle": {
+      "Red": 163,
+      "Green": 152,
+      "Blue": 55,
+      "Alpha": 124
+    },
+    "ColorEnd": {
+      "Red": 218,
+      "Green": 213,
+      "Blue": 168,
+      "Alpha": 255
+    }
+  },
+  {
+    "ID": "66d7345c-b4b6-e211-be8c-782bcb902040",
+    "ColorBegin": {
+      "Red": 48,
+      "Green": 25,
+      "Blue": 84,
+      "Alpha": 255
+    },
+    "ColorMiddle": {
+      "Red": 240,
+      "Green": 130,
+      "Blue": 120,
+      "Alpha": 200
+    },
+    "ColorEnd": {
+      "Red": 255,
+      "Green": 205,
+      "Blue": 205,
+      "Alpha": 255
+    }
+  },
+  {
+    "ID": "67d7345c-b4b6-e211-be8c-782bcb902040",
+    "ColorBegin": {
+      "Red": 30,
+      "Green": 0,
+      "Blue": 0,
+      "Alpha": 255
+    },
+    "ColorMiddle": {
+      "Red": 230,
+      "Green": 180,
+      "Blue": 40,
+      "Alpha": 128
+    },
+    "ColorEnd": {
+      "Red": 100,
+      "Green": 0,
+      "Blue": 0,
+      "Alpha": 255
+    }
+  },
+  {
+    "ID": "68d7345c-b4b6-e211-be8c-782bcb902040",
+    "ColorBegin": {
+      "Red": 11,
+      "Green": 10,
+      "Blue": 8,
+      "Alpha": 255
+    },
+    "ColorMiddle": {
+      "Red": 29,
+      "Green": 30,
+      "Blue": 233,
+      "Alpha": 128
+    },
+    "ColorEnd": {
+      "Red": 255,
+      "Green": 255,
+      "Blue": 255,
+      "Alpha": 255
+    }
+  },
+  {
+    "ID": "69d7345c-b4b6-e211-be8c-782bcb902040",
+    "ColorBegin": {
+      "Red": 11,
+      "Green": 10,
+      "Blue": 8,
+      "Alpha": 255
+    },
+    "ColorMiddle": {
+      "Red": 255,
+      "Green": 237,
+      "Blue": 59,
+      "Alpha": 128
+    },
+    "ColorEnd": {
+      "Red": 255,
+      "Green": 255,
+      "Blue": 255,
+      "Alpha": 255
+    }
+  },
+  {
+    "ID": "6ad7345c-b4b6-e211-be8c-782bcb902040",
+    "ColorBegin": {
+      "Red": 11,
+      "Green": 10,
+      "Blue": 8,
+      "Alpha": 255
+    },
+    "ColorMiddle": {
+      "Red": 115,
+      "Green": 62,
+      "Blue": 122,
+      "Alpha": 128
+    },
+    "ColorEnd": {
+      "Red": 255,
+      "Green": 255,
+      "Blue": 255,
+      "Alpha": 255
+    }
+  },
+  {
+    "ID": "6bd7345c-b4b6-e211-be8c-782bcb902040",
+    "ColorBegin": {
+      "Red": 11,
+      "Green": 10,
+      "Blue": 8,
+      "Alpha": 255
+    },
+    "ColorMiddle": {
+      "Red": 32,
+      "Green": 32,
+      "Blue": 32,
+      "Alpha": 128
+    },
+    "ColorEnd": {
+      "Red": 64,
+      "Green": 64,
+      "Blue": 64,
+      "Alpha": 255
+    }
+  },
+  {
+    "ID": "6cd7345c-b4b6-e211-be8c-782bcb902040",
+    "ColorBegin": {
+      "Red": 11,
+      "Green": 10,
+      "Blue": 8,
+      "Alpha": 255
+    },
+    "ColorMiddle": {
+      "Red": 247,
+      "Green": 7,
+      "Blue": 23,
+      "Alpha": 128
+    },
+    "ColorEnd": {
+      "Red": 255,
+      "Green": 255,
+      "Blue": 255,
+      "Alpha": 255
+    }
+  },
+  {
+    "ID": "6dd7345c-b4b6-e211-be8c-782bcb902040",
+    "ColorBegin": {
+      "Red": 11,
+      "Green": 10,
+      "Blue": 8,
+      "Alpha": 255
+    },
+    "ColorMiddle": {
+      "Red": 82,
+      "Green": 48,
+      "Blue": 35,
+      "Alpha": 90
+    },
+    "ColorEnd": {
+      "Red": 134,
+      "Green": 132,
+      "Blue": 132,
+      "Alpha": 255
+    }
+  },
+  {
+    "ID": "6ed7345c-b4b6-e211-be8c-782bcb902040",
+    "ColorBegin": {
+      "Red": 11,
+      "Green": 10,
+      "Blue": 8,
+      "Alpha": 255
+    },
+    "ColorMiddle": {
+      "Red": 41,
+      "Green": 213,
+      "Blue": 199,
+      "Alpha": 128
+    },
+    "ColorEnd": {
+      "Red": 255,
+      "Green": 255,
+      "Blue": 255,
+      "Alpha": 255
+    }
+  },
+  {
+    "ID": "6fd7345c-b4b6-e211-be8c-782bcb902040",
+    "ColorBegin": {
+      "Red": 11,
+      "Green": 10,
+      "Blue": 8,
+      "Alpha": 255
+    },
+    "ColorMiddle": {
+      "Red": 55,
+      "Green": 155,
+      "Blue": 54,
+      "Alpha": 128
+    },
+    "ColorEnd": {
+      "Red": 255,
+      "Green": 255,
+      "Blue": 255,
+      "Alpha": 255
+    }
+  },
+  {
+    "ID": "70d7345c-b4b6-e211-be8c-782bcb902040",
+    "ColorBegin": {
+      "Red": 30,
+      "Green": 20,
+      "Blue": 20,
+      "Alpha": 255
+    },
+    "ColorMiddle": {
+      "Red": 146,
+      "Green": 103,
+      "Blue": 104,
+      "Alpha": 128
+    },
+    "ColorEnd": {
+      "Red": 230,
+      "Green": 230,
+      "Blue": 210,
+      "Alpha": 255
+    }
+  },
+  {
+    "ID": "71d7345c-b4b6-e211-be8c-782bcb902040",
+    "ColorBegin": {
+      "Red": 11,
+      "Green": 10,
+      "Blue": 8,
+      "Alpha": 255
+    },
+    "ColorMiddle": {
+      "Red": 114,
+      "Green": 104,
+      "Blue": 49,
+      "Alpha": 128
+    },
+    "ColorEnd": {
+      "Red": 200,
+      "Green": 193,
+      "Blue": 161,
+      "Alpha": 255
+    }
+  },
+  {
+    "ID": "72d7345c-b4b6-e211-be8c-782bcb902040",
+    "ColorBegin": {
+      "Red": 0,
+      "Green": 0,
+      "Blue": 50,
+      "Alpha": 255
+    },
+    "ColorMiddle": {
+      "Red": 128,
+      "Green": 96,
+      "Blue": 50,
+      "Alpha": 128
+    },
+    "ColorEnd": {
+      "Red": 150,
+      "Green": 250,
+      "Blue": 150,
+      "Alpha": 255
+    }
+  },
+  {
+    "ID": "73d7345c-b4b6-e211-be8c-782bcb902040",
+    "ColorBegin": {
+      "Red": 0,
+      "Green": 0,
+      "Blue": 0,
+      "Alpha": 255
+    },
+    "ColorMiddle": {
+      "Red": 70,
+      "Green": 66,
+      "Blue": 60,
+      "Alpha": 128
+    },
+    "ColorEnd": {
+      "Red": 106,
+      "Green": 104,
+      "Blue": 99,
+      "Alpha": 255
+    }
+  },
+  {
+    "ID": "74d7345c-b4b6-e211-be8c-782bcb902040",
+    "ColorBegin": {
+      "Red": 30,
+      "Green": 17,
+      "Blue": 5,
+      "Alpha": 255
+    },
+    "ColorMiddle": {
+      "Red": 70,
+      "Green": 70,
+      "Blue": 20,
+      "Alpha": 160
+    },
+    "ColorEnd": {
+      "Red": 200,
+      "Green": 100,
+      "Blue": 40,
+      "Alpha": 255
+    }
+  },
+  {
+    "ID": "75d7345c-b4b6-e211-be8c-782bcb902040",
+    "ColorBegin": {
+      "Red": 11,
+      "Green": 10,
+      "Blue": 8,
+      "Alpha": 255
+    },
+    "ColorMiddle": {
+      "Red": 86,
+      "Green": 66,
+      "Blue": 53,
+      "Alpha": 128
+    },
+    "ColorEnd": {
+      "Red": 156,
+      "Green": 134,
+      "Blue": 119,
+      "Alpha": 255
+    }
+  },
+  {
+    "ID": "76d7345c-b4b6-e211-be8c-782bcb902040",
+    "ColorBegin": {
+      "Red": 11,
+      "Green": 10,
+      "Blue": 8,
+      "Alpha": 255
+    },
+    "ColorMiddle": {
+      "Red": 95,
+      "Green": 55,
+      "Blue": 45,
+      "Alpha": 128
+    },
+    "ColorEnd": {
+      "Red": 150,
+      "Green": 130,
+      "Blue": 160,
+      "Alpha": 255
+    }
+  },
+  {
+    "ID": "77d7345c-b4b6-e211-be8c-782bcb902040",
+    "ColorBegin": {
+      "Red": 11,
+      "Green": 10,
+      "Blue": 8,
+      "Alpha": 255
+    },
+    "ColorMiddle": {
+      "Red": 171,
+      "Green": 124,
+      "Blue": 93,
+      "Alpha": 128
+    },
+    "ColorEnd": {
+      "Red": 240,
+      "Green": 193,
+      "Blue": 161,
+      "Alpha": 255
+    }
+  },
+  {
+    "ID": "78d7345c-b4b6-e211-be8c-782bcb902040",
+    "ColorBegin": {
+      "Red": 11,
+      "Green": 10,
+      "Blue": 8,
+      "Alpha": 255
+    },
+    "ColorMiddle": {
+      "Red": 62,
+      "Green": 96,
+      "Blue": 116,
+      "Alpha": 128
+    },
+    "ColorEnd": {
+      "Red": 164,
+      "Green": 164,
+      "Blue": 196,
+      "Alpha": 255
+    }
+  },
+  {
+    "ID": "79d7345c-b4b6-e211-be8c-782bcb902040",
+    "ColorBegin": {
+      "Red": 11,
+      "Green": 10,
+      "Blue": 8,
+      "Alpha": 255
+    },
+    "ColorMiddle": {
+      "Red": 64,
+      "Green": 54,
+      "Blue": 96,
+      "Alpha": 140
+    },
+    "ColorEnd": {
+      "Red": 164,
+      "Green": 196,
+      "Blue": 196,
+      "Alpha": 255
+    }
+  },
+  {
+    "ID": "7ad7345c-b4b6-e211-be8c-782bcb902040",
+    "ColorBegin": {
+      "Red": 0,
+      "Green": 0,
+      "Blue": 0,
+      "Alpha": 255
+    },
+    "ColorMiddle": {
+      "Red": 0,
+      "Green": 100,
+      "Blue": 100,
+      "Alpha": 128
+    },
+    "ColorEnd": {
+      "Red": 0,
+      "Green": 200,
+      "Blue": 200,
+      "Alpha": 255
+    }
+  },
+  {
+    "ID": "7bd7345c-b4b6-e211-be8c-782bcb902040",
+    "ColorBegin": {
+      "Red": 0,
+      "Green": 0,
+      "Blue": 0,
+      "Alpha": 255
+    },
+    "ColorMiddle": {
+      "Red": 100,
+      "Green": 100,
+      "Blue": 0,
+      "Alpha": 128
+    },
+    "ColorEnd": {
+      "Red": 200,
+      "Green": 200,
+      "Blue": 0,
+      "Alpha": 255
+    }
+  },
+  {
+    "ID": "7cd7345c-b4b6-e211-be8c-782bcb902040",
+    "ColorBegin": {
+      "Red": 0,
+      "Green": 0,
+      "Blue": 0,
+      "Alpha": 255
+    },
+    "ColorMiddle": {
+      "Red": 100,
+      "Green": 0,
+      "Blue": 100,
+      "Alpha": 128
+    },
+    "ColorEnd": {
+      "Red": 200,
+      "Green": 0,
+      "Blue": 200,
+      "Alpha": 255
+    }
+  },
+  {
+    "ID": "7dd7345c-b4b6-e211-be8c-782bcb902040",
+    "ColorBegin": {
+      "Red": 0,
+      "Green": 0,
+      "Blue": 0,
+      "Alpha": 255
+    },
+    "ColorMiddle": {
+      "Red": 100,
+      "Green": 0,
+      "Blue": 0,
+      "Alpha": 128
+    },
+    "ColorEnd": {
+      "Red": 200,
+      "Green": 0,
+      "Blue": 0,
+      "Alpha": 255
+    }
+  },
+  {
+    "ID": "7ed7345c-b4b6-e211-be8c-782bcb902040",
+    "ColorBegin": {
+      "Red": 0,
+      "Green": 0,
+      "Blue": 0,
+      "Alpha": 255
+    },
+    "ColorMiddle": {
+      "Red": 0,
+      "Green": 100,
+      "Blue": 0,
+      "Alpha": 128
+    },
+    "ColorEnd": {
+      "Red": 0,
+      "Green": 200,
+      "Blue": 0,
+      "Alpha": 255
+    }
+  },
+  {
+    "ID": "7fd7345c-b4b6-e211-be8c-782bcb902040",
+    "ColorBegin": {
+      "Red": 0,
+      "Green": 0,
+      "Blue": 0,
+      "Alpha": 255
+    },
+    "ColorMiddle": {
+      "Red": 200,
+      "Green": 200,
+      "Blue": 255,
+      "Alpha": 200
+    },
+    "ColorEnd": {
+      "Red": 250,
+      "Green": 250,
+      "Blue": 255,
+      "Alpha": 255
+    }
+  },
+  {
+    "ID": "80d7345c-b4b6-e211-be8c-782bcb902040",
+    "ColorBegin": {
+      "Red": 0,
+      "Green": 0,
+      "Blue": 0,
+      "Alpha": 255
+    },
+    "ColorMiddle": {
+      "Red": 200,
+      "Green": 255,
+      "Blue": 255,
+      "Alpha": 200
+    },
+    "ColorEnd": {
+      "Red": 230,
+      "Green": 255,
+      "Blue": 255,
+      "Alpha": 255
+    }
+  },
+  {
+    "ID": "81d7345c-b4b6-e211-be8c-782bcb902040",
+    "ColorBegin": {
+      "Red": 0,
+      "Green": 0,
+      "Blue": 0,
+      "Alpha": 255
+    },
+    "ColorMiddle": {
+      "Red": 255,
+      "Green": 255,
+      "Blue": 200,
+      "Alpha": 200
+    },
+    "ColorEnd": {
+      "Red": 255,
+      "Green": 255,
+      "Blue": 220,
+      "Alpha": 255
+    }
+  },
+  {
+    "ID": "82d7345c-b4b6-e211-be8c-782bcb902040",
+    "ColorBegin": {
+      "Red": 0,
+      "Green": 0,
+      "Blue": 0,
+      "Alpha": 255
+    },
+    "ColorMiddle": {
+      "Red": 255,
+      "Green": 200,
+      "Blue": 255,
+      "Alpha": 200
+    },
+    "ColorEnd": {
+      "Red": 255,
+      "Green": 220,
+      "Blue": 255,
+      "Alpha": 255
+    }
+  },
+  {
+    "ID": "83d7345c-b4b6-e211-be8c-782bcb902040",
+    "ColorBegin": {
+      "Red": 0,
+      "Green": 0,
+      "Blue": 0,
+      "Alpha": 255
+    },
+    "ColorMiddle": {
+      "Red": 255,
+      "Green": 200,
+      "Blue": 200,
+      "Alpha": 200
+    },
+    "ColorEnd": {
+      "Red": 255,
+      "Green": 220,
+      "Blue": 220,
+      "Alpha": 255
+    }
+  },
+  {
+    "ID": "84d7345c-b4b6-e211-be8c-782bcb902040",
+    "ColorBegin": {
+      "Red": 0,
+      "Green": 0,
+      "Blue": 0,
+      "Alpha": 255
+    },
+    "ColorMiddle": {
+      "Red": 200,
+      "Green": 255,
+      "Blue": 200,
+      "Alpha": 200
+    },
+    "ColorEnd": {
+      "Red": 220,
+      "Green": 255,
+      "Blue": 220,
+      "Alpha": 255
+    }
+  },
+  {
+    "ID": "85d7345c-b4b6-e211-be8c-782bcb902040",
+    "ColorBegin": {
+      "Red": 0,
+      "Green": 0,
+      "Blue": 0,
+      "Alpha": 255
+    },
+    "ColorMiddle": {
+      "Red": 0,
+      "Green": 0,
+      "Blue": 60,
+      "Alpha": 128
+    },
+    "ColorEnd": {
+      "Red": 0,
+      "Green": 0,
+      "Blue": 100,
+      "Alpha": 255
+    }
+  },
+  {
+    "ID": "86d7345c-b4b6-e211-be8c-782bcb902040",
+    "ColorBegin": {
+      "Red": 0,
+      "Green": 0,
+      "Blue": 0,
+      "Alpha": 255
+    },
+    "ColorMiddle": {
+      "Red": 0,
+      "Green": 60,
+      "Blue": 60,
+      "Alpha": 128
+    },
+    "ColorEnd": {
+      "Red": 0,
+      "Green": 100,
+      "Blue": 100,
+      "Alpha": 255
+    }
+  },
+  {
+    "ID": "87d7345c-b4b6-e211-be8c-782bcb902040",
+    "ColorBegin": {
+      "Red": 0,
+      "Green": 0,
+      "Blue": 0,
+      "Alpha": 255
+    },
+    "ColorMiddle": {
+      "Red": 60,
+      "Green": 60,
+      "Blue": 0,
+      "Alpha": 128
+    },
+    "ColorEnd": {
+      "Red": 100,
+      "Green": 100,
+      "Blue": 0,
+      "Alpha": 255
+    }
+  },
+  {
+    "ID": "88d7345c-b4b6-e211-be8c-782bcb902040",
+    "ColorBegin": {
+      "Red": 0,
+      "Green": 0,
+      "Blue": 0,
+      "Alpha": 255
+    },
+    "ColorMiddle": {
+      "Red": 60,
+      "Green": 0,
+      "Blue": 60,
+      "Alpha": 128
+    },
+    "ColorEnd": {
+      "Red": 100,
+      "Green": 0,
+      "Blue": 100,
+      "Alpha": 255
+    }
+  },
+  {
+    "ID": "89d7345c-b4b6-e211-be8c-782bcb902040",
+    "ColorBegin": {
+      "Red": 0,
+      "Green": 0,
+      "Blue": 0,
+      "Alpha": 255
+    },
+    "ColorMiddle": {
+      "Red": 60,
+      "Green": 0,
+      "Blue": 0,
+      "Alpha": 128
+    },
+    "ColorEnd": {
+      "Red": 100,
+      "Green": 0,
+      "Blue": 0,
+      "Alpha": 255
+    }
+  },
+  {
+    "ID": "8ad7345c-b4b6-e211-be8c-782bcb902040",
+    "ColorBegin": {
+      "Red": 0,
+      "Green": 0,
+      "Blue": 0,
+      "Alpha": 255
+    },
+    "ColorMiddle": {
+      "Red": 0,
+      "Green": 60,
+      "Blue": 0,
+      "Alpha": 128
+    },
+    "ColorEnd": {
+      "Red": 0,
+      "Green": 100,
+      "Blue": 0,
+      "Alpha": 255
+    }
+  },
+  {
+    "ID": "8bd7345c-b4b6-e211-be8c-782bcb902040",
+    "ColorBegin": {
+      "Red": 0,
+      "Green": 0,
+      "Blue": 0,
+      "Alpha": 255
+    },
+    "ColorMiddle": {
+      "Red": 0,
+      "Green": 50,
+      "Blue": 150,
+      "Alpha": 128
+    },
+    "ColorEnd": {
+      "Red": 0,
+      "Green": 255,
+      "Blue": 255,
+      "Alpha": 255
+    }
+  },
+  {
+    "ID": "8cd7345c-b4b6-e211-be8c-782bcb902040",
+    "ColorBegin": {
+      "Red": 0,
+      "Green": 0,
+      "Blue": 0,
+      "Alpha": 255
+    },
+    "ColorMiddle": {
+      "Red": 12,
+      "Green": 12,
+      "Blue": 12,
+      "Alpha": 192
+    },
+    "ColorEnd": {
+      "Red": 35,
+      "Green": 35,
+      "Blue": 35,
+      "Alpha": 255
+    }
+  },
+  {
+    "ID": "8dd7345c-b4b6-e211-be8c-782bcb902040",
+    "ColorBegin": {
+      "Red": 0,
+      "Green": 0,
+      "Blue": 0,
+      "Alpha": 255
+    },
+    "ColorMiddle": {
+      "Red": 128,
+      "Green": 0,
+      "Blue": 0,
+      "Alpha": 128
+    },
+    "ColorEnd": {
+      "Red": 200,
+      "Green": 200,
+      "Blue": 0,
+      "Alpha": 255
+    }
+  },
+  {
+    "ID": "8ed7345c-b4b6-e211-be8c-782bcb902040",
+    "ColorBegin": {
+      "Red": 0,
+      "Green": 0,
+      "Blue": 64,
+      "Alpha": 255
+    },
+    "ColorMiddle": {
+      "Red": 0,
+      "Green": 128,
+      "Blue": 64,
+      "Alpha": 128
+    },
+    "ColorEnd": {
+      "Red": 255,
+      "Green": 255,
+      "Blue": 64,
+      "Alpha": 255
+    }
+  },
+  {
+    "ID": "8fd7345c-b4b6-e211-be8c-782bcb902040",
+    "ColorBegin": {
+      "Red": 42,
+      "Green": 0,
+      "Blue": 0,
+      "Alpha": 255
+    },
+    "ColorMiddle": {
+      "Red": 176,
+      "Green": 2,
+      "Blue": 0,
+      "Alpha": 128
+    },
+    "ColorEnd": {
+      "Red": 255,
+      "Green": 235,
+      "Blue": 73,
+      "Alpha": 255
+    }
+  },
+  {
+    "ID": "90d7345c-b4b6-e211-be8c-782bcb902040",
+    "ColorBegin": {
+      "Red": 24,
+      "Green": 0,
+      "Blue": 0,
+      "Alpha": 255
+    },
+    "ColorMiddle": {
+      "Red": 255,
+      "Green": 180,
+      "Blue": 0,
+      "Alpha": 128
+    },
+    "ColorEnd": {
+      "Red": 255,
+      "Green": 252,
+      "Blue": 0,
+      "Alpha": 255
+    }
+  },
+  {
+    "ID": "91d7345c-b4b6-e211-be8c-782bcb902040",
+    "ColorBegin": {
+      "Red": 0,
+      "Green": 65,
+      "Blue": 16,
+      "Alpha": 255
+    },
+    "ColorMiddle": {
+      "Red": 0,
+      "Green": 65,
+      "Blue": 200,
+      "Alpha": 128
+    },
+    "ColorEnd": {
+      "Red": 0,
+      "Green": 255,
+      "Blue": 65,
+      "Alpha": 255
+    }
+  },
+  {
+    "ID": "92d7345c-b4b6-e211-be8c-782bcb902040",
+    "ColorBegin": {
+      "Red": 32,
+      "Green": 0,
+      "Blue": 32,
+      "Alpha": 255
+    },
+    "ColorMiddle": {
+      "Red": 255,
+      "Green": 50,
+      "Blue": 150,
+      "Alpha": 128
+    },
+    "ColorEnd": {
+      "Red": 255,
+      "Green": 255,
+      "Blue": 200,
+      "Alpha": 255
+    }
+  },
+  {
+    "ID": "93d7345c-b4b6-e211-be8c-782bcb902040",
+    "ColorBegin": {
+      "Red": 0,
+      "Green": 0,
+      "Blue": 0,
+      "Alpha": 255
+    },
+    "ColorMiddle": {
+      "Red": 180,
+      "Green": 60,
+      "Blue": 200,
+      "Alpha": 128
+    },
+    "ColorEnd": {
+      "Red": 240,
+      "Green": 180,
+      "Blue": 255,
+      "Alpha": 255
+    }
+  },
+  {
+    "ID": "94d7345c-b4b6-e211-be8c-782bcb902040",
+    "ColorBegin": {
+      "Red": 31,
+      "Green": 0,
+      "Blue": 64,
+      "Alpha": 255
+    },
+    "ColorMiddle": {
+      "Red": 0,
+      "Green": 0,
+      "Blue": 255,
+      "Alpha": 128
+    },
+    "ColorEnd": {
+      "Red": 183,
+      "Green": 85,
+      "Blue": 254,
+      "Alpha": 255
+    }
+  },
+  {
+    "ID": "95d7345c-b4b6-e211-be8c-782bcb902040",
+    "ColorBegin": {
+      "Red": 0,
+      "Green": 63,
+      "Blue": 29,
+      "Alpha": 255
+    },
+    "ColorMiddle": {
+      "Red": 0,
+      "Green": 255,
+      "Blue": 255,
+      "Alpha": 128
+    },
+    "ColorEnd": {
+      "Red": 79,
+      "Green": 255,
+      "Blue": 146,
+      "Alpha": 255
+    }
+  },
+  {
+    "ID": "96d7345c-b4b6-e211-be8c-782bcb902040",
+    "ColorBegin": {
+      "Red": 64,
+      "Green": 40,
+      "Blue": 0,
+      "Alpha": 255
+    },
+    "ColorMiddle": {
+      "Red": 255,
+      "Green": 255,
+      "Blue": 0,
+      "Alpha": 128
+    },
+    "ColorEnd": {
+      "Red": 255,
+      "Green": 195,
+      "Blue": 117,
+      "Alpha": 255
+    }
+  },
+  {
+    "ID": "97d7345c-b4b6-e211-be8c-782bcb902040",
+    "ColorBegin": {
+      "Red": 64,
+      "Green": 0,
+      "Blue": 16,
+      "Alpha": 255
+    },
+    "ColorMiddle": {
+      "Red": 255,
+      "Green": 0,
+      "Blue": 255,
+      "Alpha": 128
+    },
+    "ColorEnd": {
+      "Red": 255,
+      "Green": 121,
+      "Blue": 155,
+      "Alpha": 255
+    }
+  },
+  {
+    "ID": "98d7345c-b4b6-e211-be8c-782bcb902040",
+    "ColorBegin": {
+      "Red": 64,
+      "Green": 0,
+      "Blue": 58,
+      "Alpha": 255
+    },
+    "ColorMiddle": {
+      "Red": 255,
+      "Green": 0,
+      "Blue": 0,
+      "Alpha": 128
+    },
+    "ColorEnd": {
+      "Red": 255,
+      "Green": 95,
+      "Blue": 238,
+      "Alpha": 255
+    }
+  },
+  {
+    "ID": "99d7345c-b4b6-e211-be8c-782bcb902040",
+    "ColorBegin": {
+      "Red": 0,
+      "Green": 64,
+      "Blue": 50,
+      "Alpha": 255
+    },
+    "ColorMiddle": {
+      "Red": 0,
+      "Green": 255,
+      "Blue": 0,
+      "Alpha": 128
+    },
+    "ColorEnd": {
+      "Red": 127,
+      "Green": 255,
+      "Blue": 236,
+      "Alpha": 255
+    }
+  },
+  {
+    "ID": "9ad7345c-b4b6-e211-be8c-782bcb902040",
+    "ColorBegin": {
+      "Red": 11,
+      "Green": 10,
+      "Blue": 40,
+      "Alpha": 255
+    },
+    "ColorMiddle": {
+      "Red": 168,
+      "Green": 167,
+      "Blue": 133,
+      "Alpha": 198
+    },
+    "ColorEnd": {
+      "Red": 180,
+      "Green": 235,
+      "Blue": 183,
+      "Alpha": 255
+    }
+  },
+  {
+    "ID": "9bd7345c-b4b6-e211-be8c-782bcb902040",
+    "ColorBegin": {
+      "Red": 4,
+      "Green": 26,
+      "Blue": 53,
+      "Alpha": 255
+    },
+    "ColorMiddle": {
+      "Red": 33,
+      "Green": 14,
+      "Blue": 0,
+      "Alpha": 72
+    },
+    "ColorEnd": {
+      "Red": 205,
+      "Green": 250,
+      "Blue": 255,
+      "Alpha": 255
+    }
+  },
+  {
+    "ID": "9cd7345c-b4b6-e211-be8c-782bcb902040",
+    "ColorBegin": {
+      "Red": 37,
+      "Green": 25,
+      "Blue": 13,
+      "Alpha": 255
+    },
+    "ColorMiddle": {
+      "Red": 186,
+      "Green": 148,
+      "Blue": 101,
+      "Alpha": 128
+    },
+    "ColorEnd": {
+      "Red": 217,
+      "Green": 193,
+      "Blue": 162,
+      "Alpha": 255
+    }
+  },
+  {
+    "ID": "9dd7345c-b4b6-e211-be8c-782bcb902040",
+    "ColorBegin": {
+      "Red": 11,
+      "Green": 10,
+      "Blue": 8,
+      "Alpha": 255
+    },
+    "ColorMiddle": {
+      "Red": 86,
+      "Green": 66,
+      "Blue": 53,
+      "Alpha": 128
+    },
+    "ColorEnd": {
+      "Red": 220,
+      "Green": 197,
+      "Blue": 167,
+      "Alpha": 255
+    }
+  },
+  {
+    "ID": "9ed7345c-b4b6-e211-be8c-782bcb902040",
+    "ColorBegin": {
+      "Red": 20,
+      "Green": 18,
+      "Blue": 14,
+      "Alpha": 255
+    },
+    "ColorMiddle": {
+      "Red": 166,
+      "Green": 162,
+      "Blue": 116,
+      "Alpha": 127
+    },
+    "ColorEnd": {
+      "Red": 255,
+      "Green": 252,
+      "Blue": 182,
+      "Alpha": 255
+    }
+  },
+  {
+    "ID": "9fd7345c-b4b6-e211-be8c-782bcb902040",
+    "ColorBegin": {
+      "Red": 41,
+      "Green": 10,
+      "Blue": 8,
+      "Alpha": 255
+    },
+    "ColorMiddle": {
+      "Red": 0,
+      "Green": 112,
+      "Blue": 192,
+      "Alpha": 200
+    },
+    "ColorEnd": {
+      "Red": 240,
+      "Green": 244,
+      "Blue": 121,
+      "Alpha": 255
+    }
+  },
+  {
+    "ID": "a0d7345c-b4b6-e211-be8c-782bcb902040",
+    "ColorBegin": {
+      "Red": 27,
+      "Green": 21,
+      "Blue": 12,
+      "Alpha": 255
+    },
+    "ColorMiddle": {
+      "Red": 156,
+      "Green": 102,
+      "Blue": 101,
+      "Alpha": 128
+    },
+    "ColorEnd": {
+      "Red": 214,
+      "Green": 210,
+      "Blue": 197,
+      "Alpha": 255
+    }
+  },
+  {
+    "ID": "a1d7345c-b4b6-e211-be8c-782bcb902040",
+    "ColorBegin": {
+      "Red": 77,
+      "Green": 2,
+      "Blue": 9,
+      "Alpha": 255
+    },
+    "ColorMiddle": {
+      "Red": 200,
+      "Green": 127,
+      "Blue": 95,
+      "Alpha": 128
+    },
+    "ColorEnd": {
+      "Red": 255,
+      "Green": 178,
+      "Blue": 255,
+      "Alpha": 255
+    }
+  },
+  {
+    "ID": "a2d7345c-b4b6-e211-be8c-782bcb902040",
+    "ColorBegin": {
+      "Red": 49,
+      "Green": 24,
+      "Blue": 22,
+      "Alpha": 255
+    },
+    "ColorMiddle": {
+      "Red": 101,
+      "Green": 103,
+      "Blue": 65,
+      "Alpha": 150
+    },
+    "ColorEnd": {
+      "Red": 240,
+      "Green": 244,
+      "Blue": 121,
+      "Alpha": 255
+    }
+  },
+  {
+    "ID": "a3d7345c-b4b6-e211-be8c-782bcb902040",
+    "ColorBegin": {
+      "Red": 0,
+      "Green": 20,
+      "Blue": 0,
+      "Alpha": 255
+    },
+    "ColorMiddle": {
+      "Red": 50,
+      "Green": 70,
+      "Blue": 101,
+      "Alpha": 128
+    },
+    "ColorEnd": {
+      "Red": 100,
+      "Green": 80,
+      "Blue": 70,
+      "Alpha": 255
+    }
+  },
+  {
+    "ID": "a4d7345c-b4b6-e211-be8c-782bcb902040",
+    "ColorBegin": {
+      "Red": 51,
+      "Green": 45,
+      "Blue": 35,
+      "Alpha": 255
+    },
+    "ColorMiddle": {
+      "Red": 168,
+      "Green": 167,
+      "Blue": 153,
+      "Alpha": 128
+    },
+    "ColorEnd": {
+      "Red": 247,
+      "Green": 246,
+      "Blue": 228,
+      "Alpha": 255
+    }
+  },
+  {
+    "ID": "a5d7345c-b4b6-e211-be8c-782bcb902040",
+    "ColorBegin": {
+      "Red": 15,
+      "Green": 15,
+      "Blue": 100,
+      "Alpha": 255
+    },
+    "ColorMiddle": {
+      "Red": 170,
+      "Green": 100,
+      "Blue": 0,
+      "Alpha": 120
+    },
+    "ColorEnd": {
+      "Red": 255,
+      "Green": 222,
+      "Blue": 0,
+      "Alpha": 255
+    }
+  },
+  {
+    "ID": "a6d7345c-b4b6-e211-be8c-782bcb902040",
+    "ColorBegin": {
+      "Red": 23,
+      "Green": 23,
+      "Blue": 24,
+      "Alpha": 255
+    },
+    "ColorMiddle": {
+      "Red": 140,
+      "Green": 130,
+      "Blue": 160,
+      "Alpha": 128
+    },
+    "ColorEnd": {
+      "Red": 255,
+      "Green": 255,
+      "Blue": 255,
+      "Alpha": 255
+    }
+  },
+  {
+    "ID": "a7d7345c-b4b6-e211-be8c-782bcb902040",
+    "ColorBegin": {
+      "Red": 35,
+      "Green": 25,
+      "Blue": 18,
+      "Alpha": 255
+    },
+    "ColorMiddle": {
+      "Red": 154,
+      "Green": 114,
+      "Blue": 78,
+      "Alpha": 128
+    },
+    "ColorEnd": {
+      "Red": 197,
+      "Green": 203,
+      "Blue": 201,
+      "Alpha": 255
+    }
+  },
+  {
+    "ID": "a8d7345c-b4b6-e211-be8c-782bcb902040",
+    "ColorBegin": {
+      "Red": 43,
+      "Green": 46,
+      "Blue": 33,
+      "Alpha": 255
+    },
+    "ColorMiddle": {
+      "Red": 141,
+      "Green": 170,
+      "Blue": 163,
+      "Alpha": 128
+    },
+    "ColorEnd": {
+      "Red": 255,
+      "Green": 255,
+      "Blue": 255,
+      "Alpha": 255
+    }
+  },
+  {
+    "ID": "a9d7345c-b4b6-e211-be8c-782bcb902040",
+    "ColorBegin": {
+      "Red": 16,
+      "Green": 10,
+      "Blue": 9,
+      "Alpha": 255
+    },
+    "ColorMiddle": {
+      "Red": 91,
+      "Green": 91,
+      "Blue": 100,
+      "Alpha": 128
+    },
+    "ColorEnd": {
+      "Red": 255,
+      "Green": 255,
+      "Blue": 255,
+      "Alpha": 255
+    }
+  },
+  {
+    "ID": "aad7345c-b4b6-e211-be8c-782bcb902040",
+    "ColorBegin": {
+      "Red": 16,
+      "Green": 10,
+      "Blue": 9,
+      "Alpha": 255
+    },
+    "ColorMiddle": {
+      "Red": 159,
+      "Green": 111,
+      "Blue": 90,
+      "Alpha": 128
+    },
+    "ColorEnd": {
+      "Red": 253,
+      "Green": 226,
+      "Blue": 193,
+      "Alpha": 255
+    }
+  },
+  {
+    "ID": "abd7345c-b4b6-e211-be8c-782bcb902040",
+    "ColorBegin": {
+      "Red": 38,
+      "Green": 19,
+      "Blue": 17,
+      "Alpha": 255
+    },
+    "ColorMiddle": {
+      "Red": 139,
+      "Green": 117,
+      "Blue": 74,
+      "Alpha": 128
+    },
+    "ColorEnd": {
+      "Red": 232,
+      "Green": 197,
+      "Blue": 136,
+      "Alpha": 255
+    }
+  },
+  {
+    "ID": "acd7345c-b4b6-e211-be8c-782bcb902040",
+    "ColorBegin": {
+      "Red": 108,
+      "Green": 60,
+      "Blue": 40,
+      "Alpha": 255
+    },
+    "ColorMiddle": {
+      "Red": 255,
+      "Green": 155,
+      "Blue": 0,
+      "Alpha": 128
+    },
+    "ColorEnd": {
+      "Red": 254,
+      "Green": 230,
+      "Blue": 100,
+      "Alpha": 255
+    }
+  },
+  {
+    "ID": "add7345c-b4b6-e211-be8c-782bcb902040",
+    "ColorBegin": {
+      "Red": 10,
+      "Green": 9,
+      "Blue": 14,
+      "Alpha": 255
+    },
+    "ColorMiddle": {
+      "Red": 166,
+      "Green": 100,
+      "Blue": 222,
+      "Alpha": 128
+    },
+    "ColorEnd": {
+      "Red": 255,
+      "Green": 255,
+      "Blue": 255,
+      "Alpha": 255
+    }
+  },
+  {
+    "ID": "aed7345c-b4b6-e211-be8c-782bcb902040",
+    "ColorBegin": {
+      "Red": 0,
+      "Green": 0,
+      "Blue": 64,
+      "Alpha": 255
+    },
+    "ColorMiddle": {
+      "Red": 0,
+      "Green": 255,
+      "Blue": 255,
+      "Alpha": 128
+    },
+    "ColorEnd": {
+      "Red": 255,
+      "Green": 255,
+      "Blue": 255,
+      "Alpha": 255
+    }
+  },
+  {
+    "ID": "afd7345c-b4b6-e211-be8c-782bcb902040",
+    "ColorBegin": {
+      "Red": 35,
+      "Green": 16,
+      "Blue": 9,
+      "Alpha": 255
+    },
+    "ColorMiddle": {
+      "Red": 150,
+      "Green": 80,
+      "Blue": 30,
+      "Alpha": 128
+    },
+    "ColorEnd": {
+      "Red": 200,
+      "Green": 180,
+      "Blue": 150,
+      "Alpha": 255
+    }
+  },
+  {
+    "ID": "b0d7345c-b4b6-e211-be8c-782bcb902040",
+    "ColorBegin": {
+      "Red": 75,
+      "Green": 17,
+      "Blue": 5,
+      "Alpha": 255
+    },
+    "ColorMiddle": {
+      "Red": 196,
+      "Green": 144,
+      "Blue": 44,
+      "Alpha": 128
+    },
+    "ColorEnd": {
+      "Red": 255,
+      "Green": 255,
+      "Blue": 166,
+      "Alpha": 255
+    }
+  },
+  {
+    "ID": "b1d7345c-b4b6-e211-be8c-782bcb902040",
+    "ColorBegin": {
+      "Red": 0,
+      "Green": 0,
+      "Blue": 50,
+      "Alpha": 255
+    },
+    "ColorMiddle": {
+      "Red": 0,
+      "Green": 255,
+      "Blue": 255,
+      "Alpha": 127
+    },
+    "ColorEnd": {
+      "Red": 0,
+      "Green": 0,
+      "Blue": 255,
+      "Alpha": 255
+    }
+  },
+  {
+    "ID": "b2d7345c-b4b6-e211-be8c-782bcb902040",
+    "ColorBegin": {
+      "Red": 0,
+      "Green": 0,
+      "Blue": 0,
+      "Alpha": 255
+    },
+    "ColorMiddle": {
+      "Red": 255,
+      "Green": 55,
+      "Blue": 0,
+      "Alpha": 130
+    },
+    "ColorEnd": {
+      "Red": 166,
+      "Green": 66,
+      "Blue": 74,
+      "Alpha": 255
+    }
+  },
+  {
+    "ID": "b3d7345c-b4b6-e211-be8c-782bcb902040",
+    "ColorBegin": {
+      "Red": 166,
+      "Green": 66,
+      "Blue": 74,
+      "Alpha": 255
+    },
+    "ColorMiddle": {
+      "Red": 250,
+      "Green": 180,
+      "Blue": 180,
+      "Alpha": 128
+    },
+    "ColorEnd": {
+      "Red": 255,
+      "Green": 255,
+      "Blue": 255,
+      "Alpha": 255
+    }
+  },
+  {
+    "ID": "b4d7345c-b4b6-e211-be8c-782bcb902040",
+    "ColorBegin": {
+      "Red": 0,
+      "Green": 0,
+      "Blue": 0,
+      "Alpha": 255
+    },
+    "ColorMiddle": {
+      "Red": 40,
+      "Green": 20,
+      "Blue": 40,
+      "Alpha": 128
+    },
+    "ColorEnd": {
+      "Red": 200,
+      "Green": 100,
+      "Blue": 200,
+      "Alpha": 255
+    }
+  },
+  {
+    "ID": "b5d7345c-b4b6-e211-be8c-782bcb902040",
+    "ColorBegin": {
+      "Red": 0,
+      "Green": 0,
+      "Blue": 0,
+      "Alpha": 255
+    },
+    "ColorMiddle": {
+      "Red": 100,
+      "Green": 100,
+      "Blue": 0,
+      "Alpha": 127
+    },
+    "ColorEnd": {
+      "Red": 0,
+      "Green": 0,
+      "Blue": 0,
+      "Alpha": 255
+    }
+  },
+  {
+    "ID": "b6d7345c-b4b6-e211-be8c-782bcb902040",
+    "ColorBegin": {
+      "Red": 200,
+      "Green": 200,
+      "Blue": 255,
+      "Alpha": 255
+    },
+    "ColorMiddle": {
+      "Red": 200,
+      "Green": 255,
+      "Blue": 200,
+      "Alpha": 64
+    },
+    "ColorEnd": {
+      "Red": 0,
+      "Green": 20,
+      "Blue": 255,
+      "Alpha": 255
+    }
+  },
+  {
+    "ID": "b7d7345c-b4b6-e211-be8c-782bcb902040",
+    "ColorBegin": {
+      "Red": 0,
+      "Green": 0,
+      "Blue": 0,
+      "Alpha": 255
+    },
+    "ColorMiddle": {
+      "Red": 255,
+      "Green": 0,
+      "Blue": 0,
+      "Alpha": 100
+    },
+    "ColorEnd": {
+      "Red": 255,
+      "Green": 240,
+      "Blue": 255,
+      "Alpha": 255
+    }
+  },
+  {
+    "ID": "b8d7345c-b4b6-e211-be8c-782bcb902040",
+    "ColorBegin": {
+      "Red": 0,
+      "Green": 60,
+      "Blue": 120,
+      "Alpha": 255
+    },
+    "ColorMiddle": {
+      "Red": 130,
+      "Green": 255,
+      "Blue": 255,
+      "Alpha": 128
+    },
+    "ColorEnd": {
+      "Red": 255,
+      "Green": 255,
+      "Blue": 255,
+      "Alpha": 255
+    }
+  },
+  {
+    "ID": "b9d7345c-b4b6-e211-be8c-782bcb902040",
+    "ColorBegin": {
+      "Red": 8,
+      "Green": 40,
+      "Blue": 10,
+      "Alpha": 255
+    },
+    "ColorMiddle": {
+      "Red": 60,
+      "Green": 150,
+      "Blue": 60,
+      "Alpha": 128
+    },
+    "ColorEnd": {
+      "Red": 255,
+      "Green": 255,
+      "Blue": 255,
+      "Alpha": 255
+    }
+  },
+  {
+    "ID": "bad7345c-b4b6-e211-be8c-782bcb902040",
+    "ColorBegin": {
+      "Red": 10,
+      "Green": 50,
+      "Blue": 50,
+      "Alpha": 255
+    },
+    "ColorMiddle": {
+      "Red": 0,
+      "Green": 180,
+      "Blue": 180,
+      "Alpha": 128
+    },
+    "ColorEnd": {
+      "Red": 100,
+      "Green": 255,
+      "Blue": 255,
+      "Alpha": 255
+    }
+  },
+  {
+    "ID": "bbd7345c-b4b6-e211-be8c-782bcb902040",
+    "ColorBegin": {
+      "Red": 0,
+      "Green": 151,
+      "Blue": 228,
+      "Alpha": 255
+    },
+    "ColorMiddle": {
+      "Red": 20,
+      "Green": 60,
+      "Blue": 70,
+      "Alpha": 128
+    },
+    "ColorEnd": {
+      "Red": 50,
+      "Green": 230,
+      "Blue": 255,
+      "Alpha": 255
+    }
+  },
+  {
+    "ID": "bcd7345c-b4b6-e211-be8c-782bcb902040",
+    "ColorBegin": {
+      "Red": 47,
+      "Green": 47,
+      "Blue": 47,
+      "Alpha": 255
+    },
+    "ColorMiddle": {
+      "Red": 229,
+      "Green": 226,
+      "Blue": 226,
+      "Alpha": 128
+    },
+    "ColorEnd": {
+      "Red": 255,
+      "Green": 255,
+      "Blue": 255,
+      "Alpha": 255
+    }
+  },
+  {
+    "ID": "bdd7345c-b4b6-e211-be8c-782bcb902040",
+    "ColorBegin": {
+      "Red": 29,
+      "Green": 16,
+      "Blue": 16,
+      "Alpha": 255
+    },
+    "ColorMiddle": {
+      "Red": 182,
+      "Green": 134,
+      "Blue": 57,
+      "Alpha": 115
+    },
+    "ColorEnd": {
+      "Red": 246,
+      "Green": 241,
+      "Blue": 199,
+      "Alpha": 255
+    }
+  },
+  {
+    "ID": "bed7345c-b4b6-e211-be8c-782bcb902040",
+    "ColorBegin": {
+      "Red": 0,
+      "Green": 0,
+      "Blue": 0,
+      "Alpha": 255
+    },
+    "ColorMiddle": {
+      "Red": 91,
+      "Green": 53,
+      "Blue": 40,
+      "Alpha": 128
+    },
+    "ColorEnd": {
+      "Red": 213,
+      "Green": 128,
+      "Blue": 86,
+      "Alpha": 255
+    }
+  },
+  {
+    "ID": "bfd7345c-b4b6-e211-be8c-782bcb902040",
+    "ColorBegin": {
+      "Red": 0,
+      "Green": 0,
+      "Blue": 0,
+      "Alpha": 255
+    },
+    "ColorMiddle": {
+      "Red": 167,
+      "Green": 108,
+      "Blue": 72,
+      "Alpha": 128
+    },
+    "ColorEnd": {
+      "Red": 197,
+      "Green": 187,
+      "Blue": 142,
+      "Alpha": 255
+    }
+  },
+  {
+    "ID": "c0d7345c-b4b6-e211-be8c-782bcb902040",
+    "ColorBegin": {
+      "Red": 0,
+      "Green": 0,
+      "Blue": 0,
+      "Alpha": 255
+    },
+    "ColorMiddle": {
+      "Red": 141,
+      "Green": 141,
+      "Blue": 141,
+      "Alpha": 128
+    },
+    "ColorEnd": {
+      "Red": 255,
+      "Green": 255,
+      "Blue": 255,
+      "Alpha": 255
+    }
+  },
+  {
+    "ID": "c1d7345c-b4b6-e211-be8c-782bcb902040",
+    "ColorBegin": {
+      "Red": 0,
+      "Green": 0,
+      "Blue": 0,
+      "Alpha": 255
+    },
+    "ColorMiddle": {
+      "Red": 51,
+      "Green": 51,
+      "Blue": 51,
+      "Alpha": 128
+    },
+    "ColorEnd": {
+      "Red": 105,
+      "Green": 105,
+      "Blue": 105,
+      "Alpha": 255
+    }
+  },
+  {
+    "ID": "c2d7345c-b4b6-e211-be8c-782bcb902040",
+    "ColorBegin": {
+      "Red": 0,
+      "Green": 0,
+      "Blue": 0,
+      "Alpha": 255
+    },
+    "ColorMiddle": {
+      "Red": 115,
+      "Green": 47,
+      "Blue": 21,
+      "Alpha": 128
+    },
+    "ColorEnd": {
+      "Red": 167,
+      "Green": 96,
+      "Blue": 45,
+      "Alpha": 255
+    }
+  },
+  {
+    "ID": "c3d7345c-b4b6-e211-be8c-782bcb902040",
+    "ColorBegin": {
+      "Red": 56,
+      "Green": 50,
+      "Blue": 63,
+      "Alpha": 255
+    },
+    "ColorMiddle": {
+      "Red": 86,
+      "Green": 50,
+      "Blue": 83,
+      "Alpha": 100
+    },
+    "ColorEnd": {
+      "Red": 255,
+      "Green": 255,
+      "Blue": 255,
+      "Alpha": 255
+    }
+  },
+  {
+    "ID": "c4d7345c-b4b6-e211-be8c-782bcb902040",
+    "ColorBegin": {
+      "Red": 0,
+      "Green": 0,
+      "Blue": 0,
+      "Alpha": 255
+    },
+    "ColorMiddle": {
+      "Red": 160,
+      "Green": 120,
+      "Blue": 20,
+      "Alpha": 128
+    },
+    "ColorEnd": {
+      "Red": 255,
+      "Green": 255,
+      "Blue": 128,
+      "Alpha": 255
+    }
+  },
+  {
+    "ID": "c5d7345c-b4b6-e211-be8c-782bcb902040",
+    "ColorBegin": {
+      "Red": 0,
+      "Green": 0,
+      "Blue": 0,
+      "Alpha": 255
+    },
+    "ColorMiddle": {
+      "Red": 112,
+      "Green": 62,
+      "Blue": 25,
+      "Alpha": 128
+    },
+    "ColorEnd": {
+      "Red": 251,
+      "Green": 181,
+      "Blue": 118,
+      "Alpha": 255
+    }
+  },
+  {
+    "ID": "c6d7345c-b4b6-e211-be8c-782bcb902040",
+    "ColorBegin": {
+      "Red": 0,
+      "Green": 0,
+      "Blue": 0,
+      "Alpha": 255
+    },
+    "ColorMiddle": {
+      "Red": 200,
+      "Green": 200,
+      "Blue": 200,
+      "Alpha": 128
+    },
+    "ColorEnd": {
+      "Red": 255,
+      "Green": 255,
+      "Blue": 255,
+      "Alpha": 255
+    }
+  },
+  {
+    "ID": "c8d7345c-b4b6-e211-be8c-782bcb902040",
+    "ColorBegin": {
+      "Red": 10,
+      "Green": 10,
+      "Blue": 20,
+      "Alpha": 255
+    },
+    "ColorMiddle": {
+      "Red": 160,
+      "Green": 200,
+      "Blue": 230,
+      "Alpha": 200
+    },
+    "ColorEnd": {
+      "Red": 255,
+      "Green": 255,
+      "Blue": 255,
+      "Alpha": 255
+    }
+  },
+  {
+    "ID": "c9d7345c-b4b6-e211-be8c-782bcb902040",
+    "ColorBegin": {
+      "Red": 0,
+      "Green": 0,
+      "Blue": 0,
+      "Alpha": 255
+    },
+    "ColorMiddle": {
+      "Red": 100,
+      "Green": 129,
+      "Blue": 121,
+      "Alpha": 128
+    },
+    "ColorEnd": {
+      "Red": 229,
+      "Green": 230,
+      "Blue": 184,
+      "Alpha": 255
+    }
+  },
+  {
+    "ID": "cad7345c-b4b6-e211-be8c-782bcb902040",
+    "ColorBegin": {
+      "Red": 46,
+      "Green": 20,
+      "Blue": 6,
+      "Alpha": 255
+    },
+    "ColorMiddle": {
+      "Red": 255,
+      "Green": 163,
+      "Blue": 113,
+      "Alpha": 105
+    },
+    "ColorEnd": {
+      "Red": 255,
+      "Green": 255,
+      "Blue": 200,
+      "Alpha": 255
+    }
+  },
+  {
+    "ID": "cbd7345c-b4b6-e211-be8c-782bcb902040",
+    "ColorBegin": {
+      "Red": 0,
+      "Green": 40,
+      "Blue": 80,
+      "Alpha": 255
+    },
+    "ColorMiddle": {
+      "Red": 0,
+      "Green": 134,
+      "Blue": 152,
+      "Alpha": 180
+    },
+    "ColorEnd": {
+      "Red": 193,
+      "Green": 220,
+      "Blue": 222,
+      "Alpha": 255
+    }
+  },
+  {
+    "ID": "ccd7345c-b4b6-e211-be8c-782bcb902040",
+    "ColorBegin": {
+      "Red": 0,
+      "Green": 0,
+      "Blue": 0,
+      "Alpha": 255
+    },
+    "ColorMiddle": {
+      "Red": 156,
+      "Green": 124,
+      "Blue": 198,
+      "Alpha": 140
+    },
+    "ColorEnd": {
+      "Red": 255,
+      "Green": 255,
+      "Blue": 255,
+      "Alpha": 255
+    }
+  },
+  {
+    "ID": "cdd7345c-b4b6-e211-be8c-782bcb902040",
+    "ColorBegin": {
+      "Red": 0,
+      "Green": 0,
+      "Blue": 0,
+      "Alpha": 255
+    },
+    "ColorMiddle": {
+      "Red": 50,
+      "Green": 50,
+      "Blue": 100,
+      "Alpha": 200
+    },
+    "ColorEnd": {
+      "Red": 106,
+      "Green": 74,
+      "Blue": 138,
+      "Alpha": 255
+    }
+  },
+  {
+    "ID": "ced7345c-b4b6-e211-be8c-782bcb902040",
+    "ColorBegin": {
+      "Red": 0,
+      "Green": 0,
+      "Blue": 0,
+      "Alpha": 255
+    },
+    "ColorMiddle": {
+      "Red": 50,
+      "Green": 75,
+      "Blue": 100,
+      "Alpha": 200
+    },
+    "ColorEnd": {
+      "Red": 170,
+      "Green": 200,
+      "Blue": 120,
+      "Alpha": 255
+    }
+  },
+  {
+    "ID": "cfd7345c-b4b6-e211-be8c-782bcb902040",
+    "ColorBegin": {
+      "Red": 0,
+      "Green": 0,
+      "Blue": 0,
+      "Alpha": 255
+    },
+    "ColorMiddle": {
+      "Red": 100,
+      "Green": 50,
+      "Blue": 100,
+      "Alpha": 200
+    },
+    "ColorEnd": {
+      "Red": 200,
+      "Green": 170,
+      "Blue": 130,
+      "Alpha": 255
+    }
+  },
+  {
+    "ID": "d0d7345c-b4b6-e211-be8c-782bcb902040",
+    "ColorBegin": {
+      "Red": 0,
+      "Green": 0,
+      "Blue": 0,
+      "Alpha": 255
+    },
+    "ColorMiddle": {
+      "Red": 50,
+      "Green": 50,
+      "Blue": 125,
+      "Alpha": 200
+    },
+    "ColorEnd": {
+      "Red": 190,
+      "Green": 200,
+      "Blue": 120,
+      "Alpha": 255
+    }
+  },
+  {
+    "ID": "d1d7345c-b4b6-e211-be8c-782bcb902040",
+    "ColorBegin": {
+      "Red": 19,
+      "Green": 0,
+      "Blue": 0,
+      "Alpha": 255
+    },
+    "ColorMiddle": {
+      "Red": 99,
+      "Green": 31,
+      "Blue": 30,
+      "Alpha": 110
+    },
+    "ColorEnd": {
+      "Red": 255,
+      "Green": 254,
+      "Blue": 100,
+      "Alpha": 255
+    }
+  },
+  {
+    "ID": "d2d7345c-b4b6-e211-be8c-782bcb902040",
+    "ColorBegin": {
+      "Red": 11,
+      "Green": 12,
+      "Blue": 11,
+      "Alpha": 255
+    },
+    "ColorMiddle": {
+      "Red": 255,
+      "Green": 221,
+      "Blue": 239,
+      "Alpha": 128
+    },
+    "ColorEnd": {
+      "Red": 255,
+      "Green": 255,
+      "Blue": 255,
+      "Alpha": 255
+    }
+  },
+  {
+    "ID": "d3d7345c-b4b6-e211-be8c-782bcb902040",
+    "ColorBegin": {
+      "Red": 0,
+      "Green": 0,
+      "Blue": 0,
+      "Alpha": 255
+    },
+    "ColorMiddle": {
+      "Red": 105,
+      "Green": 112,
+      "Blue": 126,
+      "Alpha": 128
+    },
+    "ColorEnd": {
+      "Red": 255,
+      "Green": 255,
+      "Blue": 255,
+      "Alpha": 255
+    }
+  },
+  {
+    "ID": "d4d7345c-b4b6-e211-be8c-782bcb902040",
+    "ColorBegin": {
+      "Red": 30,
+      "Green": 24,
+      "Blue": 21,
+      "Alpha": 255
+    },
+    "ColorMiddle": {
+      "Red": 124,
+      "Green": 117,
+      "Blue": 106,
+      "Alpha": 128
+    },
+    "ColorEnd": {
+      "Red": 184,
+      "Green": 184,
+      "Blue": 184,
+      "Alpha": 255
+    }
+  },
+  {
+    "ID": "d5d7345c-b4b6-e211-be8c-782bcb902040",
+    "ColorBegin": {
+      "Red": 0,
+      "Green": 0,
+      "Blue": 0,
+      "Alpha": 255
+    },
+    "ColorMiddle": {
+      "Red": 233,
+      "Green": 199,
+      "Blue": 255,
+      "Alpha": 207
+    },
+    "ColorEnd": {
+      "Red": 229,
+      "Green": 172,
+      "Blue": 215,
+      "Alpha": 255
+    }
+  },
+  {
+    "ID": "d6d7345c-b4b6-e211-be8c-782bcb902040",
+    "ColorBegin": {
+      "Red": 0,
+      "Green": 0,
+      "Blue": 0,
+      "Alpha": 255
+    },
+    "ColorMiddle": {
+      "Red": 127,
+      "Green": 127,
+      "Blue": 127,
+      "Alpha": 128
+    },
+    "ColorEnd": {
+      "Red": 250,
+      "Green": 200,
+      "Blue": 100,
+      "Alpha": 255
+    }
+  },
+  {
+    "ID": "d7d7345c-b4b6-e211-be8c-782bcb902040",
+    "ColorBegin": {
+      "Red": 20,
+      "Green": 20,
+      "Blue": 20,
+      "Alpha": 255
+    },
+    "ColorMiddle": {
+      "Red": 190,
+      "Green": 220,
+      "Blue": 166,
+      "Alpha": 128
+    },
+    "ColorEnd": {
+      "Red": 200,
+      "Green": 200,
+      "Blue": 200,
+      "Alpha": 255
+    }
+  },
+  {
+    "ID": "d8d7345c-b4b6-e211-be8c-782bcb902040",
+    "ColorBegin": {
+      "Red": 0,
+      "Green": 0,
+      "Blue": 0,
+      "Alpha": 255
+    },
+    "ColorMiddle": {
+      "Red": 140,
+      "Green": 100,
+      "Blue": 100,
+      "Alpha": 128
+    },
+    "ColorEnd": {
+      "Red": 170,
+      "Green": 130,
+      "Blue": 0,
+      "Alpha": 255
+    }
+  },
+  {
+    "ID": "d9d7345c-b4b6-e211-be8c-782bcb902040",
+    "ColorBegin": {
+      "Red": 30,
+      "Green": 0,
+      "Blue": 12,
+      "Alpha": 255
+    },
+    "ColorMiddle": {
+      "Red": 57,
+      "Green": 69,
+      "Blue": 49,
+      "Alpha": 128
+    },
+    "ColorEnd": {
+      "Red": 200,
+      "Green": 180,
+      "Blue": 200,
+      "Alpha": 255
+    }
+  },
+  {
+    "ID": "dad7345c-b4b6-e211-be8c-782bcb902040",
+    "ColorBegin": {
+      "Red": 18,
+      "Green": 16,
+      "Blue": 9,
+      "Alpha": 255
+    },
+    "ColorMiddle": {
+      "Red": 55,
+      "Green": 40,
+      "Blue": 40,
+      "Alpha": 128
+    },
+    "ColorEnd": {
+      "Red": 155,
+      "Green": 100,
+      "Blue": 100,
+      "Alpha": 255
+    }
+  },
+  {
+    "ID": "dbd7345c-b4b6-e211-be8c-782bcb902040",
+    "ColorBegin": {
+      "Red": 0,
+      "Green": 0,
+      "Blue": 0,
+      "Alpha": 255
+    },
+    "ColorMiddle": {
+      "Red": 30,
+      "Green": 0,
+      "Blue": 0,
+      "Alpha": 128
+    },
+    "ColorEnd": {
+      "Red": 64,
+      "Green": 0,
+      "Blue": 0,
+      "Alpha": 255
+    }
+  },
+  {
+    "ID": "dcd7345c-b4b6-e211-be8c-782bcb902040",
+    "ColorBegin": {
+      "Red": 14,
+      "Green": 14,
+      "Blue": 14,
+      "Alpha": 255
+    },
+    "ColorMiddle": {
+      "Red": 150,
+      "Green": 161,
+      "Blue": 93,
+      "Alpha": 128
+    },
+    "ColorEnd": {
+      "Red": 255,
+      "Green": 255,
+      "Blue": 255,
+      "Alpha": 255
+    }
+  },
+  {
+    "ID": "ddd7345c-b4b6-e211-be8c-782bcb902040",
+    "ColorBegin": {
+      "Red": 23,
+      "Green": 23,
+      "Blue": 23,
+      "Alpha": 255
+    },
+    "ColorMiddle": {
+      "Red": 150,
+      "Green": 100,
+      "Blue": 90,
+      "Alpha": 128
+    },
+    "ColorEnd": {
+      "Red": 200,
+      "Green": 200,
+      "Blue": 200,
+      "Alpha": 255
+    }
+  },
+  {
+    "ID": "ded7345c-b4b6-e211-be8c-782bcb902040",
+    "ColorBegin": {
+      "Red": 0,
+      "Green": 0,
+      "Blue": 0,
+      "Alpha": 255
+    },
+    "ColorMiddle": {
+      "Red": 91,
+      "Green": 91,
+      "Blue": 100,
+      "Alpha": 128
+    },
+    "ColorEnd": {
+      "Red": 200,
+      "Green": 200,
+      "Blue": 200,
+      "Alpha": 255
+    }
+  },
+  {
+    "ID": "dfd7345c-b4b6-e211-be8c-782bcb902040",
+    "ColorBegin": {
+      "Red": 25,
+      "Green": 21,
+      "Blue": 20,
+      "Alpha": 255
+    },
+    "ColorMiddle": {
+      "Red": 150,
+      "Green": 93,
+      "Blue": 71,
+      "Alpha": 144
+    },
+    "ColorEnd": {
+      "Red": 249,
+      "Green": 203,
+      "Blue": 178,
+      "Alpha": 255
+    }
+  },
+  {
+    "ID": "e0d7345c-b4b6-e211-be8c-782bcb902040",
+    "ColorBegin": {
+      "Red": 20,
+      "Green": 18,
+      "Blue": 17,
+      "Alpha": 255
+    },
+    "ColorMiddle": {
+      "Red": 112,
+      "Green": 83,
+      "Blue": 63,
+      "Alpha": 163
+    },
+    "ColorEnd": {
+      "Red": 188,
+      "Green": 136,
+      "Blue": 107,
+      "Alpha": 255
+    }
+  },
+  {
+    "ID": "e1d7345c-b4b6-e211-be8c-782bcb902040",
+    "ColorBegin": {
+      "Red": 35,
+      "Green": 32,
+      "Blue": 31,
+      "Alpha": 255
+    },
+    "ColorMiddle": {
+      "Red": 173,
+      "Green": 108,
+      "Blue": 83,
+      "Alpha": 108
+    },
+    "ColorEnd": {
+      "Red": 252,
+      "Green": 229,
+      "Blue": 217,
+      "Alpha": 255
+    }
+  },
+  {
+    "ID": "e2d7345c-b4b6-e211-be8c-782bcb902040",
+    "ColorBegin": {
+      "Red": 55,
+      "Green": 31,
+      "Blue": 10,
+      "Alpha": 255
+    },
+    "ColorMiddle": {
+      "Red": 113,
+      "Green": 82,
+      "Blue": 61,
+      "Alpha": 87
+    },
+    "ColorEnd": {
+      "Red": 251,
+      "Green": 222,
+      "Blue": 217,
+      "Alpha": 255
+    }
+  },
+  {
+    "ID": "e3d7345c-b4b6-e211-be8c-782bcb902040",
+    "ColorBegin": {
+      "Red": 0,
+      "Green": 0,
+      "Blue": 0,
+      "Alpha": 255
+    },
+    "ColorMiddle": {
+      "Red": 54,
+      "Green": 57,
+      "Blue": 82,
+      "Alpha": 128
+    },
+    "ColorEnd": {
+      "Red": 186,
+      "Green": 192,
+      "Blue": 198,
+      "Alpha": 255
+    }
+  },
+  {
+    "ID": "e4d7345c-b4b6-e211-be8c-782bcb902040",
+    "ColorBegin": {
+      "Red": 0,
+      "Green": 0,
+      "Blue": 0,
+      "Alpha": 255
+    },
+    "ColorMiddle": {
+      "Red": 151,
+      "Green": 103,
+      "Blue": 65,
+      "Alpha": 128
+    },
+    "ColorEnd": {
+      "Red": 215,
+      "Green": 227,
+      "Blue": 188,
+      "Alpha": 255
+    }
+  },
+  {
+    "ID": "e5d7345c-b4b6-e211-be8c-782bcb902040",
+    "ColorBegin": {
+      "Red": 0,
+      "Green": 0,
+      "Blue": 0,
+      "Alpha": 255
+    },
+    "ColorMiddle": {
+      "Red": 135,
+      "Green": 112,
+      "Blue": 130,
+      "Alpha": 210
+    },
+    "ColorEnd": {
+      "Red": 255,
+      "Green": 255,
+      "Blue": 255,
+      "Alpha": 255
+    }
+  },
+  {
+    "ID": "e6d7345c-b4b6-e211-be8c-782bcb902040",
+    "ColorBegin": {
+      "Red": 11,
+      "Green": 12,
+      "Blue": 11,
+      "Alpha": 255
+    },
+    "ColorMiddle": {
+      "Red": 216,
+      "Green": 216,
+      "Blue": 216,
+      "Alpha": 128
+    },
+    "ColorEnd": {
+      "Red": 255,
+      "Green": 255,
+      "Blue": 255,
+      "Alpha": 255
+    }
+  },
+  {
+    "ID": "e7d7345c-b4b6-e211-be8c-782bcb902040",
+    "ColorBegin": {
+      "Red": 8,
+      "Green": 9,
+      "Blue": 14,
+      "Alpha": 255
+    },
+    "ColorMiddle": {
+      "Red": 113,
+      "Green": 112,
+      "Blue": 128,
+      "Alpha": 128
+    },
+    "ColorEnd": {
+      "Red": 246,
+      "Green": 246,
+      "Blue": 247,
+      "Alpha": 255
+    }
+  },
+  {
+    "ID": "e8d7345c-b4b6-e211-be8c-782bcb902040",
+    "ColorBegin": {
+      "Red": 34,
+      "Green": 31,
+      "Blue": 29,
+      "Alpha": 255
+    },
+    "ColorMiddle": {
+      "Red": 130,
+      "Green": 97,
+      "Blue": 85,
+      "Alpha": 128
+    },
+    "ColorEnd": {
+      "Red": 204,
+      "Green": 186,
+      "Blue": 103,
+      "Alpha": 255
+    }
+  },
+  {
+    "ID": "e9d7345c-b4b6-e211-be8c-782bcb902040",
+    "ColorBegin": {
+      "Red": 0,
+      "Green": 0,
+      "Blue": 0,
+      "Alpha": 255
+    },
+    "ColorMiddle": {
+      "Red": 153,
+      "Green": 74,
+      "Blue": 49,
+      "Alpha": 128
+    },
+    "ColorEnd": {
+      "Red": 225,
+      "Green": 195,
+      "Blue": 136,
+      "Alpha": 255
+    }
+  },
+  {
+    "ID": "ead7345c-b4b6-e211-be8c-782bcb902040",
+    "ColorBegin": {
+      "Red": 32,
+      "Green": 32,
+      "Blue": 0,
+      "Alpha": 255
+    },
+    "ColorMiddle": {
+      "Red": 100,
+      "Green": 60,
+      "Blue": 120,
+      "Alpha": 160
+    },
+    "ColorEnd": {
+      "Red": 255,
+      "Green": 255,
+      "Blue": 100,
+      "Alpha": 255
+    }
+  },
+  {
+    "ID": "ebd7345c-b4b6-e211-be8c-782bcb902040",
+    "ColorBegin": {
+      "Red": 60,
+      "Green": 2,
+      "Blue": 30,
+      "Alpha": 255
+    },
+    "ColorMiddle": {
+      "Red": 120,
+      "Green": 70,
+      "Blue": 70,
+      "Alpha": 100
+    },
+    "ColorEnd": {
+      "Red": 170,
+      "Green": 140,
+      "Blue": 190,
+      "Alpha": 255
+    }
+  },
+  {
+    "ID": "ecd7345c-b4b6-e211-be8c-782bcb902040",
+    "ColorBegin": {
+      "Red": 0,
+      "Green": 40,
+      "Blue": 0,
+      "Alpha": 255
+    },
+    "ColorMiddle": {
+      "Red": 127,
+      "Green": 30,
+      "Blue": 107,
+      "Alpha": 96
+    },
+    "ColorEnd": {
+      "Red": 40,
+      "Green": 200,
+      "Blue": 255,
+      "Alpha": 255
+    }
+  },
+  {
+    "ID": "edd7345c-b4b6-e211-be8c-782bcb902040",
+    "ColorBegin": {
+      "Red": 0,
+      "Green": 0,
+      "Blue": 0,
+      "Alpha": 255
+    },
+    "ColorMiddle": {
+      "Red": 49,
+      "Green": 133,
+      "Blue": 155,
+      "Alpha": 57
+    },
+    "ColorEnd": {
+      "Red": 146,
+      "Green": 205,
+      "Blue": 220,
+      "Alpha": 255
+    }
+  },
+  {
+    "ID": "eed7345c-b4b6-e211-be8c-782bcb902040",
+    "ColorBegin": {
+      "Red": 54,
+      "Green": 71,
+      "Blue": 73,
+      "Alpha": 255
+    },
+    "ColorMiddle": {
+      "Red": 195,
+      "Green": 204,
+      "Blue": 203,
+      "Alpha": 84
+    },
+    "ColorEnd": {
+      "Red": 255,
+      "Green": 255,
+      "Blue": 255,
+      "Alpha": 255
+    }
+  },
+  {
+    "ID": "efd7345c-b4b6-e211-be8c-782bcb902040",
+    "ColorBegin": {
+      "Red": 30,
+      "Green": 0,
+      "Blue": 0,
+      "Alpha": 255
+    },
+    "ColorMiddle": {
+      "Red": 60,
+      "Green": 127,
+      "Blue": 100,
+      "Alpha": 128
+    },
+    "ColorEnd": {
+      "Red": 150,
+      "Green": 200,
+      "Blue": 200,
+      "Alpha": 255
+    }
+  },
+  {
+    "ID": "f0d7345c-b4b6-e211-be8c-782bcb902040",
+    "ColorBegin": {
+      "Red": 20,
+      "Green": 0,
+      "Blue": 20,
+      "Alpha": 255
+    },
+    "ColorMiddle": {
+      "Red": 27,
+      "Green": 27,
+      "Blue": 0,
+      "Alpha": 50
+    },
+    "ColorEnd": {
+      "Red": 50,
+      "Green": 40,
+      "Blue": 100,
+      "Alpha": 255
+    }
+  },
+  {
+    "ID": "f1d7345c-b4b6-e211-be8c-782bcb902040",
+    "ColorBegin": {
+      "Red": 20,
+      "Green": 0,
+      "Blue": 20,
+      "Alpha": 255
+    },
+    "ColorMiddle": {
+      "Red": 27,
+      "Green": 27,
+      "Blue": 0,
+      "Alpha": 50
+    },
+    "ColorEnd": {
+      "Red": 100,
+      "Green": 40,
+      "Blue": 55,
+      "Alpha": 255
+    }
+  },
+  {
+    "ID": "f2d7345c-b4b6-e211-be8c-782bcb902040",
+    "ColorBegin": {
+      "Red": 0,
+      "Green": 30,
+      "Blue": 0,
+      "Alpha": 255
+    },
+    "ColorMiddle": {
+      "Red": 127,
+      "Green": 50,
+      "Blue": 60,
+      "Alpha": 50
+    },
+    "ColorEnd": {
+      "Red": 255,
+      "Green": 255,
+      "Blue": 30,
+      "Alpha": 255
+    }
+  },
+  {
+    "ID": "f3d7345c-b4b6-e211-be8c-782bcb902040",
+    "ColorBegin": {
+      "Red": 19,
+      "Green": 55,
+      "Blue": 44,
+      "Alpha": 255
+    },
+    "ColorMiddle": {
+      "Red": 135,
+      "Green": 130,
+      "Blue": 212,
+      "Alpha": 183
+    },
+    "ColorEnd": {
+      "Red": 255,
+      "Green": 255,
+      "Blue": 200,
+      "Alpha": 255
+    }
+  },
+  {
+    "ID": "f4d7345c-b4b6-e211-be8c-782bcb902040",
+    "ColorBegin": {
+      "Red": 0,
+      "Green": 0,
+      "Blue": 0,
+      "Alpha": 255
+    },
+    "ColorMiddle": {
+      "Red": 127,
+      "Green": 65,
+      "Blue": 255,
+      "Alpha": 127
+    },
+    "ColorEnd": {
+      "Red": 255,
+      "Green": 255,
+      "Blue": 255,
+      "Alpha": 255
+    }
+  },
+  {
+    "ID": "f5d7345c-b4b6-e211-be8c-782bcb902040",
+    "ColorBegin": {
+      "Red": 0,
+      "Green": 0,
+      "Blue": 0,
+      "Alpha": 255
+    },
+    "ColorMiddle": {
+      "Red": 0,
+      "Green": 127,
+      "Blue": 200,
+      "Alpha": 127
+    },
+    "ColorEnd": {
+      "Red": 255,
+      "Green": 255,
+      "Blue": 255,
+      "Alpha": 255
+    }
+  },
+  {
+    "ID": "f6d7345c-b4b6-e211-be8c-782bcb902040",
+    "ColorBegin": {
+      "Red": 0,
+      "Green": 0,
+      "Blue": 0,
+      "Alpha": 255
+    },
+    "ColorMiddle": {
+      "Red": 0,
+      "Green": 0,
+      "Blue": 255,
+      "Alpha": 127
+    },
+    "ColorEnd": {
+      "Red": 255,
+      "Green": 255,
+      "Blue": 255,
+      "Alpha": 255
+    }
+  },
+  {
+    "ID": "f7d7345c-b4b6-e211-be8c-782bcb902040",
+    "ColorBegin": {
+      "Red": 0,
+      "Green": 0,
+      "Blue": 0,
+      "Alpha": 255
+    },
+    "ColorMiddle": {
+      "Red": 127,
+      "Green": 255,
+      "Blue": 127,
+      "Alpha": 127
+    },
+    "ColorEnd": {
+      "Red": 255,
+      "Green": 255,
+      "Blue": 255,
+      "Alpha": 255
+    }
+  },
+  {
+    "ID": "f8d7345c-b4b6-e211-be8c-782bcb902040",
+    "ColorBegin": {
+      "Red": 33,
+      "Green": 57,
+      "Blue": 90,
+      "Alpha": 255
+    },
+    "ColorMiddle": {
+      "Red": 0,
+      "Green": 0,
+      "Blue": 0,
+      "Alpha": 128
+    },
+    "ColorEnd": {
+      "Red": 0,
+      "Green": 0,
+      "Blue": 0,
+      "Alpha": 255
+    }
+  },
+  {
+    "ID": "f9d7345c-b4b6-e211-be8c-782bcb902040",
+    "ColorBegin": {
+      "Red": 0,
+      "Green": 0,
+      "Blue": 0,
+      "Alpha": 255
+    },
+    "ColorMiddle": {
+      "Red": 76,
+      "Green": 0,
+      "Blue": 33,
+      "Alpha": 128
+    },
+    "ColorEnd": {
+      "Red": 120,
+      "Green": 0,
+      "Blue": 70,
+      "Alpha": 255
+    }
+  },
+  {
+    "ID": "fad7345c-b4b6-e211-be8c-782bcb902040",
+    "ColorBegin": {
+      "Red": 0,
+      "Green": 0,
+      "Blue": 0,
+      "Alpha": 255
+    },
+    "ColorMiddle": {
+      "Red": 33,
+      "Green": 57,
+      "Blue": 90,
+      "Alpha": 128
+    },
+    "ColorEnd": {
+      "Red": 103,
+      "Green": 127,
+      "Blue": 150,
+      "Alpha": 255
+    }
+  },
+  {
+    "ID": "fbd7345c-b4b6-e211-be8c-782bcb902040",
+    "ColorBegin": {
+      "Red": 0,
+      "Green": 0,
+      "Blue": 0,
+      "Alpha": 255
+    },
+    "ColorMiddle": {
+      "Red": 0,
+      "Green": 0,
+      "Blue": 0,
+      "Alpha": 128
+    },
+    "ColorEnd": {
+      "Red": 0,
+      "Green": 0,
+      "Blue": 0,
+      "Alpha": 255
+    }
+  },
+  {
+    "ID": "fcd7345c-b4b6-e211-be8c-782bcb902040",
+    "ColorBegin": {
+      "Red": 255,
+      "Green": 0,
+      "Blue": 255,
+      "Alpha": 255
+    },
+    "ColorMiddle": {
+      "Red": 255,
+      "Green": 0,
+      "Blue": 255,
+      "Alpha": 128
+    },
+    "ColorEnd": {
+      "Red": 255,
+      "Green": 0,
+      "Blue": 255,
+      "Alpha": 255
+    }
+  },
+  {
+    "ID": "fdd7345c-b4b6-e211-be8c-782bcb902040",
+    "ColorBegin": {
+      "Red": 15,
+      "Green": 36,
+      "Blue": 62,
+      "Alpha": 255
+    },
+    "ColorMiddle": {
+      "Red": 82,
+      "Green": 163,
+      "Blue": 171,
+      "Alpha": 128
+    },
+    "ColorEnd": {
+      "Red": 255,
+      "Green": 255,
+      "Blue": 255,
+      "Alpha": 255
+    }
+  },
+  {
+    "ID": "fed7345c-b4b6-e211-be8c-782bcb902040",
+    "ColorBegin": {
+      "Red": 0,
+      "Green": 30,
+      "Blue": 50,
+      "Alpha": 255
+    },
+    "ColorMiddle": {
+      "Red": 255,
+      "Green": 255,
+      "Blue": 255,
+      "Alpha": 120
+    },
+    "ColorEnd": {
+      "Red": 100,
+      "Green": 200,
+      "Blue": 255,
+      "Alpha": 255
+    }
+  },
+  {
+    "ID": "ffd7345c-b4b6-e211-be8c-782bcb902040",
+    "ColorBegin": {
+      "Red": 0,
+      "Green": 0,
+      "Blue": 0,
+      "Alpha": 255
+    },
+    "ColorMiddle": {
+      "Red": 20,
+      "Green": 80,
+      "Blue": 100,
+      "Alpha": 64
+    },
+    "ColorEnd": {
+      "Red": 50,
+      "Green": 130,
+      "Blue": 18,
+      "Alpha": 255
+    }
+  },
+  {
+    "ID": "00d8345c-b4b6-e211-be8c-782bcb902040",
+    "ColorBegin": {
+      "Red": 50,
+      "Green": 10,
+      "Blue": 0,
+      "Alpha": 255
+    },
+    "ColorMiddle": {
+      "Red": 255,
+      "Green": 105,
+      "Blue": 30,
+      "Alpha": 158
+    },
+    "ColorEnd": {
+      "Red": 255,
+      "Green": 253,
+      "Blue": 29,
+      "Alpha": 255
+    }
+  },
+  {
+    "ID": "01d8345c-b4b6-e211-be8c-782bcb902040",
+    "ColorBegin": {
+      "Red": 16,
+      "Green": 0,
+      "Blue": 7,
+      "Alpha": 255
+    },
+    "ColorMiddle": {
+      "Red": 26,
+      "Green": 16,
+      "Blue": 52,
+      "Alpha": 156
+    },
+    "ColorEnd": {
+      "Red": 106,
+      "Green": 0,
+      "Blue": 17,
+      "Alpha": 255
+    }
+  },
+  {
+    "ID": "02d8345c-b4b6-e211-be8c-782bcb902040",
+    "ColorBegin": {
+      "Red": 0,
+      "Green": 0,
+      "Blue": 40,
+      "Alpha": 255
+    },
+    "ColorMiddle": {
+      "Red": 170,
+      "Green": 160,
+      "Blue": 180,
+      "Alpha": 100
+    },
+    "ColorEnd": {
+      "Red": 200,
+      "Green": 180,
+      "Blue": 200,
+      "Alpha": 255
+    }
+  },
+  {
+    "ID": "03d8345c-b4b6-e211-be8c-782bcb902040",
+    "ColorBegin": {
+      "Red": 0,
+      "Green": 0,
+      "Blue": 0,
+      "Alpha": 255
+    },
+    "ColorMiddle": {
+      "Red": 120,
+      "Green": 30,
+      "Blue": 30,
+      "Alpha": 120
+    },
+    "ColorEnd": {
+      "Red": 131,
+      "Green": 91,
+      "Blue": 13,
+      "Alpha": 255
+    }
+  },
+  {
+    "ID": "04d8345c-b4b6-e211-be8c-782bcb902040",
+    "ColorBegin": {
+      "Red": 50,
+      "Green": 50,
+      "Blue": 50,
+      "Alpha": 255
+    },
+    "ColorMiddle": {
+      "Red": 50,
+      "Green": 120,
+      "Blue": 50,
+      "Alpha": 128
+    },
+    "ColorEnd": {
+      "Red": 255,
+      "Green": 255,
+      "Blue": 255,
+      "Alpha": 255
+    }
+  },
+  {
+    "ID": "05d8345c-b4b6-e211-be8c-782bcb902040",
+    "ColorBegin": {
+      "Red": 50,
+      "Green": 50,
+      "Blue": 0,
+      "Alpha": 255
+    },
+    "ColorMiddle": {
+      "Red": 200,
+      "Green": 200,
+      "Blue": 150,
+      "Alpha": 128
+    },
+    "ColorEnd": {
+      "Red": 255,
+      "Green": 255,
+      "Blue": 255,
+      "Alpha": 255
+    }
+  },
+  {
+    "ID": "06d8345c-b4b6-e211-be8c-782bcb902040",
+    "ColorBegin": {
+      "Red": 50,
+      "Green": 50,
+      "Blue": 50,
+      "Alpha": 255
+    },
+    "ColorMiddle": {
+      "Red": 120,
+      "Green": 120,
+      "Blue": 120,
+      "Alpha": 128
+    },
+    "ColorEnd": {
+      "Red": 200,
+      "Green": 200,
+      "Blue": 200,
+      "Alpha": 255
+    }
+  },
+  {
+    "ID": "07d8345c-b4b6-e211-be8c-782bcb902040",
+    "ColorBegin": {
+      "Red": 70,
+      "Green": 0,
+      "Blue": 50,
+      "Alpha": 255
+    },
+    "ColorMiddle": {
+      "Red": 120,
+      "Green": 120,
+      "Blue": 200,
+      "Alpha": 128
+    },
+    "ColorEnd": {
+      "Red": 200,
+      "Green": 150,
+      "Blue": 255,
+      "Alpha": 255
+    }
+  },
+  {
+    "ID": "08d8345c-b4b6-e211-be8c-782bcb902040",
+    "ColorBegin": {
+      "Red": 0,
+      "Green": 80,
+      "Blue": 80,
+      "Alpha": 255
+    },
+    "ColorMiddle": {
+      "Red": 170,
+      "Green": 50,
+      "Blue": 0,
+      "Alpha": 140
+    },
+    "ColorEnd": {
+      "Red": 255,
+      "Green": 100,
+      "Blue": 255,
+      "Alpha": 255
+    }
+  },
+  {
+    "ID": "09d8345c-b4b6-e211-be8c-782bcb902040",
+    "ColorBegin": {
+      "Red": 0,
+      "Green": 0,
+      "Blue": 0,
+      "Alpha": 255
+    },
+    "ColorMiddle": {
+      "Red": 60,
+      "Green": 60,
+      "Blue": 120,
+      "Alpha": 128
+    },
+    "ColorEnd": {
+      "Red": 0,
+      "Green": 200,
+      "Blue": 255,
+      "Alpha": 255
+    }
+  },
+  {
+    "ID": "0ad8345c-b4b6-e211-be8c-782bcb902040",
+    "ColorBegin": {
+      "Red": 0,
+      "Green": 0,
+      "Blue": 50,
+      "Alpha": 255
+    },
+    "ColorMiddle": {
+      "Red": 150,
+      "Green": 150,
+      "Blue": 200,
+      "Alpha": 128
+    },
+    "ColorEnd": {
+      "Red": 230,
+      "Green": 255,
+      "Blue": 200,
+      "Alpha": 255
+    }
+  },
+  {
+    "ID": "0bd8345c-b4b6-e211-be8c-782bcb902040",
+    "ColorBegin": {
+      "Red": 50,
+      "Green": 0,
+      "Blue": 0,
+      "Alpha": 255
+    },
+    "ColorMiddle": {
+      "Red": 200,
+      "Green": 150,
+      "Blue": 150,
+      "Alpha": 128
+    },
+    "ColorEnd": {
+      "Red": 255,
+      "Green": 255,
+      "Blue": 255,
+      "Alpha": 255
+    }
+  },
+  {
+    "ID": "0cd8345c-b4b6-e211-be8c-782bcb902040",
+    "ColorBegin": {
+      "Red": 60,
+      "Green": 0,
+      "Blue": 40,
+      "Alpha": 255
+    },
+    "ColorMiddle": {
+      "Red": 180,
+      "Green": 150,
+      "Blue": 200,
+      "Alpha": 128
+    },
+    "ColorEnd": {
+      "Red": 255,
+      "Green": 255,
+      "Blue": 255,
+      "Alpha": 255
+    }
+  },
+  {
+    "ID": "0dd8345c-b4b6-e211-be8c-782bcb902040",
+    "ColorBegin": {
+      "Red": 0,
+      "Green": 50,
+      "Blue": 50,
+      "Alpha": 255
+    },
+    "ColorMiddle": {
+      "Red": 150,
+      "Green": 180,
+      "Blue": 200,
+      "Alpha": 128
+    },
+    "ColorEnd": {
+      "Red": 255,
+      "Green": 250,
+      "Blue": 200,
+      "Alpha": 255
+    }
+  },
+  {
+    "ID": "0ed8345c-b4b6-e211-be8c-782bcb902040",
+    "ColorBegin": {
+      "Red": 44,
+      "Green": 33,
+      "Blue": 33,
+      "Alpha": 255
+    },
+    "ColorMiddle": {
+      "Red": 181,
+      "Green": 149,
+      "Blue": 148,
+      "Alpha": 128
+    },
+    "ColorEnd": {
+      "Red": 255,
+      "Green": 255,
+      "Blue": 255,
+      "Alpha": 255
+    }
+  },
+  {
+    "ID": "0fd8345c-b4b6-e211-be8c-782bcb902040",
+    "ColorBegin": {
+      "Red": 0,
+      "Green": 0,
+      "Blue": 50,
+      "Alpha": 255
+    },
+    "ColorMiddle": {
+      "Red": 170,
+      "Green": 170,
+      "Blue": 120,
+      "Alpha": 160
+    },
+    "ColorEnd": {
+      "Red": 255,
+      "Green": 255,
+      "Blue": 255,
+      "Alpha": 255
+    }
+  },
+  {
+    "ID": "10d8345c-b4b6-e211-be8c-782bcb902040",
+    "ColorBegin": {
+      "Red": 100,
+      "Green": 100,
+      "Blue": 100,
+      "Alpha": 255
+    },
+    "ColorMiddle": {
+      "Red": 200,
+      "Green": 200,
+      "Blue": 200,
+      "Alpha": 128
+    },
+    "ColorEnd": {
+      "Red": 255,
+      "Green": 255,
+      "Blue": 255,
+      "Alpha": 255
+    }
+  },
+  {
+    "ID": "11d8345c-b4b6-e211-be8c-782bcb902040",
+    "ColorBegin": {
+      "Red": 0,
+      "Green": 0,
+      "Blue": 0,
+      "Alpha": 255
+    },
+    "ColorMiddle": {
+      "Red": 127,
+      "Green": 127,
+      "Blue": 127,
+      "Alpha": 128
+    },
+    "ColorEnd": {
+      "Red": 255,
+      "Green": 255,
+      "Blue": 100,
+      "Alpha": 255
+    }
+  },
+  {
+    "ID": "12d8345c-b4b6-e211-be8c-782bcb902040",
+    "ColorBegin": {
+      "Red": 150,
+      "Green": 100,
+      "Blue": 100,
+      "Alpha": 255
+    },
+    "ColorMiddle": {
+      "Red": 60,
+      "Green": 60,
+      "Blue": 120,
+      "Alpha": 128
+    },
+    "ColorEnd": {
+      "Red": 0,
+      "Green": 0,
+      "Blue": 50,
+      "Alpha": 255
+    }
+  },
+  {
+    "ID": "13d8345c-b4b6-e211-be8c-782bcb902040",
+    "ColorBegin": {
+      "Red": 50,
+      "Green": 0,
+      "Blue": 0,
+      "Alpha": 255
+    },
+    "ColorMiddle": {
+      "Red": 255,
+      "Green": 255,
+      "Blue": 205,
+      "Alpha": 128
+    },
+    "ColorEnd": {
+      "Red": 0,
+      "Green": 0,
+      "Blue": 50,
+      "Alpha": 255
+    }
+  },
+  {
+    "ID": "14d8345c-b4b6-e211-be8c-782bcb902040",
+    "ColorBegin": {
+      "Red": 200,
+      "Green": 200,
+      "Blue": 250,
+      "Alpha": 255
+    },
+    "ColorMiddle": {
+      "Red": 100,
+      "Green": 122,
+      "Blue": 150,
+      "Alpha": 208
+    },
+    "ColorEnd": {
+      "Red": 200,
+      "Green": 255,
+      "Blue": 255,
+      "Alpha": 255
+    }
+  },
+  {
+    "ID": "151f2eec-b97a-409a-9964-791cfdf6e961",
+    "ColorBegin": {
+      "Red": 26,
+      "Green": 0,
+      "Blue": 0,
+      "Alpha": 255
+    },
+    "ColorMiddle": {
+      "Red": 202,
+      "Green": 79,
+      "Blue": 31,
+      "Alpha": 127
+    },
+    "ColorEnd": {
+      "Red": 205,
+      "Green": 187,
+      "Blue": 172,
+      "Alpha": 255
+    }
+  },
+  {
+    "ID": "e5497c5d-b4ee-4c2a-8824-79e4c42083b9",
+    "ColorBegin": {
+      "Red": 20,
+      "Green": 0,
+      "Blue": 0,
+      "Alpha": 255
+    },
+    "ColorMiddle": {
+      "Red": 67,
+      "Green": 62,
+      "Blue": 61,
+      "Alpha": 128
+    },
+    "ColorEnd": {
+      "Red": 146,
+      "Green": 122,
+      "Blue": 121,
+      "Alpha": 255
+    }
+  },
+  {
+    "ID": "2d04d1eb-8cfa-4625-bdd3-7b476e3c80c8",
+    "ColorBegin": {
+      "Red": 0,
+      "Green": 0,
+      "Blue": 0,
+      "Alpha": 255
+    },
+    "ColorMiddle": {
+      "Red": 214,
+      "Green": 2,
+      "Blue": 0,
+      "Alpha": 128
+    },
+    "ColorEnd": {
+      "Red": 252,
+      "Green": 204,
+      "Blue": 147,
+      "Alpha": 255
+    }
+  },
+  {
+    "ID": "73c67701-0816-45ed-a501-7e34d4fc282e",
+    "ColorBegin": {
+      "Red": 48,
+      "Green": 25,
+      "Blue": 14,
+      "Alpha": 255
+    },
+    "ColorMiddle": {
+      "Red": 91,
+      "Green": 115,
+      "Blue": 60,
+      "Alpha": 128
+    },
+    "ColorEnd": {
+      "Red": 222,
+      "Green": 177,
+      "Blue": 136,
+      "Alpha": 255
+    }
+  },
+  {
+    "ID": "873d0589-30d6-452a-b26e-804eddefd422",
+    "ColorBegin": {
+      "Red": 0,
+      "Green": 0,
+      "Blue": 0,
+      "Alpha": 255
+    },
+    "ColorMiddle": {
+      "Red": 63,
+      "Green": 63,
+      "Blue": 63,
+      "Alpha": 127
+    },
+    "ColorEnd": {
+      "Red": 255,
+      "Green": 255,
+      "Blue": 255,
+      "Alpha": 255
+    }
+  },
+  {
+    "ID": "ada13791-9998-46c2-9960-83446585cc90",
+    "ColorBegin": {
+      "Red": 55,
+      "Green": 0,
+      "Blue": 17,
+      "Alpha": 255
+    },
+    "ColorMiddle": {
+      "Red": 253,
+      "Green": 63,
+      "Blue": 146,
+      "Alpha": 178
+    },
+    "ColorEnd": {
+      "Red": 254,
+      "Green": 135,
+      "Blue": 211,
+      "Alpha": 255
+    }
+  },
+  {
+    "ID": "661a4b1d-2c73-43f2-a3dc-83a741056588",
+    "ColorBegin": {
+      "Red": 35,
+      "Green": 32,
+      "Blue": 31,
+      "Alpha": 255
+    },
+    "ColorMiddle": {
+      "Red": 163,
+      "Green": 90,
+      "Blue": 64,
+      "Alpha": 132
+    },
+    "ColorEnd": {
+      "Red": 250,
+      "Green": 196,
+      "Blue": 195,
+      "Alpha": 255
+    }
+  },
+  {
+    "ID": "5349bdc6-973d-41d8-bee7-86a21cf3528c",
+    "ColorBegin": {
+      "Red": 11,
+      "Green": 10,
+      "Blue": 8,
+      "Alpha": 255
+    },
+    "ColorMiddle": {
+      "Red": 78,
+      "Green": 46,
+      "Blue": 26,
+      "Alpha": 128
+    },
+    "ColorEnd": {
+      "Red": 242,
+      "Green": 120,
+      "Blue": 118,
+      "Alpha": 255
+    }
+  },
+  {
+    "ID": "c33ee23b-c31b-4575-8aaa-982ad42ea271",
+    "ColorBegin": {
+      "Red": 0,
+      "Green": 0,
+      "Blue": 0,
+      "Alpha": 255
+    },
+    "ColorMiddle": {
+      "Red": 193,
+      "Green": 65,
+      "Blue": 8,
+      "Alpha": 128
+    },
+    "ColorEnd": {
+      "Red": 164,
+      "Green": 220,
+      "Blue": 140,
+      "Alpha": 255
+    }
+  },
+  {
+    "ID": "08e2ee71-5a93-4ed6-a1b8-9eb712c5374b",
+    "ColorBegin": {
+      "Red": 0,
+      "Green": 0,
+      "Blue": 0,
+      "Alpha": 255
+    },
+    "ColorMiddle": {
+      "Red": 75,
+      "Green": 20,
+      "Blue": 46,
+      "Alpha": 128
+    },
+    "ColorEnd": {
+      "Red": 227,
+      "Green": 172,
+      "Blue": 199,
+      "Alpha": 255
+    }
+  },
+  {
+    "ID": "9e2b20ae-6a27-4d3f-9637-9f28f316b020",
+    "ColorBegin": {
+      "Red": 0,
+      "Green": 0,
+      "Blue": 0,
+      "Alpha": 255
+    },
+    "ColorMiddle": {
+      "Red": 218,
+      "Green": 135,
+      "Blue": 45,
+      "Alpha": 128
+    },
+    "ColorEnd": {
+      "Red": 209,
+      "Green": 203,
+      "Blue": 151,
+      "Alpha": 255
+    }
+  },
+  {
+    "ID": "f52d2674-e803-457a-8e19-a0ea5bd428c2",
+    "ColorBegin": {
+      "Red": 27,
+      "Green": 8,
+      "Blue": 8,
+      "Alpha": 255
+    },
+    "ColorMiddle": {
+      "Red": 89,
+      "Green": 173,
+      "Blue": 123,
+      "Alpha": 128
+    },
+    "ColorEnd": {
+      "Red": 241,
+      "Green": 200,
+      "Blue": 170,
+      "Alpha": 255
+    }
+  },
+  {
+    "ID": "387b4493-034b-4a88-8a5e-a133eb936b8b",
+    "ColorBegin": {
+      "Red": 0,
+      "Green": 0,
+      "Blue": 0,
+      "Alpha": 255
+    },
+    "ColorMiddle": {
+      "Red": 63,
+      "Green": 63,
+      "Blue": 63,
+      "Alpha": 128
+    },
+    "ColorEnd": {
+      "Red": 229,
+      "Green": 185,
+      "Blue": 183,
+      "Alpha": 255
+    }
+  },
+  {
+    "ID": "612d5732-70a7-4ee0-aa80-a2adc68d3aec",
+    "ColorBegin": {
+      "Red": 5,
+      "Green": 5,
+      "Blue": 4,
+      "Alpha": 255
+    },
+    "ColorMiddle": {
+      "Red": 33,
+      "Green": 17,
+      "Blue": 7,
+      "Alpha": 169
+    },
+    "ColorEnd": {
+      "Red": 215,
+      "Green": 133,
+      "Blue": 97,
+      "Alpha": 255
+    }
+  },
+  {
+    "ID": "81ba7413-2e38-4580-8ab4-a5b06dadabca",
+    "ColorBegin": {
+      "Red": 0,
+      "Green": 0,
+      "Blue": 0,
+      "Alpha": 255
+    },
+    "ColorMiddle": {
+      "Red": 38,
+      "Green": 35,
+      "Blue": 66,
+      "Alpha": 128
+    },
+    "ColorEnd": {
+      "Red": 105,
+      "Green": 105,
+      "Blue": 105,
+      "Alpha": 255
+    }
+  },
+  {
+    "ID": "94d1da19-761c-4e5d-939b-a5eb76e4e9e5",
+    "ColorBegin": {
+      "Red": 0,
+      "Green": 40,
+      "Blue": 0,
+      "Alpha": 255
+    },
+    "ColorMiddle": {
+      "Red": 112,
+      "Green": 30,
+      "Blue": 127,
+      "Alpha": 96
+    },
+    "ColorEnd": {
+      "Red": 247,
+      "Green": 70,
+      "Blue": 107,
+      "Alpha": 255
+    }
+  },
+  {
+    "ID": "28304630-a14a-4a8b-a9e6-a66dfa836d9e",
+    "ColorBegin": {
+      "Red": 0,
+      "Green": 0,
+      "Blue": 0,
+      "Alpha": 255
+    },
+    "ColorMiddle": {
+      "Red": 9,
+      "Green": 40,
+      "Blue": 25,
+      "Alpha": 129
+    },
+    "ColorEnd": {
+      "Red": 0,
+      "Green": 0,
+      "Blue": 0,
+      "Alpha": 255
+    }
+  },
+  {
+    "ID": "291b00de-6c9f-4b03-a4b2-a934f959ddc2",
+    "ColorBegin": {
+      "Red": 26,
+      "Green": 20,
+      "Blue": 19,
+      "Alpha": 255
+    },
+    "ColorMiddle": {
+      "Red": 255,
+      "Green": 192,
+      "Blue": 0,
+      "Alpha": 127
+    },
+    "ColorEnd": {
+      "Red": 255,
+      "Green": 255,
+      "Blue": 255,
+      "Alpha": 255
+    }
+  },
+  {
+    "ID": "389b7644-bdd7-4286-b149-aa30daa551ae",
+    "ColorBegin": {
+      "Red": 0,
+      "Green": 0,
+      "Blue": 0,
+      "Alpha": 255
+    },
+    "ColorMiddle": {
+      "Red": 223,
+      "Green": 223,
+      "Blue": 223,
+      "Alpha": 69
+    },
+    "ColorEnd": {
+      "Red": 228,
+      "Green": 229,
+      "Blue": 214,
+      "Alpha": 255
+    }
+  },
+  {
+    "ID": "699750eb-4dfb-4c51-92a2-ab6c0569b78d",
+    "ColorBegin": {
+      "Red": 0,
+      "Green": 0,
+      "Blue": 0,
+      "Alpha": 255
+    },
+    "ColorMiddle": {
+      "Red": 100,
+      "Green": 100,
+      "Blue": 0,
+      "Alpha": 128
+    },
+    "ColorEnd": {
+      "Red": 255,
+      "Green": 251,
+      "Blue": 147,
+      "Alpha": 255
+    }
+  },
+  {
+    "ID": "2b815d35-848a-4c04-8702-ad764fe3224b",
+    "ColorBegin": {
+      "Red": 0,
+      "Green": 0,
+      "Blue": 0,
+      "Alpha": 255
+    },
+    "ColorMiddle": {
+      "Red": 41,
+      "Green": 45,
+      "Blue": 108,
+      "Alpha": 200
+    },
+    "ColorEnd": {
+      "Red": 73,
+      "Green": 101,
+      "Blue": 138,
+      "Alpha": 255
+    }
+  },
+  {
+    "ID": "23ecd2f9-d165-472b-b1bc-af04c25154ce",
+    "ColorBegin": {
+      "Red": 0,
+      "Green": 0,
+      "Blue": 0,
+      "Alpha": 255
+    },
+    "ColorMiddle": {
+      "Red": 11,
+      "Green": 12,
+      "Blue": 14,
+      "Alpha": 192
+    },
+    "ColorEnd": {
+      "Red": 14,
+      "Green": 29,
+      "Blue": 57,
+      "Alpha": 255
+    }
+  },
+  {
+    "ID": "df5b1bf3-17b2-472d-9f84-af6f8ec19850",
+    "ColorBegin": {
+      "Red": 11,
+      "Green": 10,
+      "Blue": 8,
+      "Alpha": 255
+    },
+    "ColorMiddle": {
+      "Red": 124,
+      "Green": 34,
+      "Blue": 26,
+      "Alpha": 128
+    },
+    "ColorEnd": {
+      "Red": 242,
+      "Green": 169,
+      "Blue": 19,
+      "Alpha": 255
+    }
+  },
+  {
+    "ID": "6150d450-32d2-4141-9bd0-b262dc77600f",
+    "ColorBegin": {
+      "Red": 0,
+      "Green": 0,
+      "Blue": 0,
+      "Alpha": 255
+    },
+    "ColorMiddle": {
+      "Red": 0,
+      "Green": 99,
+      "Blue": 69,
+      "Alpha": 128
+    },
+    "ColorEnd": {
+      "Red": 147,
+      "Green": 254,
+      "Blue": 239,
+      "Alpha": 255
+    }
+  },
+  {
+    "ID": "11b3fe4f-2672-4ad1-b871-b6cd8e46b9eb",
+    "ColorBegin": {
+      "Red": 11,
+      "Green": 10,
+      "Blue": 8,
+      "Alpha": 255
+    },
+    "ColorMiddle": {
+      "Red": 48,
+      "Green": 34,
+      "Blue": 23,
+      "Alpha": 128
+    },
+    "ColorEnd": {
+      "Red": 188,
+      "Green": 177,
+      "Blue": 130,
+      "Alpha": 255
+    }
+  },
+  {
+    "ID": "5459b03e-5909-4b29-98a3-b87fbcae45e7",
+    "ColorBegin": {
+      "Red": 42,
+      "Green": 36,
+      "Blue": 0,
+      "Alpha": 255
+    },
+    "ColorMiddle": {
+      "Red": 176,
+      "Green": 116,
+      "Blue": 0,
+      "Alpha": 128
+    },
+    "ColorEnd": {
+      "Red": 206,
+      "Green": 255,
+      "Blue": 73,
+      "Alpha": 255
+    }
+  },
+  {
+    "ID": "d0634874-1b25-4fae-ab24-b8a4ba7dc8f0",
+    "ColorBegin": {
+      "Red": 0,
+      "Green": 0,
+      "Blue": 0,
+      "Alpha": 255
+    },
+    "ColorMiddle": {
+      "Red": 40,
+      "Green": 20,
+      "Blue": 40,
+      "Alpha": 128
+    },
+    "ColorEnd": {
+      "Red": 200,
+      "Green": 100,
+      "Blue": 200,
+      "Alpha": 255
+    }
+  },
+  {
+    "ID": "689c44d3-45aa-4330-a5e1-b98d4c0b44ff",
+    "ColorBegin": {
+      "Red": 35,
+      "Green": 32,
+      "Blue": 31,
+      "Alpha": 255
+    },
+    "ColorMiddle": {
+      "Red": 164,
+      "Green": 106,
+      "Blue": 64,
+      "Alpha": 216
+    },
+    "ColorEnd": {
+      "Red": 252,
+      "Green": 229,
+      "Blue": 217,
+      "Alpha": 255
+    }
+  },
+  {
+    "ID": "735bbb9f-3693-4a3c-ba46-bc83f099a8fe",
+    "ColorBegin": {
+      "Red": 17,
+      "Green": 14,
+      "Blue": 62,
+      "Alpha": 255
+    },
+    "ColorMiddle": {
+      "Red": 22,
+      "Green": 95,
+      "Blue": 23,
+      "Alpha": 74
+    },
+    "ColorEnd": {
+      "Red": 224,
+      "Green": 223,
+      "Blue": 122,
+      "Alpha": 255
+    }
+  },
+  {
+    "ID": "48a9e80b-84de-4ffd-8d77-c21a4659bcce",
+    "ColorBegin": {
+      "Red": 0,
+      "Green": 0,
+      "Blue": 0,
+      "Alpha": 255
+    },
+    "ColorMiddle": {
+      "Red": 35,
+      "Green": 28,
+      "Blue": 37,
+      "Alpha": 120
+    },
+    "ColorEnd": {
+      "Red": 125,
+      "Green": 130,
+      "Blue": 110,
+      "Alpha": 255
+    }
+  },
+  {
+    "ID": "e9d889cf-7bde-487d-b1ac-c29cf03a9dce",
+    "ColorBegin": {
+      "Red": 0,
+      "Green": 0,
+      "Blue": 0,
+      "Alpha": 255
+    },
+    "ColorMiddle": {
+      "Red": 80,
+      "Green": 119,
+      "Blue": 159,
+      "Alpha": 200
+    },
+    "ColorEnd": {
+      "Red": 170,
+      "Green": 200,
+      "Blue": 120,
+      "Alpha": 255
+    }
+  },
+  {
+    "ID": "f0f961ea-7333-4472-8645-c3099db228fe",
+    "ColorBegin": {
+      "Red": 34,
+      "Green": 27,
+      "Blue": 26,
+      "Alpha": 255
+    },
+    "ColorMiddle": {
+      "Red": 138,
+      "Green": 1,
+      "Blue": 0,
+      "Alpha": 128
+    },
+    "ColorEnd": {
+      "Red": 217,
+      "Green": 150,
+      "Blue": 148,
+      "Alpha": 255
+    }
+  },
+  {
+    "ID": "d0c124d1-3298-453e-9e7f-c99e5357c711",
+    "ColorBegin": {
+      "Red": 95,
+      "Green": 95,
+      "Blue": 95,
+      "Alpha": 255
+    },
+    "ColorMiddle": {
+      "Red": 150,
+      "Green": 161,
+      "Blue": 93,
+      "Alpha": 128
+    },
+    "ColorEnd": {
+      "Red": 255,
+      "Green": 255,
+      "Blue": 255,
+      "Alpha": 255
+    }
+  },
+  {
+    "ID": "8ea75684-5e5b-477f-bc70-c9abe27128c8",
+    "ColorBegin": {
+      "Red": 0,
+      "Green": 0,
+      "Blue": 0,
+      "Alpha": 255
+    },
+    "ColorMiddle": {
+      "Red": 60,
+      "Green": 74,
+      "Blue": 75,
+      "Alpha": 128
+    },
+    "ColorEnd": {
+      "Red": 177,
+      "Green": 182,
+      "Blue": 182,
+      "Alpha": 255
+    }
+  },
+  {
+    "ID": "8ee95da6-cf57-486b-97cd-cc455ecb2de8",
+    "ColorBegin": {
+      "Red": 151,
+      "Green": 72,
+      "Blue": 6,
+      "Alpha": 255
+    },
+    "ColorMiddle": {
+      "Red": 255,
+      "Green": 252,
+      "Blue": 205,
+      "Alpha": 121
+    },
+    "ColorEnd": {
+      "Red": 104,
+      "Green": 104,
+      "Blue": 83,
+      "Alpha": 255
+    }
+  },
+  {
+    "ID": "71601a98-adc1-4ed0-b830-cde1c14850d8",
+    "ColorBegin": {
+      "Red": 0,
+      "Green": 0,
+      "Blue": 0,
+      "Alpha": 255
+    },
+    "ColorMiddle": {
+      "Red": 89,
+      "Green": 74,
+      "Blue": 66,
+      "Alpha": 127
+    },
+    "ColorEnd": {
+      "Red": 255,
+      "Green": 255,
+      "Blue": 255,
+      "Alpha": 255
+    }
+  },
+  {
+    "ID": "459352bb-dc39-4a84-952c-cfa50c54187d",
+    "ColorBegin": {
+      "Red": 0,
+      "Green": 0,
+      "Blue": 0,
+      "Alpha": 255
+    },
+    "ColorMiddle": {
+      "Red": 96,
+      "Green": 96,
+      "Blue": 175,
+      "Alpha": 200
+    },
+    "ColorEnd": {
+      "Red": 192,
+      "Green": 122,
+      "Blue": 121,
+      "Alpha": 255
+    }
+  },
+  {
+    "ID": "4a69b639-737e-404b-adf8-cfbe16657df1",
+    "ColorBegin": {
+      "Red": 0,
+      "Green": 0,
+      "Blue": 50,
+      "Alpha": 255
+    },
+    "ColorMiddle": {
+      "Red": 50,
+      "Green": 128,
+      "Blue": 54,
+      "Alpha": 128
+    },
+    "ColorEnd": {
+      "Red": 150,
+      "Green": 250,
+      "Blue": 150,
+      "Alpha": 255
+    }
+  },
+  {
+    "ID": "d4c25b6f-7196-46c2-8064-d0f31a8e918d",
+    "ColorBegin": {
+      "Red": 255,
+      "Green": 0,
+      "Blue": 0,
+      "Alpha": 255
+    },
+    "ColorMiddle": {
+      "Red": 0,
+      "Green": 255,
+      "Blue": 0,
+      "Alpha": 127
+    },
+    "ColorEnd": {
+      "Red": 0,
+      "Green": 0,
+      "Blue": 255,
+      "Alpha": 255
+    }
+  },
+  {
+    "ID": "2b28b0a0-cbf0-454a-9241-d8b7b264fed3",
+    "ColorBegin": {
+      "Red": 0,
+      "Green": 0,
+      "Blue": 0,
+      "Alpha": 255
+    },
+    "ColorMiddle": {
+      "Red": 33,
+      "Green": 34,
+      "Blue": 13,
+      "Alpha": 120
+    },
+    "ColorEnd": {
+      "Red": 211,
+      "Green": 213,
+      "Blue": 206,
+      "Alpha": 255
+    }
+  },
+  {
+    "ID": "e9473625-b10c-40f5-834a-deb4588cd8b7",
+    "ColorBegin": {
+      "Red": 11,
+      "Green": 10,
+      "Blue": 8,
+      "Alpha": 255
+    },
+    "ColorMiddle": {
+      "Red": 120,
+      "Green": 150,
+      "Blue": 187,
+      "Alpha": 128
+    },
+    "ColorEnd": {
+      "Red": 255,
+      "Green": 255,
+      "Blue": 255,
+      "Alpha": 255
+    }
+  },
+  {
+    "ID": "604d9a38-a234-4ee5-bf9b-dec43f57b72f",
+    "ColorBegin": {
+      "Red": 9,
+      "Green": 0,
+      "Blue": 42,
+      "Alpha": 255
+    },
+    "ColorMiddle": {
+      "Red": 17,
+      "Green": 0,
+      "Blue": 176,
+      "Alpha": 128
+    },
+    "ColorEnd": {
+      "Red": 73,
+      "Green": 137,
+      "Blue": 255,
+      "Alpha": 255
+    }
+  },
+  {
+    "ID": "2cc04efd-21f5-4b20-812d-e2714f592548",
+    "ColorBegin": {
+      "Red": 30,
+      "Green": 0,
+      "Blue": 0,
+      "Alpha": 255
+    },
+    "ColorMiddle": {
+      "Red": 15,
+      "Green": 36,
+      "Blue": 62,
+      "Alpha": 128
+    },
+    "ColorEnd": {
+      "Red": 150,
+      "Green": 200,
+      "Blue": 200,
+      "Alpha": 255
+    }
+  },
+  {
+    "ID": "cec3ee4a-2df5-45d3-bc3c-e3fb4532f83f",
+    "ColorBegin": {
+      "Red": 99,
+      "Green": 36,
+      "Blue": 35,
+      "Alpha": 255
+    },
+    "ColorMiddle": {
+      "Red": 255,
+      "Green": 205,
+      "Blue": 205,
+      "Alpha": 125
+    },
+    "ColorEnd": {
+      "Red": 104,
+      "Green": 104,
+      "Blue": 83,
+      "Alpha": 255
+    }
+  },
+  {
+    "ID": "cb28fd9d-daa8-4a3f-a835-e44a77329f63",
+    "ColorBegin": {
+      "Red": 11,
+      "Green": 10,
+      "Blue": 10,
+      "Alpha": 255
+    },
+    "ColorMiddle": {
+      "Red": 191,
+      "Green": 160,
+      "Blue": 152,
+      "Alpha": 128
+    },
+    "ColorEnd": {
+      "Red": 247,
+      "Green": 234,
+      "Blue": 223,
+      "Alpha": 255
+    }
+  },
+  {
+    "ID": "f279f5c6-4193-4c3f-9fbf-e76f852b2e92",
+    "ColorBegin": {
+      "Red": 0,
+      "Green": 0,
+      "Blue": 0,
+      "Alpha": 255
+    },
+    "ColorMiddle": {
+      "Red": 139,
+      "Green": 138,
+      "Blue": 58,
+      "Alpha": 128
+    },
+    "ColorEnd": {
+      "Red": 178,
+      "Green": 207,
+      "Blue": 179,
+      "Alpha": 255
+    }
+  },
+  {
+    "ID": "4e424e2e-e92a-4e58-9523-e96049b3401a",
+    "ColorBegin": {
+      "Red": 0,
+      "Green": 0,
+      "Blue": 0,
+      "Alpha": 255
+    },
+    "ColorMiddle": {
+      "Red": 65,
+      "Green": 92,
+      "Blue": 47,
+      "Alpha": 120
+    },
+    "ColorEnd": {
+      "Red": 125,
+      "Green": 130,
+      "Blue": 110,
+      "Alpha": 255
+    }
+  },
+  {
+    "ID": "06014d0d-b80f-4d5a-8ead-ea987a663495",
+    "ColorBegin": {
+      "Red": 33,
+      "Green": 4,
+      "Blue": 37,
+      "Alpha": 255
+    },
+    "ColorMiddle": {
+      "Red": 154,
+      "Green": 73,
+      "Blue": 96,
+      "Alpha": 195
+    },
+    "ColorEnd": {
+      "Red": 255,
+      "Green": 255,
+      "Blue": 255,
+      "Alpha": 255
+    }
+  },
+  {
+    "ID": "427c40a6-6de9-497c-8435-f37d5c3fbe85",
+    "ColorBegin": {
+      "Red": 0,
+      "Green": 0,
+      "Blue": 0,
+      "Alpha": 255
+    },
+    "ColorMiddle": {
+      "Red": 91,
+      "Green": 120,
+      "Blue": 98,
+      "Alpha": 128
+    },
+    "ColorEnd": {
+      "Red": 216,
+      "Green": 251,
+      "Blue": 144,
+      "Alpha": 255
+    }
+  },
+  {
+    "ID": "9bab4236-44fa-4ed7-8a8b-f3c2971834fa",
+    "ColorBegin": {
+      "Red": 0,
+      "Green": 0,
+      "Blue": 0,
+      "Alpha": 255
+    },
+    "ColorMiddle": {
+      "Red": 132,
+      "Green": 62,
+      "Blue": 5,
+      "Alpha": 96
+    },
+    "ColorEnd": {
+      "Red": 155,
+      "Green": 187,
+      "Blue": 89,
+      "Alpha": 255
+    }
+  },
+  {
+    "ID": "b4fac2fd-c14f-409f-90a3-f44e48a7a66d",
+    "ColorBegin": {
+      "Red": 54,
+      "Green": 71,
+      "Blue": 73,
+      "Alpha": 255
+    },
+    "ColorMiddle": {
+      "Red": 195,
+      "Green": 204,
+      "Blue": 203,
+      "Alpha": 84
+    },
+    "ColorEnd": {
+      "Red": 255,
+      "Green": 255,
+      "Blue": 255,
+      "Alpha": 255
+    }
+  },
+  {
+    "ID": "163dde12-512a-459b-a5b2-f451a123a3be",
+    "ColorBegin": {
+      "Red": 0,
+      "Green": 0,
+      "Blue": 0,
+      "Alpha": 255
+    },
+    "ColorMiddle": {
+      "Red": 196,
+      "Green": 189,
+      "Blue": 151,
+      "Alpha": 127
+    },
+    "ColorEnd": {
+      "Red": 196,
+      "Green": 207,
+      "Blue": 223,
+      "Alpha": 255
+    }
+  },
+  {
+    "ID": "600c279c-f002-485b-a135-f80f79dbea62",
+    "ColorBegin": {
+      "Red": 15,
+      "Green": 36,
+      "Blue": 62,
+      "Alpha": 255
+    },
+    "ColorMiddle": {
+      "Red": 120,
+      "Green": 92,
+      "Blue": 155,
+      "Alpha": 56
+    },
+    "ColorEnd": {
+      "Red": 115,
+      "Green": 155,
+      "Blue": 202,
+      "Alpha": 255
+    }
+  },
+  {
+    "ID": "40001a42-104f-48b8-99bd-f98f4ca18fdd",
+    "ColorBegin": {
+      "Red": 0,
+      "Green": 0,
+      "Blue": 0,
+      "Alpha": 255
+    },
+    "ColorMiddle": {
+      "Red": 119,
+      "Green": 127,
+      "Blue": 103,
+      "Alpha": 128
+    },
+    "ColorEnd": {
+      "Red": 173,
+      "Green": 202,
+      "Blue": 208,
+      "Alpha": 255
+    }
+  },
+  {
+    "ID": "8487a3a6-84ab-41cb-9c62-fbae728067fc",
+    "ColorBegin": {
+      "Red": 0,
+      "Green": 0,
+      "Blue": 0,
+      "Alpha": 255
+    },
+    "ColorMiddle": {
+      "Red": 0,
+      "Green": 30,
+      "Blue": 29,
+      "Alpha": 128
+    },
+    "ColorEnd": {
+      "Red": 0,
+      "Green": 64,
+      "Blue": 27,
+      "Alpha": 255
+    }
+  }
+]
