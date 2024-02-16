@@ -1,0 +1,62 @@
+[
+  {
+    "ID": "6f587a15-d969-44f7-a488-2172ca02c831",
+    "Name": "Waffen",
+    "Index": 0
+  },
+  {
+    "ID": "f336d176-a746-40ed-a406-5aa0283d2c4b",
+    "Name": "Land",
+    "Index": 5
+  },
+  {
+    "ID": "7ad526a3-b543-4d0b-9772-5da079078bb1",
+    "Name": "Schaden",
+    "Index": 1
+  },
+  {
+    "ID": "50ab71a6-fcec-4c6a-a670-6205d076ab8c",
+    "Name": "Eigentum",
+    "Index": 20
+  },
+  {
+    "ID": "2bcb5d5f-c7d6-42f3-80a1-698f3b17d0b3",
+    "Name": "Abenteuer",
+    "Index": 6
+  },
+  {
+    "ID": "8cc94df7-12ef-405c-9c0f-9142c7246d5b",
+    "Name": "Essen",
+    "Index": 22
+  },
+  {
+    "ID": "f2bb20c0-065f-4993-b220-a4aed258e9f2",
+    "Name": "Bonus",
+    "Index": 21
+  },
+  {
+    "ID": "81945d39-f047-4946-b9ce-a7869cbddae6",
+    "Name": "Handwerk",
+    "Index": 3
+  },
+  {
+    "ID": "83c1c601-bcd3-4061-aee4-cc27e58be2f5",
+    "Name": "Pflanzen",
+    "Index": 10
+  },
+  {
+    "ID": "368af5a9-cf0f-40aa-8ff0-db64be108edf",
+    "Name": "Sammeln",
+    "Index": 4
+  },
+  {
+    "ID": "5a89715c-6620-4ac9-af3a-e1e3683450b2",
+    "Name": "Substanz",
+    "Index": 11
+  },
+  {
+    "ID": "8842bc3c-91e3-4355-a29a-f063c0d21c61",
+    "Name": "Verteidigung",
+    "Index": 2
+  }
+]
