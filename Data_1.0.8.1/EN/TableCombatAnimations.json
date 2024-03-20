@@ -1,0 +1,177 @@
+[
+  {
+    "ID": "7a93a246-c6d9-4b95-8a4a-02a3eb47b4e4",
+    "Name": "Debuff01",
+    "Duration": "00:00:00.4000000"
+  },
+  {
+    "ID": "1947a0a7-6b85-4e0c-beee-0d3c379b3b2e",
+    "Name": "Wind",
+    "Duration": "00:00:00.8000000"
+  },
+  {
+    "ID": "734b07d5-c010-43ac-a130-0d788a1487cb",
+    "Name": "Poison",
+    "Duration": "00:00:00.4000000"
+  },
+  {
+    "ID": "265fd178-85af-458d-a5ea-0e7299258e98",
+    "Name": "Heal",
+    "Duration": "00:00:00.6000000"
+  },
+  {
+    "ID": "effb9176-01be-444d-9bc3-15c7130eb8a3",
+    "Name": "Water01",
+    "Duration": "00:00:00.8000000"
+  },
+  {
+    "ID": "d0be9e1e-7d8a-4c90-a618-182bc0ff2d0f",
+    "Name": "Light02",
+    "Duration": "00:00:02"
+  },
+  {
+    "ID": "976db451-8ebe-4759-a73c-227ccf9ae407",
+    "Name": "Blunt01",
+    "Duration": "00:00:00.4000000"
+  },
+  {
+    "ID": "916a8090-e49e-4fd0-ba25-30b8214d270a",
+    "Name": "Execute",
+    "Duration": "00:00:01"
+  },
+  {
+    "ID": "33c3087e-cbbe-41e6-a7d9-312a4e640d8e",
+    "Name": "Light01",
+    "Duration": "00:00:01.7000000"
+  },
+  {
+    "ID": "c02a2443-f8f8-4309-a10f-3e074a789ecc",
+    "Name": "Darkness01",
+    "Duration": "00:00:00.6000000"
+  },
+  {
+    "ID": "5434df50-7cef-431a-b785-4aad2e0db6cc",
+    "Name": "PierceBleed",
+    "Duration": "00:00:00.4000000"
+  },
+  {
+    "ID": "a1c74ac1-b523-4cea-b946-5c225f695e45",
+    "Name": "Blunt",
+    "Duration": "00:00:00.4000000"
+  },
+  {
+    "ID": "4ba77f1c-485c-43ec-a15f-691190992b1e",
+    "Name": "Water",
+    "Duration": "00:00:00.6000000"
+  },
+  {
+    "ID": "97d06c9c-eec0-4488-9f4c-76ed3aa54043",
+    "Name": "Bluster",
+    "Duration": "00:00:00.4000000"
+  },
+  {
+    "ID": "c316a1de-af2e-455b-a3a0-83aa9a641dc3",
+    "Name": "Wind01",
+    "Duration": "00:00:01.8000000"
+  },
+  {
+    "ID": "ace368c2-c98d-454e-80ca-85d9e1ad7602",
+    "Name": "Bite",
+    "Duration": "00:00:00.4000000"
+  },
+  {
+    "ID": "6831aec0-57ca-477e-a295-8fd3b0d7539f",
+    "Name": "Slash",
+    "Duration": "00:00:00.4000000"
+  },
+  {
+    "ID": "32cd3251-d3e5-4fa5-8416-a680ec46e58e",
+    "Name": "BuffShield",
+    "Duration": "00:00:00.4000000"
+  },
+  {
+    "ID": "09346f66-63ba-44b1-87ab-a841acd1891f",
+    "Name": "Buff01",
+    "Duration": "00:00:00.4000000"
+  },
+  {
+    "ID": "ad5f30bf-c75b-4660-a452-a9c2bd8d0fad",
+    "Name": "Darkness",
+    "Duration": "00:00:00.6000000"
+  },
+  {
+    "ID": "b56c4b6e-c1ea-4456-b2d2-aa73f3fa4c22",
+    "Name": "Pierce",
+    "Duration": "00:00:00.4000000"
+  },
+  {
+    "ID": "9f8b1781-1726-431d-8fd8-b00af86b4443",
+    "Name": "Light03",
+    "Duration": "00:00:02.2000000"
+  },
+  {
+    "ID": "a85d8dc4-6c79-409d-938f-b12ff8cbeb1a",
+    "Name": "Devastate",
+    "Duration": "00:00:00.4000000"
+  },
+  {
+    "ID": "f2dfb3e3-95c7-47ee-b250-bb8dfdcebda3",
+    "Name": "Fire",
+    "Duration": "00:00:00.8000000"
+  },
+  {
+    "ID": "f0f6119a-1bcc-4bfa-885f-c23209bf8b57",
+    "Name": "Wind02",
+    "Duration": "00:00:00.4000000"
+  },
+  {
+    "ID": "e6867c63-9f2b-44de-ad2e-c5cce154ec08",
+    "Name": "Darkness03",
+    "Duration": "00:00:02"
+  },
+  {
+    "ID": "e78ef6f4-b274-42dd-ba20-c925e4258376",
+    "Name": "Fire01",
+    "Duration": "00:00:02"
+  },
+  {
+    "ID": "520d7625-863a-448b-b583-cbd0bbce7f29",
+    "Name": "Water03",
+    "Duration": "00:00:00.6000000"
+  },
+  {
+    "ID": "985e6589-9ced-4082-b9dd-ce28c835f268",
+    "Name": "Claws",
+    "Duration": "00:00:00.4000000"
+  },
+  {
+    "ID": "49b27123-315f-4b00-9158-d02d78250c4f",
+    "Name": "Fire02",
+    "Duration": "00:00:02"
+  },
+  {
+    "ID": "c3627b8a-47aa-4645-ab85-d8e94f41d5d3",
+    "Name": "Darkness02",
+    "Duration": "00:00:01.8000000"
+  },
+  {
+    "ID": "c17c81ee-c07b-4d72-ab9d-e3b5f7320c0d",
+    "Name": "Light",
+    "Duration": "00:00:00.8000000"
+  },
+  {
+    "ID": "8ba8100d-ba6e-4e72-80d7-e70892b5fde5",
+    "Name": "Slash01",
+    "Duration": "00:00:00.6000000"
+  },
+  {
+    "ID": "7332be7c-2e49-4270-9e6e-ef0f54906cbd",
+    "Name": "Slash02",
+    "Duration": "00:00:00.6000000"
+  },
+  {
+    "ID": "40fccf98-1050-4462-bed2-f8df5decf057",
+    "Name": "Water02",
+    "Duration": "00:00:01.8000000"
+  }
+]

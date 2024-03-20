@@ -1,0 +1,875 @@
+[
+  {
+    "ID": "027bb811-237b-4390-8e6f-0046f0832c9b",
+    "Name": "Прочность",
+    "ImageIcon": "SkillDurability.png",
+    "Sound": null,
+    "AntiSkillID": null,
+    "SkillGroupID": null,
+    "MaxValue": null
+  },
+  {
+    "ID": "a3054f6b-4b44-4e93-838c-014d2128c07c",
+    "Name": "Камнеобработка",
+    "ImageIcon": "SkillStoneworking.png",
+    "Sound": null,
+    "AntiSkillID": null,
+    "SkillGroupID": "81945d39-f047-4946-b9ce-a7869cbddae6",
+    "MaxValue": 45
+  },
+  {
+    "ID": "dd57b347-6553-477f-9795-0530728cce61",
+    "Name": "Алхимия",
+    "ImageIcon": "SkillAlchemy.png",
+    "Sound": null,
+    "AntiSkillID": null,
+    "SkillGroupID": "81945d39-f047-4946-b9ce-a7869cbddae6",
+    "MaxValue": 45
+  },
+  {
+    "ID": "0b991b55-0dfd-44c0-bb9c-0790e0c179b7",
+    "Name": "Рассекающий",
+    "ImageIcon": "SkillDmgSlash.png",
+    "Sound": null,
+    "AntiSkillID": "09e9c918-d1f6-4b31-bbeb-4797a48d94a5",
+    "SkillGroupID": "7ad526a3-b543-4d0b-9772-5da079078bb1",
+    "MaxValue": null
+  },
+  {
+    "ID": "87ba675d-681d-4a7d-9e1e-096057ecb03e",
+    "Name": "Крафт",
+    "ImageIcon": "ItemTypeArtisanat.png",
+    "Sound": null,
+    "AntiSkillID": null,
+    "SkillGroupID": null,
+    "MaxValue": null
+  },
+  {
+    "ID": "1759cd7d-f4fb-4dc5-984d-09bbdbdbcfd5",
+    "Name": "Жесткость",
+    "ImageIcon": "SkillMatRigidite.png",
+    "Sound": null,
+    "AntiSkillID": null,
+    "SkillGroupID": "50ab71a6-fcec-4c6a-a670-6205d076ab8c",
+    "MaxValue": null
+  },
+  {
+    "ID": "417429b6-0ce5-4029-861c-0c42beb47bca",
+    "Name": "Фортификатор",
+    "ImageIcon": "PlantFortifiant.png",
+    "Sound": null,
+    "AntiSkillID": null,
+    "SkillGroupID": "83c1c601-bcd3-4061-aee4-cc27e58be2f5",
+    "MaxValue": null
+  },
+  {
+    "ID": "c8a17cc6-66f6-450b-a415-0f2e29ff109a",
+    "Name": "Древковое",
+    "ImageIcon": "SkillSpear.png",
+    "Sound": null,
+    "AntiSkillID": null,
+    "SkillGroupID": "6f587a15-d969-44f7-a488-2172ca02c831",
+    "MaxValue": 40
+  },
+  {
+    "ID": "96db0f91-0e80-4465-95dc-11f5d7e3c9e1",
+    "Name": "Деревообработка",
+    "ImageIcon": "SkillWoodworking.png",
+    "Sound": null,
+    "AntiSkillID": null,
+    "SkillGroupID": "81945d39-f047-4946-b9ce-a7869cbddae6",
+    "MaxValue": 45
+  },
+  {
+    "ID": "eaa31a96-86ec-4a0c-af1e-1635c3c7605e",
+    "Name": "Богатство",
+    "ImageIcon": "FoodRichesse.png",
+    "Sound": "",
+    "AntiSkillID": null,
+    "SkillGroupID": "8cc94df7-12ef-405c-9c0f-9142c7246d5b",
+    "MaxValue": null
+  },
+  {
+    "ID": "5a18bc29-5369-49d2-a253-16e073854783",
+    "Name": "Вкус",
+    "ImageIcon": "FoodGout.png",
+    "Sound": "",
+    "AntiSkillID": null,
+    "SkillGroupID": "8cc94df7-12ef-405c-9c0f-9142c7246d5b",
+    "MaxValue": null
+  },
+  {
+    "ID": "bbfbbe90-27fd-4557-ba31-202902daf8fb",
+    "Name": "Тундра",
+    "ImageIcon": "SkillSnow.png",
+    "Sound": null,
+    "AntiSkillID": null,
+    "SkillGroupID": "f336d176-a746-40ed-a406-5aa0283d2c4b",
+    "MaxValue": 0
+  },
+  {
+    "ID": "a8a37ca1-9e6e-41a5-8df9-21d0583994c9",
+    "Name": "Плотность",
+    "ImageIcon": "SkillMatDensite.png",
+    "Sound": null,
+    "AntiSkillID": null,
+    "SkillGroupID": "50ab71a6-fcec-4c6a-a670-6205d076ab8c",
+    "MaxValue": null
+  },
+  {
+    "ID": "203bc3f5-a3fd-4abb-9fb1-231733c8025e",
+    "Name": "Посохи",
+    "ImageIcon": "SkillStaff.png",
+    "Sound": null,
+    "AntiSkillID": null,
+    "SkillGroupID": "6f587a15-d969-44f7-a488-2172ca02c831",
+    "MaxValue": 40
+  },
+  {
+    "ID": "e102da4e-eba5-4266-b6f2-2a3d00940099",
+    "Name": "Магия",
+    "ImageIcon": "SkillMagic.png",
+    "Sound": null,
+    "AntiSkillID": null,
+    "SkillGroupID": null,
+    "MaxValue": null
+  },
+  {
+    "ID": "4a388f71-32a3-4e99-8fac-2cf30f9a3d3f",
+    "Name": "Фокусер",
+    "ImageIcon": "PlantFocalisant.png",
+    "Sound": null,
+    "AntiSkillID": null,
+    "SkillGroupID": "83c1c601-bcd3-4061-aee4-cc27e58be2f5",
+    "MaxValue": null
+  },
+  {
+    "ID": "3e90e5a8-7633-4be1-9ea9-31073a489389",
+    "Name": "Огонь",
+    "ImageIcon": "SkillMagicFire.png",
+    "Sound": null,
+    "AntiSkillID": "68fe512b-d8f5-4879-9521-86fbc5431e39",
+    "SkillGroupID": "7ad526a3-b543-4d0b-9772-5da079078bb1",
+    "MaxValue": null
+  },
+  {
+    "ID": "e52ee45c-2fea-445f-93f6-334bf79cdcbf",
+    "Name": "Подземелье",
+    "ImageIcon": "SkillCavern.png",
+    "Sound": null,
+    "AntiSkillID": null,
+    "SkillGroupID": "f336d176-a746-40ed-a406-5aa0283d2c4b",
+    "MaxValue": 35
+  },
+  {
+    "ID": "ad3e572e-0069-4116-bd53-3b4a2295be38",
+    "Name": "Питание",
+    "ImageIcon": "FoodNutrition.png",
+    "Sound": null,
+    "AntiSkillID": null,
+    "SkillGroupID": "8cc94df7-12ef-405c-9c0f-9142c7246d5b",
+    "MaxValue": null
+  },
+  {
+    "ID": "6aa3c121-f488-4715-922a-3c25f30e4f39",
+    "Name": "Энерджайзер",
+    "ImageIcon": "PlantEnergisant.png",
+    "Sound": null,
+    "AntiSkillID": null,
+    "SkillGroupID": "83c1c601-bcd3-4061-aee4-cc27e58be2f5",
+    "MaxValue": null
+  },
+  {
+    "ID": "b156c1d4-4729-4617-9f96-3ee736932002",
+    "Name": "Горное дело",
+    "ImageIcon": "SkillMining.png",
+    "Sound": "SkillExtraction.wav",
+    "AntiSkillID": null,
+    "SkillGroupID": "368af5a9-cf0f-40aa-8ff0-db64be108edf",
+    "MaxValue": 35
+  },
+  {
+    "ID": "09e9c918-d1f6-4b31-bbeb-4797a48d94a5",
+    "Name": "Броня",
+    "ImageIcon": "SkillArmor.png",
+    "Sound": null,
+    "AntiSkillID": null,
+    "SkillGroupID": "8842bc3c-91e3-4355-a29a-f063c0d21c61",
+    "MaxValue": null
+  },
+  {
+    "ID": "2d0b4370-0f52-486a-a84f-49d772096d0e",
+    "Name": "Торг",
+    "ImageIcon": "Help.png",
+    "Sound": null,
+    "AntiSkillID": null,
+    "SkillGroupID": null,
+    "MaxValue": null
+  },
+  {
+    "ID": "a7a7bbed-c0d8-4294-9ab6-4a114905be49",
+    "Name": "Травничество",
+    "ImageIcon": "SkillHerboristerie.png",
+    "Sound": null,
+    "AntiSkillID": null,
+    "SkillGroupID": "81945d39-f047-4946-b9ce-a7869cbddae6",
+    "MaxValue": 45
+  },
+  {
+    "ID": "3a36e02c-bad2-4096-93f7-4c6ea1fd9a21",
+    "Name": "Активатор",
+    "ImageIcon": "PlantActivant.png",
+    "Sound": null,
+    "AntiSkillID": null,
+    "SkillGroupID": "83c1c601-bcd3-4061-aee4-cc27e58be2f5",
+    "MaxValue": null
+  },
+  {
+    "ID": "c62a1881-cfc7-40e8-8c2f-51e195797486",
+    "Name": "Леса",
+    "ImageIcon": "SkillForest.png",
+    "Sound": null,
+    "AntiSkillID": null,
+    "SkillGroupID": "f336d176-a746-40ed-a406-5aa0283d2c4b",
+    "MaxValue": 35
+  },
+  {
+    "ID": "412e7d83-6340-43fc-a500-5610c6caff59",
+    "Name": "Кинжал",
+    "ImageIcon": "SkillDagger.png",
+    "Sound": null,
+    "AntiSkillID": null,
+    "SkillGroupID": "6f587a15-d969-44f7-a488-2172ca02c831",
+    "MaxValue": 40
+  },
+  {
+    "ID": "afe84314-363e-437a-9dd8-5718d1b71885",
+    "Name": "Стратам",
+    "ImageIcon": "SubstanceStratam.png",
+    "Sound": null,
+    "AntiSkillID": null,
+    "SkillGroupID": "5a89715c-6620-4ac9-af3a-e1e3683450b2",
+    "MaxValue": null
+  },
+  {
+    "ID": "6cdc55c5-4822-44ce-8dbc-5dc8d101300e",
+    "Name": "Фонам",
+    "ImageIcon": "Help.png",
+    "Sound": null,
+    "AntiSkillID": null,
+    "SkillGroupID": null,
+    "MaxValue": null
+  },
+  {
+    "ID": "9b4dbcf3-1666-451c-8d71-5feb88de9955",
+    "Name": "Бой",
+    "ImageIcon": "SkillCombat.png",
+    "Sound": null,
+    "AntiSkillID": null,
+    "SkillGroupID": null,
+    "MaxValue": null
+  },
+  {
+    "ID": "75935df1-a126-47ad-a9b1-60bf10ae068d",
+    "Name": "Убеждение",
+    "ImageIcon": "SkillTalk.png",
+    "Sound": null,
+    "AntiSkillID": null,
+    "SkillGroupID": "2bcb5d5f-c7d6-42f3-80a1-698f3b17d0b3",
+    "MaxValue": 35
+  },
+  {
+    "ID": "1a049bdb-cb40-436d-899a-60da25801f80",
+    "Name": "Проникающий",
+    "ImageIcon": "SkillDmgPierce.png",
+    "Sound": null,
+    "AntiSkillID": "09e9c918-d1f6-4b31-bbeb-4797a48d94a5",
+    "SkillGroupID": "7ad526a3-b543-4d0b-9772-5da079078bb1",
+    "MaxValue": null
+  },
+  {
+    "ID": "84e83ce1-baff-41d9-ae1a-610a335548ce",
+    "Name": "Лечение",
+    "ImageIcon": "SkillHeal.png",
+    "Sound": null,
+    "AntiSkillID": null,
+    "SkillGroupID": null,
+    "MaxValue": null
+  },
+  {
+    "ID": "a1e34f17-868a-42bf-90aa-6241defe275c",
+    "Name": "Тьма",
+    "ImageIcon": "SkillMagicDarkness.png",
+    "Sound": null,
+    "AntiSkillID": "68fe512b-d8f5-4879-9521-86fbc5431e39",
+    "SkillGroupID": "7ad526a3-b543-4d0b-9772-5da079078bb1",
+    "MaxValue": null
+  },
+  {
+    "ID": "e366a282-5596-4c9a-8e47-62b39aafa2c3",
+    "Name": "Фантазия",
+    "ImageIcon": "FoodFantaisie.png",
+    "Sound": null,
+    "AntiSkillID": null,
+    "SkillGroupID": "8cc94df7-12ef-405c-9c0f-9142c7246d5b",
+    "MaxValue": null
+  },
+  {
+    "ID": "64865235-d29d-4d78-b533-6a85df408d0a",
+    "Name": "Гибкость",
+    "ImageIcon": "SkillMatFlexibilite.png",
+    "Sound": null,
+    "AntiSkillID": null,
+    "SkillGroupID": "50ab71a6-fcec-4c6a-a670-6205d076ab8c",
+    "MaxValue": null
+  },
+  {
+    "ID": "85249860-4d0a-4dab-adc2-6ada4cf17c8f",
+    "Name": "Пирам",
+    "ImageIcon": "SubstancePyram.png",
+    "Sound": null,
+    "AntiSkillID": null,
+    "SkillGroupID": "5a89715c-6620-4ac9-af3a-e1e3683450b2",
+    "MaxValue": null
+  },
+  {
+    "ID": "1e366689-a7c8-4d4a-b805-6ea453e509b6",
+    "Name": "Туманы",
+    "ImageIcon": "SkillWater.png",
+    "Sound": null,
+    "AntiSkillID": null,
+    "SkillGroupID": "f336d176-a746-40ed-a406-5aa0283d2c4b",
+    "MaxValue": 24
+  },
+  {
+    "ID": "105be77f-86b6-42bd-9a85-6f0a98fcdb6a",
+    "Name": "Легкость",
+    "ImageIcon": "SkillMatLegerete.png",
+    "Sound": null,
+    "AntiSkillID": null,
+    "SkillGroupID": "50ab71a6-fcec-4c6a-a670-6205d076ab8c",
+    "MaxValue": null
+  },
+  {
+    "ID": "62f3fcbc-26fe-435d-9708-70a85ca04dad",
+    "Name": "Элиоам",
+    "ImageIcon": "SubstanceElioam.png",
+    "Sound": null,
+    "AntiSkillID": null,
+    "SkillGroupID": "5a89715c-6620-4ac9-af3a-e1e3683450b2",
+    "MaxValue": null
+  },
+  {
+    "ID": "5ee53749-baf0-41d0-842e-71b6f9558593",
+    "Name": "Пустыни",
+    "ImageIcon": "SkillDesert.png",
+    "Sound": null,
+    "AntiSkillID": null,
+    "SkillGroupID": "f336d176-a746-40ed-a406-5aa0283d2c4b",
+    "MaxValue": 0
+  },
+  {
+    "ID": "4d71d722-420e-4402-a11b-73ffa4a8e714",
+    "Name": "Престиж",
+    "ImageIcon": "SkillPrestige.png",
+    "Sound": null,
+    "AntiSkillID": null,
+    "SkillGroupID": null,
+    "MaxValue": null
+  },
+  {
+    "ID": "fb67907b-25c4-4443-867e-75574360b6cc",
+    "Name": "Поглощение",
+    "ImageIcon": "SkillMatAbsorbtion.png",
+    "Sound": null,
+    "AntiSkillID": null,
+    "SkillGroupID": "50ab71a6-fcec-4c6a-a670-6205d076ab8c",
+    "MaxValue": null
+  },
+  {
+    "ID": "ed6ca1ad-8d74-43d2-a93d-78ceb0b51c18",
+    "Name": "Мудрость",
+    "ImageIcon": "SkillBooks.png",
+    "Sound": null,
+    "AntiSkillID": null,
+    "SkillGroupID": "2bcb5d5f-c7d6-42f3-80a1-698f3b17d0b3",
+    "MaxValue": 35
+  },
+  {
+    "ID": "af647079-13bd-45aa-a073-7a896b0afdcc",
+    "Name": "Безопасность",
+    "ImageIcon": "Help.png",
+    "Sound": null,
+    "AntiSkillID": null,
+    "SkillGroupID": null,
+    "MaxValue": null
+  },
+  {
+    "ID": "84e443b7-5cc0-4c74-81f8-80596c638a29",
+    "Name": "Ветер",
+    "ImageIcon": "SkillMagicWind.png",
+    "Sound": null,
+    "AntiSkillID": "68fe512b-d8f5-4879-9521-86fbc5431e39",
+    "SkillGroupID": "7ad526a3-b543-4d0b-9772-5da079078bb1",
+    "MaxValue": null
+  },
+  {
+    "ID": "07d99ce9-5a08-4b52-af8e-822d65bedb8e",
+    "Name": "Шитье",
+    "ImageIcon": "SkillTailoring.png",
+    "Sound": null,
+    "AntiSkillID": null,
+    "SkillGroupID": "81945d39-f047-4946-b9ce-a7869cbddae6",
+    "MaxValue": 45
+  },
+  {
+    "ID": "fb75c6c2-bcea-4731-9758-829e82de3c74",
+    "Name": "[Удаленный]",
+    "ImageIcon": "SkillAlchemy.png",
+    "Sound": null,
+    "AntiSkillID": null,
+    "SkillGroupID": null,
+    "MaxValue": null
+  },
+  {
+    "ID": "87e354e4-b946-4053-a3d6-854945fb52db",
+    "Name": "Прочность",
+    "ImageIcon": "SkillSolidite.png",
+    "Sound": null,
+    "AntiSkillID": null,
+    "SkillGroupID": null,
+    "MaxValue": null
+  },
+  {
+    "ID": "68fe512b-d8f5-4879-9521-86fbc5431e39",
+    "Name": "Магическая Защита",
+    "ImageIcon": "SkillMagicDefense.png",
+    "Sound": null,
+    "AntiSkillID": null,
+    "SkillGroupID": "8842bc3c-91e3-4355-a29a-f063c0d21c61",
+    "MaxValue": null
+  },
+  {
+    "ID": "32865633-f093-4f63-8620-88f9f0999a02",
+    "Name": "Разрушитель",
+    "ImageIcon": "PlantDeteriorant.png",
+    "Sound": null,
+    "AntiSkillID": null,
+    "SkillGroupID": "83c1c601-bcd3-4061-aee4-cc27e58be2f5",
+    "MaxValue": null
+  },
+  {
+    "ID": "355f0df6-b34b-448d-99b7-90d911511321",
+    "Name": "Городской",
+    "ImageIcon": "SkillUrban.png",
+    "Sound": null,
+    "AntiSkillID": null,
+    "SkillGroupID": null,
+    "MaxValue": null
+  },
+  {
+    "ID": "b819f4de-52fa-4c8d-87e6-90db6a7a946e",
+    "Name": "Лесозаготовка",
+    "ImageIcon": "SkillLumberjacking.png",
+    "Sound": "SkillWood.wav",
+    "AntiSkillID": null,
+    "SkillGroupID": "368af5a9-cf0f-40aa-8ff0-db64be108edf",
+    "MaxValue": 35
+  },
+  {
+    "ID": "202cbb79-7eaf-44b2-aecc-9105ed029716",
+    "Name": "Объем",
+    "ImageIcon": "SymbolMisc02.png",
+    "Sound": null,
+    "AntiSkillID": null,
+    "SkillGroupID": null,
+    "MaxValue": null
+  },
+  {
+    "ID": "0a54c0e9-f8af-481e-bef1-946d34a43165",
+    "Name": "Лектрам",
+    "ImageIcon": "SubstanceLectram.png",
+    "Sound": null,
+    "AntiSkillID": null,
+    "SkillGroupID": "5a89715c-6620-4ac9-af3a-e1e3683450b2",
+    "MaxValue": null
+  },
+  {
+    "ID": "1083a685-554d-46a7-9e09-95c00221dc4d",
+    "Name": "Связывание",
+    "ImageIcon": "PlantLiant.png",
+    "Sound": null,
+    "AntiSkillID": null,
+    "SkillGroupID": "83c1c601-bcd3-4061-aee4-cc27e58be2f5",
+    "MaxValue": null
+  },
+  {
+    "ID": "e1fb731b-7bee-4f8c-80d8-95d34de7daf4",
+    "Name": "Горы",
+    "ImageIcon": "SkillMountains.png",
+    "Sound": null,
+    "AntiSkillID": null,
+    "SkillGroupID": "f336d176-a746-40ed-a406-5aa0283d2c4b",
+    "MaxValue": 35
+  },
+  {
+    "ID": "c397d364-00a2-41ed-820c-9845968c386e",
+    "Name": "Гидрам",
+    "ImageIcon": "SubstanceHydram.png",
+    "Sound": null,
+    "AntiSkillID": null,
+    "SkillGroupID": "5a89715c-6620-4ac9-af3a-e1e3683450b2",
+    "MaxValue": null
+  },
+  {
+    "ID": "fe2a0395-6477-4f11-a361-99049a26df63",
+    "Name": "Восприятие",
+    "ImageIcon": "SkillEye.png",
+    "Sound": null,
+    "AntiSkillID": null,
+    "SkillGroupID": "2bcb5d5f-c7d6-42f3-80a1-698f3b17d0b3",
+    "MaxValue": 35
+  },
+  {
+    "ID": "841c7d7a-afbf-4641-8362-9b76422d01fa",
+    "Name": "Свет",
+    "ImageIcon": "SkillMagicHoly.png",
+    "Sound": null,
+    "AntiSkillID": "68fe512b-d8f5-4879-9521-86fbc5431e39",
+    "SkillGroupID": "7ad526a3-b543-4d0b-9772-5da079078bb1",
+    "MaxValue": null
+  },
+  {
+    "ID": "64b24669-703e-4ca8-b9e8-9da9f06fdab1",
+    "Name": "Кузнечное дело",
+    "ImageIcon": "SkillForge.png",
+    "Sound": null,
+    "AntiSkillID": null,
+    "SkillGroupID": "81945d39-f047-4946-b9ce-a7869cbddae6",
+    "MaxValue": 45
+  },
+  {
+    "ID": "715f20a7-c350-435d-a5d0-a014eff29bd2",
+    "Name": "Фримам",
+    "ImageIcon": "SubstanceFrimam.png",
+    "Sound": null,
+    "AntiSkillID": null,
+    "SkillGroupID": "5a89715c-6620-4ac9-af3a-e1e3683450b2",
+    "MaxValue": null
+  },
+  {
+    "ID": "431c32ad-d925-40d5-ae08-a424b7279b32",
+    "Name": "Укрывать",
+    "ImageIcon": "SkillShield.png",
+    "Sound": null,
+    "AntiSkillID": null,
+    "SkillGroupID": null,
+    "MaxValue": null
+  },
+  {
+    "ID": "cbed609c-4a97-4d64-9129-a6583766d282",
+    "Name": "Тонер",
+    "ImageIcon": "PlantTonifiant.png",
+    "Sound": null,
+    "AntiSkillID": null,
+    "SkillGroupID": "83c1c601-bcd3-4061-aee4-cc27e58be2f5",
+    "MaxValue": null
+  },
+  {
+    "ID": "e3373815-9b16-4999-aafb-aa1bbc3db533",
+    "Name": "Восстановление",
+    "ImageIcon": "SkillRestoration.png",
+    "Sound": null,
+    "AntiSkillID": null,
+    "SkillGroupID": null,
+    "MaxValue": null
+  },
+  {
+    "ID": "98a36878-bcad-4b69-a2f6-ae693a81b438",
+    "Name": "Болота",
+    "ImageIcon": "SkillSwamp.png",
+    "Sound": null,
+    "AntiSkillID": null,
+    "SkillGroupID": "f336d176-a746-40ed-a406-5aa0283d2c4b",
+    "MaxValue": 35
+  },
+  {
+    "ID": "04679ab1-11b9-496d-949c-af86d7d34bd1",
+    "Name": "Луки",
+    "ImageIcon": "SkillBow.png",
+    "Sound": null,
+    "AntiSkillID": null,
+    "SkillGroupID": "6f587a15-d969-44f7-a488-2172ca02c831",
+    "MaxValue": 40
+  },
+  {
+    "ID": "7d4012de-b9c0-4d5a-9415-afbaefea7455",
+    "Name": "Этернам",
+    "ImageIcon": "Help.png",
+    "Sound": null,
+    "AntiSkillID": null,
+    "SkillGroupID": null,
+    "MaxValue": null
+  },
+  {
+    "ID": "cf8b6de9-6691-472d-b668-b007ce2193fa",
+    "Name": "Мечи",
+    "ImageIcon": "SkillSword.png",
+    "Sound": null,
+    "AntiSkillID": null,
+    "SkillGroupID": "6f587a15-d969-44f7-a488-2172ca02c831",
+    "MaxValue": 40
+  },
+  {
+    "ID": "764dd069-f56d-47f6-b8a1-b5fbcc3428e3",
+    "Name": "Вода",
+    "ImageIcon": "SkillMagicWater.png",
+    "Sound": null,
+    "AntiSkillID": "68fe512b-d8f5-4879-9521-86fbc5431e39",
+    "SkillGroupID": "7ad526a3-b543-4d0b-9772-5da079078bb1",
+    "MaxValue": null
+  },
+  {
+    "ID": "fc16278d-1053-4bb6-ac09-bd74b927eda7",
+    "Name": "Ювелирные изделия",
+    "ImageIcon": "SkillJoaillerie.png",
+    "Sound": null,
+    "AntiSkillID": null,
+    "SkillGroupID": null,
+    "MaxValue": null
+  },
+  {
+    "ID": "3ff27acd-84c8-403f-889b-c2fcf8b4e584",
+    "Name": "Охота",
+    "ImageIcon": "SkillHunting.png",
+    "Sound": "SkillHunt.wav",
+    "AntiSkillID": null,
+    "SkillGroupID": "368af5a9-cf0f-40aa-8ff0-db64be108edf",
+    "MaxValue": 35
+  },
+  {
+    "ID": "73e37b0e-a693-4bdd-9581-c5cd2d2eee0c",
+    "Name": "Магнам",
+    "ImageIcon": "SubstanceMagnam.png",
+    "Sound": null,
+    "AntiSkillID": null,
+    "SkillGroupID": "5a89715c-6620-4ac9-af3a-e1e3683450b2",
+    "MaxValue": null
+  },
+  {
+    "ID": "1c053caf-0cdc-4f78-887b-c8a172066f2a",
+    "Name": "Транквилизатор",
+    "ImageIcon": "PlantCalmant.png",
+    "Sound": null,
+    "AntiSkillID": null,
+    "SkillGroupID": "83c1c601-bcd3-4061-aee4-cc27e58be2f5",
+    "MaxValue": null
+  },
+  {
+    "ID": "16f9eac9-eed2-449b-9341-c9b374ef7de7",
+    "Name": "Атлетика",
+    "ImageIcon": "SkillAcrobat.png",
+    "Sound": null,
+    "AntiSkillID": null,
+    "SkillGroupID": "2bcb5d5f-c7d6-42f3-80a1-698f3b17d0b3",
+    "MaxValue": 35
+  },
+  {
+    "ID": "5efa20d7-2f2d-4931-adf5-c9b5c90cc799",
+    "Name": "Психам",
+    "ImageIcon": "SubstancePsycham.png",
+    "Sound": null,
+    "AntiSkillID": null,
+    "SkillGroupID": "5a89715c-6620-4ac9-af3a-e1e3683450b2",
+    "MaxValue": null
+  },
+  {
+    "ID": "8171f860-2d6c-4435-bb94-cca3d8241b19",
+    "Name": "Стимулятор",
+    "ImageIcon": "PlantStimulant.png",
+    "Sound": null,
+    "AntiSkillID": null,
+    "SkillGroupID": "83c1c601-bcd3-4061-aee4-cc27e58be2f5",
+    "MaxValue": null
+  },
+  {
+    "ID": "fcda5267-63c9-4f66-afca-d561151af011",
+    "Name": "Твердость",
+    "ImageIcon": "SkillMatDurete.png",
+    "Sound": null,
+    "AntiSkillID": null,
+    "SkillGroupID": "50ab71a6-fcec-4c6a-a670-6205d076ab8c",
+    "MaxValue": null
+  },
+  {
+    "ID": "a4ab09da-507c-401d-8682-d5fa27d4fe06",
+    "Name": "Сияние",
+    "ImageIcon": "SkillMatRadiance.png",
+    "Sound": null,
+    "AntiSkillID": null,
+    "SkillGroupID": "50ab71a6-fcec-4c6a-a670-6205d076ab8c",
+    "MaxValue": null
+  },
+  {
+    "ID": "0f807e2b-d35e-4ac5-940b-d66c4fb7bccd",
+    "Name": "Изделия из стекла",
+    "ImageIcon": "SkillVerrerie.png",
+    "Sound": null,
+    "AntiSkillID": null,
+    "SkillGroupID": null,
+    "MaxValue": null
+  },
+  {
+    "ID": "7afa89e6-067e-4ccb-bcf4-d961b6a7c0fd",
+    "Name": "Кожевничество",
+    "ImageIcon": "SkillLeatherworking.png",
+    "Sound": null,
+    "AntiSkillID": null,
+    "SkillGroupID": "81945d39-f047-4946-b9ce-a7869cbddae6",
+    "MaxValue": 45
+  },
+  {
+    "ID": "ad03da07-616d-4cad-9704-d9760494dcce",
+    "Name": "Булавы",
+    "ImageIcon": "SkillMace.png",
+    "Sound": null,
+    "AntiSkillID": null,
+    "SkillGroupID": "6f587a15-d969-44f7-a488-2172ca02c831",
+    "MaxValue": 40
+  },
+  {
+    "ID": "db3cb103-6d78-4781-b7fe-df193c8ef7c3",
+    "Name": "Ботаника",
+    "ImageIcon": "SkillHerb.png",
+    "Sound": "SkillHerbalism.wav",
+    "AntiSkillID": null,
+    "SkillGroupID": "368af5a9-cf0f-40aa-8ff0-db64be108edf",
+    "MaxValue": 35
+  },
+  {
+    "ID": "7ede63df-3c6b-45a6-8f80-e025b98114f2",
+    "Name": "Удобство",
+    "ImageIcon": "SkillCommodite.png",
+    "Sound": null,
+    "AntiSkillID": null,
+    "SkillGroupID": null,
+    "MaxValue": null
+  },
+  {
+    "ID": "99f70b60-c9b3-46f5-b997-e086ea6c3edf",
+    "Name": "Дробящий",
+    "ImageIcon": "SkillDmgBlunt.png",
+    "Sound": null,
+    "AntiSkillID": "09e9c918-d1f6-4b31-bbeb-4797a48d94a5",
+    "SkillGroupID": "7ad526a3-b543-4d0b-9772-5da079078bb1",
+    "MaxValue": null
+  },
+  {
+    "ID": "c47aa777-bf51-41ba-9c41-e6864249a527",
+    "Name": "Гнилостной",
+    "ImageIcon": "PlantPutrefiant.png",
+    "Sound": null,
+    "AntiSkillID": null,
+    "SkillGroupID": "83c1c601-bcd3-4061-aee4-cc27e58be2f5",
+    "MaxValue": null
+  },
+  {
+    "ID": "7a813c08-7a69-4714-9f6d-e9b3ce40d776",
+    "Name": "Яд",
+    "ImageIcon": "SkillPoison.png",
+    "Sound": null,
+    "AntiSkillID": null,
+    "SkillGroupID": null,
+    "MaxValue": null
+  },
+  {
+    "ID": "2e3218b6-6f4e-4a4b-a252-eb26561e12d8",
+    "Name": "Радиам",
+    "ImageIcon": "SubstanceRadiam.png",
+    "Sound": null,
+    "AntiSkillID": null,
+    "SkillGroupID": "5a89715c-6620-4ac9-af3a-e1e3683450b2",
+    "MaxValue": null
+  },
+  {
+    "ID": "dd28ec84-4a74-4acd-aabb-f05fd8bde5cd",
+    "Name": "Обман",
+    "ImageIcon": "SkillThief.png",
+    "Sound": null,
+    "AntiSkillID": null,
+    "SkillGroupID": "2bcb5d5f-c7d6-42f3-80a1-698f3b17d0b3",
+    "MaxValue": 35
+  },
+  {
+    "ID": "6804e03e-4b94-4184-b1e6-f2b97fa738f2",
+    "Name": "Топоры",
+    "ImageIcon": "SkillAxe.png",
+    "Sound": null,
+    "AntiSkillID": null,
+    "SkillGroupID": "6f587a15-d969-44f7-a488-2172ca02c831",
+    "MaxValue": 40
+  },
+  {
+    "ID": "21738b0f-9c42-4350-9271-f406881394bf",
+    "Name": "Маскировка",
+    "ImageIcon": "SkillExploration.png",
+    "Sound": null,
+    "AntiSkillID": null,
+    "SkillGroupID": null,
+    "MaxValue": null
+  },
+  {
+    "ID": "647cf659-1f6e-4c65-8965-f5c83fbc1c12",
+    "Name": "Комфорт",
+    "ImageIcon": "SkillComfort.png",
+    "Sound": null,
+    "AntiSkillID": null,
+    "SkillGroupID": null,
+    "MaxValue": null
+  },
+  {
+    "ID": "720e1875-f2ce-4e93-931f-f74063442e19",
+    "Name": "Исследование",
+    "ImageIcon": "SkillExploration.png",
+    "Sound": null,
+    "AntiSkillID": "21738b0f-9c42-4350-9271-f406881394bf",
+    "SkillGroupID": "2bcb5d5f-c7d6-42f3-80a1-698f3b17d0b3",
+    "MaxValue": 35
+  },
+  {
+    "ID": "616b1e7c-12b3-4848-932d-f8c592cce5ea",
+    "Name": "Стратегия",
+    "ImageIcon": "SkillStrats.png",
+    "Sound": null,
+    "AntiSkillID": null,
+    "SkillGroupID": "2bcb5d5f-c7d6-42f3-80a1-698f3b17d0b3",
+    "MaxValue": 35
+  },
+  {
+    "ID": "b9094875-5037-4c5d-bbeb-f9efcc7f75fd",
+    "Name": "Литрам",
+    "ImageIcon": "SubstanceLithram.png",
+    "Sound": null,
+    "AntiSkillID": null,
+    "SkillGroupID": "5a89715c-6620-4ac9-af3a-e1e3683450b2",
+    "MaxValue": null
+  },
+  {
+    "ID": "1adcb582-8d2c-4063-bd26-fb63c83a59c1",
+    "Name": "Вулканы",
+    "ImageIcon": "SkillVolcano.png",
+    "Sound": null,
+    "AntiSkillID": null,
+    "SkillGroupID": "f336d176-a746-40ed-a406-5aa0283d2c4b",
+    "MaxValue": 35
+  },
+  {
+    "ID": "b9607890-d6b6-486d-b8f8-feb2a7c5ca01",
+    "Name": "Чистота",
+    "ImageIcon": "SkillMatPurete2.png",
+    "Sound": null,
+    "AntiSkillID": null,
+    "SkillGroupID": "50ab71a6-fcec-4c6a-a670-6205d076ab8c",
+    "MaxValue": null
+  }
+]

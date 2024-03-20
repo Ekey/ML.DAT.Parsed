@@ -1,0 +1,319 @@
+[
+  {
+    "ID": "e2b15176-0de9-4e6a-b289-0dbc3daba5d8",
+    "Name": "Viperin-Territorium",
+    "Description": null,
+    "DayAmbient": null,
+    "NightAmbient": null,
+    "Music": "MapEnorwen.mp3",
+    "Titles": []
+  },
+  {
+    "ID": "78543196-00f2-49e5-8a9c-193877ca33b7",
+    "Name": "[System]",
+    "Description": null,
+    "DayAmbient": null,
+    "NightAmbient": null,
+    "Music": null,
+    "Titles": []
+  },
+  {
+    "ID": "a215144b-de49-4bba-8b70-267b1bb43a7f",
+    "Name": "Dungeon_Lithofortress",
+    "Description": null,
+    "DayAmbient": null,
+    "NightAmbient": null,
+    "Music": null,
+    "Titles": [
+      {
+        "ID": "9c53ae50-1062-4d4d-8f2b-75290fe645e4",
+        "ScenarioID": "90753b70-08d0-4b96-9d73-fdf37d1b4622"
+      }
+    ]
+  },
+  {
+    "ID": "425428d4-9e35-4533-90c9-28443cc97656",
+    "Name": "Gipfel der Angst",
+    "Description": null,
+    "DayAmbient": null,
+    "NightAmbient": null,
+    "Music": null,
+    "Titles": []
+  },
+  {
+    "ID": "b79b5f86-7dd4-4c89-a6f1-2b2aaabc030d",
+    "Name": "Tarzakon-Territorium",
+    "Description": null,
+    "DayAmbient": null,
+    "NightAmbient": null,
+    "Music": null,
+    "Titles": []
+  },
+  {
+    "ID": "d29994b5-933f-4814-bea6-2e9da025ba43",
+    "Name": "Greatvalley-Territorium",
+    "Description": null,
+    "DayAmbient": null,
+    "NightAmbient": null,
+    "Music": "MapGantras.mp3",
+    "Titles": []
+  },
+  {
+    "ID": "d9cc70f0-0435-4f0c-87ab-473e28a7d70f",
+    "Name": "Gewaltige Großgebirgskette",
+    "Description": null,
+    "DayAmbient": "Wind.mp3",
+    "NightAmbient": "Wind.mp3",
+    "Music": "MapGantras.mp3",
+    "Titles": []
+  },
+  {
+    "ID": "75002059-16ab-4860-b021-5002355b2c16",
+    "Name": "Grafschaft Larcen",
+    "Description": null,
+    "DayAmbient": null,
+    "NightAmbient": null,
+    "Music": "MapLarcon.mp3",
+    "Titles": []
+  },
+  {
+    "ID": "0353d868-83ae-4b8d-8d8e-5855c65975e2",
+    "Name": "Kavernen",
+    "Description": null,
+    "DayAmbient": null,
+    "NightAmbient": null,
+    "Music": null,
+    "Titles": []
+  },
+  {
+    "ID": "669e5c84-08b7-4284-844d-58e59e51f246",
+    "Name": "Kantas-Territorium",
+    "Description": null,
+    "DayAmbient": null,
+    "NightAmbient": null,
+    "Music": "MapLarcon.mp3",
+    "Titles": []
+  },
+  {
+    "ID": "117428f9-7235-4370-968e-5e260f18e65c",
+    "Name": "Hammer-Territorium",
+    "Description": null,
+    "DayAmbient": null,
+    "NightAmbient": null,
+    "Music": "MapLarcon.mp3",
+    "Titles": []
+  },
+  {
+    "ID": "70df5924-6c61-4bf0-91fd-5e8e4b53e2e9",
+    "Name": "Thousandshirts-Territorium",
+    "Description": null,
+    "DayAmbient": null,
+    "NightAmbient": null,
+    "Music": "MapBonvoisin.mp3",
+    "Titles": []
+  },
+  {
+    "ID": "e069831b-3d36-44ef-b346-74dc6c8963e2",
+    "Name": "Mittlere Großgebirgskette",
+    "Description": null,
+    "DayAmbient": "Wind.mp3",
+    "NightAmbient": "Wind.mp3",
+    "Music": "MapGantras.mp3",
+    "Titles": []
+  },
+  {
+    "ID": "2fbeed75-c75b-429a-89b3-7be0ebc7d7c6",
+    "Name": "Gebirgskette der Helden",
+    "Description": null,
+    "DayAmbient": "Wind.mp3",
+    "NightAmbient": "Wind.mp3",
+    "Music": "MapEnorwen.mp3",
+    "Titles": []
+  },
+  {
+    "ID": "d068000e-5d52-449c-a051-7f8c47c01bbb",
+    "Name": "Irran'bal-Schlucht",
+    "Description": null,
+    "DayAmbient": "DesertWind.mp3",
+    "NightAmbient": "DesertWind.mp3",
+    "Music": "MapDunescape.mp3",
+    "Titles": []
+  },
+  {
+    "ID": "38d309fd-eda0-47cc-a908-85ee433f5ec1",
+    "Name": "Tallprice-Territorium",
+    "Description": null,
+    "DayAmbient": null,
+    "NightAmbient": null,
+    "Music": "MapLarcon.mp3",
+    "Titles": []
+  },
+  {
+    "ID": "1dbc55c6-e4c4-49d0-92a2-890504886ce8",
+    "Name": "Baronie von Kortombe",
+    "Description": null,
+    "DayAmbient": null,
+    "NightAmbient": null,
+    "Music": "MapKortombe.mp3",
+    "Titles": []
+  },
+  {
+    "ID": "9c812c80-bdc1-4e9a-8cae-944628e91716",
+    "Name": "Holdori-Territorium",
+    "Description": null,
+    "DayAmbient": null,
+    "NightAmbient": null,
+    "Music": "MapEnorwen.mp3",
+    "Titles": []
+  },
+  {
+    "ID": "bacd61bf-7b94-43d2-892b-958ee64fadd7",
+    "Name": "Longguard-Territorium",
+    "Description": null,
+    "DayAmbient": null,
+    "NightAmbient": null,
+    "Music": null,
+    "Titles": []
+  },
+  {
+    "ID": "8af6b166-4278-45b2-9a91-a3287cc8f05f",
+    "Name": "Grafschaft Thorval",
+    "Description": null,
+    "DayAmbient": null,
+    "NightAmbient": null,
+    "Music": "MapThorval.mp3",
+    "Titles": []
+  },
+  {
+    "ID": "26fca20a-5415-4d9c-9bab-ad340006ed47",
+    "Name": "Chimären-Territorium",
+    "Description": null,
+    "DayAmbient": null,
+    "NightAmbient": null,
+    "Music": "MapLarcon.mp3",
+    "Titles": []
+  },
+  {
+    "ID": "ab5da8f1-d43f-49d2-a6a1-b56d807dff01",
+    "Name": "Dungeon_Minotroll",
+    "Description": null,
+    "DayAmbient": null,
+    "NightAmbient": null,
+    "Music": null,
+    "Titles": [
+      {
+        "ID": "a5633e54-009e-4559-8b23-12869c883870",
+        "ScenarioID": "43a7bb2d-5780-4d5e-807e-9b87971ca5a6"
+      }
+    ]
+  },
+  {
+    "ID": "3b603606-6dbf-4c6a-aa03-bc165c1fc6f6",
+    "Name": "Leviathan-Territorium",
+    "Description": null,
+    "DayAmbient": null,
+    "NightAmbient": null,
+    "Music": null,
+    "Titles": []
+  },
+  {
+    "ID": "e3c1b1b2-c727-4eff-a974-bd81f9c2f21c",
+    "Name": "Westliche Großgebirgskette ",
+    "Description": null,
+    "DayAmbient": "Wind.mp3",
+    "NightAmbient": "Wind.mp3",
+    "Music": "MapGantras.mp3",
+    "Titles": []
+  },
+  {
+    "ID": "7364c080-f889-4eba-b9db-bf748c2c3385",
+    "Name": "Geistergebirgskette",
+    "Description": null,
+    "DayAmbient": "Wind.mp3",
+    "NightAmbient": "Wind.mp3",
+    "Music": null,
+    "Titles": []
+  },
+  {
+    "ID": "6e6bcfd2-fac6-4f49-a1cc-c2af0f8fa240",
+    "Name": "Östliche Großgebirgskette",
+    "Description": null,
+    "DayAmbient": "Wind.mp3",
+    "NightAmbient": "Wind.mp3",
+    "Music": "MapGantras.mp3",
+    "Titles": [
+      {
+        "ID": "91f36ccf-360c-4fc3-9f58-0b8f43308f8c",
+        "ScenarioID": "455bda1c-7fd9-428f-89f8-1c6cdb84ad27"
+      }
+    ]
+  },
+  {
+    "ID": "629c0ff0-9de3-459b-94e2-c966a17bb87a",
+    "Name": "Schluchten des Elementarsees",
+    "Description": null,
+    "DayAmbient": "DesertWind.mp3",
+    "NightAmbient": "DesertWind.mp3",
+    "Music": "MapDunescape.mp3",
+    "Titles": []
+  },
+  {
+    "ID": "4f1914dd-1b45-4309-94c1-d32b0c03a06a",
+    "Name": "Valmari-Territorium",
+    "Description": null,
+    "DayAmbient": null,
+    "NightAmbient": null,
+    "Music": "MapEnorwen.mp3",
+    "Titles": []
+  },
+  {
+    "ID": "6c2482dc-4015-4b98-974d-d499788d2333",
+    "Name": "Herzogtum Gantras",
+    "Description": null,
+    "DayAmbient": null,
+    "NightAmbient": null,
+    "Music": "MapGantras.mp3",
+    "Titles": []
+  },
+  {
+    "ID": "aba35b65-9bfa-456f-a7ce-dbac6e5f1e1b",
+    "Name": "Archantik-Gebirgskette",
+    "Description": null,
+    "DayAmbient": "Wind.mp3",
+    "NightAmbient": "Wind.mp3",
+    "Music": "MapBonvoisin.mp3",
+    "Titles": []
+  },
+  {
+    "ID": "249027f4-4fd6-4249-941b-defb8df14142",
+    "Name": "Herrschaftsgebiet von Wellnear",
+    "Description": null,
+    "DayAmbient": null,
+    "NightAmbient": null,
+    "Music": "MapBonvoisin.mp3",
+    "Titles": []
+  },
+  {
+    "ID": "8d7d232c-f15f-4ae0-ae03-e0a8840df7e2",
+    "Name": "Freies Territorium von Enorwen",
+    "Description": null,
+    "DayAmbient": null,
+    "NightAmbient": null,
+    "Music": "MapEnorwen.mp3",
+    "Titles": []
+  },
+  {
+    "ID": "0f7cccc3-fed9-4236-9402-eb75c882c9e1",
+    "Name": "Saharanelle-Verlies",
+    "Description": null,
+    "DayAmbient": null,
+    "NightAmbient": null,
+    "Music": "MapBrimstone.mp3",
+    "Titles": [
+      {
+        "ID": "2995170b-d58d-4cb7-9057-5e97a4f459a6",
+        "ScenarioID": "d1815358-f320-42cb-b100-d29e7b21be37"
+      }
+    ]
+  }
+]

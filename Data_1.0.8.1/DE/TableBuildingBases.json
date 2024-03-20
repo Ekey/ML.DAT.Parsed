@@ -1,0 +1,482 @@
+[
+  {
+    "ID": "ef3b5755-9833-4ea3-b063-0c03686e8e83",
+    "Name": "Kaserne",
+    "NamePrefix": "in der ",
+    "ImageIcon": "MilitaryWarehouse01.png",
+    "RoomIDs": [
+      "eba713ea-ab73-4859-8383-3e111420bf59",
+      "eba713ea-ab73-4859-8383-3e111420bf59",
+      "eba713ea-ab73-4859-8383-3e111420bf59"
+    ]
+  },
+  {
+    "ID": "bd1addba-4453-4151-999d-107d6332d04b",
+    "Name": "Weide",
+    "NamePrefix": "auf der ",
+    "ImageIcon": "Paddock01.png",
+    "RoomIDs": [
+      "2ae5a892-b3af-44ad-88c1-b1762026ade4",
+      "8b6a6572-1691-4b02-99c2-ea19e388fc6c"
+    ]
+  },
+  {
+    "ID": "fe0cbd46-cfff-458c-b684-1298544a3927",
+    "Name": "Villa",
+    "NamePrefix": "in der ",
+    "ImageIcon": "Inn.png",
+    "RoomIDs": [
+      "01dc1f3a-be2b-4e1e-aa3d-ea6ff5f97d79"
+    ]
+  },
+  {
+    "ID": "f7b20e87-551b-4f75-bf9a-13717a7e7e9e",
+    "Name": "Lederium",
+    "NamePrefix": "im ",
+    "ImageIcon": "Tannerie02.png",
+    "RoomIDs": [
+      "74f9f355-c29d-4141-b440-5fd85ff3235b",
+      "33d32e52-dc0a-41b1-86f2-82ce5882a06d",
+      "fcb11186-45a9-4023-a3f7-8166ea35b07c"
+    ]
+  },
+  {
+    "ID": "dd364d05-ac22-4b62-99df-2a0510006ed1",
+    "Name": "Rustikales Bergwerk",
+    "NamePrefix": null,
+    "ImageIcon": "Mine.png",
+    "RoomIDs": [
+      "8c4656b4-27ba-45f0-b450-880cb71b5e18"
+    ]
+  },
+  {
+    "ID": "48560858-0e67-472a-9be4-2f1d02f055ae",
+    "Name": "Gießerei",
+    "NamePrefix": null,
+    "ImageIcon": "Forge02.png",
+    "RoomIDs": [
+      "7cf32a58-1db0-4a58-9446-1aa3b44cef16",
+      "4ca50fa1-4a5d-4401-bfa8-a013732de959",
+      "62e167a2-ceee-4667-a021-91ce4d4246ba"
+    ]
+  },
+  {
+    "ID": "89ef3660-97b2-4e10-9c20-34416195d297",
+    "Name": "Werkstatt\r\n",
+    "NamePrefix": "in der ",
+    "ImageIcon": "WorkshopStartup.png",
+    "RoomIDs": [
+      "9240678d-6fcb-4b53-a4c0-996ad4670bfe",
+      "62e167a2-ceee-4667-a021-91ce4d4246ba",
+      "8e952d35-6f3a-4896-8a2f-d5156b6e95ef",
+      "796d67d2-0e23-4b22-a430-4ad83ef4309e",
+      "fcb11186-45a9-4023-a3f7-8166ea35b07c"
+    ]
+  },
+  {
+    "ID": "cfff3ed4-025e-4d6b-839b-4ef218cce3f8",
+    "Name": "Nebel Villa\r\n",
+    "NamePrefix": "in der ",
+    "ImageIcon": "Domain.png",
+    "RoomIDs": [
+      "90835c36-8b45-4cd6-9246-eba1f45bfa77",
+      "8c931da8-6f1d-4226-b5aa-a5124c4f5b21",
+      "eba713ea-ab73-4859-8383-3e111420bf59",
+      "eba713ea-ab73-4859-8383-3e111420bf59",
+      "546b642e-ff5b-4617-b153-9b100fd21f65"
+    ]
+  },
+  {
+    "ID": "de41ee72-8ecf-42b3-8e2c-5177fcfe4ea4",
+    "Name": "Biolonum",
+    "NamePrefix": "im ",
+    "ImageIcon": "Herbo03.png",
+    "RoomIDs": []
+  },
+  {
+    "ID": "4d34c3a6-5c58-4e46-9276-53d64c67b148",
+    "Name": "Scheune",
+    "NamePrefix": "in der ",
+    "ImageIcon": "Barn01.png",
+    "RoomIDs": [
+      "578895c9-cbbe-4efb-bb11-4a60d0fe50cb",
+      "578895c9-cbbe-4efb-bb11-4a60d0fe50cb",
+      "578895c9-cbbe-4efb-bb11-4a60d0fe50cb"
+    ]
+  },
+  {
+    "ID": "52bbbf07-1f77-4816-9cd4-557ddcaec092",
+    "Name": "Unterschlupf",
+    "NamePrefix": "im ",
+    "ImageIcon": "Warehouse01.png",
+    "RoomIDs": [
+      "795cfea1-fe8c-40eb-9b13-722f4b8a9737",
+      "795cfea1-fe8c-40eb-9b13-722f4b8a9737"
+    ]
+  },
+  {
+    "ID": "cd67b45a-109f-4f79-aafd-58a598afa099",
+    "Name": "Gerberei",
+    "NamePrefix": "in der ",
+    "ImageIcon": "Tannerie01.png",
+    "RoomIDs": [
+      "fcb11186-45a9-4023-a3f7-8166ea35b07c",
+      "33d32e52-dc0a-41b1-86f2-82ce5882a06d"
+    ]
+  },
+  {
+    "ID": "9afa107e-1d51-4272-9b63-5e49240c869d",
+    "Name": "Lagerhaus",
+    "NamePrefix": "im ",
+    "ImageIcon": "Warehouse02.png",
+    "RoomIDs": [
+      "795cfea1-fe8c-40eb-9b13-722f4b8a9737",
+      "795cfea1-fe8c-40eb-9b13-722f4b8a9737",
+      "cf9e5d27-146b-47ab-bb85-2db75f220325",
+      "cf9e5d27-146b-47ab-bb85-2db75f220325"
+    ]
+  },
+  {
+    "ID": "dc6bb78f-4266-4ec5-9d3e-616a87720898",
+    "Name": "Stall",
+    "NamePrefix": "im ",
+    "ImageIcon": "Paddock03.png",
+    "RoomIDs": [
+      "ab5c68be-d844-4eb5-8e7c-c05130a0f65e",
+      "ab5c68be-d844-4eb5-8e7c-c05130a0f65e",
+      "d82373bb-9f08-424c-b055-5182e4a942e4",
+      "d82373bb-9f08-424c-b055-5182e4a942e4"
+    ]
+  },
+  {
+    "ID": "4db305f8-7018-4960-9b88-63a0614f374c",
+    "Name": "Koppel",
+    "NamePrefix": "auf der ",
+    "ImageIcon": "Paddock02.png",
+    "RoomIDs": [
+      "2ae5a892-b3af-44ad-88c1-b1762026ade4",
+      "8b6a6572-1691-4b02-99c2-ea19e388fc6c",
+      "8b6a6572-1691-4b02-99c2-ea19e388fc6c",
+      "8b6a6572-1691-4b02-99c2-ea19e388fc6c"
+    ]
+  },
+  {
+    "ID": "0c07d263-96f5-4424-83a4-642692948160",
+    "Name": "Valsongianisches Lager",
+    "NamePrefix": null,
+    "ImageIcon": "LumberCamp02.png",
+    "RoomIDs": [
+      "4d4f7153-3a15-4df2-8cc6-7000b44ec445",
+      "a10e8c35-d010-4622-bd16-ab99bb2a438c"
+    ]
+  },
+  {
+    "ID": "fbfb9da9-37ee-41ef-b6b6-6834dec04441",
+    "Name": "Rustikaler Garten",
+    "NamePrefix": null,
+    "ImageIcon": "Garden.png",
+    "RoomIDs": [
+      "4c14cc23-4528-4d8e-8ebe-b7235dd160a8"
+    ]
+  },
+  {
+    "ID": "b96d1af5-37bb-4b12-9c40-6b8cb406e1f2",
+    "Name": "Hauptquartier",
+    "NamePrefix": "im ",
+    "ImageIcon": "MilitaryWarehouse02.png",
+    "RoomIDs": [
+      "eba713ea-ab73-4859-8383-3e111420bf59",
+      "eba713ea-ab73-4859-8383-3e111420bf59",
+      "eba713ea-ab73-4859-8383-3e111420bf59",
+      "b0345cab-4315-42d6-83f0-2c306ecca4b7",
+      "b0345cab-4315-42d6-83f0-2c306ecca4b7"
+    ]
+  },
+  {
+    "ID": "2a0a7ce7-b559-4c2b-9c08-6c0bb2791c84",
+    "Name": "Meister-Schneiderei",
+    "NamePrefix": null,
+    "ImageIcon": "SewingWorkshop03.png",
+    "RoomIDs": [
+      "3546e1df-c697-4d52-a7db-712712656710",
+      "c2655c7c-9b96-47ef-bc04-540d93f45f7e",
+      "c2655c7c-9b96-47ef-bc04-540d93f45f7e",
+      "745f9386-eae9-4ea4-9756-782b8ffb8bcb",
+      "745f9386-eae9-4ea4-9756-782b8ffb8bcb"
+    ]
+  },
+  {
+    "ID": "9026f8d2-65b3-40e0-b1d3-71c79d01d3f6",
+    "Name": "Menagerie",
+    "NamePrefix": "in der ",
+    "ImageIcon": "Barn02.png",
+    "RoomIDs": [
+      "578895c9-cbbe-4efb-bb11-4a60d0fe50cb",
+      "578895c9-cbbe-4efb-bb11-4a60d0fe50cb",
+      "ab5c68be-d844-4eb5-8e7c-c05130a0f65e",
+      "ab5c68be-d844-4eb5-8e7c-c05130a0f65e"
+    ]
+  },
+  {
+    "ID": "94b8c084-3a91-4650-9688-7340b76c3188",
+    "Name": "Zoo",
+    "NamePrefix": "im ",
+    "ImageIcon": "Herbo02.png",
+    "RoomIDs": [
+      "0a205522-9d9c-427d-821f-d459b1b94cc3",
+      "e3fe562d-b947-41be-a60f-c6072f73a449",
+      "315d3612-ac4c-444b-a378-8c9e1258f30b"
+    ]
+  },
+  {
+    "ID": "863f83ff-c343-46a3-b349-7a3671e0b9cf",
+    "Name": "Kapitänshäuschen",
+    "NamePrefix": "im ",
+    "ImageIcon": "MilitaryWarehouse03.png",
+    "RoomIDs": [
+      "66b0c124-f699-46b0-ba86-0792de9eb92f",
+      "b0345cab-4315-42d6-83f0-2c306ecca4b7",
+      "b0345cab-4315-42d6-83f0-2c306ecca4b7",
+      "8e783e9d-e19c-4a88-b37d-07a04c07de85",
+      "8e783e9d-e19c-4a88-b37d-07a04c07de85"
+    ]
+  },
+  {
+    "ID": "8b2b98ce-953f-4fa2-a0c7-834e3c990ce0",
+    "Name": "Maschinenwerkstatt",
+    "NamePrefix": "in der ",
+    "ImageIcon": "Workshop.png",
+    "RoomIDs": [
+      "27d0193e-73bf-4d19-8196-948750f92ab2",
+      "4ca50fa1-4a5d-4401-bfa8-a013732de959",
+      "c68dd4de-a175-4756-aa49-ce86c4a8800b",
+      "745f9386-eae9-4ea4-9756-782b8ffb8bcb",
+      "33d32e52-dc0a-41b1-86f2-82ce5882a06d"
+    ]
+  },
+  {
+    "ID": "029b4c8e-241b-4bc2-8324-8502d3039806",
+    "Name": "Tischlerei\r\n",
+    "NamePrefix": null,
+    "ImageIcon": "Sawmill02.png",
+    "RoomIDs": [
+      "bdf235da-f279-4e66-b6a7-209e2f4e91d3",
+      "27d0193e-73bf-4d19-8196-948750f92ab2",
+      "9240678d-6fcb-4b53-a4c0-996ad4670bfe"
+    ]
+  },
+  {
+    "ID": "2f4d6e6c-d6a3-4fd4-b948-9659d78f9778",
+    "Name": "Schneiderei",
+    "NamePrefix": null,
+    "ImageIcon": "SewingWorkshop01.png",
+    "RoomIDs": [
+      "796d67d2-0e23-4b22-a430-4ad83ef4309e",
+      "745f9386-eae9-4ea4-9756-782b8ffb8bcb"
+    ]
+  },
+  {
+    "ID": "56d4e605-1f6b-48d6-96f2-9a6133000232",
+    "Name": "Valsongianische Mine",
+    "NamePrefix": null,
+    "ImageIcon": "Mine02.png",
+    "RoomIDs": [
+      "8c4656b4-27ba-45f0-b450-880cb71b5e18"
+    ]
+  },
+  {
+    "ID": "5f52dcfe-418f-4e65-9cbe-a8a42d0435ad",
+    "Name": "Meister-Sägewerk",
+    "NamePrefix": null,
+    "ImageIcon": "Sawmill03.png",
+    "RoomIDs": [
+      "3546e1df-c697-4d52-a7db-712712656710",
+      "bdf235da-f279-4e66-b6a7-209e2f4e91d3",
+      "bdf235da-f279-4e66-b6a7-209e2f4e91d3",
+      "27d0193e-73bf-4d19-8196-948750f92ab2",
+      "27d0193e-73bf-4d19-8196-948750f92ab2"
+    ]
+  },
+  {
+    "ID": "e5c8bc97-1752-4611-b264-b14bc8019b63",
+    "Name": "Sylphaden",
+    "NamePrefix": "in der ",
+    "ImageIcon": "CrystalGolemHouse.png",
+    "RoomIDs": [
+      "89a70975-5ba4-4de5-abd1-bc24d2482d24"
+    ]
+  },
+  {
+    "ID": "ae449574-66d3-45e3-8a17-b5fef08605fa",
+    "Name": "Valsongianischer Garten",
+    "NamePrefix": null,
+    "ImageIcon": "Garden02.png",
+    "RoomIDs": [
+      "4c14cc23-4528-4d8e-8ebe-b7235dd160a8"
+    ]
+  },
+  {
+    "ID": "62a0ca7d-aa47-4f09-9381-bb66177f56dd",
+    "Name": "Rustikales Lager",
+    "NamePrefix": null,
+    "ImageIcon": "LumberCamp.png",
+    "RoomIDs": [
+      "4d4f7153-3a15-4df2-8cc6-7000b44ec445",
+      "a10e8c35-d010-4622-bd16-ab99bb2a438c"
+    ]
+  },
+  {
+    "ID": "e895fb86-9cd3-48f4-8ca2-bbbefc7e2f2f",
+    "Name": "Apotheke",
+    "NamePrefix": "in der ",
+    "ImageIcon": "Lab01.png",
+    "RoomIDs": [
+      "c7104092-82ca-43ed-8c84-1ab69f277d98",
+      "d1b5d71e-1b5c-4e2d-bf29-7cfa5c2d8ce2"
+    ]
+  },
+  {
+    "ID": "d502a7c1-52c2-44df-9a75-bdb510cbb08f",
+    "Name": "Marmorhaus",
+    "NamePrefix": null,
+    "ImageIcon": "StoneWorkshop02.png",
+    "RoomIDs": [
+      "435b2995-a110-4306-b428-675ae00d698e",
+      "c68dd4de-a175-4756-aa49-ce86c4a8800b",
+      "8e952d35-6f3a-4896-8a2f-d5156b6e95ef"
+    ]
+  },
+  {
+    "ID": "4f86e20b-6a04-489d-af0f-c1f2cf911ddd",
+    "Name": "Nebelhaus",
+    "NamePrefix": "im ",
+    "ImageIcon": "Tower.png",
+    "RoomIDs": [
+      "3b307291-363a-4b9c-a0a2-c80ea293f47e"
+    ]
+  },
+  {
+    "ID": "ed2999d0-35d0-480c-8136-c925b3da4730",
+    "Name": "Steinmetz-Werkstatt",
+    "NamePrefix": null,
+    "ImageIcon": "StoneWorkshop01.png",
+    "RoomIDs": [
+      "8e952d35-6f3a-4896-8a2f-d5156b6e95ef",
+      "c68dd4de-a175-4756-aa49-ce86c4a8800b"
+    ]
+  },
+  {
+    "ID": "98251c4c-1010-43d0-9bb4-da84bf9f9fd1",
+    "Name": "Sägewerk",
+    "NamePrefix": null,
+    "ImageIcon": "Sawmill01.png",
+    "RoomIDs": [
+      "9240678d-6fcb-4b53-a4c0-996ad4670bfe",
+      "27d0193e-73bf-4d19-8196-948750f92ab2"
+    ]
+  },
+  {
+    "ID": "e70874b7-86a0-4f40-870a-e2b7da7d66be",
+    "Name": "Außenwerkstatt",
+    "NamePrefix": "in der ",
+    "ImageIcon": "WorkshopExterior.png",
+    "RoomIDs": [
+      "9240678d-6fcb-4b53-a4c0-996ad4670bfe",
+      "62e167a2-ceee-4667-a021-91ce4d4246ba",
+      "8e952d35-6f3a-4896-8a2f-d5156b6e95ef",
+      "796d67d2-0e23-4b22-a430-4ad83ef4309e",
+      "fcb11186-45a9-4023-a3f7-8166ea35b07c"
+    ]
+  },
+  {
+    "ID": "c24ed063-4245-41df-8168-e4919fed3275",
+    "Name": "Meister-Steinmetz Geschäft",
+    "NamePrefix": null,
+    "ImageIcon": "StoneWorkshop03.png",
+    "RoomIDs": [
+      "3546e1df-c697-4d52-a7db-712712656710",
+      "435b2995-a110-4306-b428-675ae00d698e",
+      "435b2995-a110-4306-b428-675ae00d698e",
+      "c68dd4de-a175-4756-aa49-ce86c4a8800b",
+      "c68dd4de-a175-4756-aa49-ce86c4a8800b"
+    ]
+  },
+  {
+    "ID": "5b32059c-21c2-49fe-b23c-e54fcd5ab526",
+    "Name": "Modehaus",
+    "NamePrefix": null,
+    "ImageIcon": "SewingWorkshop02.png",
+    "RoomIDs": [
+      "c2655c7c-9b96-47ef-bc04-540d93f45f7e",
+      "745f9386-eae9-4ea4-9756-782b8ffb8bcb",
+      "796d67d2-0e23-4b22-a430-4ad83ef4309e"
+    ]
+  },
+  {
+    "ID": "4786fd7c-8949-4cbf-8d1a-e68507d10cb4",
+    "Name": "Meister-Schmiede",
+    "NamePrefix": null,
+    "ImageIcon": "Forge03.png",
+    "RoomIDs": [
+      "3546e1df-c697-4d52-a7db-712712656710",
+      "7cf32a58-1db0-4a58-9446-1aa3b44cef16",
+      "7cf32a58-1db0-4a58-9446-1aa3b44cef16",
+      "4ca50fa1-4a5d-4401-bfa8-a013732de959",
+      "4ca50fa1-4a5d-4401-bfa8-a013732de959"
+    ]
+  },
+  {
+    "ID": "95d17984-4c39-4d1b-81bb-e68ccd778693",
+    "Name": "Laboratorium",
+    "NamePrefix": null,
+    "ImageIcon": "Lab02.png",
+    "RoomIDs": [
+      "d5cb82b8-f11d-40cb-b300-6d43e03814d7",
+      "d1b5d71e-1b5c-4e2d-bf29-7cfa5c2d8ce2",
+      "c7104092-82ca-43ed-8c84-1ab69f277d98"
+    ]
+  },
+  {
+    "ID": "9a160e85-19f5-4522-997c-ef993ab16ff7",
+    "Name": "Schmiede",
+    "NamePrefix": null,
+    "ImageIcon": "Forge01.png",
+    "RoomIDs": [
+      "62e167a2-ceee-4667-a021-91ce4d4246ba",
+      "4ca50fa1-4a5d-4401-bfa8-a013732de959"
+    ]
+  },
+  {
+    "ID": "b72c8bdd-dc62-4f71-a19c-f352bab26db3",
+    "Name": "Herbarium",
+    "NamePrefix": "im ",
+    "ImageIcon": "Herbo01.png",
+    "RoomIDs": [
+      "315d3612-ac4c-444b-a378-8c9e1258f30b",
+      "e3fe562d-b947-41be-a60f-c6072f73a449"
+    ]
+  },
+  {
+    "ID": "fd34a683-bb46-4508-bc65-f4b03aea8ced",
+    "Name": "Hütte",
+    "NamePrefix": "in der ",
+    "ImageIcon": "Inn01.png",
+    "RoomIDs": [
+      "efad4dad-5e8e-4e78-950a-12ad3d3b3fb0",
+      "efad4dad-5e8e-4e78-950a-12ad3d3b3fb0"
+    ]
+  },
+  {
+    "ID": "2e551975-fa15-4860-a417-fb7ebdf57bbf",
+    "Name": "verbessertes Labor",
+    "NamePrefix": null,
+    "ImageIcon": "Lab03.png",
+    "RoomIDs": [
+      "3546e1df-c697-4d52-a7db-712712656710",
+      "d5cb82b8-f11d-40cb-b300-6d43e03814d7",
+      "d5cb82b8-f11d-40cb-b300-6d43e03814d7",
+      "e3fe562d-b947-41be-a60f-c6072f73a449",
+      "e3fe562d-b947-41be-a60f-c6072f73a449"
+    ]
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "ID": "6364ff6f-ff8d-4e77-94c8-01254cc1c124",
+    "Name": "Gerissenheit",
+    "ImageIcon": "Abilities\\Gladiator_10.png"
+  },
+  {
+    "ID": "d38b54b9-90e9-4605-b419-43be86f894c6",
+    "Name": "Schutz",
+    "ImageIcon": "Abilities3\\Warriorskill_24.png"
+  },
+  {
+    "ID": "5e40fa86-2fd6-4eec-a710-6f8df515e86d",
+    "Name": "Finesse",
+    "ImageIcon": "Abilities3\\Warriorskill_13.png"
+  },
+  {
+    "ID": "5c48bc79-55ff-4dfc-be39-d44ba3ec516f",
+    "Name": "Vitalismus",
+    "ImageIcon": "Abilities\\Paladin_15.png"
+  },
+  {
+    "ID": "a8089727-b446-4322-b8b4-8a6cdba9f47e",
+    "Name": "Evokation",
+    "ImageIcon": "Abilities3\\20_Shadow_rain.png"
+  },
+  {
+    "ID": "6147edf4-e18a-4ad4-9191-46e6d3c3be3d",
+    "Name": "Wut",
+    "ImageIcon": "Abilities\\Gladiator_05.png"
+  }
+]

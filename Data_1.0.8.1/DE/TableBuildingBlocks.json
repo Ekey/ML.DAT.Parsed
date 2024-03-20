@@ -1,0 +1,170 @@
+[
+  {
+    "ID": "429f8d56-a76b-4b61-a208-016812ee5082",
+    "ToolUse": 200,
+    "Difficulty": 42,
+    "SkillID": "b819f4de-52fa-4c8d-87e6-90db6a7a946e"
+  },
+  {
+    "ID": "7d3d1842-1b76-4354-9c69-0cae0fa5eb23",
+    "ToolUse": 50,
+    "Difficulty": 15,
+    "SkillID": "b819f4de-52fa-4c8d-87e6-90db6a7a946e"
+  },
+  {
+    "ID": "b01d15f2-d1d2-4c71-a49c-15fe3efdb677",
+    "ToolUse": 20,
+    "Difficulty": 10,
+    "SkillID": "b156c1d4-4729-4617-9f96-3ee736932002"
+  },
+  {
+    "ID": "2473017f-4897-46af-9c21-19b22b43ee40",
+    "ToolUse": 200,
+    "Difficulty": 40,
+    "SkillID": "b156c1d4-4729-4617-9f96-3ee736932002"
+  },
+  {
+    "ID": "f306d5e3-8302-4404-b093-1deb42bcbadc",
+    "ToolUse": 200,
+    "Difficulty": 50,
+    "SkillID": "b819f4de-52fa-4c8d-87e6-90db6a7a946e"
+  },
+  {
+    "ID": "b17f3c26-d538-4ba4-a4dd-3323622cf4bf",
+    "ToolUse": 200,
+    "Difficulty": 45,
+    "SkillID": "b156c1d4-4729-4617-9f96-3ee736932002"
+  },
+  {
+    "ID": "a51a7869-83f5-452b-a217-35e95504087d",
+    "ToolUse": 10,
+    "Difficulty": 7,
+    "SkillID": "b156c1d4-4729-4617-9f96-3ee736932002"
+  },
+  {
+    "ID": "922d6999-9fd9-4f6a-93e1-3905b3c81045",
+    "ToolUse": 75,
+    "Difficulty": 18,
+    "SkillID": "b156c1d4-4729-4617-9f96-3ee736932002"
+  },
+  {
+    "ID": "07f5b07c-9caf-4922-b1b0-3bf7dd62847f",
+    "ToolUse": 100,
+    "Difficulty": 31,
+    "SkillID": "b819f4de-52fa-4c8d-87e6-90db6a7a946e"
+  },
+  {
+    "ID": "28d50cbd-8019-4b15-b129-3ff75af20a33",
+    "ToolUse": 75,
+    "Difficulty": 23,
+    "SkillID": "b819f4de-52fa-4c8d-87e6-90db6a7a946e"
+  },
+  {
+    "ID": "34bdd728-6e70-4250-a4e4-49873d926de4",
+    "ToolUse": 200,
+    "Difficulty": 46,
+    "SkillID": "b819f4de-52fa-4c8d-87e6-90db6a7a946e"
+  },
+  {
+    "ID": "19c2e6d6-d100-421c-81bd-59f80c476fa5",
+    "ToolUse": 200,
+    "Difficulty": 48,
+    "SkillID": "b819f4de-52fa-4c8d-87e6-90db6a7a946e"
+  },
+  {
+    "ID": "49992b89-2cae-423f-9c7f-5d1cb3895417",
+    "ToolUse": 50,
+    "Difficulty": 15,
+    "SkillID": "b156c1d4-4729-4617-9f96-3ee736932002"
+  },
+  {
+    "ID": "2d41feed-4437-4d76-b2ad-6e092680733a",
+    "ToolUse": 75,
+    "Difficulty": 22,
+    "SkillID": "b819f4de-52fa-4c8d-87e6-90db6a7a946e"
+  },
+  {
+    "ID": "0005d88b-0664-4352-8958-7671bb5c8e71",
+    "ToolUse": 200,
+    "Difficulty": 49,
+    "SkillID": "b819f4de-52fa-4c8d-87e6-90db6a7a946e"
+  },
+  {
+    "ID": "0ac7c9ed-d8f7-4426-aebd-81c628266c46",
+    "ToolUse": 100,
+    "Difficulty": 29,
+    "SkillID": "b819f4de-52fa-4c8d-87e6-90db6a7a946e"
+  },
+  {
+    "ID": "8cbc033f-0f81-494d-9d08-83c839323d7a",
+    "ToolUse": 200,
+    "Difficulty": 42,
+    "SkillID": "b156c1d4-4729-4617-9f96-3ee736932002"
+  },
+  {
+    "ID": "116511fc-f4c5-4dd3-801e-a193364945ad",
+    "ToolUse": 100,
+    "Difficulty": 25,
+    "SkillID": "b156c1d4-4729-4617-9f96-3ee736932002"
+  },
+  {
+    "ID": "ca5d8d91-8eb3-463b-b589-b4618f921755",
+    "ToolUse": 120,
+    "Difficulty": 33,
+    "SkillID": "b156c1d4-4729-4617-9f96-3ee736932002"
+  },
+  {
+    "ID": "f092c9d0-2a9b-4cc4-8abf-c8d5ef2fd4e1",
+    "ToolUse": 10,
+    "Difficulty": 7,
+    "SkillID": "b819f4de-52fa-4c8d-87e6-90db6a7a946e"
+  },
+  {
+    "ID": "9722d5cb-c651-42e1-a490-c989cfff4e05",
+    "ToolUse": 150,
+    "Difficulty": 36,
+    "SkillID": "b819f4de-52fa-4c8d-87e6-90db6a7a946e"
+  },
+  {
+    "ID": "3788ec4d-8f8b-460c-9cda-ca7918e05161",
+    "ToolUse": 100,
+    "Difficulty": 25,
+    "SkillID": "b819f4de-52fa-4c8d-87e6-90db6a7a946e"
+  },
+  {
+    "ID": "57762efb-347b-483c-886a-d5178ba21f86",
+    "ToolUse": 20,
+    "Difficulty": 10,
+    "SkillID": "b819f4de-52fa-4c8d-87e6-90db6a7a946e"
+  },
+  {
+    "ID": "0c12b241-5a29-4958-982a-e316aaae3040",
+    "ToolUse": 170,
+    "Difficulty": 38,
+    "SkillID": "b819f4de-52fa-4c8d-87e6-90db6a7a946e"
+  },
+  {
+    "ID": "719493fa-1142-4b04-b594-e91a7fcb0a66",
+    "ToolUse": 50,
+    "Difficulty": 17,
+    "SkillID": "b819f4de-52fa-4c8d-87e6-90db6a7a946e"
+  },
+  {
+    "ID": "d00490ef-fd21-4fa7-a9e6-f3af54067c6a",
+    "ToolUse": 40,
+    "Difficulty": 12,
+    "SkillID": "b156c1d4-4729-4617-9f96-3ee736932002"
+  },
+  {
+    "ID": "446b9081-d8e7-4ae3-a0bb-f64ec8b6daa4",
+    "ToolUse": 200,
+    "Difficulty": 44,
+    "SkillID": "b819f4de-52fa-4c8d-87e6-90db6a7a946e"
+  },
+  {
+    "ID": "6d09b0fd-861b-436a-9b57-f8578433ae1a",
+    "ToolUse": 40,
+    "Difficulty": 12,
+    "SkillID": "b819f4de-52fa-4c8d-87e6-90db6a7a946e"
+  }
+]

@@ -1,0 +1,68 @@
+[
+  {
+    "ID": "4df0aab6-4dec-472a-8636-11f840fe6e85",
+    "Index": 3,
+    "Name": "Разломы",
+    "ImageIcon": "AchievementGroupFaille.png"
+  },
+  {
+    "ID": "e72f4565-cc85-4329-b7f1-2ddc0a9c0730",
+    "Index": 4,
+    "Name": "Боссы",
+    "ImageIcon": "AchievementGroupBoss.png"
+  },
+  {
+    "ID": "1c04cc2a-594f-48c8-940b-32461f4f5125",
+    "Index": 1,
+    "Name": "Компаньоны",
+    "ImageIcon": "AchievementGroupCompanion.png"
+  },
+  {
+    "ID": "37b2342e-658e-4593-abf8-3d4d82f39f28",
+    "Index": 8,
+    "Name": "Навыки",
+    "ImageIcon": "AchievementGroupSkill.png"
+  },
+  {
+    "ID": "290ce7b3-3d77-4eef-89cd-3fb31dcb5b23",
+    "Index": 99,
+    "Name": "Тесты",
+    "ImageIcon": null
+  },
+  {
+    "ID": "7714270d-55d1-45f0-8308-44874268d0d6",
+    "Index": 0,
+    "Name": "Квесты",
+    "ImageIcon": "AchievementGroupQuest.png"
+  },
+  {
+    "ID": "12026e7f-fe58-4eea-b834-4ea200c7f102",
+    "Index": 2,
+    "Name": "Владение",
+    "ImageIcon": "AchievementGroupDomain.png"
+  },
+  {
+    "ID": "f50cd241-9a19-4113-9dcd-52682e837938",
+    "Index": 5,
+    "Name": "Гринд",
+    "ImageIcon": null
+  },
+  {
+    "ID": "b75c7521-9646-44f6-b64a-81cfeff22878",
+    "Index": 10,
+    "Name": "Испытания",
+    "ImageIcon": "AchievementGroupChallenges.png"
+  },
+  {
+    "ID": "41418a0d-6309-4e41-89cc-b17eaaef8930",
+    "Index": 6,
+    "Name": "Общество",
+    "ImageIcon": "AchievementGroupSocial.png"
+  },
+  {
+    "ID": "5e12a438-8a2c-4042-aa1a-d66c26ff64e7",
+    "Index": 7,
+    "Name": "Порталы",
+    "ImageIcon": "AchievementGroupPortal.png"
+  }
+]
